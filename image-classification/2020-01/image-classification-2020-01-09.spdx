@@ -1,0 +1,845 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_image-classification-2020-01-09.zip_1578670331.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-01-10T15:32:11Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: image-classification-2020-01-09.zip
+PackageFileName: image-classification-2020-01-09.zip
+SPDXID: SPDXRef-upload2075
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: f113700e97685d12f5434f37052ca112fad52610
+PackageChecksum: SHA1: 28bde0a2951cf024356bdd6d93b3c01d01e76aba
+PackageChecksum: MD5: f4d12363d5047ab32618281d4ff9d6cb
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2075
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: image-classification/docs/tutorials/demonstration.rst
+SPDXID: SPDXRef-item7981718
+FileChecksum: SHA1: a696482345c99479e478c952fd2517ebff8d9c61
+FileChecksum: MD5: 00730de508843060ba7ba3a31a41d891
+LicenseConcluded: CC-BY-4.0 AND LicenseRef-Sample-Video-Restrictions-1
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/docs/tutorials/deployment.rst
+SPDXID: SPDXRef-item7981716
+FileChecksum: SHA1: 77f6c2ee2c3c30b99fc3f4b8c9dad736704c2907
+FileChecksum: MD5: 9952c3c4631fbb6974f91601dbabbe10
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/docs/tutorials/index.rst
+SPDXID: SPDXRef-item7981715
+FileChecksum: SHA1: 2040564ab69299c9b0c50b3378932b6c3163d31e
+FileChecksum: MD5: 275a76adf25691843992584c5b7f9367
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/docs/image-classification.rst
+SPDXID: SPDXRef-item7981712
+FileChecksum: SHA1: 8716715834cfb0f10ed19a7143da6ba5a9c146a5
+FileChecksum: MD5: ddddb4d9ae6839e81ab44b06c409b96d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/docs/index.rst
+SPDXID: SPDXRef-item7981710
+FileChecksum: SHA1: d01b43f732d2582ad8f49b6268840aa1c328fb12
+FileChecksum: MD5: 855457bef6da7c14547df8fe4931b730
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/docs/release-notes.rst
+SPDXID: SPDXRef-item7981711
+FileChecksum: SHA1: 47df9874035bc11b51c1d6e7e4eae8ca49dd6a53
+FileChecksum: MD5: 93e10fcc9ea7fcd888f45b5bc67aa59b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/image_classifier/keras_model/evaluate_image.py
+SPDXID: SPDXRef-item7981667
+FileChecksum: SHA1: 0b8b5b6c1f0966d602aa0dd90b8c269a70e806e0
+FileChecksum: MD5: bf88689fb8a688ee37065847ab6c74ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/image_classifier/keras_model/image_decoder.py
+SPDXID: SPDXRef-item7981668
+FileChecksum: SHA1: ee7d3932a9e473917bf0f56e5dbba9edf87ef269
+FileChecksum: MD5: b7a6eb448f0d1c2918c4d41ec1f74840
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/image_classifier/keras_model/inception_v4.py
+SPDXID: SPDXRef-item7981669
+FileChecksum: SHA1: 98591adb0a313c2772266bb63fe11994aeb647a3
+FileChecksum: MD5: 901ae9118a27e865cf86a30a2439c674
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/image_classifier/keras_model/prediction_formatter.py
+SPDXID: SPDXRef-item7981665
+FileChecksum: SHA1: 0c47c884698a3ec826926af247ef543b7a7c1cd5
+FileChecksum: MD5: 41d52c2612f3c7eaf959d5a46f1e1019
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/image_classifier/tests/test_classify.py
+SPDXID: SPDXRef-item7981671
+FileChecksum: SHA1: aad021197bd862a2548bd87bbe2dec7f7a69070c
+FileChecksum: MD5: 97f28c06f4467c17865aadc2f1b3059d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/image_classifier/tf/classify_image.py
+SPDXID: SPDXRef-item7981661
+FileChecksum: SHA1: 633369d733bc2cad368abbc8639fbc6adddd7388
+FileChecksum: MD5: d13cc3650e9a371489f4d40fdd7eb3d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2015 The TensorFlow Authors. All Rights Reserved.
+Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/image_classifier/tf/LICENSE
+SPDXID: SPDXRef-item7981662
+FileChecksum: SHA1: b91fb435fec282a6f87652ffdfb7890f9990e17e
+FileChecksum: MD5: 2e2780a0da7fcd373a2f7ffb50fc24b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2015, The TensorFlow Authors.
+Copyright 2015 The TensorFlow Authors. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/image_classifier/classify_image.py
+SPDXID: SPDXRef-item7981659
+FileChecksum: SHA1: a89066d5654008471390c93b2c07f3c926e089fc
+FileChecksum: MD5: 242efc49f2eb36360a06582e81826ca2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/testing/README.md
+SPDXID: SPDXRef-item7981723
+FileChecksum: SHA1: f427b1f0f9b99a1eafcf5dcec9795fb397e69a21
+FileChecksum: MD5: cc77a496f0d6b49a1f0283b861832b5a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/web_demo/protobuf/protobuf.js
+SPDXID: SPDXRef-item7981701
+FileChecksum: SHA1: aeb51f8ca6eb979f2bd2906bd91cc0ba5d79176a
+FileChecksum: MD5: 9e34bbf7c67d1df7640e9630e026eb7f
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> (c) 2016, daniel wirtz </text>
+ 
+
+##File
+
+FileName: image-classification/web_demo/protobuf/protobuf.min.js
+SPDXID: SPDXRef-item7981702
+FileChecksum: SHA1: f8703dacf7197e26a46ec3e565fa915c659d820a
+FileChecksum: MD5: 1e7d7371412491b4e41a185fccd1b8e2
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> (c) 2016, daniel wirtz </text>
+ 
+
+##File
+
+FileName: image-classification/web_demo/demo-framework.css
+SPDXID: SPDXRef-item7981696
+FileChecksum: SHA1: 8a6143d7c110b4b5ed2f42641d1691a8a0ccc42f
+FileChecksum: MD5: 1cf87295bfab2061d6e1f5158efe0509
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/web_demo/demo-framework.js
+SPDXID: SPDXRef-item7981697
+FileChecksum: SHA1: 421a7f9bc119058a0a49bb86330107fcbf227fa4
+FileChecksum: MD5: 14fb905405910b2e1a053b307d015741
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/web_demo/image-classes.html
+SPDXID: SPDXRef-item7981675
+FileChecksum: SHA1: 8d4c0f81386b14ba941fea22ee19316e724c5577
+FileChecksum: MD5: b591cae661c13eb5aa07485bc2069f12
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/web_demo/image-classes.js
+SPDXID: SPDXRef-item7981679
+FileChecksum: SHA1: a4a7f4197db15e524aee73a5009c11de90b767d9
+FileChecksum: MD5: 69a428f207347d171bb2f4d3e18229f8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/web_demo/jquery-ajax-native.js
+SPDXID: SPDXRef-item7981698
+FileChecksum: SHA1: 065d6640ba1de84234996b76630801c231b471f5
+FileChecksum: MD5: d104c60f77bdf798c976bb8b4b0c0aa3
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> (c) 2015 Tarik Zakaria Benmerar, Acigna Inc. </text>
+ 
+
+##File
+
+FileName: image-classification/web_demo/jquery.js
+SPDXID: SPDXRef-item7981699
+FileChecksum: SHA1: 5a9dcfbef655a2668e78baebeaa8dc6f41d8dabb
+FileChecksum: MD5: 4f252523d4af0b478c810c2547a63e19
+LicenseConcluded: MIT
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: <text> (c) jQuery Foundation </text>
+ 
+
+##File
+
+FileName: image-classification/web_demo/README.rst
+SPDXID: SPDXRef-item7981677
+FileChecksum: SHA1: ef4fd9ce4fd77b0034e788e8f37526829cc0ab91
+FileChecksum: MD5: c42c4adc575209c97a7eae9ae33ccc92
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/web_demo/video-list.js
+SPDXID: SPDXRef-item7981695
+FileChecksum: SHA1: c8c6f151822a7c0f0b1d36b0c6298c89cedbece0
+FileChecksum: MD5: e13d53d9f5e71c0c31abdbab19ed7665
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/LICENSE.txt
+SPDXID: SPDXRef-item7981655
+FileChecksum: SHA1: 2902e8e7a91c30397f127f403ab03a39f4707f13
+FileChecksum: MD5: 89f02c0a9cc81cfe63f997869f0a2819
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/README.rst
+SPDXID: SPDXRef-item7981653
+FileChecksum: SHA1: 2b0c22ea609e40d1456552d0b535fd545e50f48a
+FileChecksum: MD5: f0dd31fde7ce05cdd438334977d176f2
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/setup.py
+SPDXID: SPDXRef-item7981654
+FileChecksum: SHA1: e4d416559231d6aafde9b618481ee0ef7bcc5001
+FileChecksum: MD5: 85698e6a32fc9112366ada5d2e335a28
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-classification/INSTALL.txt
+SPDXID: SPDXRef-item7981650
+FileChecksum: SHA1: 91ed2077277395c62d191ed80e48e2298febb6a9
+FileChecksum: MD5: c5eea12677c6eccbbe70b02e12e14aa1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/INFO.yaml
+SPDXID: SPDXRef-item7981651
+FileChecksum: SHA1: cd2fcf363a58f4267fdf0339af9d73dacb0f1a53
+FileChecksum: MD5: 078c25e2efbd6feeb2f43a9476400763
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/.gitreview
+SPDXID: SPDXRef-item7981652
+FileChecksum: SHA1: 73cc7c98de401be397a45c7be84a36e888f7e6aa
+FileChecksum: MD5: 2c71cb718b39e63c01597e63d8d3e7a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/tox.ini
+SPDXID: SPDXRef-item7981656
+FileChecksum: SHA1: 676482f130a0e714dd7f09b809034956a42a28bf
+FileChecksum: MD5: f8f8cc9762df231f1ff790648b18d75f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/image_classifier/_version.py
+SPDXID: SPDXRef-item7981658
+FileChecksum: SHA1: 5842afe8000d43814130f525ec467b7a1fe73d60
+FileChecksum: MD5: 113b20c0eb4b60348e0d138bc13f894f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/image_classifier/__init__.py
+SPDXID: SPDXRef-item7981663
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/image_classifier/keras_model/__init__.py
+SPDXID: SPDXRef-item7981666
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/requirements.txt
+SPDXID: SPDXRef-item7981672
+FileChecksum: SHA1: 28ea2efa338caddf121cdef776ac3ac4e8583d34
+FileChecksum: MD5: e5d0887834ced3cb1a48db44bbaa08ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/.gitattributes
+SPDXID: SPDXRef-item7981673
+FileChecksum: SHA1: f86c68f96adf05cdb04ec7b7d43f8d0ee19e94f1
+FileChecksum: MD5: 60d83d1ee637b07308c58923f255f54c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/web_demo/protobuf.FoundObjectList.bin
+SPDXID: SPDXRef-item7981676
+FileChecksum: SHA1: bce0fad9657af07b72d95ba79a0c42e1efa87e3b
+FileChecksum: MD5: a40351f9f8f0fbd65f91f2e4aa3783e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/web_demo/spinnerbar.gif
+SPDXID: SPDXRef-item7981678
+FileChecksum: SHA1: 8e22cdf33f090f9bb20b9b153176694d8d313cc7
+FileChecksum: MD5: f42fa6a34ca5be9b492b26be6458bd48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/web_demo/video/stock-footage-squirrel.mp4
+SPDXID: SPDXRef-item7981681
+FileChecksum: SHA1: d7e6cef3790d4b9c36e565734467972d4a95c797
+FileChecksum: MD5: 025cb0448a159a5fe5444a4b3ddc8095
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/web_demo/video/stock-footage-scuba.jpg
+SPDXID: SPDXRef-item7981682
+FileChecksum: SHA1: df8c0f3c25c9f1dee0c837783403a3e3de166077
+FileChecksum: MD5: c879bfe83ab517af5300b37afac5783b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/web_demo/video/stock-footage-scuba.mp4
+SPDXID: SPDXRef-item7981683
+FileChecksum: SHA1: ccc3441786adb83a0cbbe2179c173367fe841c84
+FileChecksum: MD5: b71c6cae3ca610d2e0d0eb9af851b008
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/web_demo/video/stock-footage-dogs.jpg
+SPDXID: SPDXRef-item7981684
+FileChecksum: SHA1: fa36a1e465afb7797904af5f08876f2d52adef04
+FileChecksum: MD5: e6fbc6429bb99f8984eeb6af3533c9a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/web_demo/video/stock-footage-squirrel.jpg
+SPDXID: SPDXRef-item7981685
+FileChecksum: SHA1: c9a354d5e500132fe5d62f15b2c65c3b442e5969
+FileChecksum: MD5: b0d66ccc7d276466557282cc0943cf07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/web_demo/video/stock-footage-coast-time.mp4
+SPDXID: SPDXRef-item7981686
+FileChecksum: SHA1: 0f5598ab0a7f3c1e36cc0d0ebcb2cea1bd14f109
+FileChecksum: MD5: cac1a289dc0efa2427813a61d55754d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/web_demo/video/stock-footage-coast-time.jpg
+SPDXID: SPDXRef-item7981687
+FileChecksum: SHA1: 5018627a15863134588be33549ab767380a9560a
+FileChecksum: MD5: decd22a311d887417ede4c3f3b94d07b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/web_demo/video/stock-footage-dogs.mp4
+SPDXID: SPDXRef-item7981688
+FileChecksum: SHA1: 4283f071bc2d075eedfa0825d100c5c1f8e9587a
+FileChecksum: MD5: ede3a53da628e4de741e1bd321635eed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/web_demo/video/stock-footage-bicycles.mp4
+SPDXID: SPDXRef-item7981689
+FileChecksum: SHA1: 8a6c7e37d7522d052d118e6fe14929f5e9f55d0b
+FileChecksum: MD5: 51162520225fcd30bc2612fc46772b7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/web_demo/video/stock-footage-city-cars.jpg
+SPDXID: SPDXRef-item7981690
+FileChecksum: SHA1: 273e7413cb3c04c9323652320397484cde6d0701
+FileChecksum: MD5: b322a1f6662c124f727b07b6968b6d37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/web_demo/video/stock-footage-bicycles.jpg
+SPDXID: SPDXRef-item7981691
+FileChecksum: SHA1: 9e06f7a885f6f62f2cca6ce2e44107fb3ae90a6b
+FileChecksum: MD5: f4d22b8cbe1a487ebe916796a15c73d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/web_demo/video/stock-footage-city-cars.mp4
+SPDXID: SPDXRef-item7981692
+FileChecksum: SHA1: 0de2b5ed07d6812e99db5606c9415211b27186bd
+FileChecksum: MD5: 9caba1ef898ab1a5bba2cce16423300d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/web_demo/protobuf.Image.bin
+SPDXID: SPDXRef-item7981693
+FileChecksum: SHA1: f7186b049ecd4027831785456b66d92f077b80ce
+FileChecksum: MD5: 5678dca2e11a766a437e7ef172d1c5c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/web_demo/model.scene.proto
+SPDXID: SPDXRef-item7981694
+FileChecksum: SHA1: 8bfe59cd1d92df91caca3ee345166ce460051e07
+FileChecksum: MD5: f2a04d0c0b4d005dd8720a72fb1dfd03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/web_demo/protobuf/protobuf.min.js.map
+SPDXID: SPDXRef-item7981703
+FileChecksum: SHA1: de3653d20d0cc5d9b1e8e371e6b57b760bc0e2ec
+FileChecksum: MD5: a811eb0e3bffb6aa4067dfdc1a9a157f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/web_demo/protobuf/protobuf.js.map
+SPDXID: SPDXRef-item7981704
+FileChecksum: SHA1: 8d826930cdc96ca38b466f1e9486f0ba9e0a6535
+FileChecksum: MD5: 0aee26ffd1f6c828b2e44f6c4f9c753f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/web_demo/simple-cors-http-server-python3.py
+SPDXID: SPDXRef-item7981705
+FileChecksum: SHA1: 40fdf2619066222a067113de7346f0e32e043847
+FileChecksum: MD5: b445b18202500d1979c0032d65ac74cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/web_demo/protobuf.ImageTagSet.bin
+SPDXID: SPDXRef-item7981706
+FileChecksum: SHA1: d944e59bfca99c0ce23cbc50fe1b20b0ea58d1c7
+FileChecksum: MD5: b851b3ad65d8fd6b50fd1dd52ea74887
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/web_demo/model.object.proto
+SPDXID: SPDXRef-item7981707
+FileChecksum: SHA1: 79b796b3186d02f349b39b4f386fe82e82a750a7
+FileChecksum: MD5: b60634e31238e711c4a50f943c54462c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/.gitignore
+SPDXID: SPDXRef-item7981708
+FileChecksum: SHA1: 2e83cfa634916ce2793f194ef0c0295a85b2f8c9
+FileChecksum: MD5: e947011e6cdf0ae9fc9f051e92743af8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/docs/catalog_image.jpg
+SPDXID: SPDXRef-item7981713
+FileChecksum: SHA1: 1b8503b34e24a842010d3e866eba6a97579ed0b3
+FileChecksum: MD5: 713c522cdbf9d679b349b29dcf92261f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Apple Inc., 2018 </text>
+ 
+
+##File
+
+FileName: image-classification/docs/tutorials/example_running_object.jpg
+SPDXID: SPDXRef-item7981717
+FileChecksum: SHA1: 2a751979cca625b8eae7a5c44f28455570528d6b
+FileChecksum: MD5: b8ca3c5b0d88211265b2bf47805bc172
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Apple Inc., 2018 </text>
+ 
+
+##File
+
+FileName: image-classification/docs/tutorials/example_running.jpg
+SPDXID: SPDXRef-item7981719
+FileChecksum: SHA1: 1ee1b0b7fb95d9c416648f98aeb3513db657d0e0
+FileChecksum: MD5: 1465bae1b940f04ae5f5cf36202f8c0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Apple Inc., 2018 </text>
+ 
+
+##File
+
+FileName: image-classification/docs/catalog_image_plain.jpg
+SPDXID: SPDXRef-item7981720
+FileChecksum: SHA1: 54bdd6f59db0ab8802e0aef38b34bde06238b017
+FileChecksum: MD5: 896e31915ad11b7caf396ef584b74e1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Apple Inc., 2018 </text>
+ 
+
+##File
+
+FileName: image-classification/pom.xml
+SPDXID: SPDXRef-item7981721
+FileChecksum: SHA1: ebd1f0c67b05f481774a5305884aec42ff256988
+FileChecksum: MD5: 61dde3bcaecd4e17a012fdfd4e6d53a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/testing/tox-requirements.txt
+SPDXID: SPDXRef-item7981724
+FileChecksum: SHA1: aa668823c39665c3ce24ed1f3e6e9fcca2b9f6f4
+FileChecksum: MD5: 821027f7ec7656d16727dc6662676340
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/testing/.gitignore
+SPDXID: SPDXRef-item7981725
+FileChecksum: SHA1: b313bf205ba57d08ef5965c62fac7c32969074e4
+FileChecksum: MD5: 15b8e24e3c893c0198bc78414fa9fbca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/data/model-t.jpg
+SPDXID: SPDXRef-item7981727
+FileChecksum: SHA1: 0d83afde0656848c968cb1eb5f6f4be2b2984e57
+FileChecksum: MD5: b1464571a17a0527ec345791fef95586
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/data/elephant.jpg
+SPDXID: SPDXRef-item7981728
+FileChecksum: SHA1: 2faf9c9580065bcf92861c35c9b0760994d35a37
+FileChecksum: MD5: a031f4bde230b0082d3205fbe68b7350
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Company </text>
+ 
+
+##File
+
+FileName: image-classification/data/keras_class_names.txt
+SPDXID: SPDXRef-item7981729
+FileChecksum: SHA1: a7964a0046ccc82c67faa7945489c832ed4619b9
+FileChecksum: MD5: a2bc3a0d3f3b462aec62b23cb78ea822
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-classification/data/cropped_panda.jpg
+SPDXID: SPDXRef-item7981730
+FileChecksum: SHA1: c606d4c83a025e48dc6ef95bf6862f393f6ade4d
+FileChecksum: MD5: 7183d67d65981210df5dba3851764c5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Company </text>
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Sample-Video-Restrictions-1
+LicenseName: Sample Video Additional Restrictions notice
+ExtractedText: <text> ***Image Copyrights May Apply*** - the included sample videos may
+carry additional copyright restrictions and are not meant for public resale or
+consumption. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
