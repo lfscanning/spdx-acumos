@@ -1,0 +1,173 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_acumos-r-client-2020-01-09.zip_1578670229.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-01-10T15:30:29Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: acumos-r-client-2020-01-09.zip
+PackageFileName: acumos-r-client-2020-01-09.zip
+SPDXID: SPDXRef-upload2066
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 0b3e2006b0e8d099e863cb7ce5a4050e20ace042
+PackageChecksum: SHA1: 938ede3d27308709c9e8bc9bc665d999e90cb361
+PackageChecksum: MD5: e68e8ac1c28cbe436483a6fdf4ce1df9
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2066
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: acumos-r-client/docs/developer-guide.rst
+SPDXID: SPDXRef-item7979596
+FileChecksum: SHA1: 7826e5a796f2bb8aeed73a099db9af3ae29de108
+FileChecksum: MD5: ab86d9449367a27aa23e23ece8586a63
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-r-client/docs/index.rst
+SPDXID: SPDXRef-item7979591
+FileChecksum: SHA1: 0faad7a4c5d0d53fd45f53fa51f1d7637d671346
+FileChecksum: MD5: 811f88811b6467a25c2f266e73c46fbf
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-r-client/docs/installation-and-maintenance-guide.rst
+SPDXID: SPDXRef-item7979592
+FileChecksum: SHA1: 140db8deda554cb636933d4bad3d50f93779d508
+FileChecksum: MD5: 587de6f965574261f6b48491b72fe6c7
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-r-client/docs/onboarding-r-guide.rst
+SPDXID: SPDXRef-item7979597
+FileChecksum: SHA1: 5d61dad057692e0d5d4f8883100a1c11368e1fb0
+FileChecksum: MD5: 4c8a2d0e6b486cbae6fe64ea818da56a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-r-client/docs/release-notes.rst
+SPDXID: SPDXRef-item7979593
+FileChecksum: SHA1: a817fe22575e4ee961613cbe1b89a278b494a47d
+FileChecksum: MD5: 4151ae8e8b7a0dc667948147761f3364
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-r-client/LICENSE.txt
+SPDXID: SPDXRef-item7979589
+FileChecksum: SHA1: 14a09dfbaf4d175f0399c4db07cc9897aa0e1114
+FileChecksum: MD5: 6dbc473aee31d40c4347872ce856beab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-r-client/README.md
+SPDXID: SPDXRef-item7979586
+FileChecksum: SHA1: 02408887830883775218daa0471e2707c5d9176a
+FileChecksum: MD5: 2b4ab99a4d6b7eba9f69ef7d8c9c24ed
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-r-client/INFO.yaml
+SPDXID: SPDXRef-item7979587
+FileChecksum: SHA1: 7169d906431b4c3366b3979b83963ee4235cd389
+FileChecksum: MD5: 67df873d4accd500384e05e80d87e4e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-r-client/.gitreview
+SPDXID: SPDXRef-item7979588
+FileChecksum: SHA1: e85204e7e6396cae4a0504cf0873c40cd34be80b
+FileChecksum: MD5: 18b5003867948b0a1a7e3f32ab784c70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-r-client/docs/images/Acumos_logo_white.png
+SPDXID: SPDXRef-item7979595
+FileChecksum: SHA1: e977805e3c1eb63a214432468dc3c678bd8a165c
+FileChecksum: MD5: 1d45095d04e415302115b287f52d8b2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
