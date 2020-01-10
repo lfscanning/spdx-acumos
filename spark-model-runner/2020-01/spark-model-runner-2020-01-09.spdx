@@ -1,0 +1,389 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_spark-model-runner-2020-01-09.zip_1578670572.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-01-10T15:36:12Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: spark-model-runner-2020-01-09.zip
+PackageFileName: spark-model-runner-2020-01-09.zip
+SPDXID: SPDXRef-upload2097
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: bc25c17e58107496158fb3c449a989edd7d9b67f
+PackageChecksum: SHA1: b396335b46c9dbb7b0daa349b5d2af0b95151561
+PackageChecksum: MD5: 60bcb63d02364f2d6f0165fc995f03e3
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2097
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spark-model-runner/docs/release-notes.rst
+SPDXID: SPDXRef-item7985593
+FileChecksum: SHA1: de32248e38ea4b6fe6f5e33b4fdd47b45a99152f
+FileChecksum: MD5: cfde212ea3ae22c9adcff313b62e5a0d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: spark-model-runner/protobuf-common/src/main/java/org/acumos/protobuf/common/ProtoServiceBase.java
+SPDXID: SPDXRef-item7985571
+FileChecksum: SHA1: 977f68ccc799c84b4116b4688a296791ab93e6e8
+FileChecksum: MD5: 9dc8d9043fb39cad563a937977ef974d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/protobuf-common/src/main/java/org/acumos/protobuf/common/util/Constants.java
+SPDXID: SPDXRef-item7985573
+FileChecksum: SHA1: 42ef3c1b33bc687a5f0996f89c40a20ba8ed5be0
+FileChecksum: MD5: 29605ffbfbb90f40da039a37a31ce026
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/protobuf-common/src/main/java/org/acumos/protobuf/common/util/ProtobufUtil.java
+SPDXID: SPDXRef-item7985574
+FileChecksum: SHA1: 70de151f46bc21352009ebda59dbdd7d990cadce
+FileChecksum: MD5: 215a732bf00c13f8973bf566b80adb78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/protobuf-common/src/main/java/org/acumos/protobuf/common/vo/protobuf/ProtobufOption.java
+SPDXID: SPDXRef-item7985577
+FileChecksum: SHA1: c55933380ed5a04933f017c8c27f54d776307ee7
+FileChecksum: MD5: a86647b4f3e8098eb532873cbd8846a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/protobuf-common/src/main/java/org/acumos/protobuf/common/vo/protobuf/Protobuf.java
+SPDXID: SPDXRef-item7985578
+FileChecksum: SHA1: 09429fc23c1913506e9211e25bc65006bc269f7c
+FileChecksum: MD5: 5612761aaa3d5f83040bb05c01e8e44a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/protobuf-common/src/main/java/org/acumos/protobuf/common/vo/protobuf/ProtobufService.java
+SPDXID: SPDXRef-item7985579
+FileChecksum: SHA1: 0a3a52390955e661b592b733300a3f730d65f777
+FileChecksum: MD5: 725f7e4f82ef349219ddfbd9f235cd4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/protobuf-common/src/main/java/org/acumos/protobuf/common/vo/protobuf/ProtobufMessageField.java
+SPDXID: SPDXRef-item7985580
+FileChecksum: SHA1: 387d70aad1b555f6896b627f82dce7694d34d583
+FileChecksum: MD5: 1d6d90a0c6942f5aa533251b235c9b3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/protobuf-common/src/main/java/org/acumos/protobuf/common/vo/protobuf/ProtobufServiceOperation.java
+SPDXID: SPDXRef-item7985581
+FileChecksum: SHA1: 618027670e21afde2c17613d05d856a07506551a
+FileChecksum: MD5: 67a0ad73668663b51f523ef8e881c204
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/protobuf-common/src/main/java/org/acumos/protobuf/common/vo/protobuf/ProtobufMessage.java
+SPDXID: SPDXRef-item7985582
+FileChecksum: SHA1: 4d06c5dd3811051a5334f9b03cb56cdf03a19097
+FileChecksum: MD5: 6c797cfb09ad7eed9231a45a4288acd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/protobuf-common/src/main/java/org/acumos/protobuf/common/ProtoService.java
+SPDXID: SPDXRef-item7985583
+FileChecksum: SHA1: 99cfab5aabbe2999102daf14e55e1b07d6cc7d63
+FileChecksum: MD5: 8e0e5f6c65d9a9858ef7ebafc50bcbb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/protobuf-common/.gitignore
+SPDXID: SPDXRef-item7985584
+FileChecksum: SHA1: b7e611b02b0fa6e913975c3c8fc233d6691abc1b
+FileChecksum: MD5: 2f21c05dcc32c43bd0cd05e53249349f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/protobuf-common/pom.xml
+SPDXID: SPDXRef-item7985585
+FileChecksum: SHA1: 22a3ff2034ba7d7261ad9063a24376ea654ffff7
+FileChecksum: MD5: 7c1e5c8a7d111eba367c61896b482a48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/.gitreview
+SPDXID: SPDXRef-item7985586
+FileChecksum: SHA1: b93314a9fd9382d3a807b051124782ad5b323946
+FileChecksum: MD5: 2005756388a0e33a9dbe654dea30e7ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/releases/release-maven-jar.yaml
+SPDXID: SPDXRef-item7985588
+FileChecksum: SHA1: d8484dee16d62e0120dbbca9a576cae115c4b9ed
+FileChecksum: MD5: 9634c1f8697272c962e239ca29db45c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/releases/release-1.0.4-smr-pc-maven-jar.yml
+SPDXID: SPDXRef-item7985589
+FileChecksum: SHA1: 1bf45f67d8c61f660a9f828d31d6b91e036d5cff
+FileChecksum: MD5: 209d49f35ec0e0a8ee60689aa47705d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/releases/release-1.0.3-maven-jar.yml
+SPDXID: SPDXRef-item7985590
+FileChecksum: SHA1: 1c98dfd7f46b473f64f00e589e3e2174a3aa588b
+FileChecksum: MD5: b2eebcc1eda2a1c0e00298e815852456
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/.gitignore
+SPDXID: SPDXRef-item7985591
+FileChecksum: SHA1: b7e611b02b0fa6e913975c3c8fc233d6691abc1b
+FileChecksum: MD5: 2f21c05dcc32c43bd0cd05e53249349f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/pom.xml
+SPDXID: SPDXRef-item7985594
+FileChecksum: SHA1: f65cc896b9f16b796a7287ce5c47779c849bd8d3
+FileChecksum: MD5: c309e4a7aa5c55040408a7620c371dce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/spark-modelrunner/src/main/resources/application.properties
+SPDXID: SPDXRef-item7985599
+FileChecksum: SHA1: cad54b930e7d3721ca40c7a377c79de049e2a007
+FileChecksum: MD5: b3e0fbcf2920e4e564c279290794ff31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/spark-modelrunner/src/main/java/org/acumos/sparkrunner/controller/SparkRunnerController.java
+SPDXID: SPDXRef-item7985605
+FileChecksum: SHA1: f36283bd83a45eb9ea334cf4fe8312b8572182c4
+FileChecksum: MD5: 835c05f4f2e689fd6a29d775a6fb7c59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/spark-modelrunner/src/main/java/org/acumos/sparkrunner/APIName.java
+SPDXID: SPDXRef-item7985606
+FileChecksum: SHA1: eaf8e34a979e387ce8f8e3cef0e53d52296603db
+FileChecksum: MD5: 3a7fed94e19970b8ae9138d571f87f1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/spark-modelrunner/src/main/java/org/acumos/sparkrunner/Application.java
+SPDXID: SPDXRef-item7985607
+FileChecksum: SHA1: 71d54ba6f46ac85761889bcc9f2abfbf19037fec
+FileChecksum: MD5: c080c400b2fdf6178fdf9d97ecacc1a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/spark-modelrunner/src/main/java/org/acumos/sparkrunner/config/ConfigStorage.java
+SPDXID: SPDXRef-item7985609
+FileChecksum: SHA1: 80053c49cbeed85b8e6d448d7b9933ffc627def9
+FileChecksum: MD5: c024d72aa7502057d0726835fed67d9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/spark-modelrunner/src/main/java/org/acumos/sparkrunner/config/SparkConfig.java
+SPDXID: SPDXRef-item7985610
+FileChecksum: SHA1: 5803b2fe64501b9ec24c84f438ed5c3e14885aca
+FileChecksum: MD5: 9fa8937a1538c6471a967f96faf5422e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/spark-modelrunner/src/main/java/org/acumos/sparkrunner/config/CopyModel.java
+SPDXID: SPDXRef-item7985611
+FileChecksum: SHA1: 0a7e537658091d42fecf01eeb59ebc0f47040211
+FileChecksum: MD5: 1af4c2d5565666f8ea9e78bc3d9daefb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/spark-modelrunner/src/main/java/org/acumos/sparkrunner/config/ParseConfig.java
+SPDXID: SPDXRef-item7985612
+FileChecksum: SHA1: 55cfe4e91b8f5a5bb6f16f207c1fb1cdb321ca65
+FileChecksum: MD5: c968d9b10ae8d17672ab115969ca5f42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/spark-modelrunner/src/main/java/org/acumos/sparkrunner/util/JsonFileStorage.java
+SPDXID: SPDXRef-item7985614
+FileChecksum: SHA1: 7ed8203939f01dbddba89b566be9180a1433e60f
+FileChecksum: MD5: a571c93c946a315c8ab347ff7406ebea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/spark-modelrunner/.gitignore
+SPDXID: SPDXRef-item7985615
+FileChecksum: SHA1: b7e611b02b0fa6e913975c3c8fc233d6691abc1b
+FileChecksum: MD5: 2f21c05dcc32c43bd0cd05e53249349f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spark-model-runner/spark-modelrunner/pom.xml
+SPDXID: SPDXRef-item7985616
+FileChecksum: SHA1: 7d08b588083faac2e9ac82ca7cb185ec259ffc17
+FileChecksum: MD5: 7e5afd06fb7ec697d5e898fd24018626
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
