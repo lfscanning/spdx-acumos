@@ -1,0 +1,587 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_model-builder-2020-01-09.zip_1578670409.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-01-10T15:33:29Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: model-builder-2020-01-09.zip
+PackageFileName: model-builder-2020-01-09.zip
+SPDXID: SPDXRef-upload2082
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: b9888ddab2ab412ce3e59a1d3b44e06388d3f8c9
+PackageChecksum: SHA1: 69ab5213fb0bf7a77907bcefcabb0ee2669b06ab
+PackageChecksum: MD5: 63a4132ed3f70e7959ed245d013ebc38
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2082
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: model-builder-h2o-model-builder/acumoscommon/services/dataset_service.py
+SPDXID: SPDXRef-item7982579
+FileChecksum: SHA1: 1f06d4f02239817cd4c9d02ce46863e3db1717cc
+FileChecksum: MD5: a6e4dd4e7498cfa6656c787978fda652
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/acumoscommon/services/datasource_service.py
+SPDXID: SPDXRef-item7982577
+FileChecksum: SHA1: 402e1b0dc99ca9d23ddb3c7f27e908f59f32b409
+FileChecksum: MD5: c89f7de97c59e72e154c5545514d23be
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/acumoscommon/services/__init__.py
+SPDXID: SPDXRef-item7982578
+FileChecksum: SHA1: 66abbcd6eeb8018d737be579d68b36cca73d6308
+FileChecksum: MD5: a471af0d1082e69da349bda34aa0a294
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/acumoscommon/services/model_manager_service.py
+SPDXID: SPDXRef-item7982576
+FileChecksum: SHA1: e97ca107ff8f85d3ff8a63bc9603cf3d83dcb06c
+FileChecksum: MD5: a4cabb1eaecb58cdf26a8d913188070b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/acumoscommon/tasks/task_pool.py
+SPDXID: SPDXRef-item7982572
+FileChecksum: SHA1: c87aa57058a1c4369d60be54145ed9d656383962
+FileChecksum: MD5: c531101d0c1bcd2398c1a677facd6f72
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/acumoscommon/config_util.py
+SPDXID: SPDXRef-item7982580
+FileChecksum: SHA1: 3c68742543f478876b8dce94cb6f219df51d34bc
+FileChecksum: MD5: 32e1c53aefa89200a95f115dda944763
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/acumoscommon/responses.py
+SPDXID: SPDXRef-item7982573
+FileChecksum: SHA1: 27fa711d550140987d972e20f73b255fc3c4901f
+FileChecksum: MD5: c52f145c33b3ed327ec589b37774b3e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/acumoscommon/service_utils.py
+SPDXID: SPDXRef-item7982569
+FileChecksum: SHA1: f00f87f62a8c7745ccca4f5b9ceca935bfa3b33d
+FileChecksum: MD5: c58af1102eb2cb47a62861652b39da13
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/docs/developer-guide.rst
+SPDXID: SPDXRef-item7982586
+FileChecksum: SHA1: c738b9afe076daaedab1d5b450247aeb010c04f1
+FileChecksum: MD5: 139e8029b5719840bff1d0697e7ce8de
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/docs/index.rst
+SPDXID: SPDXRef-item7982583
+FileChecksum: SHA1: 6c2414df763cfbd0241c28857cfcdec4062f7e2f
+FileChecksum: MD5: b19c5434f909d4cf16eae5f5322db545
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/docs/overview.rst
+SPDXID: SPDXRef-item7982585
+FileChecksum: SHA1: 6866b84ae2f81ca73680fd0fa6b47cddf634cc59
+FileChecksum: MD5: afcaa0175d2b831655108fa31df6a75a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/docs/release-notes.rst
+SPDXID: SPDXRef-item7982584
+FileChecksum: SHA1: 5c1bb52a368c0978685b35965ca68c7b2eaa55b8
+FileChecksum: MD5: 88e3a351feed37bee1136f7b6339978e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/modelbuilder/api/v2/endpoints.py
+SPDXID: SPDXRef-item7982602
+FileChecksum: SHA1: 4dff5d6238ed9caa8e0333c3b79e4580b9918fcf
+FileChecksum: MD5: a9805cb348849ce5b09f820123a25239
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/modelbuilder/api/v2/parsers.py
+SPDXID: SPDXRef-item7982599
+FileChecksum: SHA1: eea0378d08682fd115978ca89be6cc17587acbf7
+FileChecksum: MD5: 27096c620a712836077e530eac06aefa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/modelbuilder/api/v2/serializers.py
+SPDXID: SPDXRef-item7982600
+FileChecksum: SHA1: ad6cc8e901748544d56fff6f01d5226d84febb6c
+FileChecksum: MD5: c789cfec586a11e412664eb7933a4f9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/modelbuilder/api/business.py
+SPDXID: SPDXRef-item7982594
+FileChecksum: SHA1: fda42029ea6b1214be44d033cf935068a68890d5
+FileChecksum: MD5: 6c9d7b12886aac10eb80b465e2228438
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/modelbuilder/api/namespaces.py
+SPDXID: SPDXRef-item7982596
+FileChecksum: SHA1: b6035d452f2324e43e11e38bdcf6ddcee6362e96
+FileChecksum: MD5: 6e940fa82644b5594b400b2de3a17a49
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/modelbuilder/api/restplus.py
+SPDXID: SPDXRef-item7982597
+FileChecksum: SHA1: 227d8aa41c18698974dacda8736bb1a22e2ef27c
+FileChecksum: MD5: 50e4f2c3dc8d9450d486c7355cd0d048
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/modelbuilder/__init__.py
+SPDXID: SPDXRef-item7982592
+FileChecksum: SHA1: a050fd1921d71255bc2233d9fc87d21614cddcc8
+FileChecksum: MD5: 4669774d25da0181229333af047cb5a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/modelbuilder/_version.py
+SPDXID: SPDXRef-item7982591
+FileChecksum: SHA1: aef1d465ae8528ebf0a7f1ffba694077e5805e22
+FileChecksum: MD5: fe4be80fec17cf91632caa0c73dc0f1e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/test/unit_test/mock_context.py
+SPDXID: SPDXRef-item7982554
+FileChecksum: SHA1: d5f085086b0d0465876aec49ea8f68e69111cabd
+FileChecksum: MD5: 138d989b7507aec9fa6d04479ae7b156
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/test/unit_test/test_endpoints.py
+SPDXID: SPDXRef-item7982552
+FileChecksum: SHA1: 98377d251a0c5b007cc8d90eb420db7eaf13ad84
+FileChecksum: MD5: bdc4dbf0bf83a94126b83bf2f3306826
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/Dockerfile
+SPDXID: SPDXRef-item7982589
+FileChecksum: SHA1: 6da7700b4a16207c1d05c46eaa27c2c27617bc82
+FileChecksum: MD5: a70d9eee0055bdf5232318a225186cb5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/LICENSE.txt
+SPDXID: SPDXRef-item7982557
+FileChecksum: SHA1: b523c4d27faa5170bd3d2f01fbad3ecfbe4b8ef1
+FileChecksum: MD5: 780f56a0baa4b15d9ca552327f88f933
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/microservice_flask.py
+SPDXID: SPDXRef-item7982560
+FileChecksum: SHA1: 7b9b7901cc33a448e6a2a3821a699c2a0cb2ada6
+FileChecksum: MD5: fbe0526a532f39221be374ac32a23509
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/README.md
+SPDXID: SPDXRef-item7982547
+FileChecksum: SHA1: 70c3019b8ca59fdcade533a60eb28bc4db8744ca
+FileChecksum: MD5: d3d342851225e0f2261636c5974f9d99
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/setup.py
+SPDXID: SPDXRef-item7982556
+FileChecksum: SHA1: fecadabe39857e1aa80081f7a4f9d5209853f734
+FileChecksum: MD5: 281ca456569ce86815f414f4d84e452b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/start-server.sh
+SPDXID: SPDXRef-item7982546
+FileChecksum: SHA1: 89050fe933e2347ac386f50b8cfca33dedee228f
+FileChecksum: MD5: 93c1fbf6ed5cf5ccb7bd0e93d9d126d9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/wsgi.py
+SPDXID: SPDXRef-item7982545
+FileChecksum: SHA1: 1d698d367e8a158c55f5e3023eac4737c60a825a
+FileChecksum: MD5: 43322baa67f52c9b7bf197b907384f72
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/INFO.yaml
+SPDXID: SPDXRef-item7982548
+FileChecksum: SHA1: 3b8b8ec0fd0bd5c64a8c1dc46cd9fd4885f13601
+FileChecksum: MD5: d32b3702278ac9e24febebd0e63854f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/.gitreview
+SPDXID: SPDXRef-item7982549
+FileChecksum: SHA1: 8398aaabc79048ad718e3f9a434ae87e5597f527
+FileChecksum: MD5: e2b9782fbb6e0b5408c316ee37ac1b81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/test/unit_test/__init__.py
+SPDXID: SPDXRef-item7982553
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/test/__init__.py
+SPDXID: SPDXRef-item7982555
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/tox.ini
+SPDXID: SPDXRef-item7982558
+FileChecksum: SHA1: a197b30d2e79328e79120a4d26da59756ec4fba8
+FileChecksum: MD5: ded3d4eef63ba6966c81367bfec50d7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/tox-requirements.txt
+SPDXID: SPDXRef-item7982559
+FileChecksum: SHA1: ced25061cc2ff66ce47be39777fcd7fee7ffe699
+FileChecksum: MD5: 87a3d397c4aac4d917aa126a493b8e45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/properties/settings.cfg.sample
+SPDXID: SPDXRef-item7982562
+FileChecksum: SHA1: 2c5bf56c27a848faaae7d022921425f42168a4da
+FileChecksum: MD5: 485eb2426d8d044c9fa24487563c807a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/properties/algorithms.json
+SPDXID: SPDXRef-item7982563
+FileChecksum: SHA1: e9ff62436fee4ae97de06e55bfcfb70a2fbf01ec
+FileChecksum: MD5: 2a227564978e388f5dcd1c059ce123a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/properties/logging.json
+SPDXID: SPDXRef-item7982564
+FileChecksum: SHA1: feb054bcadcdec605d214976f536d8f6dc707cfa
+FileChecksum: MD5: b0cbfa8ac4072f0ded311e972c00dd9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/properties/settings.cfg
+SPDXID: SPDXRef-item7982565
+FileChecksum: SHA1: 2c5bf56c27a848faaae7d022921425f42168a4da
+FileChecksum: MD5: 485eb2426d8d044c9fa24487563c807a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/properties/config.ini
+SPDXID: SPDXRef-item7982566
+FileChecksum: SHA1: 9d5da8c5b5f63224c1eeaf1bfae3fa80decb5e24
+FileChecksum: MD5: b20518855c33ff652db449c64144c322
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/.gitattributes
+SPDXID: SPDXRef-item7982567
+FileChecksum: SHA1: 1fead8ae4a123d4c2526ba03777b256cb10f7a5a
+FileChecksum: MD5: 635578d7546b35d97c384e8708b86a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/acumoscommon/tasks/__init__.py
+SPDXID: SPDXRef-item7982571
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/acumoscommon/__init__.py
+SPDXID: SPDXRef-item7982574
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/.gitignore
+SPDXID: SPDXRef-item7982581
+FileChecksum: SHA1: f8692000d2e4b3bba5ee35c42682df0d3bca34ad
+FileChecksum: MD5: 312eab74edb5e1df2e5c6710db15f886
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/pom.xml
+SPDXID: SPDXRef-item7982587
+FileChecksum: SHA1: f35bfaa6d24780441066d48eacbde37b64e7d1d7
+FileChecksum: MD5: e97574e2a8da6b63571c2f2a31084273
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/setup.cfg
+SPDXID: SPDXRef-item7982588
+FileChecksum: SHA1: c49e3ee68044f3030956c16ae3abbdae9e0725ef
+FileChecksum: MD5: ac24c232af33108ef0b249b46f85247f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/modelbuilder/api/__init__.py
+SPDXID: SPDXRef-item7982595
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-builder-h2o-model-builder/modelbuilder/api/v2/__init__.py
+SPDXID: SPDXRef-item7982601
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
