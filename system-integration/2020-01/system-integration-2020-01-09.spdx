@@ -1,0 +1,4256 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_system-integration-2020-01-09.zip_1578670582.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-01-10T15:36:22Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: system-integration-2020-01-09.zip
+PackageFileName: system-integration-2020-01-09.zip
+SPDXID: SPDXRef-upload2098
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 2893c7f30d0caeb0195307583770744810cd132d
+PackageChecksum: SHA1: 2eb96ed69e5f5fe4ba00a4c6cac87cd22eebef95
+PackageChecksum: MD5: 65e1cb077415325f544cdacf70518efd
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2098
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: system-integration/AIO/docker/acumos/sv-scanning.yml
+SPDXID: SPDXRef-item7985867
+FileChecksum: SHA1: 52e5d81c11268db26a84f5ff0e30aa81c4483f36
+FileChecksum: MD5: 88c70ec1569b537e2c0035e485366001
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/deployment/sv-scanning-deployment.yaml
+SPDXID: SPDXRef-item7985976
+FileChecksum: SHA1: 519f8d5bfe8414ceea62f4d203a3a0e4d78bf010
+FileChecksum: MD5: f17f9d3ad506a0792007c81a7c99388f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/ingress/templates/license-rtu-editor-ingress.yaml
+SPDXID: SPDXRef-item7985938
+FileChecksum: SHA1: b1d5f32ed5c8a8544b16d7b16e3f1b2534b5c645
+FileChecksum: MD5: 68228c5672f7e1a06059501eadbc031b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/service/license-rtu-editor-service.yaml
+SPDXID: SPDXRef-item7985996
+FileChecksum: SHA1: 93d65a1fbe349913062fe9bbacd9a80acdee48d0
+FileChecksum: MD5: 87891f98e8f3a03bc279c2ab55f4e0dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker/acumos/license-profile-editor.yaml
+SPDXID: SPDXRef-item7985864
+FileChecksum: SHA1: 67a81f3be092b677841092a5fbaaddca0711f1e3
+FileChecksum: MD5: 336494f04e5781cf7345513896401fb2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker/acumos/license-rtu-editor.yml
+SPDXID: SPDXRef-item7985871
+FileChecksum: SHA1: a67dd0ef496e2aa2e835dc5937a26f3ed5d464ab
+FileChecksum: MD5: 9ca5ea938dd6f112cf7375a65cd86c8c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/ingress/templates/license-profile-editor-ingress.yaml
+SPDXID: SPDXRef-item7985933
+FileChecksum: SHA1: 17ab850ef0b41efb3bf82face2cae66f2fde605b
+FileChecksum: MD5: 12d245b2e111b02bc4592ba377d28b22
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/deployment/license-profile-editor-deployment.yaml
+SPDXID: SPDXRef-item7985977
+FileChecksum: SHA1: dc347c23773de46af63ed0add03a49b311f41b41
+FileChecksum: MD5: d4e0820e2d9c59813f213565960d7901
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/deployment/license-rtu-editor-deployment.yaml
+SPDXID: SPDXRef-item7985983
+FileChecksum: SHA1: a5f39d89569b144bfe092491222337ba43fb62e9
+FileChecksum: MD5: fef426ffaa30dedc4fb33137daba9ca7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/service/license-profile-editor-service.yaml
+SPDXID: SPDXRef-item7985990
+FileChecksum: SHA1: 1545de0029103cf331173e82e2213898023068a8
+FileChecksum: MD5: 473e5f1201e69b51c41fe1a7122971b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/lum/setup-lum.sh
+SPDXID: SPDXRef-item7985883
+FileChecksum: SHA1: 4372d069d9da04e1f7f2c2cb450d7e398ff4408b
+FileChecksum: MD5: 586c3f1495847216360a2dc59b599153
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/lum/lum_env.sh
+SPDXID: SPDXRef-item7985887
+FileChecksum: SHA1: ed6c25a00f0671b1a51ab7789b36dafad5b73947
+FileChecksum: MD5: b25a70d17ea24b3723206bdb3eb768d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/lum/docker/acumos/lum.yaml
+SPDXID: SPDXRef-item7985881
+FileChecksum: SHA1: 2a1c80b5d364ef1340ea8bac4dfbf0a465276a32
+FileChecksum: MD5: 3b9dfd7e45fb7abd2c26b09aab30f685
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: system-integration/docs/oneclick-deploy/index.rst
+SPDXID: SPDXRef-item7986100
+FileChecksum: SHA1: 3b71002fee4a516c8a69407f0e37bf35ef65d452
+FileChecksum: MD5: 5c459af453e65ff9f19d6b2de01ccc1c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/docs/oneclick-deploy/developer-guide.rst
+SPDXID: SPDXRef-item7986111
+FileChecksum: SHA1: a9212d12e569bc16de64a519a2d225ec4d27bb8f
+FileChecksum: MD5: 53602edd350ea9b4c43ef8bb8695da87
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/docs/oneclick-deploy/configuration.rst
+SPDXID: SPDXRef-item7986101
+FileChecksum: SHA1: 1a419501bb7c6d1d112e037cb9043e0323b0a353
+FileChecksum: MD5: 7fde06008a6d91c1c1bc3fb87836e2de
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/docs/oneclick-deploy/user-guide.rst
+SPDXID: SPDXRef-item7986112
+FileChecksum: SHA1: 8bba490b03708ea5a946998ad2de2911ff933e59
+FileChecksum: MD5: ea3f00df45c514ad97d7d7bd38a6e571
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/README.md
+SPDXID: SPDXRef-item7985747
+FileChecksum: SHA1: 0d466785e33b2274956821c331ecfe0cc57a5441
+FileChecksum: MD5: 0edfe3a17dcb1b0a9ea70c90ac096f8f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/docs/user-guide.rst
+SPDXID: SPDXRef-item7986113
+FileChecksum: SHA1: dc118b232d24ddbf3f2a2970ddd8d1686d039d21
+FileChecksum: MD5: 7470b297bd3c33e6df7f2bb1b9be75f4
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/README.md
+SPDXID: SPDXRef-item7985928
+FileChecksum: SHA1: 686d75fd03423ad02532e20ac7f3bea524f19775
+FileChecksum: MD5: db3c53c59fbceaad2f0b44a428c6f337
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/docs/index.rst
+SPDXID: SPDXRef-item7986095
+FileChecksum: SHA1: 234e514e01491c35fa6a4b39569e6a9b19e3b2c1
+FileChecksum: MD5: 00bb41ba0ab407c10712180a47dce877
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/docs/release-notes.rst
+SPDXID: SPDXRef-item7986096
+FileChecksum: SHA1: 6bd0d06570c1bf5254c6d245f5d0364704c3d5c9
+FileChecksum: MD5: 0514a61d74e728d047d17d231f8c68b9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/volumeclaim/acumos-volumeclaim.yaml
+SPDXID: SPDXRef-item7985625
+FileChecksum: SHA1: 46de2a29edac4c31498d16add622378af270f630
+FileChecksum: MD5: 05aa0f47e7339c8af3cfb2f2739236c3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/volumeclaim/acumos-webonboarding-volumeclaim.yaml
+SPDXID: SPDXRef-item7985624
+FileChecksum: SHA1: 7bb0bf846151879f6842ff270e32bcc77aae650b
+FileChecksum: MD5: 7547af6996f27c729bae20a729d9120b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/volumeclaim/acumos-certs-volumeclaim.yaml
+SPDXID: SPDXRef-item7985628
+FileChecksum: SHA1: 75db8d7f53c6e01c2ec7a74d0e2e6a18ec7f81b6
+FileChecksum: MD5: 1618a6a3a48c68635c61ca2de5dcd701
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/configmap/acumos-configmap.sh
+SPDXID: SPDXRef-item7985633
+FileChecksum: SHA1: 83c13314934d4d809dc6b0b3073fc7cca7d29422
+FileChecksum: MD5: cb9580d09faec4137674a2f70bac1423
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/deployments/acumos-deployment.sh
+SPDXID: SPDXRef-item7985745
+FileChecksum: SHA1: 83c13314934d4d809dc6b0b3073fc7cca7d29422
+FileChecksum: MD5: cb9580d09faec4137674a2f70bac1423
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/services/acumos-service.sh
+SPDXID: SPDXRef-item7985714
+FileChecksum: SHA1: 83c13314934d4d809dc6b0b3073fc7cca7d29422
+FileChecksum: MD5: cb9580d09faec4137674a2f70bac1423
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/volumeclaim/acumos-volumeclaim.sh
+SPDXID: SPDXRef-item7985627
+FileChecksum: SHA1: 83c13314934d4d809dc6b0b3073fc7cca7d29422
+FileChecksum: MD5: cb9580d09faec4137674a2f70bac1423
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/volumeclaim/mariadb-volumeclaim.yaml
+SPDXID: SPDXRef-item7985626
+FileChecksum: SHA1: 3738a39f5681db9376ea14acf0f0b5724b7e3e58
+FileChecksum: MD5: de7231a30eb2e5adf4a11af384d14d4e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/volumeclaim/all-start-stop.sh
+SPDXID: SPDXRef-item7985629
+FileChecksum: SHA1: 46d9985c329f565c042833364c02a7f52672a687
+FileChecksum: MD5: 1381ee1c090df4935c776ea756f1d078
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/volumeclaim/acumos-nexus-volumeclaim.yaml
+SPDXID: SPDXRef-item7985630
+FileChecksum: SHA1: 87fb64d8f2f233ee12bce640ede247e3ced05162
+FileChecksum: MD5: 56bf56f19137740e5922c02f8b8230f0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/volumeclaim/acumos-output-volumeclaim.yaml
+SPDXID: SPDXRef-item7985631
+FileChecksum: SHA1: 78efe0df435e62a5b8ba44c4ec14078ff623d30b
+FileChecksum: MD5: 0769c1dc73122c1008ac61e8f3369ccd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/services/acumos-proxy-service.yaml
+SPDXID: SPDXRef-item7985712
+FileChecksum: SHA1: f0ad7132390f7b41c6ddd4e35cfa933efd81979d
+FileChecksum: MD5: b02d9c8514b98a77d2dbaf6ae665287c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/services/acumos-kong-services.yaml
+SPDXID: SPDXRef-item7985715
+FileChecksum: SHA1: a4b726dcb9f1517e2c5df42c47be25468809fafa
+FileChecksum: MD5: ede7f7110786db29aea649026709a46a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/services/acumos-nexus-service.yaml
+SPDXID: SPDXRef-item7985716
+FileChecksum: SHA1: 75dea02170fdd039087387227abbad5473933f2c
+FileChecksum: MD5: cb9bbf8c7de27ae565e61c866fb9162c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/services/mariadb-service.yaml
+SPDXID: SPDXRef-item7985718
+FileChecksum: SHA1: a67ee3de230ea01cfb196a1e592eb2cdfabf03f8
+FileChecksum: MD5: e9c8666ac4394e0fd7e23a3ff3b80edd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/services/all-start-stop.sh
+SPDXID: SPDXRef-item7985719
+FileChecksum: SHA1: 7031229fb645b70575daa419b3e155fe8c9de0c9
+FileChecksum: MD5: 7558061036bf4e175d01a548eb1c2766
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/services/acumos-docker-service.yaml
+SPDXID: SPDXRef-item7985722
+FileChecksum: SHA1: 3b7835608d4e50b2c011fd49ea20514d6ad3b6b8
+FileChecksum: MD5: 00e50dd4962e98a19bbc38d4b58401c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/services/acumos-federation-service.yaml
+SPDXID: SPDXRef-item7985723
+FileChecksum: SHA1: 0ec57c572b8d676ed0b5a9a310462f2d2cfe70de
+FileChecksum: MD5: a6955f12830935c5d654ca2aa55d3703
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/deployments/acumos-docker-deployment.yaml
+SPDXID: SPDXRef-item7985737
+FileChecksum: SHA1: 13d6c02c1cc3ce61fbe502c0c35fbe190b8036ea
+FileChecksum: MD5: e5b7eeb6d753d2a80af88248c7644dfc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/deployments/mariadb-deployment.yaml
+SPDXID: SPDXRef-item7985740
+FileChecksum: SHA1: ffde0632d84db4df89c98143fe43c8117d2d8817
+FileChecksum: MD5: 5ed027e989b97c67f4fa0afe6778b45b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/deployments/acumos-proxy-deployment.yaml
+SPDXID: SPDXRef-item7985739
+FileChecksum: SHA1: 1f7cbb1fda2e57d7142ccb5c3d768245716255dc
+FileChecksum: MD5: 686661d24863d6bca3a64f37251071ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/deployments/acumos-kong-db.yaml
+SPDXID: SPDXRef-item7985736
+FileChecksum: SHA1: 07145b44cc87b0a645a76153f291d57f952f1bf6
+FileChecksum: MD5: 9b0fa79c2cf3784d2fcaefc9751b3b80
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/LICENSE.txt
+SPDXID: SPDXRef-item7985830
+FileChecksum: SHA1: c585c3f10be7095138ddba1e0c727276fddc9d73
+FileChecksum: MD5: 3aa196ad0d2dab4c65c5fdcc2b692418
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/deployments/all-start-stop.sh
+SPDXID: SPDXRef-item7985743
+FileChecksum: SHA1: 67e047ebcb21de202a6af1eded79627e96a003cc
+FileChecksum: MD5: 2790eb5a446edd88d12fdc695b735085
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/deployments/acumos-nexus-deployment.yaml
+SPDXID: SPDXRef-item7985742
+FileChecksum: SHA1: 8d4b101f5697bc5b2fcdfd2e3bd93e782c6c3063
+FileChecksum: MD5: d7133d77e1c3a949f9978cdd8899e39a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/configmap/es-config.yaml
+SPDXID: SPDXRef-item7985634
+FileChecksum: SHA1: 345303ca6171490d469b3915c6ae69beac2070e5
+FileChecksum: MD5: 1012468cdafa182f4ec49b10a218ac4e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/configmap/kibana-config.yaml
+SPDXID: SPDXRef-item7985636
+FileChecksum: SHA1: c321e057d1754a04fb7f9e124fbc98521f740e4c
+FileChecksum: MD5: 3fce9c5270ac2a2855e1493d248243e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/deployments/acumos-elk-deployment.yaml
+SPDXID: SPDXRef-item7985746
+FileChecksum: SHA1: 70616de14b74ffba203fd7aaf33566d86f8ae698
+FileChecksum: MD5: f4e9fdf8c48fca8b55c98d5383f93986
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/services/acumos-elasticsearch-service.yaml
+SPDXID: SPDXRef-item7985720
+FileChecksum: SHA1: dbced05f9344ce954952478d8f8e48aae34ce962
+FileChecksum: MD5: 01c02c8c28bb4721a14f94fd3b73ceb9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/services/acumos-kibana-service.yaml
+SPDXID: SPDXRef-item7985721
+FileChecksum: SHA1: c35e316c542f4755eb3fe37c1230dc949f4d4573
+FileChecksum: MD5: 9ccbd5e18e8db872db7fd0026418e8e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/configmap/logstash-config.yaml
+SPDXID: SPDXRef-item7985635
+FileChecksum: SHA1: 89399912de34e85bdb032ddcb508bcba75199ebf
+FileChecksum: MD5: a25cf140f77ce4ead36577b133add286
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/services/onboarding-cli-service.yaml
+SPDXID: SPDXRef-item7985717
+FileChecksum: SHA1: ddeeda10e063a6cd9b5d08a187225c9434f1d5d1
+FileChecksum: MD5: 4d64a697d06c55a7e0aa751271eb482d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/services/acumos-logstash-service.yaml
+SPDXID: SPDXRef-item7985724
+FileChecksum: SHA1: 99d9a5d2281c2dde6ba81144573d0221140dcd6d
+FileChecksum: MD5: 0555efe9e7b4c24935cb0f85e57df67f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/acumos-kubectl.env
+SPDXID: SPDXRef-item7985725
+FileChecksum: SHA1: 3b7f15a2ff37605e9b4bcb4e57dc0515e2050640
+FileChecksum: MD5: c1f3eb3337fae20b22a208687a52ef50
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/elk-stack/logstash/Dockerfile
+SPDXID: SPDXRef-item7986086
+FileChecksum: SHA1: e1f2bb64240167df7db73f9d590b5dab0b8682ec
+FileChecksum: MD5: 7a5b286ffa37463680b6c5e432533e27
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/elk-stack/elasticsearch/Dockerfile
+SPDXID: SPDXRef-item7986090
+FileChecksum: SHA1: 950ee7c5d0ddd32b16299410197cdf6c68bee102
+FileChecksum: MD5: c43da0803b9ed4782104f846c49ab585
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/service/federation-service.yaml
+SPDXID: SPDXRef-item7985998
+FileChecksum: SHA1: 44694d6cc8b8d34de9631b2ab00d5f03d77ac56a
+FileChecksum: MD5: 9d7c4b3bee7b1453f92250154b934b95
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/beats/kubernetes/filebeat-service.yaml
+SPDXID: SPDXRef-item7985971
+FileChecksum: SHA1: e0e2f1e245ba6169b28dd339940e3478f55726c4
+FileChecksum: MD5: 9b7f9a2babb6fab2d21dd9cca7142576
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/elk-stack/kibana/Dockerfile
+SPDXID: SPDXRef-item7986092
+FileChecksum: SHA1: 92fc7e912e378a22cbd155894665227176d30131
+FileChecksum: MD5: fd43ffe34d9919346047ccd829920847
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-noncore-chart/templates/proxy/deployment.yaml
+SPDXID: SPDXRef-item7985644
+FileChecksum: SHA1: ed824c301a50e0d3101018a74f62fa26841a8b79
+FileChecksum: MD5: 688e8a65fbc8d763a685805a231172c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-noncore-chart/templates/proxy/service.yaml
+SPDXID: SPDXRef-item7985645
+FileChecksum: SHA1: 9c4a7d5bc73188925f9912fe7bab9fc55f01b51b
+FileChecksum: MD5: 7eb414341a9cf85302c2d5b8729a9d13
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-noncore-chart/templates/mariadb/persistent-volume-claim.yaml
+SPDXID: SPDXRef-item7985647
+FileChecksum: SHA1: 6472b5da48c2ef6fd144a7a28230826ca07f500c
+FileChecksum: MD5: 9f549b8fe52ce23ee698f5065df07e65
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-noncore-chart/templates/mariadb/service.yaml
+SPDXID: SPDXRef-item7985649
+FileChecksum: SHA1: 73d9cda27d832b7bfa12d5978d4d57bec22a9c0d
+FileChecksum: MD5: 312dba05ca487235e9bfddd476dc64ab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-noncore-chart/templates/mariadb/deployment.yaml
+SPDXID: SPDXRef-item7985648
+FileChecksum: SHA1: 5400e8e5c0db461d1e22cd71d2dc7332297b0807
+FileChecksum: MD5: 814600207da89f615c64f24aa0f44527
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-noncore-chart/templates/nexus/persistent-volume-claim.yaml
+SPDXID: SPDXRef-item7985651
+FileChecksum: SHA1: 644394026b56b7aa954aae15cd14d4716b98a0ed
+FileChecksum: MD5: 10d984b9f93ec8dd267b9bd46e7c9aa8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-noncore-chart/templates/nexus/service.yaml
+SPDXID: SPDXRef-item7985653
+FileChecksum: SHA1: 58fe3059251608626c349987a9bc217acf4a5bdc
+FileChecksum: MD5: 6daf72ab327fd79b9ac90d33e4064684
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-noncore-chart/templates/docker/deployment.yaml
+SPDXID: SPDXRef-item7985655
+FileChecksum: SHA1: 05c8f0fbcb88ae94472eeea2e1d7f2ab5b252bff
+FileChecksum: MD5: ad5369438ad66f106af4d0e475c35f39
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-noncore-chart/templates/nexus/deployment.yaml
+SPDXID: SPDXRef-item7985652
+FileChecksum: SHA1: affaf565a4d3f13f9b05ad3c786a631bfa990d22
+FileChecksum: MD5: 260c9ac117fd94f78dd05dce2357c1bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-noncore-chart/templates/docker/service.yaml
+SPDXID: SPDXRef-item7985656
+FileChecksum: SHA1: 7c39a811bdd3ac441bded6f640f6c6b9644258b7
+FileChecksum: MD5: 27263a645c907b35fa449e4b181daab1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-noncore-chart/templates/kong/acumos-kong-db.yaml
+SPDXID: SPDXRef-item7985658
+FileChecksum: SHA1: 011297d6916a3b34f72d9946d4af2fc182ca03d2
+FileChecksum: MD5: 7e4c221932a57f9277d1b7d7b1b1f32f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-acumos-chart/templates/acumos/onboarding-cli-service.yaml
+SPDXID: SPDXRef-item7985705
+FileChecksum: SHA1: 4eebec4f81fe6e196659cde24e5775e8756b254b
+FileChecksum: MD5: d3ed8b5bc3cc176f48a0f7c49992b4a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-noncore-chart/templates/kong/acumos-kong-migration.yaml
+SPDXID: SPDXRef-item7985660
+FileChecksum: SHA1: b7ff828cc904cb015d21738da2819059c4ebfa5b
+FileChecksum: MD5: a26eeb3ca1c81d92dcc89b8ce8cb14c3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-noncore-chart/templates/kong/service.yaml
+SPDXID: SPDXRef-item7985661
+FileChecksum: SHA1: d9647373ad86f38a9f2fc3316e5067c6c2a5fb62
+FileChecksum: MD5: 3f0995aff98e95056188566f5bb9624c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/deployments/acumos-kong-migration.yaml
+SPDXID: SPDXRef-item7985741
+FileChecksum: SHA1: 60a3a017359db84c1f0a90bfe3bdc6bc51288fc5
+FileChecksum: MD5: 82af69da988148f5b654788e25296055
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-acumos-chart/templates/acumos/acumos-federation-service.yaml
+SPDXID: SPDXRef-item7985707
+FileChecksum: SHA1: b71aaa3f1a2578f60bdc273dededf867c0b71eae
+FileChecksum: MD5: 6df01e32ef280cff4fc8c5cfeaf943f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/beats/filebeat/Dockerfile
+SPDXID: SPDXRef-item7985968
+FileChecksum: SHA1: 3014af85e464080de75a50ef9ee51a779da900e6
+FileChecksum: MD5: bf280c1ac9a4da5b7219251ed1bc3ecd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/deployments/acumos-kong-deployment.yaml
+SPDXID: SPDXRef-item7985744
+FileChecksum: SHA1: c3c5e53cc154e2de0893b58f3265e89504cc561b
+FileChecksum: MD5: 3c3600ad3ed46427ab620f8ffd4d2ee4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/grafana/grafana.yaml
+SPDXID: SPDXRef-item7985638
+FileChecksum: SHA1: 9dda8d451a4052f8e0f272774a377e984b372721
+FileChecksum: MD5: 720b2d14e1784a6fec52ca834f434565
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/services/acumos-service.yaml
+SPDXID: SPDXRef-item7985713
+FileChecksum: SHA1: 596010bd3f9ba8bcb62650ffbe75386d887cf060
+FileChecksum: MD5: b1fc92f72a18e2973289723619e7ad54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/prometheus/prometheus-deployment.yaml
+SPDXID: SPDXRef-item7985728
+FileChecksum: SHA1: c4b003f325d9cc75a4ebe95ac735a4664ac1bc65
+FileChecksum: MD5: 416dc1540ffe6d6cf593a24dfaa65cb7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/prometheus/prometheus-service.yaml
+SPDXID: SPDXRef-item7985727
+FileChecksum: SHA1: 60a3bd2175a7e83ee0046c259ef9b3b496e9a591
+FileChecksum: MD5: 1e177bebf96136bfb49790783fb65b42
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/prometheus/alertmanager/AlertTemplateConfigMap.yaml
+SPDXID: SPDXRef-item7985733
+FileChecksum: SHA1: 05cc712eebb42214c687ff79d5d0381b9ed8b271
+FileChecksum: MD5: 216e92a5abf51f7ebdab4b246ab50baf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/prometheus/config-map.yaml
+SPDXID: SPDXRef-item7985729
+FileChecksum: SHA1: d66d1c67e48718399ef6f04ca62b6e7ad5cbd91f
+FileChecksum: MD5: 65d1529448f9a98c82c393af3a167c56
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/prometheus/alertmanager/Deployment.yaml
+SPDXID: SPDXRef-item7985732
+FileChecksum: SHA1: 6af46b5657aef0f6d3f1ebb331b748b4747e8106
+FileChecksum: MD5: fe67745d96785f0c8a8ba20b4b1555c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/prometheus/alertmanager/AlertManagerConfigmap.yaml
+SPDXID: SPDXRef-item7985731
+FileChecksum: SHA1: 967afe8f6fed10938b609080a57cc10195f0d948
+FileChecksum: MD5: 9efef1338d2a4d8e9bd88de1238d0b1a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/prometheus/alertmanager/AlertManagerService.yaml
+SPDXID: SPDXRef-item7985734
+FileChecksum: SHA1: 4799fa4729dffb30398a9059411565cc85ed0ea9
+FileChecksum: MD5: f2ae452663c295408a3f109cbb5189c9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/deployments/acumos-deployment.yaml
+SPDXID: SPDXRef-item7985738
+FileChecksum: SHA1: 9fb8257028267eec4b52799e2574d51ea44c0e39
+FileChecksum: MD5: d5ff4aafe745645ceb05470c16b4b020
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/elk-stack/templates/elasticsearch/configmap.yaml
+SPDXID: SPDXRef-item7985822
+FileChecksum: SHA1: 1609118c712a9ea8dec2ec629be4eee6b157db8b
+FileChecksum: MD5: b6260c7576712d46cb15da52b7b3e7b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/elk-stack/templates/elasticsearch/service.yaml
+SPDXID: SPDXRef-item7985823
+FileChecksum: SHA1: 4e330441859dbd36aa5ae282fee60e7a2356a401
+FileChecksum: MD5: 46bd76923743a335dfb47039cf4a3707
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/elk-stack/templates/kibana/configmap.yaml
+SPDXID: SPDXRef-item7985826
+FileChecksum: SHA1: 8a60dfedf79bb1a7194f682c3e8ea68b99528f93
+FileChecksum: MD5: 2fe5809fa68934691c1b55f0d430223d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/elk-stack/templates/kibana/deployment.yaml
+SPDXID: SPDXRef-item7985825
+FileChecksum: SHA1: e2de28c3765f7c047c00614f9e2e56a922e1cc32
+FileChecksum: MD5: c02a2c64081d6476b50d6d072c59e7e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/elk-stack/templates/kibana/service.yaml
+SPDXID: SPDXRef-item7985827
+FileChecksum: SHA1: 3364e84d9cdcaa7e4b08881355b6acd3da46e389
+FileChecksum: MD5: 3805c854cf7f7ccd9a84aa64addf1186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/elk-stack/Chart.yaml
+SPDXID: SPDXRef-item7985829
+FileChecksum: SHA1: a844de5152befaa2b75161f1fc7b9940840fba07
+FileChecksum: MD5: 2a6290f3d644331f50be3004626a7678
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/kubernetes/kong-admin-service.yaml
+SPDXID: SPDXRef-item7985923
+FileChecksum: SHA1: 5b9d55079ddec186cdea2f03dbd6488671146733
+FileChecksum: MD5: a9c044d446f8b4db7b0627c0c908ce8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker-proxy/kubernetes/docker-proxy-service.yaml
+SPDXID: SPDXRef-item7985956
+FileChecksum: SHA1: d13716a87795191e1dea476684925c93c0bada6a
+FileChecksum: MD5: bf38ee8bf699971cd4826f972f2044d4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/service/kubernetes-client-service.yaml
+SPDXID: SPDXRef-item7985992
+FileChecksum: SHA1: cde61745b4e32cbfc3c57daa3d09e7684f5474fa
+FileChecksum: MD5: 174440996bd78a126cc7e81776541e86
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/service/portal-fe-service.yaml
+SPDXID: SPDXRef-item7985989
+FileChecksum: SHA1: fede7c3327a6f358207c03ac10208ac5f7cb64bd
+FileChecksum: MD5: 556f5ab78d59c23720fcfcb8a302b56a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/service/onboarding-service.yaml
+SPDXID: SPDXRef-item7985993
+FileChecksum: SHA1: 46c0b37969c30d468751ece66167799c35f56869
+FileChecksum: MD5: fbca8e8c050326833b0a0f4c7845d3d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/service/azure-client-service.yaml
+SPDXID: SPDXRef-item7985994
+FileChecksum: SHA1: b45a854b2054dbe3b88ae5a07e1f68bb4bc2d6b7
+FileChecksum: MD5: 7caa925269a05d4a94b0d49b75f9b957
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/service/dsce-service.yaml
+SPDXID: SPDXRef-item7985997
+FileChecksum: SHA1: 1192c37f5d182183eb264f7752d48ab39b8d7e82
+FileChecksum: MD5: 8399718ccfc3e296129a17ab00add470
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/service/msg-service.yaml
+SPDXID: SPDXRef-item7985995
+FileChecksum: SHA1: 287762ec5193eb404bbd73bc6c12aa6b51ea6bae
+FileChecksum: MD5: 00fd77b708305cb0ef0d6b07f987a990
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/service/portal-be-service.yaml
+SPDXID: SPDXRef-item7985999
+FileChecksum: SHA1: c067a380f8d80b6ca91f2a12da78ee3b70258357
+FileChecksum: MD5: 6f3686deeb0e007d1aa64e41dce8ee88
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker-engine/kubernetes/docker-service.yaml
+SPDXID: SPDXRef-item7986007
+FileChecksum: SHA1: 2c582de30031cbc6d0e2bf43420b46729ed4f0a5
+FileChecksum: MD5: abe8eda5828e5a751a95464c82892b6a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mariadb/docker/acumos/mariadb.yml
+SPDXID: SPDXRef-item7985846
+FileChecksum: SHA1: c9f4ded1bfd96486145a89733811b9f2fb2b6411
+FileChecksum: MD5: 0f2bc40fe5653464d1bac6134377f422
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/beats/docker/acumos/filebeat.yml
+SPDXID: SPDXRef-item7985961
+FileChecksum: SHA1: 0dab4e4c04edcf2405003ced3651e6af46f9d1ed
+FileChecksum: MD5: 5ed1916f3476f576b5a63881c14f2be6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/beats/docker/acumos/metricbeat.yml
+SPDXID: SPDXRef-item7985962
+FileChecksum: SHA1: 87ec6fe92e241fa5d6e32c5a81e9f511ae39fb5f
+FileChecksum: MD5: 84c52f75ba03b24e2ed5144f34f00810
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tools/setup_prometheus.sh
+SPDXID: SPDXRef-item7985764
+FileChecksum: SHA1: 8f8fc4bcb5b10ca6d41194780d5bceb78d123241
+FileChecksum: MD5: 618d90f87a52a315e3475be552b54ef7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tests/onboard_model.sh
+SPDXID: SPDXRef-item7985835
+FileChecksum: SHA1: 77b3200bd318d3ed08f8e8c1b29b8ae967d2ea24
+FileChecksum: MD5: 9ba94f80cbfe76c0ab2ed47a60d0de91
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/elk-stack/docker/acumos/elk.yml
+SPDXID: SPDXRef-item7986082
+FileChecksum: SHA1: 80913c908fc10a6c9207dd63416df99f648b38a8
+FileChecksum: MD5: 49879bd9c5f7ec244c41a1fbf02c88bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tests/bootstrap_models.sh
+SPDXID: SPDXRef-item7985839
+FileChecksum: SHA1: 0ecd89a83951a35cac52c88c3a15874d9f8bd551
+FileChecksum: MD5: d0c775124903a7a9db534711f0d10a6a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mariadb/docker_compose.sh
+SPDXID: SPDXRef-item7985847
+FileChecksum: SHA1: a49a298012e7831ec84731f24e210c808ae34b5c
+FileChecksum: MD5: 18ee2191d562d0c78c34758e31adb80f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/nexus/docker_compose.sh
+SPDXID: SPDXRef-item7985853
+FileChecksum: SHA1: 32df74e0be96f34073098fcf9f884571311871a9
+FileChecksum: MD5: 4ba589bdba7c8837fdd8bf00707d3a8e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/elk-stack/templates/logstash/configmap.yaml
+SPDXID: SPDXRef-item7985817
+FileChecksum: SHA1: 153c6f79ae45e9e818ade3a169d888501925fac8
+FileChecksum: MD5: a1995b9a33cdc5ad7d4ccca6dd297774
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/docker_compose.sh
+SPDXID: SPDXRef-item7985893
+FileChecksum: SHA1: ea3b2f5b0735dbc13845bf8c152af7af18631741
+FileChecksum: MD5: 48e2d6a0c681a49b109e6394ae7cb9e2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker/acumos/azure-client.yml
+SPDXID: SPDXRef-item7985866
+FileChecksum: SHA1: d5ffd919cbcf238b1a102de98003cd71f26ce320
+FileChecksum: MD5: 14503bbcc13d1cbf03f49a94b7c0f426
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker/acumos/dsce.yml
+SPDXID: SPDXRef-item7985868
+FileChecksum: SHA1: c27f8ce25cd399a3f908e817045c92cee625faca
+FileChecksum: MD5: e48e15768873a2a3989c058c38b44ed4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker/acumos/kubernetes-client.yml
+SPDXID: SPDXRef-item7985872
+FileChecksum: SHA1: 3f98566ca7fe0128a985c63d3c4acddf787c5fe4
+FileChecksum: MD5: 3da347766a2062e64f2ef91058bc7a42
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker_compose.sh
+SPDXID: SPDXRef-item7985929
+FileChecksum: SHA1: 9b8038b5e177edfac10726b320ded56b45590b5e
+FileChecksum: MD5: de8d77e8104584b22b27a6bc99e2fecf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker-proxy/docker_compose.sh
+SPDXID: SPDXRef-item7985950
+FileChecksum: SHA1: db9a3e7e1a6bfd559662aa159b56d862f87e38ca
+FileChecksum: MD5: d36cd29041b093e2b4c45ff9518ef749
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/beats/docker_compose.sh
+SPDXID: SPDXRef-item7985965
+FileChecksum: SHA1: cd4c3c554d1953e5a85b0bcc9e1ec15214c46e16
+FileChecksum: MD5: 33797aca91f0d7e22c3e80d0128fae99
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker-proxy/docker/acumos/docker-proxy.yml
+SPDXID: SPDXRef-item7985948
+FileChecksum: SHA1: 993b832e728c2b101d0cc5e6e66ea34ab89d31bf
+FileChecksum: MD5: 339f56e52900d1a9b89d30487e1db45a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/beats/metricbeat/Dockerfile
+SPDXID: SPDXRef-item7985964
+FileChecksum: SHA1: 8ca35430bd5aa55fac7ddb878f714a727002e1e0
+FileChecksum: MD5: 304750147f8152eca996f24bb752b9f8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/docker_compose.sh
+SPDXID: SPDXRef-item7986020
+FileChecksum: SHA1: fe4ac2db16f99b4761791fec41b9b80fad3f0d6d
+FileChecksum: MD5: dcf8c34a4d1400337e2687322e5c92d5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/docker/acumos/dashboard.yml
+SPDXID: SPDXRef-item7986016
+FileChecksum: SHA1: 1c7cc56e8dd8a756a4b064e54d407cbe21d7a036
+FileChecksum: MD5: 6101f34e41eb464533d6739c59ce9d5d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/docker/acumos/home.yml
+SPDXID: SPDXRef-item7986017
+FileChecksum: SHA1: 69b8d87b51592dafc558bbc041bbac7cafb3938e
+FileChecksum: MD5: 6934f072c4c9d639a58c96d4d74ab2dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/nifi/kubernetes/nifi-registry-service.yaml
+SPDXID: SPDXRef-item7986035
+FileChecksum: SHA1: aa3ba597259949502b29505d2544bd74b14db7c5
+FileChecksum: MD5: 90785d8cf15ed5e26677e0a43f20631e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-dashboard-webcomponent-service.yaml
+SPDXID: SPDXRef-item7986069
+FileChecksum: SHA1: 6c2c8c28e4cd6ed8ce1ebd480113ace89b08c8f0
+FileChecksum: MD5: c028d6096a12d04988fd25fbf52d3706
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-home-webcomponent-service.yaml
+SPDXID: SPDXRef-item7986072
+FileChecksum: SHA1: 9ad8ef52933f9cc99c4d7f66e9267f5b2322df2d
+FileChecksum: MD5: b1bb80a17ac30a8cf00a4b5a3704de45
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/elk-stack/docker_compose.sh
+SPDXID: SPDXRef-item7986087
+FileChecksum: SHA1: 699c50d568214b5b5683aaf2015aae3bd7cc72f7
+FileChecksum: MD5: f2142c3a61e1de52c123d0052443f34e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/elk-stack/logstash/pipeline/logstash.conf
+SPDXID: SPDXRef-item7986085
+FileChecksum: SHA1: e3bc3289a39ab8c34d255d4bd9065a5f6a93a7ab
+FileChecksum: MD5: 035d32bf9e1bef4c54d97fc16e67a819
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-noncore-chart/values.yaml
+SPDXID: SPDXRef-item7985641
+FileChecksum: SHA1: a488883aa0b8eed696adee6ccf96280b2954e8a5
+FileChecksum: MD5: 958031b8865ff0b7c948fc8e44ff1cfc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-noncore-chart/templates/kong/deployment.yaml
+SPDXID: SPDXRef-item7985659
+FileChecksum: SHA1: 532fcc3f72fe5c89963ea6f0b0a473be590f518c
+FileChecksum: MD5: a66e8726693f9a4095fc54feb788df3c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-noncore-chart/templates/onboarding-cli-service.yaml
+SPDXID: SPDXRef-item7985662
+FileChecksum: SHA1: 970556c438f84f64abcb336426f253f93d1afe17
+FileChecksum: MD5: ce4a3eca9557d0f4e680b1bedd78608f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-noncore-chart/templates/federation-service.yaml
+SPDXID: SPDXRef-item7985663
+FileChecksum: SHA1: 5a883a0fa29f334f05fbe107af90c978e8553c41
+FileChecksum: MD5: a82808b74365a4a0636c2be4d92bb487
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-noncore-chart/Chart.yaml
+SPDXID: SPDXRef-item7985665
+FileChecksum: SHA1: 42824e42ce48f7e8edd1ca0043c57db2658ee682
+FileChecksum: MD5: 19bc3a66c4c92749e30b91541661d603
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/camunda-helm-chart/values.yaml
+SPDXID: SPDXRef-item7985668
+FileChecksum: SHA1: 0770600daf77687c9045ac7011e05962689a7053
+FileChecksum: MD5: 23d83a05cfadbdcc4a09ec89bcf792b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/camunda-helm-chart/templates/_helpers.tpl
+SPDXID: SPDXRef-item7985670
+FileChecksum: SHA1: a5fe38390482a527bd85bef98aa99049a22fa359
+FileChecksum: MD5: 65c8045793605c8f3567e47798784fc2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/camunda-helm-chart/templates/service.yaml
+SPDXID: SPDXRef-item7985672
+FileChecksum: SHA1: fcac152c3e853180247f22b6edaa09bbd21d60bf
+FileChecksum: MD5: 97b21e22c55010853da1f85bac822d0d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/camunda-helm-chart/templates/deployment.yaml
+SPDXID: SPDXRef-item7985671
+FileChecksum: SHA1: 20d426d650844bc121001d327e00225140317f5f
+FileChecksum: MD5: a6d339b6f55fd12567a27ab089a43819
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/camunda-helm-chart/Chart.yaml
+SPDXID: SPDXRef-item7985673
+FileChecksum: SHA1: 3c51db196b7ebd5850200b446d3c00c786e9513b
+FileChecksum: MD5: 42fd9fcbb3b00db9a0e04ec47389ec14
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-redeploy-component-chart/values.yaml
+SPDXID: SPDXRef-item7985675
+FileChecksum: SHA1: 02ae5f6889510e94686553e6dbde36ace40bcfc2
+FileChecksum: MD5: 8754bd59d405285f64cf38219c05f106
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-acumos-chart/templates/acumos/service.yaml
+SPDXID: SPDXRef-item7985708
+FileChecksum: SHA1: 29b5c22462185eeabaab84001623b5bac32b28a1
+FileChecksum: MD5: 0ccaa28f8149286ac2a8270aa9f31002
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-redeploy-component-chart/templates/acumos/service.yaml
+SPDXID: SPDXRef-item7985679
+FileChecksum: SHA1: 29b5c22462185eeabaab84001623b5bac32b28a1
+FileChecksum: MD5: 0ccaa28f8149286ac2a8270aa9f31002
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-acumos-chart/templates/acumos/deployment.yaml
+SPDXID: SPDXRef-item7985706
+FileChecksum: SHA1: f16b53e9634cf9eee0b9539d96f41128df3b7728
+FileChecksum: MD5: 310853e061fd139d7345ee51d9df2a98
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-redeploy-component-chart/templates/acumos/deployment.yaml
+SPDXID: SPDXRef-item7985678
+FileChecksum: SHA1: f16b53e9634cf9eee0b9539d96f41128df3b7728
+FileChecksum: MD5: 310853e061fd139d7345ee51d9df2a98
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-elk-chart/values.yaml
+SPDXID: SPDXRef-item7985683
+FileChecksum: SHA1: ba1573a0f1b0468ee4f41ce21dd1acca95728902
+FileChecksum: MD5: 5f78b090655587995a3b9eec221833f4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-elk-chart/templates/logstash/service.yaml
+SPDXID: SPDXRef-item7985688
+FileChecksum: SHA1: 27699e3c44cbdd699ec77142c18edf9cab8fe0b9
+FileChecksum: MD5: c5c01b58d481fff189a7b73dfb73fd9d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-elk-chart/templates/logstash/deployment.yaml
+SPDXID: SPDXRef-item7985686
+FileChecksum: SHA1: cda21561cbb2926f59f9d5b93b9ddd62e98ba531
+FileChecksum: MD5: bb56211e085adcbeccff63ebd5d7e657
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-elk-chart/templates/elasticsearch/persistent-volume-claim.yaml
+SPDXID: SPDXRef-item7985690
+FileChecksum: SHA1: a656003830e71153714062f28f8e902e1e2c0469
+FileChecksum: MD5: 3d5a7dd87187a89d556603a1781f48db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-elk-chart/templates/logstash/configmap.yaml
+SPDXID: SPDXRef-item7985687
+FileChecksum: SHA1: 3e530b6922bb7fc614592f9e11fb00383d8a12e6
+FileChecksum: MD5: c996cc594b6a38aaa9c47c08b9a8af4f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-elk-chart/templates/elasticsearch/deployment.yaml
+SPDXID: SPDXRef-item7985691
+FileChecksum: SHA1: 2792ebb7f4c52f05ca240b522147c32ff2937b13
+FileChecksum: MD5: 869dfe45f6a28e5df32063677a78d9e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-elk-chart/templates/elasticsearch/service.yaml
+SPDXID: SPDXRef-item7985693
+FileChecksum: SHA1: f4dd6670bfe3feb8786325a309ba5b384be5d904
+FileChecksum: MD5: 394aba1bfaab6657db062807f2b52215
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-elk-chart/templates/elasticsearch/configmap.yaml
+SPDXID: SPDXRef-item7985692
+FileChecksum: SHA1: 254a6860b3d212aab4afa53bcf8119e4e6f24d1d
+FileChecksum: MD5: cbbeb0dafca3bf171533b629486e3edf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-elk-chart/templates/kibana/deployment.yaml
+SPDXID: SPDXRef-item7985695
+FileChecksum: SHA1: 1475769d548dd5b07e9c470adb8fe661aa6d9a3c
+FileChecksum: MD5: 05d0c7e003058b4867af36c11a493872
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-elk-chart/templates/kibana/configmap.yaml
+SPDXID: SPDXRef-item7985696
+FileChecksum: SHA1: c251c46b84d855dd3ffc1e2e9a7d3adfd0879943
+FileChecksum: MD5: 56145cb1bf5782fe4cecb5e6e7959894
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-elk-chart/templates/kibana/service.yaml
+SPDXID: SPDXRef-item7985697
+FileChecksum: SHA1: 2b961de4b3715af9e77f4d37a50c1d46dc4c7c94
+FileChecksum: MD5: a07ac0b13e6e27c8fb9608c3a99a881c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-elk-chart/Chart.yaml
+SPDXID: SPDXRef-item7985699
+FileChecksum: SHA1: 6bdba8dbe0ca4b7a5215b4c22409af0f2694f598
+FileChecksum: MD5: cf3cfbad1f6bad770151ad14c50492b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-acumos-chart/templates/acumos/persistent-volume-claim.yaml
+SPDXID: SPDXRef-item7985704
+FileChecksum: SHA1: 415de2a807d8d6025e0b04a50fb6c4957de94674
+FileChecksum: MD5: 348c779b6a01d951e37bc76cf4c96132
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tools/setup_mariadb_client.sh
+SPDXID: SPDXRef-item7985759
+FileChecksum: SHA1: 6f4b8027900ad4bf8b38e13f63b8906013d4f5f3
+FileChecksum: MD5: 785194c3e1d5e670722ce2a1e13a46f0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-acumos-chart/values.yaml
+SPDXID: SPDXRef-item7985701
+FileChecksum: SHA1: 5016c5e512622c1aab8ff2be367a3e252e58dae3
+FileChecksum: MD5: 74b04be17bb1efc8c4930e543afd010f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-acumos-chart/Chart.yaml
+SPDXID: SPDXRef-item7985710
+FileChecksum: SHA1: b961af942c2100c3c72337e753584b210bb74462
+FileChecksum: MD5: 845af9fa87caf14730012c61113040a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/elk-stack/templates/logstash/service.yaml
+SPDXID: SPDXRef-item7985818
+FileChecksum: SHA1: 11528b2f7ad4d202011b57fe39269c9b694f06cf
+FileChecksum: MD5: 1d732cae1873e6b0783a0eeea06533c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/elk-stack/templates/logstash/deployment.yaml
+SPDXID: SPDXRef-item7985816
+FileChecksum: SHA1: dc0c7b735319ed30e2809d7f5e2e9183d3eda5f8
+FileChecksum: MD5: bfad9c481fc4ece6f230b5ad12d12ef4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/elk-stack/templates/elasticsearch/persistent-volume-claim.yaml
+SPDXID: SPDXRef-item7985820
+FileChecksum: SHA1: 21dfc6c69bdaeb59ca729b173e1df5fc2d4c0796
+FileChecksum: MD5: e9a09e97d039297829235861386465dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tests/create_peer.sh
+SPDXID: SPDXRef-item7985834
+FileChecksum: SHA1: 48c53f957d9779d69d7969c22bd986ae5c537bac
+FileChecksum: MD5: 705ed1c85e751e7bb6292262f1c8bad6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tests/peer_test.sh
+SPDXID: SPDXRef-item7985837
+FileChecksum: SHA1: d66c5120ef857da94b075e9946089b98f0f5f32f
+FileChecksum: MD5: 5f63f96bdda4d64e4caaeda7a795217e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/elk-stack/templates/elasticsearch/deployment.yaml
+SPDXID: SPDXRef-item7985821
+FileChecksum: SHA1: dd252e6fb03e7c094175ce1de36c17487e54cb7c
+FileChecksum: MD5: 1391e7b22f170945b5e4261728edafe6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker/acumos/portal-fe.yml
+SPDXID: SPDXRef-item7985874
+FileChecksum: SHA1: 39e06dd49636694d59fe97d0dc9e3c8c2aee025f
+FileChecksum: MD5: c4196f7109d3bc3964e34fcc8a52b559
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker/acumos/common-data-svc.yml
+SPDXID: SPDXRef-item7985870
+FileChecksum: SHA1: 1d5026a1c8c670446bdb9dd3cfdebf166e1ab718
+FileChecksum: MD5: 5d33beeee7264a95d714a4a44c244d1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/service/cds-service.yaml
+SPDXID: SPDXRef-item7986000
+FileChecksum: SHA1: 54b39a0cccdc2375bd14393f3331ca2163f21564
+FileChecksum: MD5: a34346b21cb82c22af2372d737764654
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/service/sv-scanning-service.yaml
+SPDXID: SPDXRef-item7986001
+FileChecksum: SHA1: c63cda91cd309113b99646aaa9ae7873b473111e
+FileChecksum: MD5: 6c19bbe7536344b47eade691c28e4a97
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tools/setup_k8s_stack.sh
+SPDXID: SPDXRef-item7985757
+FileChecksum: SHA1: 7318dce68fae6877d810bdc9077ec105c05d3f5e
+FileChecksum: MD5: 02a4b1a683bc0ad1d617f227c5c92033
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tools/setup_helm.sh
+SPDXID: SPDXRef-item7985761
+FileChecksum: SHA1: ab65f15dcbe9cff85c2c60ebf2be59f67d0d7728
+FileChecksum: MD5: fabb7363840ee1e049d8fd91c636436b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/jenkins/jenkins-ingress.yaml
+SPDXID: SPDXRef-item7985792
+FileChecksum: SHA1: f874d0a93e57480d6136e7e8d64b58d573e5e33e
+FileChecksum: MD5: 9bfd3fa7a74ad43eb2bf3a9fbdb680c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tests/delete_user.sh
+SPDXID: SPDXRef-item7985838
+FileChecksum: SHA1: 3482d2694b009df30cdafe1fb617dd613920eb6f
+FileChecksum: MD5: 53054f26dda5db836883dc241a28ae7d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/elk-stack/values.yaml
+SPDXID: SPDXRef-item7985812
+FileChecksum: SHA1: a1603ea5572708111ac8f76c821cfd5fd59adc4b
+FileChecksum: MD5: aec4ed3c3f8e87bad69825157342e88d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tools/aio_k8s_deployer/deploy/aio_k8s_deployer.yaml
+SPDXID: SPDXRef-item7985775
+FileChecksum: SHA1: 82b015507bfbf4e02307cb6b87b4eb8227cc98ce
+FileChecksum: MD5: 25b140b3ce3ea9c532f70dfc1f92d562
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/beats/beats_env.sh
+SPDXID: SPDXRef-item7985969
+FileChecksum: SHA1: 5cdcefead8f39d15cebbcdad6fb87741908f39f0
+FileChecksum: MD5: 81f63daae1203237eb889667b9c3e86b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/service/deployment-client-service.yaml
+SPDXID: SPDXRef-item7985991
+FileChecksum: SHA1: 2e1a8bab9199a5cb38c46aa7f687db03d5a2811c
+FileChecksum: MD5: 682168aa88fc87e9f1695bc96bfe3cb3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/limit-range.yaml
+SPDXID: SPDXRef-item7986002
+FileChecksum: SHA1: e685c902350a8f12f56010ac48e2375cc2e67ca7
+FileChecksum: MD5: c932d92c2100d29dbf13ffd4b36c34b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/docker/acumos/project.yml
+SPDXID: SPDXRef-item7986018
+FileChecksum: SHA1: cc0b4709ba26c53dc2c2a11558bfef51b0e3a42b
+FileChecksum: MD5: cdb4f81c0464d3472fd6d9a4627290aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-project-service-service.yaml
+SPDXID: SPDXRef-item7986042
+FileChecksum: SHA1: 60083d83f8d74edf7cd6bf32e7bbad3cda733f24
+FileChecksum: MD5: 4a613680e63f65fe0316a2b975dbe29e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/docker/acumos/notebook.yml
+SPDXID: SPDXRef-item7986019
+FileChecksum: SHA1: 4324086d6c250dce5b1e730a98d0c6d26b1a685d
+FileChecksum: MD5: 464281bfb5a7fd07759147ed01512d9d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-project-catalog-webcomponent-service.yaml
+SPDXID: SPDXRef-item7986046
+FileChecksum: SHA1: 631bca9fe1cc9c1e305e28107cc04da1f86a6af1
+FileChecksum: MD5: ae370149fdba87c5f84bc8c9044c6feb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-notebook-webcomponent-service.yaml
+SPDXID: SPDXRef-item7986049
+FileChecksum: SHA1: 73c7a71d0c2a50715b8e7a487512a8ff1e30c323
+FileChecksum: MD5: a04c24b4d70f34f08b278e094e9105ab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-pipeline-service-service.yaml
+SPDXID: SPDXRef-item7986052
+FileChecksum: SHA1: ef8bb15962bea0b916f0da8f21f287136b1e51a2
+FileChecksum: MD5: 7272b2cc1ab70895fbe8865ec40e4dd6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-notebook-catalog-webcomponent-service.yaml
+SPDXID: SPDXRef-item7986047
+FileChecksum: SHA1: 80be7d2b8190ab144b02b99f203fe72d922d4c04
+FileChecksum: MD5: c8d2967ed0634e8b38fa65fabfd9c5a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-notebook-service-service.yaml
+SPDXID: SPDXRef-item7986053
+FileChecksum: SHA1: 6484739967a0ea314a69f69d29bfdd6d3f637a1f
+FileChecksum: MD5: c6ab1342ed9cb685925296e3b7db9463
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-model-service-service.yaml
+SPDXID: SPDXRef-item7986055
+FileChecksum: SHA1: eed494b590600c3219827a71c9c48019e9abf50c
+FileChecksum: MD5: e8ee72c957f4086a295dbe04ce48b8c9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-predictor-service-service.yaml
+SPDXID: SPDXRef-item7986058
+FileChecksum: SHA1: 84be5f7f8987c9b36f724e5ba10692dcd103d176
+FileChecksum: MD5: 11f1186e3c167b4b0663d40b9cab0be3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-pipeline-catalog-webcomponent-service.yaml
+SPDXID: SPDXRef-item7986071
+FileChecksum: SHA1: c19cb22242551f1438b4e28e3c365b93f130fb18
+FileChecksum: MD5: e72c9534ded3a477b2d30b6bd2f04b97
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-pipeline-webcomponent-service.yaml
+SPDXID: SPDXRef-item7986068
+FileChecksum: SHA1: 7c3188219d528cd5ab3eda75f29aee097195b27f
+FileChecksum: MD5: 67871a3047b62ee356f8cc16547567f5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tools/setup_k8s.sh
+SPDXID: SPDXRef-item7985754
+FileChecksum: SHA1: 641caaa243bddb1579a1199725cbd8e644524aba
+FileChecksum: MD5: 33ee64b942b5e9bd7c412e6f6590356f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tools/setup_docker.sh
+SPDXID: SPDXRef-item7985755
+FileChecksum: SHA1: 25726493802142c053ac81e1fecd672107a341c9
+FileChecksum: MD5: 9e92f0b3929b53af8b3a6dd5ce9459c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tools/aio_k8s_deployer/deploy/customize_env.sh
+SPDXID: SPDXRef-item7985770
+FileChecksum: SHA1: 7570e2eb2a343506a9cb5495068fd5ff4c804e8b
+FileChecksum: MD5: b5ad5f63f795f446adf45241c2272c1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/mariadb/setup_mariadb_env.sh
+SPDXID: SPDXRef-item7985778
+FileChecksum: SHA1: 2f54cc9059cb3e2ecfb59f004b5375a12aba5f9a
+FileChecksum: MD5: c0d3e856cd9b8c5c09357fcf1345b049
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-project-webcomponent-service.yaml
+SPDXID: SPDXRef-item7986074
+FileChecksum: SHA1: b4f7a26fd89b930a0c710e32bd9c69845ff823bd
+FileChecksum: MD5: a533dea95d8e271124c379e9bbd25c1f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/mariadb/setup_mariadb.sh
+SPDXID: SPDXRef-item7985779
+FileChecksum: SHA1: b0ca2aebc93a707e95587ff6bcb8ad49b760fb41
+FileChecksum: MD5: 22ef8f290c66cdf9c9688c75ae22fa2f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/couchdb/setup_couchdb.sh
+SPDXID: SPDXRef-item7985788
+FileChecksum: SHA1: ad84d46866e76286eca2aab053d3ee5bb58fa591
+FileChecksum: MD5: 47c0b6cee6674127f73148cc51d2cbba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tools/aio_k8s_deployer/deploy/kubectl/Dockerfile
+SPDXID: SPDXRef-item7985772
+FileChecksum: SHA1: 1e4cb8a9e50029d39e509e569d0a0ecd481ddb91
+FileChecksum: MD5: 6f4e3adad7c824ce0b6bde496682cf37
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/jenkins/jobs/springenv.xml
+SPDXID: SPDXRef-item7985799
+FileChecksum: SHA1: fc2fe43b3d85d6e80ac0cb8ea9235db5d158a4d5
+FileChecksum: MD5: 49a57e792fc2e144f5b926790e6697d9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/jenkins/jobs/initial-setup.xml
+SPDXID: SPDXRef-item7985800
+FileChecksum: SHA1: bbae58744ffbb2754d706ee5f4d1f563a4a030c7
+FileChecksum: MD5: 185c8cbef54979171eb56155a55e5c1b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tools/aio_k8s_deployer/deploy/oc/Dockerfile
+SPDXID: SPDXRef-item7985774
+FileChecksum: SHA1: 9ae871be67c8b415109d32c1614a5f0e62df4a27
+FileChecksum: MD5: e22b9ffee0b29469b49c4b188812990e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/elk-stack/setup_elk_env.sh
+SPDXID: SPDXRef-item7985811
+FileChecksum: SHA1: 4f6716129fd487376b914daf10bfba1895de018c
+FileChecksum: MD5: bf1697b6e29eb34f23de75f2a751b059
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/elk-stack/setup_elk.sh
+SPDXID: SPDXRef-item7985813
+FileChecksum: SHA1: 0abaaa4d8f8dd413465b1bb9ea931fda6cc9a04e
+FileChecksum: MD5: ebdebaee1ffdaf53089e0748a7762ce0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tests/create_subscription.sh
+SPDXID: SPDXRef-item7985836
+FileChecksum: SHA1: 32aeb9eeea98b691375022ec650328626328a855
+FileChecksum: MD5: 4081a241c20c9da313d2947dc461dbb5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tests/create_user.sh
+SPDXID: SPDXRef-item7985833
+FileChecksum: SHA1: 717235fce199849bfdb155c22bce389186bfe9eb
+FileChecksum: MD5: c22de8876f461f3a9f9352059c52a743
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/jenkins/Dockerfile
+SPDXID: SPDXRef-item7985801
+FileChecksum: SHA1: 89d71db79b35a3d705625eda27d493228f871c82
+FileChecksum: MD5: 33e04745571e0dfef8e7bb2f6be9329c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/nexus/docker/acumos/nexus.yml
+SPDXID: SPDXRef-item7985852
+FileChecksum: SHA1: a36589f26f8f38305a371dffaaaf5ce72375bc3e
+FileChecksum: MD5: 66eea75924d83857aef814ce2bfc8f02
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/nexus/kubernetes/nexus-deployment.yaml
+SPDXID: SPDXRef-item7985855
+FileChecksum: SHA1: e39fe834f0819a394226d3e7b3af4e7017431cdb
+FileChecksum: MD5: c7488fca3231771b2074ee4ef996e2c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/nexus/kubernetes/nexus-service.yaml
+SPDXID: SPDXRef-item7985856
+FileChecksum: SHA1: dd8fbceccfae8f2839f2992ed40d81336a12a91a
+FileChecksum: MD5: 4247c04e618319fe54880940aa68a2e8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker/acumos/deployment-client.yml
+SPDXID: SPDXRef-item7985865
+FileChecksum: SHA1: a024116e3841d05e4b4066150c19506be30a0339
+FileChecksum: MD5: 30a2e7d695a704dddcc672440d43c931
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/docker/acumos/kong.yml
+SPDXID: SPDXRef-item7985892
+FileChecksum: SHA1: 5d21946b318493e0d1ac99be3d8487e7bb8619e9
+FileChecksum: MD5: ac709c23a05893900f73348b5ac21274
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/kubernetes/kong-deployment.yaml
+SPDXID: SPDXRef-item7985922
+FileChecksum: SHA1: 2d054701f9830d6213430c02645ed65f111c1776
+FileChecksum: MD5: 3c010addbcab5d1197df8544132ce137
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/kubernetes/kong-service.yaml
+SPDXID: SPDXRef-item7985925
+FileChecksum: SHA1: 10b73be65a8d24ec87aa1ed78c6d1f8ca6603c5e
+FileChecksum: MD5: 46837b607d8426513cb442eeca9d0075
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/kubernetes/kong-configure-job.yaml
+SPDXID: SPDXRef-item7985926
+FileChecksum: SHA1: 6c1a0ff27cb7e242ad40961b1a2f84785307c8c7
+FileChecksum: MD5: 725845e98976820db3163f5c10eef53f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/setup_prereqs.sh
+SPDXID: SPDXRef-item7985942
+FileChecksum: SHA1: 9bffae15a3fa3fb20d33a9261d1790d20cc363b1
+FileChecksum: MD5: 6526905c57d53c7cfceb47af9712fc88
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/beats/kubernetes/filebeat-deployment.yaml
+SPDXID: SPDXRef-item7985972
+FileChecksum: SHA1: d25aa36d19b132d90fa8606ed3a592e4fd1d4e6e
+FileChecksum: MD5: 0d1804432b5df9e4b7665da2c733dc4d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/deployment/deployment-client-deployment.yaml
+SPDXID: SPDXRef-item7985978
+FileChecksum: SHA1: 43f4e8c658f099c52f14f52cb02a996fc25ab4b3
+FileChecksum: MD5: 7d864679b6dc92ff3758b5d0b9b4ead6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/deployment/portal-be-deployment.yaml
+SPDXID: SPDXRef-item7985979
+FileChecksum: SHA1: 4a0f524ee72ba6f3ecc02127d1b8f85a9bef02da
+FileChecksum: MD5: d6172536517a714090d164b8b8b90ae7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/deployment/portal-fe-deployment.yaml
+SPDXID: SPDXRef-item7985980
+FileChecksum: SHA1: e4c36effdae0468a85f4d804b0c111aaf16f5e75
+FileChecksum: MD5: 29a1400f064062d6c9cd8e1e6afa8216
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/deployment/dsce-deployment.yaml
+SPDXID: SPDXRef-item7985981
+FileChecksum: SHA1: c756d086692c7c39fc378de815f04471c9f44d1a
+FileChecksum: MD5: 812b8e27233f7280f6d2766c76419115
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/deployment/cds-deployment.yaml
+SPDXID: SPDXRef-item7985982
+FileChecksum: SHA1: 7265fa759ac74743c8b0df4e9ed466b4c900fac0
+FileChecksum: MD5: a0b505f4977c75d10b3975712e50ec16
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/deployment/azure-client-deployment.yaml
+SPDXID: SPDXRef-item7985984
+FileChecksum: SHA1: 2492f69bc4c09a091588aa8217aa3d098ce17427
+FileChecksum: MD5: edc7a39dbd194c3e4b03ac54146d5a00
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/deployment/kubernetes-client-deployment.yaml
+SPDXID: SPDXRef-item7985985
+FileChecksum: SHA1: 9e3f7bbb428f1e39c09bb04cbf0c4ca7d48842cd
+FileChecksum: MD5: 3395141b99293851cbd56b86f0f5745a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/clean.sh
+SPDXID: SPDXRef-item7986012
+FileChecksum: SHA1: 7216a6365771a299fbab50f73858b5e317ae5638
+FileChecksum: MD5: 16b4f59d2dee3928be7d57fbb5ffedba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker-engine/kubernetes/docker-deployment.yaml
+SPDXID: SPDXRef-item7986008
+FileChecksum: SHA1: e305b8f1e12d44297be25347782ea040b7bb43ea
+FileChecksum: MD5: 36eb504d546ce7cf288e30cbaec4a1e2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/nifi/kubernetes/nifi-registry-deployment.yaml
+SPDXID: SPDXRef-item7986033
+FileChecksum: SHA1: 9a971583b982637d1be86632cb9c2b73ac1751e2
+FileChecksum: MD5: 77c90ebde748f5f6ed0fb26c18b7fb14
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-dashboard-webcomponent-deployment.yaml
+SPDXID: SPDXRef-item7986050
+FileChecksum: SHA1: 79e93a35a71fcb3686b50a8127985d4ca0e11e58
+FileChecksum: MD5: 2cd5da22d0e87679de91315e657c2412
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-pipeline-service-deployment.yaml
+SPDXID: SPDXRef-item7986045
+FileChecksum: SHA1: 6acca96eab85eb02934304c34247ed8078ad6de0
+FileChecksum: MD5: 1517ac2d79b86ae00204b45b917d96e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-pipeline-catalog-webcomponent-deployment.yaml
+SPDXID: SPDXRef-item7986051
+FileChecksum: SHA1: 23b5a35a36ff87ef512f5cc9bfcd2b033ed8fcd1
+FileChecksum: MD5: 5c1f82a8800fc640239d935443121c1d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-home-webcomponent-deployment.yaml
+SPDXID: SPDXRef-item7986054
+FileChecksum: SHA1: 911532168016a2056b0c78af2d2251497c9a1c2d
+FileChecksum: MD5: 07994eb043049d9d693f1591a8f017ad
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-project-webcomponent-deployment.yaml
+SPDXID: SPDXRef-item7986060
+FileChecksum: SHA1: a50fba576da99748681fef05e5d4bfd0817f3ee6
+FileChecksum: MD5: 5281a26fe143a24b6e467b193693c483
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-pipeline-webcomponent-deployment.yaml
+SPDXID: SPDXRef-item7986061
+FileChecksum: SHA1: 9ea6309ed62c9dbe4a12fddb9dab43fb84eb54ec
+FileChecksum: MD5: 08ae885c94e7a06132b1ea820825aa0e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-model-service-deployment.yaml
+SPDXID: SPDXRef-item7986062
+FileChecksum: SHA1: 875a1fcddc3ad25411002470493e88992d4e5a2f
+FileChecksum: MD5: 4343c8bcc45d44354d7e78394d97d253
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-project-service-deployment.yaml
+SPDXID: SPDXRef-item7986066
+FileChecksum: SHA1: 8d77746a570c7b66bcf7c422a34124b74066e503
+FileChecksum: MD5: 2738429b56f0759ecfa708770f865253
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-notebook-catalog-webcomponent-deployment.yaml
+SPDXID: SPDXRef-item7986065
+FileChecksum: SHA1: 1dfd92f9f022bafd8b53264b0865bd68a5bab53d
+FileChecksum: MD5: 561f903fd480f36ab7781fa9ccedeb23
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-notebook-webcomponent-deployment.yaml
+SPDXID: SPDXRef-item7986067
+FileChecksum: SHA1: 5bb00ffb11991f7b6e7cd4438639cc43ab459b15
+FileChecksum: MD5: 51b382e5ddb87263d2f4449d4d3df920
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/redeploy_component.sh
+SPDXID: SPDXRef-item7986093
+FileChecksum: SHA1: 0e2ea7e2c340b90742296b3e6604205d5b99b1da
+FileChecksum: MD5: ee2f66cea63657a3b044504344050dea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-predictor-service-deployment.yaml
+SPDXID: SPDXRef-item7986070
+FileChecksum: SHA1: dec5ef806678eab3f0077b3aaf71f92fa9c446b2
+FileChecksum: MD5: d06dcf25e98f5fa13dbaf2e038be357e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-project-catalog-webcomponent-deployment.yaml
+SPDXID: SPDXRef-item7986076
+FileChecksum: SHA1: 85e8d47b9adf26b3e35c8d498a7850357d6e8b17
+FileChecksum: MD5: b7835cdd317b1c93c4fc724aee288cc7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tools/aio_k8s_deployer/aio_k8s_deployer.sh
+SPDXID: SPDXRef-item7985768
+FileChecksum: SHA1: 662a11f56af375c09da83ede6f2b8eae76ce81ab
+FileChecksum: MD5: 3912c4fe21a2695f587e656357797251
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/jenkins/setup_jenkins.sh
+SPDXID: SPDXRef-item7985791
+FileChecksum: SHA1: 59ade8073fb518b3885a3f99141e5b210d80e7f7
+FileChecksum: MD5: c923566928b8f2105ff010a3549b8ba7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/jenkins/jobs/kubectl.xml
+SPDXID: SPDXRef-item7985794
+FileChecksum: SHA1: 135f1c29a19064fca305dc993097b18b269cbb87
+FileChecksum: MD5: ad326f6e865117ce597ebd2ffbd0b2a4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/jenkins/jobs/clean-sv-scan-data.xml
+SPDXID: SPDXRef-item7985795
+FileChecksum: SHA1: b5d85b968c51905b89ad1bac9da7844a2c4eb76b
+FileChecksum: MD5: 73d10c2dca322bf9b848e1e3da14740f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/jenkins/jobs/kubectl-exec.xml
+SPDXID: SPDXRef-item7985796
+FileChecksum: SHA1: aef69d2e8e87fc7b11dbf04410e5165d51699791
+FileChecksum: MD5: 029a6154331c19604d0007d2e2249b7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/jenkins/jobs/kubectl-images.xml
+SPDXID: SPDXRef-item7985797
+FileChecksum: SHA1: d796a6282a9b0cd0028401f62831c08aeb6d7535
+FileChecksum: MD5: b777f349188a25f3ae6a660e78ee3035
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/jenkins/jobs/kubectl-logs.xml
+SPDXID: SPDXRef-item7985798
+FileChecksum: SHA1: 822a63406fc936a73a7a93259af6b9c76b3ef7cb
+FileChecksum: MD5: 570957d13289c3bd6ec6916bf706e58d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/jenkins/values.yaml
+SPDXID: SPDXRef-item7985790
+FileChecksum: SHA1: c31bab6f84bb32faf0c904c76d2c9ac848e8611f
+FileChecksum: MD5: 992232a6a24bf3be4bb3d5adde9183dc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/utils.sh
+SPDXID: SPDXRef-item7985842
+FileChecksum: SHA1: 50415935748cee76222e732e26d9b243972f58ef
+FileChecksum: MD5: 620f24aceab2f3d58cd7109d87f39db4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/nexus/setup_nexus_env.sh
+SPDXID: SPDXRef-item7985859
+FileChecksum: SHA1: e1524bb695997c966fc8e37c53d3fc8df4a2211a
+FileChecksum: MD5: a418b4d641b408ada169a6c57ce4ca2e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker/acumos/microservice-generation.yml
+SPDXID: SPDXRef-item7985862
+FileChecksum: SHA1: 2ceac934655c2e7e4aaecc8b396f690d0f3d476a
+FileChecksum: MD5: 040ef50eb675304dfde0415a5abfbbd4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker/acumos/onboarding.yml
+SPDXID: SPDXRef-item7985869
+FileChecksum: SHA1: af787331a996583e209af28790d5c46847be53bd
+FileChecksum: MD5: 7d4b90e051306a43859358784345a1cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker/acumos/portal-be.yml
+SPDXID: SPDXRef-item7985863
+FileChecksum: SHA1: fdf6896ba41797119d766765cd01dbd6fd12040b
+FileChecksum: MD5: d57680ceaf70e82bfbca60568c70968d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/lum/docker_compose.sh
+SPDXID: SPDXRef-item7985882
+FileChecksum: SHA1: 1d364df8d7eca04af27ae1a334423ed98ff96211
+FileChecksum: MD5: 62518aac92bc452b19a03e5db7230c66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker/acumos/federation.yml
+SPDXID: SPDXRef-item7985873
+FileChecksum: SHA1: 1e5797223212d2396fa6096ca7ca8781882eb0c4
+FileChecksum: MD5: 9346da1d539a9316714e0d8c33ff7b33
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/oneclick_deploy.sh
+SPDXID: SPDXRef-item7985888
+FileChecksum: SHA1: a9557ef8e4ee14928ede4d7c30d90174787f2f4c
+FileChecksum: MD5: b0de07ea3320a981fef3723f1b87a2c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/acumos_env.sh
+SPDXID: SPDXRef-item7985943
+FileChecksum: SHA1: 1a3df91e78b835c475897faf51bc8db2dbead772
+FileChecksum: MD5: 04d36db5ee50aee4683281b11e4d6857
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker-proxy/setup_docker_proxy.sh
+SPDXID: SPDXRef-item7985945
+FileChecksum: SHA1: bc6799170e2ba06298c95a3421574cd4299a0685
+FileChecksum: MD5: fb6fda75d2d36af62e067991bda95a6c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker-proxy/kubernetes/docker-proxy-deployment.yaml
+SPDXID: SPDXRef-item7985955
+FileChecksum: SHA1: 4bf4176a16ab97493fcdadb19d431689a6dda1be
+FileChecksum: MD5: dc54c0d0e97e686528f774021b51e5f1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/deployment/federation-deployment.yaml
+SPDXID: SPDXRef-item7985986
+FileChecksum: SHA1: 788942228c3910e308565a5e40dc7570e8d7db34
+FileChecksum: MD5: 70ca1f6a19e4b8def955b35e95cb06ff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker-engine/setup_docker_engine.sh
+SPDXID: SPDXRef-item7986009
+FileChecksum: SHA1: d936e178abf05bb0a60615620f8e72ae0b41f4dd
+FileChecksum: MD5: b8ba5b63bf7a58f69524ca00452083bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/mlwb_env.sh
+SPDXID: SPDXRef-item7986038
+FileChecksum: SHA1: 9de4e15559338b635f8c0764fd4ec1076bf50864
+FileChecksum: MD5: cf6ca31bd6c2f9a9eb5f17c17f03dbf3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/deployment/msg-deployment.yaml
+SPDXID: SPDXRef-item7985987
+FileChecksum: SHA1: cb94bf98b059e2322ef20c956eed5ed5be51f3d1
+FileChecksum: MD5: 11b62249d481a1facdc1b2dd8ad7b36e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kubernetes/deployment/onboarding-deployment.yaml
+SPDXID: SPDXRef-item7985975
+FileChecksum: SHA1: 13557c8e4c755d0fbd4ee23c8eb8e16ad42ce7a9
+FileChecksum: MD5: 4e66492b4a9f3e05bc4f1e7d688cb9d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-notebook-service-deployment.yaml
+SPDXID: SPDXRef-item7986041
+FileChecksum: SHA1: 8fc18e27c03f41e7109c6f4a41f9fdd35939bee4
+FileChecksum: MD5: 3ae2fce573dd88a21d246383ca481eb5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/jupyterhub/scripts/acumos-push.py
+SPDXID: SPDXRef-item7985807
+FileChecksum: SHA1: 3becbd78042d1e980a1e7474fc011a5e606f3841
+FileChecksum: MD5: 140f8c83b090f165b77744770ef56012
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/configure_kong.sh
+SPDXID: SPDXRef-item7985900
+FileChecksum: SHA1: 6ca8e59bf84a4b1ed540499eaa67f054e25a4f97
+FileChecksum: MD5: 96d2b07619f66f467018ac44b22725da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker-proxy/auth/nginx.conf
+SPDXID: SPDXRef-item7985952
+FileChecksum: SHA1: cee7d33959567c3fdd485270da7ea8fe4fdd10e2
+FileChecksum: MD5: be58e16db3201aad5028ab2c4c08374a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/docker-proxy/auth/acumos_auth.py
+SPDXID: SPDXRef-item7985953
+FileChecksum: SHA1: 42af99c24391e27179caa8b4dc34f475123c3d86
+FileChecksum: MD5: 724f29c13844e9042402b939f4753bd4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: system-integration/tools/trust_cert.sh
+SPDXID: SPDXRef-item7985760
+FileChecksum: SHA1: dbc9bc422b464e4e59c9e89b6570de025e9dc934
+FileChecksum: MD5: b9b9c41aaf290390c32e060a70841358
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tools/setup_openshift.sh
+SPDXID: SPDXRef-item7985758
+FileChecksum: SHA1: 8ef5c70fb90e72a1e43b305f994d712cdb300bb5
+FileChecksum: MD5: 0f6fa139d7f52db8d59b7cc28d22f7c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tools/setup_openshift_client.sh
+SPDXID: SPDXRef-item7985765
+FileChecksum: SHA1: d042ab6f4c94e2cc7b4a9348b4953286d2954429
+FileChecksum: MD5: 98615360bb80c455a84d076d8a77c7bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/ingress/templates/portal-ingress.yaml
+SPDXID: SPDXRef-item7985941
+FileChecksum: SHA1: 12c7ac938713da4eb91cbe0880bbc6c607632a61
+FileChecksum: MD5: 57e9b4050fdac6cdfcb748fe9fcf799d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/ingress/templates/zeppelin-ingress.yaml
+SPDXID: SPDXRef-item7985937
+FileChecksum: SHA1: 6cdba444533913b9ad15ddc816a0284087c250a2
+FileChecksum: MD5: b42d36b971d5216ce1051c8c0fab0e50
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/ingress/templates/cds-ingress.yaml
+SPDXID: SPDXRef-item7985934
+FileChecksum: SHA1: 0c91244c58173215bb931ef02d1173700a0216b8
+FileChecksum: MD5: ca3f54814018398fee125c488174045c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/nifi/templates/service_admin.yaml
+SPDXID: SPDXRef-item7986023
+FileChecksum: SHA1: 62111a130894f38293951d56909d8e957a0e36f0
+FileChecksum: MD5: f6a15b04317dd895b16d8af6db153ad7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/nifi/templates/ingress.yaml
+SPDXID: SPDXRef-item7986025
+FileChecksum: SHA1: e837f51372c56db8e19c95710e6f7fa00e0e56e0
+FileChecksum: MD5: 7768f645b251cb590a3cf3935e368076
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/nifi/templates/service.yaml
+SPDXID: SPDXRef-item7986029
+FileChecksum: SHA1: f20e813cfb716a720514629d75ae9edb5fed29a7
+FileChecksum: MD5: 7a127659300bf80a3f54099a9f7a597c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/nifi/templates/setup_nifi_certs.sh
+SPDXID: SPDXRef-item7986028
+FileChecksum: SHA1: eb04b007c79128502673150f953f2852da604471
+FileChecksum: MD5: d38b9dca019ad6a23decd993e49fa0c9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/nifi/kubernetes/nifi-registry-apache-configmap.yaml
+SPDXID: SPDXRef-item7986032
+FileChecksum: SHA1: 1b8c31a8ecab77add515c5e63456dce80cfd87a3
+FileChecksum: MD5: 84512ad766809c5984a2782f1f283246
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/nifi/kubernetes/ingress-registry.yaml
+SPDXID: SPDXRef-item7986031
+FileChecksum: SHA1: 199c124528d5600945743b1c7bbc9e0e20600ca1
+FileChecksum: MD5: 6f93cabf0f36c66618e7ce470690cdd6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-pipeline-service-ingress.yaml
+SPDXID: SPDXRef-item7986040
+FileChecksum: SHA1: 1cf43614bc187c3bf65527387f24c8ab4f5ad6bb
+FileChecksum: MD5: 3ab53293d70c1876681c4de63287d816
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-project-webcomponent-ingress.yaml
+SPDXID: SPDXRef-item7986044
+FileChecksum: SHA1: a316c6434e99ac7d4cf0611493da6e3323034292
+FileChecksum: MD5: d04a3bc3e9ce231efdf96b93bcced302
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-dashboard-webcomponent-ingress.yaml
+SPDXID: SPDXRef-item7986048
+FileChecksum: SHA1: 84a3651036a5100490efa0ba12077fa56f2c929c
+FileChecksum: MD5: 5a37466e0eb75127904ad0ce208db1fe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-notebook-catalog-webcomponent-ingress.yaml
+SPDXID: SPDXRef-item7986043
+FileChecksum: SHA1: 1d4047f3be15a23834360644343d05fa380aa3fe
+FileChecksum: MD5: 4a22b33644b80b71ae42c7004ef1c509
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-project-service-ingress.yaml
+SPDXID: SPDXRef-item7986059
+FileChecksum: SHA1: 355fea219957cfce7336e46748abfe5adfc52062
+FileChecksum: MD5: 55fd915d4dd7774da3cec3c2f8223a2b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-notebook-service-ingress.yaml
+SPDXID: SPDXRef-item7986056
+FileChecksum: SHA1: 1ac77431fc1a2a880e2ba16a9896f6a97aaa6268
+FileChecksum: MD5: d17ba9c050cff5abeac5af6f4551b04f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-pipeline-catalog-webcomponent-ingress.yaml
+SPDXID: SPDXRef-item7986057
+FileChecksum: SHA1: d8c71af27ea52c3f34eabac171f4e81691daf5ba
+FileChecksum: MD5: 71222aa1218c2ed9272c3d451875d0a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-project-catalog-webcomponent-ingress.yaml
+SPDXID: SPDXRef-item7986063
+FileChecksum: SHA1: dd0016d869de542c46c595d4df73d6e4e146c157
+FileChecksum: MD5: eb6dd1984ac40401cb5095befabc960a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-pipeline-webcomponent-ingress.yaml
+SPDXID: SPDXRef-item7986073
+FileChecksum: SHA1: e13966247a889dd9df7aa60f69abf63c47c96321
+FileChecksum: MD5: 0c24cb1097d29ac95814abd21d1c115d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-notebook-webcomponent-ingress.yaml
+SPDXID: SPDXRef-item7986075
+FileChecksum: SHA1: a1f7845e90f7746e7d5d07a0d0b1c9da775e39dc
+FileChecksum: MD5: 3cabd2b9c845b559a922092817d24c5d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/kubernetes/mlwb-home-webcomponent-ingress.yaml
+SPDXID: SPDXRef-item7986064
+FileChecksum: SHA1: 2821c10f3493388420178bc66fd1b50c9ed37777
+FileChecksum: MD5: 18c6331550e96c33775ac9ec77991e6a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/zeppelin/setup_zeppelin.sh
+SPDXID: SPDXRef-item7985786
+FileChecksum: SHA1: 7797ebb60a0963ce45e3dd70bf0cf7d199fca814
+FileChecksum: MD5: 01b236f6cd9b9908a613a51ca55fdde4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/ingress/templates/onboarding-ingress.yaml
+SPDXID: SPDXRef-item7985935
+FileChecksum: SHA1: b816fe1c8209894fc25b83e0d8a3c8744a45eeeb
+FileChecksum: MD5: 2d45c500e8a88142727231852e4f5669
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/ingress/templates/k8s-client-ingress.yaml
+SPDXID: SPDXRef-item7985936
+FileChecksum: SHA1: 53d54698ababb6d10219e0da618be349a7137b76
+FileChecksum: MD5: f2e10484cfb87898f9d4e87a0eb6a503
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tools/setup_kubectl.sh
+SPDXID: SPDXRef-item7985763
+FileChecksum: SHA1: 2fdc850c2da65e952157c02a408824e4c8143b6a
+FileChecksum: MD5: 9387b77edba334c3896fcf9d2ceedeee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tools/add_host_alias.sh
+SPDXID: SPDXRef-item7985766
+FileChecksum: SHA1: ba4872ae66f17293d36abbeb8a8431e2eb6e234c
+FileChecksum: MD5: 6fc63ac54eed08c164fde96096ba9e6d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/nifi/templates/apache_configmap.yaml
+SPDXID: SPDXRef-item7986024
+FileChecksum: SHA1: 344d577e651e6720371676f0afd0bf2ababbeab2
+FileChecksum: MD5: 4649a850ec48aea232f5c3ce246f7cbf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/ingress/nginx-ingress-service.yaml
+SPDXID: SPDXRef-item7985781
+FileChecksum: SHA1: 3e7e86bfeb1be0a76636a468e565022f5d470c70
+FileChecksum: MD5: 98ad941c1ffa1e2ecacfdea9aed0e755
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/nifi/templates/nifi_configmap.yaml
+SPDXID: SPDXRef-item7986026
+FileChecksum: SHA1: 87db6fad3b47b4f5e6e5b0460e219faee5d69200
+FileChecksum: MD5: 17081601557ac5c49af74c19d18d5906
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/ingress/templates/deployment-client-ingress.yaml
+SPDXID: SPDXRef-item7985939
+FileChecksum: SHA1: 8c83b6dfbf31e1dd253ae3bf5b69772da498e0c9
+FileChecksum: MD5: a0606cdd3f5142e42ad365bd1e25ed6c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/ingress/templates/sv-scanning-ingress.yaml
+SPDXID: SPDXRef-item7985940
+FileChecksum: SHA1: bd731bd06656fb8f63b7d70f4696bc531d441790
+FileChecksum: MD5: 3af047628137c74c30e2b40717610608
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tools/update_env.sh
+SPDXID: SPDXRef-item7985756
+FileChecksum: SHA1: baa5cca0b26fa7851d6000c6edcb037282d67832
+FileChecksum: MD5: c61c0b9dff91a3f42a83ce1238d9af61
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tools/setup_pv.sh
+SPDXID: SPDXRef-item7985762
+FileChecksum: SHA1: a14778ec6b4005280e858d07624c9b8c5f5dbbec
+FileChecksum: MD5: d68b725ccc670acbc81c8ea817a5c252
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/jupyterhub/setup_jupyterhub.sh
+SPDXID: SPDXRef-item7985803
+FileChecksum: SHA1: 0e688a9e8043c630b63077b6adf64099484a309b
+FileChecksum: MD5: 808c6e164746a358d53d5421e7089831
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mariadb/setup_mariadb.sh
+SPDXID: SPDXRef-item7985848
+FileChecksum: SHA1: 51749e6267189b490b0a8cd96ed2bb5ca5647f6a
+FileChecksum: MD5: 98766c3a68e409d2bdccd110422436b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/nexus/setup_nexus_repos.sh
+SPDXID: SPDXRef-item7985857
+FileChecksum: SHA1: 67db80b26aeb7bf32252a843d55f5998be6e4688
+FileChecksum: MD5: 8300b75a5d0fe14a35771d40e09f8b39
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/setup_acumosdb.sh
+SPDXID: SPDXRef-item7985875
+FileChecksum: SHA1: ee1abe929335eaa6380e7a85b1629cc2b71cd257
+FileChecksum: MD5: d9f69be5c4cae1e9a0cf55f98ba7f91b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/setup_kong.sh
+SPDXID: SPDXRef-item7985920
+FileChecksum: SHA1: 89f88f24c571900d6d9c2cb867f0306d4ae0b308
+FileChecksum: MD5: 785db6a8ee0cc92c51719d11d7a4b448
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/kubernetes/kong-ingress.yaml
+SPDXID: SPDXRef-item7985924
+FileChecksum: SHA1: 2ff381a6434e2fb8823c8b8509018075fa84b6e6
+FileChecksum: MD5: c784795122c59099cff6e5ad6ee30f2b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/ingress/setup_ingress.sh
+SPDXID: SPDXRef-item7985931
+FileChecksum: SHA1: 1f6563890ca5de6eac763e81e23665416b187612
+FileChecksum: MD5: 9ceae0fe2deb637a7ad25c3989493f32
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/beats/setup_beats.sh
+SPDXID: SPDXRef-item7985966
+FileChecksum: SHA1: 4cc26e0515130b572766c6c9ef3f0d1931593c20
+FileChecksum: MD5: 82d2dc360b9de3d2e5aa7e7fe8498037
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/jenkins/setup_jenkins.sh
+SPDXID: SPDXRef-item7986011
+FileChecksum: SHA1: 851db3cdd76e2ab956a6983e9a71d014a872805b
+FileChecksum: MD5: 661fdcaf1dce96027459431bbbd65f47
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/nifi/templates/deployment.yaml
+SPDXID: SPDXRef-item7986027
+FileChecksum: SHA1: f18f19adba3dd0d36b0d3e71452d91809b74fc0f
+FileChecksum: MD5: b482131ff1cfd792155f74ba4dc2f835
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/nifi/setup_nifi.sh
+SPDXID: SPDXRef-item7986037
+FileChecksum: SHA1: ff536b8d1c897b6a6ae303d6cfae7d73b88d7cfd
+FileChecksum: MD5: a929f0a9db881b4c1c74f41292fb8455
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/setup_mlwb.sh
+SPDXID: SPDXRef-item7986077
+FileChecksum: SHA1: aae5aca1e9648840bdb983056d09d6a0435be6d7
+FileChecksum: MD5: 8ac268fb7fdcb45b06566771553c5934
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/elk-stack/setup_elk.sh
+SPDXID: SPDXRef-item7986088
+FileChecksum: SHA1: f723c906a39229714526fdad7520af763e397e38
+FileChecksum: MD5: 57b19df6d4adcc55b8fb986006133c73
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/charts/ingress/setup_ingress_controller.sh
+SPDXID: SPDXRef-item7985782
+FileChecksum: SHA1: 9e86584b9604d9c1b30f936304de1381528453f9
+FileChecksum: MD5: 002fd5651451c4711cde00fabdd9552e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/nexus/setup_nexus.sh
+SPDXID: SPDXRef-item7985858
+FileChecksum: SHA1: aed6eb3bc7273cc4f9498a2d95881c8b774c2465
+FileChecksum: MD5: 2cb0855262320d9d9c5eb6f73183de8c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/certs/setup_certs.sh
+SPDXID: SPDXRef-item7986004
+FileChecksum: SHA1: 71272473b3afb53ecfb861096807a08196c67c34
+FileChecksum: MD5: 705cb2cdbe9a98f85c5ff4d1a9dd3201
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/AIO/setup_keystore.sh
+SPDXID: SPDXRef-item7986078
+FileChecksum: SHA1: 3a08b469004e9ca81adebcce155fa112ff845547
+FileChecksum: MD5: 147badbb6129bbc145e90f0b0ac491a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/tests/license_scan.sh
+SPDXID: SPDXRef-item7985840
+FileChecksum: SHA1: dcdb846d2db8babe83717dd1ada1478078f31072
+FileChecksum: MD5: 7226b90decd0754adc9f3dcb1ad0f1c0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property, Inc. All rights reserved. </text>
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-noncore-chart/.helmignore
+SPDXID: SPDXRef-item7985664
+FileChecksum: SHA1: ef7bf5df50e7e52a5ea2049a26f77aa240262db2
+FileChecksum: MD5: 9cf9eb7e2fd8ec7b4b73232d39532489
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/camunda-helm-chart/README.md
+SPDXID: SPDXRef-item7985667
+FileChecksum: SHA1: 28fb32b8f9660cae88728245426122fd7082ebcf
+FileChecksum: MD5: 0495e67558011b0c0a80d71c521253cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-redeploy-component-chart/.helmignore
+SPDXID: SPDXRef-item7985680
+FileChecksum: SHA1: ef7bf5df50e7e52a5ea2049a26f77aa240262db2
+FileChecksum: MD5: 9cf9eb7e2fd8ec7b4b73232d39532489
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-redeploy-component-chart/Chart.yaml
+SPDXID: SPDXRef-item7985681
+FileChecksum: SHA1: dcb4e7c08f35c07f6a1fc96e1e7dfebc103525dc
+FileChecksum: MD5: 48498aa13ef28d041db1e37167965503
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-elk-chart/.helmignore
+SPDXID: SPDXRef-item7985698
+FileChecksum: SHA1: ef7bf5df50e7e52a5ea2049a26f77aa240262db2
+FileChecksum: MD5: 9cf9eb7e2fd8ec7b4b73232d39532489
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/acumosk8s-public-cloud/azure/HELM/k8-acumos-chart/.helmignore
+SPDXID: SPDXRef-item7985709
+FileChecksum: SHA1: ef7bf5df50e7e52a5ea2049a26f77aa240262db2
+FileChecksum: MD5: 9cf9eb7e2fd8ec7b4b73232d39532489
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/INFO.yaml
+SPDXID: SPDXRef-item7985748
+FileChecksum: SHA1: 2541c3fc9210c5714b6b469aa24fd609005426e7
+FileChecksum: MD5: 7062e1220dd639770054115b5fcc2549
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/.gitreview
+SPDXID: SPDXRef-item7985749
+FileChecksum: SHA1: b329b476a2f458b662b0479a3304510832043b5d
+FileChecksum: MD5: c168da9adb9fe05c85a6be3a3afef363
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/tools/dashboards/README.md
+SPDXID: SPDXRef-item7985752
+FileChecksum: SHA1: c098b0e6405178fbbc3a9b5d7176bb96d205b04b
+FileChecksum: MD5: 0f2ac15f058045045ff383037f0da361
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/tools/dashboards/NodeExporterFull.json
+SPDXID: SPDXRef-item7985753
+FileChecksum: SHA1: 5222769f61f65abdc52d5efe96f09bde29473826
+FileChecksum: MD5: f05da5bf6b8d618ed98c710ada197a02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/charts/zeppelin/notebooks/iris.json
+SPDXID: SPDXRef-item7985785
+FileChecksum: SHA1: 86bf0e7007ae38f8cb1a0107cacc03cf10535c17
+FileChecksum: MD5: d85670734b674e2a48a219c3af77a967
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/charts/jupyterhub/certs/README.md
+SPDXID: SPDXRef-item7985805
+FileChecksum: SHA1: 5452dc35387d8c3d09e34f0fb47fc64a91a2298e
+FileChecksum: MD5: 4861ce08d17c24c135352be19ba72e3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/charts/jupyterhub/notebooks/iris.ipynb
+SPDXID: SPDXRef-item7985809
+FileChecksum: SHA1: 204da90bf847bee1a59b4df41b8fd25841a9b5df
+FileChecksum: MD5: 380c76e7f2d40f22c09baccd537acb02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/charts/elk-stack/.helmignore
+SPDXID: SPDXRef-item7985828
+FileChecksum: SHA1: ef7bf5df50e7e52a5ea2049a26f77aa240262db2
+FileChecksum: MD5: 9cf9eb7e2fd8ec7b4b73232d39532489
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/.gitattributes
+SPDXID: SPDXRef-item7985831
+FileChecksum: SHA1: 1fead8ae4a123d4c2526ba03777b256cb10f7a5a
+FileChecksum: MD5: 635578d7546b35d97c384e8708b86a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/lum/docker/config/lum-config.json
+SPDXID: SPDXRef-item7985879
+FileChecksum: SHA1: fc88dfa3eeda81a2b9fc8bf7fda66e9b53e30680
+FileChecksum: MD5: 06ba3205af51116f71761aa9fcb62f45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/lum/kubernetes/values.yaml
+SPDXID: SPDXRef-item7985885
+FileChecksum: SHA1: 57d2733917c4020fe628a417178cd506a9be3165
+FileChecksum: MD5: bd7a19d45d3f7846a528b3fe6f0b2a57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/lum/kubernetes/external-name.yaml
+SPDXID: SPDXRef-item7985886
+FileChecksum: SHA1: a2802324d73f53a2ed13a4cbda1559438d201b1d
+FileChecksum: MD5: df611f9950049d5e839477578066f156
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/k8s-client.json
+SPDXID: SPDXRef-item7985895
+FileChecksum: SHA1: 0efe2dda483426938c0f2b17af8363143a09c517
+FileChecksum: MD5: 6735604a5c72e28db8f3da9ebd210f49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/mlwb-project.json
+SPDXID: SPDXRef-item7985896
+FileChecksum: SHA1: f0743fe07651f08a40d8ce92f271e9a2f834378b
+FileChecksum: MD5: 7fff901c9bbd4d79324024667f404ae3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/sv-scanning.json
+SPDXID: SPDXRef-item7985897
+FileChecksum: SHA1: 04e338ffd8337c770595343585eb388b32d241a9
+FileChecksum: MD5: 78511fb23ff53e5c7c542e6009e457a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/portal.json
+SPDXID: SPDXRef-item7985898
+FileChecksum: SHA1: 9aa155b3c29208823ba226308fe8d69404eb5fc9
+FileChecksum: MD5: cc3d806b02df3d600b7d75459f066602
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/mlwb-home-webcomponent.json
+SPDXID: SPDXRef-item7985899
+FileChecksum: SHA1: fa38fcf33ccdcf3ad4ce663b2a93418c35d21d5f
+FileChecksum: MD5: 4ae0191c4362bed91a99dc14407af98c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/mlwb-notebook.json
+SPDXID: SPDXRef-item7985901
+FileChecksum: SHA1: 628560fd975b38266fc346d6db49d95b66349d83
+FileChecksum: MD5: 0d51a76a0247c8fc7b8914d06822b3c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/license-usage-manager.json
+SPDXID: SPDXRef-item7985902
+FileChecksum: SHA1: ce375217703eb9ff0dad1ea86d15414fb9d076b9
+FileChecksum: MD5: f8ef5bfcb9093092ebaeb5b3b949a81d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/license-profile-editor.json
+SPDXID: SPDXRef-item7985903
+FileChecksum: SHA1: a6de1d435612755eb49b637e81a7453eb354ad7d
+FileChecksum: MD5: bb6c5c146c26279fda81359b8def2d29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/mlwb-project-catalog-webcomponent.json
+SPDXID: SPDXRef-item7985904
+FileChecksum: SHA1: 19df62be342afa8d94b6fe54a43418467f4d0b3a
+FileChecksum: MD5: 060e4c7699087e690b99682aa4cf9616
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/jupyterhub-user.json
+SPDXID: SPDXRef-item7985905
+FileChecksum: SHA1: 6c5521cfdac3ee82419734c593f67b0efecacc1d
+FileChecksum: MD5: 007fde7ca64e9a33b18bde4dd079992c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/mlwb-pipeline-catalog-webcomponent.json
+SPDXID: SPDXRef-item7985906
+FileChecksum: SHA1: eb6f95534e1a38caf24035ba6a71b51d4b6767d5
+FileChecksum: MD5: c2bf21335379c43f47b07bb18fb836f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/zeppelin.json
+SPDXID: SPDXRef-item7985907
+FileChecksum: SHA1: 2b855d9d4d2c8a8a742658471260546bb28c6e11
+FileChecksum: MD5: 393c0d1da0e7f0dfe758cfa8c0f878b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/mlwb-notebook-webcomponent.json
+SPDXID: SPDXRef-item7985908
+FileChecksum: SHA1: cad9b2cf4fe2a0686a8632f7ace4c70a30a32b91
+FileChecksum: MD5: 9f5fe31dee1153d5deed7e1d12125fc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/cds.json
+SPDXID: SPDXRef-item7985909
+FileChecksum: SHA1: aa9c76831ad22928915554ae04431530791d3aac
+FileChecksum: MD5: c3f0c5d39672fa4ec02cd5a523c89df2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/mlwb-notebook-catalog-webcomponent.json
+SPDXID: SPDXRef-item7985910
+FileChecksum: SHA1: 42b5bdb38c18aac53e68ee25964ef972d165fbe2
+FileChecksum: MD5: 53c4e8e993cac3e4d16f9e8da66ef63c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/onboarding.json
+SPDXID: SPDXRef-item7985911
+FileChecksum: SHA1: acd72a7e9e6dd9c5d9cd0385490bcebe8926f643
+FileChecksum: MD5: 4c8020cdf072affad6f3a82592ad14d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/jenkins.json
+SPDXID: SPDXRef-item7985912
+FileChecksum: SHA1: 9aa1b448220b603eeacb106b6c903d5ce8ef8a1b
+FileChecksum: MD5: 983a49c8cc040e05f86d2a2365cae183
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/mlwb-pipeline-webcomponent.json
+SPDXID: SPDXRef-item7985913
+FileChecksum: SHA1: 98cfb3e8c15bb6ea2e437b7b63cda68f29ccefd7
+FileChecksum: MD5: 56600f07b9991df3d2c7bdfdcb401344
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/mlwb-project-webcomponent.json
+SPDXID: SPDXRef-item7985914
+FileChecksum: SHA1: a7c2bd4ba2e0203a8c7c72d3d497a1b3bc4884fe
+FileChecksum: MD5: 877d28881ca48037e7f408dc33600186
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/mlwb-jupyterhub.json
+SPDXID: SPDXRef-item7985915
+FileChecksum: SHA1: 7fbfdfed5de6183e046581ee8c6e4cac0f4b65e9
+FileChecksum: MD5: 91b6a51dbefd3d5360c6f1c1291278e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/license-rtu-editor.json
+SPDXID: SPDXRef-item7985916
+FileChecksum: SHA1: 777023cc736d70bee9b2999df992c083f31923f6
+FileChecksum: MD5: b8d57afafaad13a9ccd35c96a04dcbbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/mlwb-dashboard-webcomponent.json
+SPDXID: SPDXRef-item7985917
+FileChecksum: SHA1: cbf800f28355025cda97307698bc090408f4dc93
+FileChecksum: MD5: e9de872086e5262b6db29e30a6a06434
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/mlwb-pipeline.json
+SPDXID: SPDXRef-item7985918
+FileChecksum: SHA1: 3f3604a9a438073697c1630654aa75cde08366e3
+FileChecksum: MD5: 015fc0a3b6ef7fb6e555a4f9190fba0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/config/jupyterhub.json
+SPDXID: SPDXRef-item7985919
+FileChecksum: SHA1: 833ccbe49c472402442fe7619eedab883b609ae3
+FileChecksum: MD5: 57ae0779de59c7b39ae673bce9eb38dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/kong/Dockerfile
+SPDXID: SPDXRef-item7985927
+FileChecksum: SHA1: 75f25ffea7b06e4468ccdfc2d5cca5011e82abe1
+FileChecksum: MD5: 29cddd6d7f7ae524541bd7253dde3b15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/docker-proxy/README.md
+SPDXID: SPDXRef-item7985949
+FileChecksum: SHA1: ef5648d9a7a7ab1da9955fdddc00677d23cdc9b8
+FileChecksum: MD5: 42ca082f57338995e45e30f0cbc518c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/docker-proxy/Dockerfile
+SPDXID: SPDXRef-item7985957
+FileChecksum: SHA1: 335cde746e2aef3e722fe9624017a617d0a1d8d9
+FileChecksum: MD5: 0471858489f60017344a0de43eddd54d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/nifi/kubernetes/namespace-admin-role.yaml
+SPDXID: SPDXRef-item7986034
+FileChecksum: SHA1: 5a3f044e2cef9a3c372c572db999b8f199d06d07
+FileChecksum: MD5: 6b05148b0b001f047b206ef63d16dae3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/AIO/mlwb/nifi/kubernetes/namespace-admin-rolebinding.yaml
+SPDXID: SPDXRef-item7986036
+FileChecksum: SHA1: e9a652c40376679cc80d15a954aaef405d92ce60
+FileChecksum: MD5: beb5d8947bf87bf88819aa99b137bbad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/docs/images/AcumosKongAPI.jpg
+SPDXID: SPDXRef-item7986098
+FileChecksum: SHA1: 70c0b8ab296560289b6bbe33cac24e319e1c8d0b
+FileChecksum: MD5: 5ec3cb20c9ebf421792106ce4a78e1ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/docs/oneclick-deploy/images/aio-k8s-deployment.png
+SPDXID: SPDXRef-item7986103
+FileChecksum: SHA1: 9548c11d679d2824795243b9e892232e2dd13699
+FileChecksum: MD5: c55090b755b0871a5e8d1b3dc640fd82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/docs/oneclick-deploy/images/aio-k8s-deployment.xml
+SPDXID: SPDXRef-item7986104
+FileChecksum: SHA1: e6f45ed257718fe086dc6181bc4cc61ecfef83f7
+FileChecksum: MD5: 4565dfce88e029abd2425a8912ecfe3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/docs/oneclick-deploy/images/aio-k8s-deployer.png
+SPDXID: SPDXRef-item7986105
+FileChecksum: SHA1: f2276ee9445aa4868383a33e441316b6ebde576a
+FileChecksum: MD5: 895cec7c75b1bcb7629a7e75ed72dd43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/docs/oneclick-deploy/images/mlwb.xml
+SPDXID: SPDXRef-item7986106
+FileChecksum: SHA1: 4218c79d14ff2ef047ac5c9b4de52669ce6d60c4
+FileChecksum: MD5: aa1d2605b5e0dc8b6e36e4f0d8b7820a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/docs/oneclick-deploy/images/aio-k8s-deployer.xml
+SPDXID: SPDXRef-item7986107
+FileChecksum: SHA1: 04c82e331ccf79f5bc590b54e4b7942f5c3c234a
+FileChecksum: MD5: 1f89cd495b905ad6aa0c0d4666cf67f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/docs/oneclick-deploy/images/mlwb.png
+SPDXID: SPDXRef-item7986108
+FileChecksum: SHA1: ee938af680c58e32f5a19bed77942d642dce1ed1
+FileChecksum: MD5: f3605277d37c16c45bff843f43300b65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/docs/oneclick-deploy/images/acumos-architecture-detail.xml
+SPDXID: SPDXRef-item7986109
+FileChecksum: SHA1: 90ca65f6beb4ba183aa581b7489272ea0c429654
+FileChecksum: MD5: 4ef7070eef8a5259209f46fde7a4ebc5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: system-integration/docs/oneclick-deploy/images/acumos-architecture-detail.png
+SPDXID: SPDXRef-item7986110
+FileChecksum: SHA1: 41c3e3e346a5ffb494339b6a83b74333bf70c6a5
+FileChecksum: MD5: 1f0caf88f8a08a3d0cc8cf977e4730a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
