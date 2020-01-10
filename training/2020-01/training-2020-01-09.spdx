@@ -1,0 +1,92 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_training-2020-01-09.zip_1578670624.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-01-10T15:37:04Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: training-2020-01-09.zip
+PackageFileName: training-2020-01-09.zip
+SPDXID: SPDXRef-upload2102
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 8f60c46d76ff9160e0870aa59d2508a5c6aa06ad
+PackageChecksum: SHA1: b609ccb5b966120c3e1f8c605998bf5c8c67b3f4
+PackageChecksum: MD5: 6f6c035eef21e1e8d5fd199b2d7ca035
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2102
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: training/LICENSE.txt
+SPDXID: SPDXRef-item7987846
+FileChecksum: SHA1: 14a09dfbaf4d175f0399c4db07cc9897aa0e1114
+FileChecksum: MD5: 6dbc473aee31d40c4347872ce856beab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: training/INFO.yaml
+SPDXID: SPDXRef-item7987844
+FileChecksum: SHA1: 17566efb0f5a0a6e2f471275d6c3b6547ba522cb
+FileChecksum: MD5: e10804fb0bc386b946f3ba7d0d834cb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: training/.gitreview
+SPDXID: SPDXRef-item7987845
+FileChecksum: SHA1: c5c054061eff1ce5b1526a4bfa76ac6ce3351cec
+FileChecksum: MD5: 2f580378a3dfaa687a1a843d694d15d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
