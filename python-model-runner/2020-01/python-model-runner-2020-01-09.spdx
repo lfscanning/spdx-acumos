@@ -1,0 +1,510 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_python-model-runner-2020-01-09.zip_1578670539.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-01-10T15:35:39Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: python-model-runner-2020-01-09.zip
+PackageFileName: python-model-runner-2020-01-09.zip
+SPDXID: SPDXRef-upload2094
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 8e495bdee6f09328213e0020aa8c4912df899519
+PackageChecksum: SHA1: 5bb290d962caa0ba1bc79560a4ad9d7b62cdc984
+PackageChecksum: MD5: 69e959cfcfdac9e42e1102b5e3fb999c
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2094
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/data/templates/base.yaml
+SPDXID: SPDXRef-item7985289
+FileChecksum: SHA1: ef3de0d05dc5f4cce39655aea2078014e26d57e8
+FileChecksum: MD5: e0048371e226f5b75b9699f275f12e56
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/runner_helper.py
+SPDXID: SPDXRef-item7985279
+FileChecksum: SHA1: b7bba5f1798b3f34777a6742af85a7e54cbe971a
+FileChecksum: MD5: 7122d994f4177ffc4db017638816e7b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/testing_utils.py
+SPDXID: SPDXRef-item7985283
+FileChecksum: SHA1: 2fbb52ab5322367af218749f6aabe6c23502ffec
+FileChecksum: MD5: ec8aa0867b36fb8abf8dda62e086800c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/test_oas_gen.py
+SPDXID: SPDXRef-item7985277
+FileChecksum: SHA1: 6a534c867aede0ac73b98f600d52bf53f6b0e4d4
+FileChecksum: MD5: fc09339259d9a263740196b814617ae5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/test_proto_parser.py
+SPDXID: SPDXRef-item7985281
+FileChecksum: SHA1: 38fa0d3fefc9a30af01b9e886f07f9bc556d41c1
+FileChecksum: MD5: 6ffaf2b2dbfa25415e979b476a7056bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/test_runner.py
+SPDXID: SPDXRef-item7985282
+FileChecksum: SHA1: bd7844843cde03fd5dff1961d89e38429ca3d978
+FileChecksum: MD5: 33fc41e403c479889c65e28a6eaadc61
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/api.py
+SPDXID: SPDXRef-item7985271
+FileChecksum: SHA1: 9e799c062eb747d88a41c521fcfe11bab4ee2481
+FileChecksum: MD5: a37a65b10f7e05a422ccc1f4bc526cd2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/__init__.py
+SPDXID: SPDXRef-item7985274
+FileChecksum: SHA1: e74559ca159346edf900f2c045e28b4c1cba318c
+FileChecksum: MD5: 2cda90ad3b1cdcb755fe7c89ee830d54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/oas_gen.py
+SPDXID: SPDXRef-item7985290
+FileChecksum: SHA1: 0816cd9e99c37441a4a6ba0a428bf50914deb6c6
+FileChecksum: MD5: 509a9dfdf7563a57f903ef0fddaa1aef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/proto_parser.py
+SPDXID: SPDXRef-item7985273
+FileChecksum: SHA1: 7004dd47187d5ee855b57e7d636c86b430e6bf56
+FileChecksum: MD5: a3132b7b0d7b6640196b579299050636
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/runner.py
+SPDXID: SPDXRef-item7985275
+FileChecksum: SHA1: d7b275816c2732c57eb18e16d2c95965e92951f6
+FileChecksum: MD5: 51959b2f18e75ca088d171a447a09cf5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/utils.py
+SPDXID: SPDXRef-item7985284
+FileChecksum: SHA1: a216462bd3aac9fd726ca276861668371b7d7931
+FileChecksum: MD5: f5cfa4b63b8327116128d652be9365f4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/_version.py
+SPDXID: SPDXRef-item7985272
+FileChecksum: SHA1: d5efe938951cb4a2f802789eda8cea12ed33b6f1
+FileChecksum: MD5: db2aeb35ab954633fb08de0e60521220
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/docs/tutorial/index.rst
+SPDXID: SPDXRef-item7985298
+FileChecksum: SHA1: 0e7ce40cae53739b8aa010226a41c2e05cb9b6e0
+FileChecksum: MD5: a9b6a96cb1ede6ffba306946e5e93ad9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/docs/developer-guide.rst
+SPDXID: SPDXRef-item7985295
+FileChecksum: SHA1: 49ad52bc834629efebe67b42037935ed344d1cb6
+FileChecksum: MD5: d371ef5deecdebbdfb9c1d2d8b6113c1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/docs/index.rst
+SPDXID: SPDXRef-item7985293
+FileChecksum: SHA1: 59fd583da408e0c4ff96a082564b46c43fedf4e0
+FileChecksum: MD5: 71830cc80c80ce6b510e41db906e1b16
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/docs/release-notes.rst
+SPDXID: SPDXRef-item7985294
+FileChecksum: SHA1: 267a6ddd55478eebd3604c5978feaa2a054b6ed9
+FileChecksum: MD5: a19cd901d4c4eb9ac993da39cedf4380
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/docs/user-guide.rst
+SPDXID: SPDXRef-item7985296
+FileChecksum: SHA1: 618cf72217e7f9331f2115d064196caa8d4a3945
+FileChecksum: MD5: 1bd20b0235729967935544553dc8c7e1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/examples/chain_models.py
+SPDXID: SPDXRef-item7985263
+FileChecksum: SHA1: 9e60f041a084b2f057bd0edb81dbdc09278e7635
+FileChecksum: MD5: e8673cedc2ba2171d7c2b11de5d07b38
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/examples/example_model.py
+SPDXID: SPDXRef-item7985264
+FileChecksum: SHA1: 8300b57dcbd280c8087431da30080f9221f7b5b8
+FileChecksum: MD5: 38e001f20eb6bf7bf7eb3741c2c353a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/examples/README.rst
+SPDXID: SPDXRef-item7985262
+FileChecksum: SHA1: 33f13875e4696b848bd0efc249a165c7776118a0
+FileChecksum: MD5: c9bd3dc756d41a34745dc077400dd92c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/LICENSE.txt
+SPDXID: SPDXRef-item7985266
+FileChecksum: SHA1: da598254ed37da7207501cb3f2b417cf5000f540
+FileChecksum: MD5: ae8aeb3ac4fb125e53de2671fc6ed945
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/README.rst
+SPDXID: SPDXRef-item7985260
+FileChecksum: SHA1: 3833274c2f05f66516d22b3e84a36ee2488777a9
+FileChecksum: MD5: 887bcaecf5602b4e7815624d15c498bd
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/setup.py
+SPDXID: SPDXRef-item7985265
+FileChecksum: SHA1: a9ff79dc1c558e1449884c3efef606c3b8c9b8e9
+FileChecksum: MD5: 93e926b52cb83137a5eee65e769712b6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/INFO.yaml
+SPDXID: SPDXRef-item7985258
+FileChecksum: SHA1: 51e6a387ab000a0aa5e2b9cf5dac63d0f4249706
+FileChecksum: MD5: 1bc6ac4b793bca40dc70f1d3731bc7a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/.gitreview
+SPDXID: SPDXRef-item7985259
+FileChecksum: SHA1: 55c3d5c7dd1d83a527697b45aeb3440fb033a803
+FileChecksum: MD5: 7c265de8a40c144596cf43f0edbb889f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/tox.ini
+SPDXID: SPDXRef-item7985267
+FileChecksum: SHA1: 7a0bd2bf8d33e2ebdc262ce99dcb49c997015677
+FileChecksum: MD5: 51085f7a697c59ade6bedea0fb81ccf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/MANIFEST.in
+SPDXID: SPDXRef-item7985268
+FileChecksum: SHA1: 9f2088490294b4750aeb73511c13bae2620796be
+FileChecksum: MD5: 28cc677828b0c8ab367d73c58b914c17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/.gitattributes
+SPDXID: SPDXRef-item7985269
+FileChecksum: SHA1: 1fead8ae4a123d4c2526ba03777b256cb10f7a5a
+FileChecksum: MD5: 635578d7546b35d97c384e8708b86a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/sample.proto
+SPDXID: SPDXRef-item7985278
+FileChecksum: SHA1: 24a5474e5ce08228e33ed723a16b18a3ef0eec9a
+FileChecksum: MD5: 1602ac6d0384d8c147c3e5da6919b4fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/sample.json
+SPDXID: SPDXRef-item7985280
+FileChecksum: SHA1: da96545ef035c7d9ec56389f217ef45a2fbc637f
+FileChecksum: MD5: db7d0860f3f4513d537c79505e5014d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/data/proto3.ebnf
+SPDXID: SPDXRef-item7985286
+FileChecksum: SHA1: 83030d645189ab8d2deea762e94c64b27ea81645
+FileChecksum: MD5: 0f211bcaf482c4fdedfcd3c42bc625d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/data/templates/method.yaml
+SPDXID: SPDXRef-item7985288
+FileChecksum: SHA1: ec8e6aa1d853afe2cbaeefe1c76f588b6ef16fea
+FileChecksum: MD5: 9c6eaba4938d672545f643ccd143c268
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/.gitignore
+SPDXID: SPDXRef-item7985291
+FileChecksum: SHA1: 0a7f4ba5e355de10fd8764a2bc66e3796fc1d9b4
+FileChecksum: MD5: 557acc6fe42f9ce86c98c71b8350e8f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/docs/tutorial/example-model-method.png
+SPDXID: SPDXRef-item7985299
+FileChecksum: SHA1: 2c908f40a0a749da335f62c0fa7a265ed5b17001
+FileChecksum: MD5: 37df7364428df2e325639231f1c67ce2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/docs/tutorial/example-model-response.png
+SPDXID: SPDXRef-item7985300
+FileChecksum: SHA1: 898cf6e6f7dc09f2c7b3b3aca8800d0ab6ce5af8
+FileChecksum: MD5: 642f7f2055ad570e6d8104ec82081d47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/docs/tutorial/example-model-apis.png
+SPDXID: SPDXRef-item7985301
+FileChecksum: SHA1: a998b63bd42af637054df1d53f8a1b9846a3d765
+FileChecksum: MD5: 405148a1885910ba763b3c4bef830e5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/docs/tutorial/example-model-request.png
+SPDXID: SPDXRef-item7985302
+FileChecksum: SHA1: 65f372ad21cc69446ff2ac2f3e8ec9b73bbba702
+FileChecksum: MD5: 533d973b9ae9c88e5b9ea549a469ba0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/pom.xml
+SPDXID: SPDXRef-item7985303
+FileChecksum: SHA1: f9eb2970e6831cf51e855b924fe85c71c5b056cd
+FileChecksum: MD5: d9f77dc83813f121da2e95bc7c36cc98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/setup.cfg
+SPDXID: SPDXRef-item7985304
+FileChecksum: SHA1: c49e3ee68044f3030956c16ae3abbdae9e0725ef
+FileChecksum: MD5: ac24c232af33108ef0b249b46f85247f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/testing/tox-requirements.txt
+SPDXID: SPDXRef-item7985306
+FileChecksum: SHA1: c985bd9954f6f2c5aea40e4280dfd2f55287f446
+FileChecksum: MD5: 7587ffcd345a53ea9c70ef18fc249c83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
