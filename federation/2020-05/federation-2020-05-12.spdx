@@ -1,0 +1,1402 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_federation-2020-05-12.zip_1589310210.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-05-12T19:03:31Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: federation-2020-05-12.zip
+PackageFileName: federation-2020-05-12.zip
+SPDXID: SPDXRef-upload2460
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 4d62b4aa0dc6f82fa66c39a3eff0071a5767e80c
+PackageChecksum: SHA1: 49c7d586e1a30d00370c82d0adeaa05ba036821e
+PackageChecksum: MD5: 6623d4843b090d6e02b5cecc7408f742
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2460
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: federation/acumos-fgw-client/src/main/lombok/org/acumos/federation/client/data/ModelData.java
+SPDXID: SPDXRef-item9402467
+FileChecksum: SHA1: ed999040dbcbb1e6657bf7b7a8829716471d99c7
+FileChecksum: MD5: 28e8d231fdc8895b3e56ef672775e4d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client/src/main/lombok/org/acumos/federation/client/data/ModelInfo.java
+SPDXID: SPDXRef-item9402460
+FileChecksum: SHA1: c9b7a247e5b73c5022bac91893ce6005abc15736
+FileChecksum: MD5: f4ea2357ac83fd7ced7e7fe94600ae84
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/DeployedModelClient.java
+SPDXID: SPDXRef-item9402555
+FileChecksum: SHA1: 20295520f86bcfa56d8f15fbc7c3b02bf77726a4
+FileChecksum: MD5: 0a0d593b5411d32b043edf2f7de80976
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/DeployedModelServiceImpl.java
+SPDXID: SPDXRef-item9402543
+FileChecksum: SHA1: 85ad1a80126a29c621f19a34386a3c61fb9199a1
+FileChecksum: MD5: 7722d008446afdbb58a2400a72a52e7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/DeployedModelService.java
+SPDXID: SPDXRef-item9402544
+FileChecksum: SHA1: a8fe78a077a79062732a7df28fa61f072e5f730c
+FileChecksum: MD5: 7108d1dba6ddae7cbb275bc7cfdb77ba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/LogstashClient.java
+SPDXID: SPDXRef-item9402541
+FileChecksum: SHA1: b3f75c81f11a4efa7ab70587b31d1d994a992c17
+FileChecksum: MD5: 11ce148ffc1fe1983afb6c1ffea71e8e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/LogstashServiceImpl.java
+SPDXID: SPDXRef-item9402547
+FileChecksum: SHA1: 457b601ba7114e8fdc9e874cdf05c0ab20c51b81
+FileChecksum: MD5: a37d9091982b9d69502f8571483aa4e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/LogstashService.java
+SPDXID: SPDXRef-item9402552
+FileChecksum: SHA1: 6538709a3482e1d70146cbb0a22f990ee240f3a0
+FileChecksum: MD5: 14a0d154ad79bd893fa70ae07bfcbb1b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: federation/docs/selectors.rst
+SPDXID: SPDXRef-item9402573
+FileChecksum: SHA1: aa4c2efd170cd8f7d3c6599c8fc303d044375f67
+FileChecksum: MD5: 3129a9411d94075791198cf41b9d3ae6
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/docs/design.rst
+SPDXID: SPDXRef-item9402574
+FileChecksum: SHA1: 91edab82307fd22a6e86101a6abf09ed87cb20c8
+FileChecksum: MD5: e9c85c4e2cb6a1ca3da0b2c1ac21a543
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/docs/client.rst
+SPDXID: SPDXRef-item9402570
+FileChecksum: SHA1: 4c1bc5dec588876577f855ec4a7b88141bdffed7
+FileChecksum: MD5: 8c77cc4dd962376b7ae75549ef6453c1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/docs/overview.rst
+SPDXID: SPDXRef-item9402575
+FileChecksum: SHA1: e832a83692e4caf8d6401b546a2a09aa11982578
+FileChecksum: MD5: f133558509afd01d916175a4119570cc
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/docs/index.rst
+SPDXID: SPDXRef-item9402568
+FileChecksum: SHA1: 6b69e16ca0a69d35602ebb41f38b079d7986224e
+FileChecksum: MD5: 01adcef8035780fdbffd94b85d98bed6
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/docs/config.rst
+SPDXID: SPDXRef-item9402571
+FileChecksum: SHA1: e14059f23fc848a2b749240e0270f19764884dfd
+FileChecksum: MD5: c4caee5aa86b60f4e4beb37c620c3167
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/docs/developer-guide.rst
+SPDXID: SPDXRef-item9402577
+FileChecksum: SHA1: 54de2609e505ce22e6524bec852b3ad1335be0b1
+FileChecksum: MD5: dfb3d8c43a374a7f45208c9e6c8a4f36
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: federation/docs/modeldata.rst
+SPDXID: SPDXRef-item9402569
+FileChecksum: SHA1: d877e2ec2cc44d4bf173df529fae160b36497693
+FileChecksum: MD5: a3347df0b60e5259a0d53fc21f9b7081
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/docs/release-notes.rst
+SPDXID: SPDXRef-item9402572
+FileChecksum: SHA1: c597f212b66b24b9fd1c51adc2d18220942353c3
+FileChecksum: MD5: aac5e9e3508becb04e8d5e54284bfe36
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2020 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: federation/gateway/acumosb.sh
+SPDXID: SPDXRef-item9402560
+FileChecksum: SHA1: a518a442479a9650401186e545e83c5c5c3614c5
+FileChecksum: MD5: 7c0b24a60919188be26c571b3a2f443d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client/src/license/licenses.properties
+SPDXID: SPDXRef-item9402441
+FileChecksum: SHA1: 57ecf706b1fa83879e286a957e4286301f6e0046
+FileChecksum: MD5: 58fab5621b7fe89dd9aa0fc957c3de30
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-config/src/license/licenses.properties
+SPDXID: SPDXRef-item9402584
+FileChecksum: SHA1: 57ecf706b1fa83879e286a957e4286301f6e0046
+FileChecksum: MD5: 58fab5621b7fe89dd9aa0fc957c3de30
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-test/src/license/licenses.properties
+SPDXID: SPDXRef-item9402605
+FileChecksum: SHA1: 57ecf706b1fa83879e286a957e4286301f6e0046
+FileChecksum: MD5: 58fab5621b7fe89dd9aa0fc957c3de30
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/license/licenses.properties
+SPDXID: SPDXRef-item9402503
+FileChecksum: SHA1: 57ecf706b1fa83879e286a957e4286301f6e0046
+FileChecksum: MD5: 58fab5621b7fe89dd9aa0fc957c3de30
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client/src/test/java/org/acumos/federation/client/ClientDemo.java
+SPDXID: SPDXRef-item9402452
+FileChecksum: SHA1: 48ed502da42d3cf58b9ee7c5b42fdb81bdc0e49f
+FileChecksum: MD5: 59e65e65bd712421caddd22e1f7075b9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client/src/main/lombok/org/acumos/federation/client/data/Solution.java
+SPDXID: SPDXRef-item9402461
+FileChecksum: SHA1: 38ed0419cb96ad9ad1abd06baeacf54b4f4425b3
+FileChecksum: MD5: 75186052a10e6c315cb89f75501ede85
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client/src/main/lombok/org/acumos/federation/client/data/Artifact.java
+SPDXID: SPDXRef-item9402462
+FileChecksum: SHA1: 3b894693aeb4fd130d95241482a91cfcd9e0f340
+FileChecksum: MD5: 9659a4212e890aaf4d41b2666056f9b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client/src/license/acumos/header.txt
+SPDXID: SPDXRef-item9402444
+FileChecksum: SHA1: b06c16bb81cb340e06e8fb9ebaf7a773a2f799e4
+FileChecksum: MD5: 1bb28dce9ffa30c7a0f6e7bd8b153126
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client/src/license/acumos/license.txt
+SPDXID: SPDXRef-item9402443
+FileChecksum: SHA1: b06c16bb81cb340e06e8fb9ebaf7a773a2f799e4
+FileChecksum: MD5: 1bb28dce9ffa30c7a0f6e7bd8b153126
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-config/src/license/acumos/header.txt
+SPDXID: SPDXRef-item9402587
+FileChecksum: SHA1: b06c16bb81cb340e06e8fb9ebaf7a773a2f799e4
+FileChecksum: MD5: 1bb28dce9ffa30c7a0f6e7bd8b153126
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-config/src/license/acumos/license.txt
+SPDXID: SPDXRef-item9402586
+FileChecksum: SHA1: b06c16bb81cb340e06e8fb9ebaf7a773a2f799e4
+FileChecksum: MD5: 1bb28dce9ffa30c7a0f6e7bd8b153126
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-test/src/license/acumos/header.txt
+SPDXID: SPDXRef-item9402608
+FileChecksum: SHA1: b06c16bb81cb340e06e8fb9ebaf7a773a2f799e4
+FileChecksum: MD5: 1bb28dce9ffa30c7a0f6e7bd8b153126
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-test/src/license/acumos/license.txt
+SPDXID: SPDXRef-item9402607
+FileChecksum: SHA1: b06c16bb81cb340e06e8fb9ebaf7a773a2f799e4
+FileChecksum: MD5: 1bb28dce9ffa30c7a0f6e7bd8b153126
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/gateway/src/license/acumos/header.txt
+SPDXID: SPDXRef-item9402506
+FileChecksum: SHA1: b06c16bb81cb340e06e8fb9ebaf7a773a2f799e4
+FileChecksum: MD5: 1bb28dce9ffa30c7a0f6e7bd8b153126
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/gateway/src/license/acumos/license.txt
+SPDXID: SPDXRef-item9402505
+FileChecksum: SHA1: b06c16bb81cb340e06e8fb9ebaf7a773a2f799e4
+FileChecksum: MD5: 1bb28dce9ffa30c7a0f6e7bd8b153126
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client/src/main/lombok/org/acumos/federation/client/data/Document.java
+SPDXID: SPDXRef-item9402463
+FileChecksum: SHA1: 498f13da06cb1a9918fc3c9a6ed9e753ff54f6ee
+FileChecksum: MD5: 715967c002e41c53f180d639df94e54f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client/src/main/lombok/org/acumos/federation/client/data/SolutionRevision.java
+SPDXID: SPDXRef-item9402466
+FileChecksum: SHA1: 5c2be1fa57a8cd161485df924b8a928f52c93531
+FileChecksum: MD5: 9f32bca6b1831ec13a430d92a7b7483a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client/src/main/lombok/org/acumos/federation/client/data/JsonResponse.java
+SPDXID: SPDXRef-item9402464
+FileChecksum: SHA1: fe0cc1960f89a5c7e53cd83604d95b457c08c8fd
+FileChecksum: MD5: d16906f675af13265aa52bcb539e0bb8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client/src/main/lombok/org/acumos/federation/client/data/Catalog.java
+SPDXID: SPDXRef-item9402465
+FileChecksum: SHA1: e8c460320e6c34da4ec5f2bc824af906d5392720
+FileChecksum: MD5: 1415ee89e93c875bd60b7c5e3fb479bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client/src/main/lombok/org/acumos/federation/client/data/package-info.java
+SPDXID: SPDXRef-item9402468
+FileChecksum: SHA1: d98a1782532b2f66541d8a54c678103cf3665501
+FileChecksum: MD5: ffffb3ca342faa08dd0c47dd01641a92
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client/src/main/java/org/acumos/federation/client/TlsConfigException.java
+SPDXID: SPDXRef-item9402477
+FileChecksum: SHA1: 3cb719f67f1e6ec51caf01e0ce4bb9bfdd770ce7
+FileChecksum: MD5: 80392216443fbbfb641e6145a484278d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/LICENSE.txt
+SPDXID: SPDXRef-item9402485
+FileChecksum: SHA1: 56e96b772adab5f8043b37380e717b6bb39a9edf
+FileChecksum: MD5: eaff69c38112a9414526624e29783c26
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client/src/main/java/org/acumos/federation/client/package-info.java
+SPDXID: SPDXRef-item9402478
+FileChecksum: SHA1: f65e5edf1bd490bc36509ff998329d2c1dbec9ad
+FileChecksum: MD5: 7d9a61e38e38a6afe32eccd99c9740e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/lombok.config
+SPDXID: SPDXRef-item9402481
+FileChecksum: SHA1: 60bcbbb81e3684b3f756449cf7081a88b3d853d4
+FileChecksum: MD5: 7e576abf51f67e83c939dbc411ef468a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/lombok/org/acumos/federation/gateway/DockerConfig.java
+SPDXID: SPDXRef-item9402526
+FileChecksum: SHA1: e9602f560cf15d5b7d5254a00424578f0606992d
+FileChecksum: MD5: 0dea15dd8f870fc7c53ef124649ac096
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/resources/logback.xml
+SPDXID: SPDXRef-item9402520
+FileChecksum: SHA1: 2e111786c5a2fe09dc5aeef09f9132dddcf17571
+FileChecksum: MD5: c68d42249e8b55c931d33dddd34bf03a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/lombok/org/acumos/federation/gateway/ServiceConfig.java
+SPDXID: SPDXRef-item9402527
+FileChecksum: SHA1: f05d4932fa923b286e98a8216d500082469f7ea7
+FileChecksum: MD5: 71fb364ddb7122adfad035ca6d3061f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/lombok/org/acumos/federation/gateway/FederationConfig.java
+SPDXID: SPDXRef-item9402529
+FileChecksum: SHA1: 7dffd94cc460e6ee186724712a5aec87e30ca189
+FileChecksum: MD5: 7ba02942e596925612125791839202d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/lombok/org/acumos/federation/gateway/NexusConfig.java
+SPDXID: SPDXRef-item9402528
+FileChecksum: SHA1: bce572e4bd9a361101f19eb45a59d23488efa46a
+FileChecksum: MD5: 780912b62cceca658ce188791a56b309
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/test/java/org/acumos/federation/gateway/SimulatedDockerClient.java
+SPDXID: SPDXRef-item9402513
+FileChecksum: SHA1: 3417afcf5e8d1ef8fb9bcc8815f0233812ad249c
+FileChecksum: MD5: a3e7d11358e6df53e6206564273102e7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/lombok/org/acumos/federation/gateway/ServerConfig.java
+SPDXID: SPDXRef-item9402530
+FileChecksum: SHA1: f261d264edabafbffa122b565637aca5ddc2f5b0
+FileChecksum: MD5: c535f915f99b252ac4fb926f25178a07
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/NexusClient.java
+SPDXID: SPDXRef-item9402536
+FileChecksum: SHA1: 24ea4d1d87569bd604d28168f500198f68db61dd
+FileChecksum: MD5: 150734e45fae5f4f33238e6c8809c740
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/GatewayServer.java
+SPDXID: SPDXRef-item9402539
+FileChecksum: SHA1: d0fb0a6cbe211cdd7406c00cd02b5a4d4567132b
+FileChecksum: MD5: a5142f018d486ae5c0dca64e32723ff5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/BadRequestException.java
+SPDXID: SPDXRef-item9402537
+FileChecksum: SHA1: 645a57bccf41a9fed7ae17182af9928b24a33374
+FileChecksum: MD5: 8e58b2cbed3dd7b18bf162b6618a9368
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/PeerService.java
+SPDXID: SPDXRef-item9402540
+FileChecksum: SHA1: 1f1ec58561b62ed204562480c51e601348e98b1d
+FileChecksum: MD5: eca803c7e38c4cd333b5b7e0aed7b41e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/ContentService.java
+SPDXID: SPDXRef-item9402545
+FileChecksum: SHA1: 3e5eff8d4a0ea48a6adc073e9c67d6bbe1ef07b2
+FileChecksum: MD5: ec3492917d16cf4aff42f995a79581d5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/FederationServer.java
+SPDXID: SPDXRef-item9402548
+FileChecksum: SHA1: e320e12228e4e525c3dec8f6bf5a16b2f925b7a9
+FileChecksum: MD5: c67ddf6bf696280f084a810237e0bb20
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/package-info.java
+SPDXID: SPDXRef-item9402551
+FileChecksum: SHA1: 8a7160b5812863b982572268b7de8cf55a5f9f00
+FileChecksum: MD5: c0cd5e2bc50a09a9c67d79b352bd1525
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/PeerServiceImpl.java
+SPDXID: SPDXRef-item9402553
+FileChecksum: SHA1: 5bbbd6885db1179f4a4b96a511b75224a101e050
+FileChecksum: MD5: bbe5bac34aa7ea86629aa5a54bfc7ef4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/acumosa.sh
+SPDXID: SPDXRef-item9402559
+FileChecksum: SHA1: 0632c2498c365c3f445a628868307494f2fb77dc
+FileChecksum: MD5: 424965ac7783fb977aeb83a5d1fb8649
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/CatalogServiceImpl.java
+SPDXID: SPDXRef-item9402550
+FileChecksum: SHA1: a6ec4620054c900d1068556149b9928aa5606a0b
+FileChecksum: MD5: 2ad5631339ad770f7cfe638c75cbd32c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/CatalogService.java
+SPDXID: SPDXRef-item9402556
+FileChecksum: SHA1: 9859ce523028b1ae4fb1e7cdbf48e7431163d934
+FileChecksum: MD5: a5cf57873b7671017c87142eed538b18
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/Security.java
+SPDXID: SPDXRef-item9402558
+FileChecksum: SHA1: e3ab8472b718c803faf6485b1537493ee850d8b8
+FileChecksum: MD5: 8bc926cfa0cf66539e5857bfde4deada
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-config/src/main/lombok/org/acumos/federation/client/config/BasicAuthConfig.java
+SPDXID: SPDXRef-item9402595
+FileChecksum: SHA1: 07bec103da9799822647fcd814b2b1c0280f5c7d
+FileChecksum: MD5: 5da0e871ac8907d754541621cf2601a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-config/pom.xml
+SPDXID: SPDXRef-item9402600
+FileChecksum: SHA1: b56e3db4a49e95c3ad1286324ebba62283478ab0
+FileChecksum: MD5: 56c10bf0f9f63a1f8e76d76ded9f9894
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-config/src/main/lombok/org/acumos/federation/client/config/package-info.java
+SPDXID: SPDXRef-item9402597
+FileChecksum: SHA1: 8bc7efd412406fc805440efea21095df88efdf13
+FileChecksum: MD5: 3cd39e441f680717b668adc7f6c9e47e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-config/src/main/lombok/org/acumos/federation/client/config/ClientConfig.java
+SPDXID: SPDXRef-item9402596
+FileChecksum: SHA1: 7911c72ccfeddecb697941304afc88fc667c764a
+FileChecksum: MD5: 1eddc488f322ec9879edffe89727fd3c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-test/src/test/java/org/acumos/federation/client/test/ClientMockingTest.java
+SPDXID: SPDXRef-item9402616
+FileChecksum: SHA1: 18a988e97ff526dac0775b16d0db4a2f2d9e7e95
+FileChecksum: MD5: 5722deb55df56a9e09f5e3ece8144e25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-config/src/main/lombok/org/acumos/federation/client/config/TlsConfig.java
+SPDXID: SPDXRef-item9402598
+FileChecksum: SHA1: d76e5c47e81e5383e564adf447865024e5bf5ff2
+FileChecksum: MD5: de68bad5bffcbe46f11f276ea41a9e0c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-test/src/main/resources/README
+SPDXID: SPDXRef-item9402619
+FileChecksum: SHA1: 60485157eba72352616045ec2efd91aac82c20b0
+FileChecksum: MD5: f13cf5f7a48deb1b3964efd5b2cb1aec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-test/src/main/java/org/acumos/federation/client/test/ClientMocking.java
+SPDXID: SPDXRef-item9402630
+FileChecksum: SHA1: 5e45235b4c611669dbb76fc1ad252e7834470ca9
+FileChecksum: MD5: dcf4dcd9f8e3ef3a8ca5f8abb1db2865
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-test/pom.xml
+SPDXID: SPDXRef-item9402633
+FileChecksum: SHA1: b42875237ae20be831d5b09e21815a16310d71ec
+FileChecksum: MD5: dc8d195ee4372dec91d35e0c159e6768
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-test/src/main/java/org/acumos/federation/client/test/package-info.java
+SPDXID: SPDXRef-item9402631
+FileChecksum: SHA1: 9b203cef2d7046bffcfe6ea0a3bf8993d16a79b6
+FileChecksum: MD5: 871612ba30ba2d88fbd59c60eba0e510
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/test/java/org/acumos/federation/gateway/PollingTest.java
+SPDXID: SPDXRef-item9402514
+FileChecksum: SHA1: 9883724b88ffb531cd76bbd3a376516d29795660
+FileChecksum: MD5: 8a8663d697cc10819b97fdd07d6a4fda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/test/java/org/acumos/federation/gateway/ClientsTest.java
+SPDXID: SPDXRef-item9402517
+FileChecksum: SHA1: ecc287ea38d297afb8530c295770a21669dfd55d
+FileChecksum: MD5: 4d59a6a8b2e81174e58611c602b31325
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/pom.xml
+SPDXID: SPDXRef-item9402579
+FileChecksum: SHA1: b2fe5a215d88d994844cf2f1cd109ed96ad160bd
+FileChecksum: MD5: 232e93a4b05a6271843f126384631104
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/ContentServiceImpl.java
+SPDXID: SPDXRef-item9402549
+FileChecksum: SHA1: c4d8fb2217ad1b52342da5711e3dfdc3aca1e194
+FileChecksum: MD5: d7a12bdc2f8718e92b97ab5c39ff4cd2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client/src/test/java/org/acumos/federation/client/ClientTest.java
+SPDXID: SPDXRef-item9402451
+FileChecksum: SHA1: aa8b1e84229c66f691edcaf59248c93e6a61a8fd
+FileChecksum: MD5: 1b1487bcc36ac6a521bd3cd2e71c3205
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client/pom.xml
+SPDXID: SPDXRef-item9402480
+FileChecksum: SHA1: e007cab87139568c86356b8e31995feb275bf6ee
+FileChecksum: MD5: 4b6c3f6c383995a77e8a1276877067d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019-2020 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client/src/main/java/org/acumos/federation/client/ClientBase.java
+SPDXID: SPDXRef-item9402474
+FileChecksum: SHA1: 81b1fb1fdca5e8bd36cd198abe7de51f1af9dbc8
+FileChecksum: MD5: c0c49bf828425cd6c46f4266f3c4e938
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client/src/main/java/org/acumos/federation/client/FederationClient.java
+SPDXID: SPDXRef-item9402476
+FileChecksum: SHA1: 81c2360c79d1e1dd22eb02f7cd98cfa9db71302d
+FileChecksum: MD5: 1b8e3557b88fb2ec204ad9cd290b6d7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client/src/main/java/org/acumos/federation/client/GatewayClient.java
+SPDXID: SPDXRef-item9402475
+FileChecksum: SHA1: 2b82d905dc6e2697136959b71a6eba1bb0e98092
+FileChecksum: MD5: 05d2a1835ed4899978c276420eb1fc5c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/test/java/org/acumos/federation/gateway/GatewayControllerTest.java
+SPDXID: SPDXRef-item9402515
+FileChecksum: SHA1: 22172e39578833e255c0f3bed7748684686f3bef
+FileChecksum: MD5: 9b00cb754aa2bd93976e4e9d4a9d4f12
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/test/java/org/acumos/federation/gateway/FederationControllerTest.java
+SPDXID: SPDXRef-item9402516
+FileChecksum: SHA1: 31acec5970a81bf9f8a5d88211b4a9ae70c99cc4
+FileChecksum: MD5: 603b25e77de1965753cbc3e97bcf5358
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/Application.java
+SPDXID: SPDXRef-item9402538
+FileChecksum: SHA1: 7c58d58766f374d15a01daf4643836e494a0648a
+FileChecksum: MD5: 15082a383ba9162a42bc687fbb2c0c42
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/GatewayController.java
+SPDXID: SPDXRef-item9402542
+FileChecksum: SHA1: f133b7f3e7c251a24b420be7f4ba18c4a51fe836
+FileChecksum: MD5: 39d206108d51750d586ecf8fb338f41a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/Clients.java
+SPDXID: SPDXRef-item9402546
+FileChecksum: SHA1: a35c16f6c11a54d61faa6095f902b0282674876d
+FileChecksum: MD5: 60f159bf68845c397bba8df928b054c3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2020 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/SubscriptionPoller.java
+SPDXID: SPDXRef-item9402554
+FileChecksum: SHA1: f3d7fc933788204a24f8b7e5b948726028a45a0e
+FileChecksum: MD5: fe279d92adfdb5b4dca3f7905c9b2899
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/pom.xml
+SPDXID: SPDXRef-item9402563
+FileChecksum: SHA1: 88c5a302b5b511f669a8122313593b5dee22307d
+FileChecksum: MD5: 1350de7333e678c56a5fa1067f0cb045
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2020 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: federation/gateway/src/main/java/org/acumos/federation/gateway/FederationController.java
+SPDXID: SPDXRef-item9402557
+FileChecksum: SHA1: a0d3a807118b5650847bd4958df6f533a7aa3c70
+FileChecksum: MD5: a31e95bd3c7627fb746dcd39dd3d28b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client/README.md
+SPDXID: SPDXRef-item9402438
+FileChecksum: SHA1: afd313e6bb7a42b32e164944d67ea64b3ab58e37
+FileChecksum: MD5: 028a3a15da2f02328cd8a144202dba98
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-config/README.md
+SPDXID: SPDXRef-item9402581
+FileChecksum: SHA1: 917535ab9b9c4fdec485a785e515333ff6e2a883
+FileChecksum: MD5: 92fc9e9a9d865a8e3c83d56495252104
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-test/README.md
+SPDXID: SPDXRef-item9402602
+FileChecksum: SHA1: 8e5dd72b0234237ae560e6622e8c6a124f6b25e0
+FileChecksum: MD5: f8570ea1b699241cdd097b6084f97702
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/gateway/README.md
+SPDXID: SPDXRef-item9402499
+FileChecksum: SHA1: b82f738cd4905a5e42b715eb581c8da5c5154c2f
+FileChecksum: MD5: 533171d0ae8e66549b5bb982c8e3bd24
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client/.gitignore
+SPDXID: SPDXRef-item9402479
+FileChecksum: SHA1: bb92a948d8b652c398ccbacd1467b9f0eab4d145
+FileChecksum: MD5: 63dad536b98c8c68607da9c063a3b2fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/README.md
+SPDXID: SPDXRef-item9402482
+FileChecksum: SHA1: 254b5cecb02f1a93b8568e88425e56b8c2fde631
+FileChecksum: MD5: 1f8772910dc07e16ed69216d0bb3b444
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/INFO.yaml
+SPDXID: SPDXRef-item9402483
+FileChecksum: SHA1: 3527be599636be5a52aaf88df3b190ec2bed0770
+FileChecksum: MD5: a60faaded96922825b8ef19daf14d14c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/.gitreview
+SPDXID: SPDXRef-item9402484
+FileChecksum: SHA1: 3323827471207f8e4c12f5a36bb37cef76fe1217
+FileChecksum: MD5: 2a4a0aa2794f29a63b213ebbfd1c28a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/releases/3.0.2-container.yaml
+SPDXID: SPDXRef-item9402487
+FileChecksum: SHA1: 09b05df52713d844003e1162c69383db0b722761
+FileChecksum: MD5: 002713787a5d552292b68f166cbdf138
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/releases/3.0.2-maven.yaml
+SPDXID: SPDXRef-item9402488
+FileChecksum: SHA1: cf5dd19fa2c818cf95fb8fd1695e9584936cb3da
+FileChecksum: MD5: 81a7173c6a8860aafd2d8968d3f2b065
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/releases/3.0.1-maven.yaml
+SPDXID: SPDXRef-item9402489
+FileChecksum: SHA1: f7ea1659089e72a1c567f0ccd1057e844b167078
+FileChecksum: MD5: 209a31b0a788e58ecf0913687d392f2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/releases/3.2.2-maven.yaml
+SPDXID: SPDXRef-item9402490
+FileChecksum: SHA1: 794ab41da844282a1cfdc3ec6142b54acdc299ee
+FileChecksum: MD5: e568f617e1bdd9e153b093c9e3c085bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/releases/3.1.0-maven.yaml
+SPDXID: SPDXRef-item9402491
+FileChecksum: SHA1: bed09c5793f7d4d0ddf48899f05b2c439914e25b
+FileChecksum: MD5: 031ff3ad6abc05497f2e6e376535773f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/releases/3.2.2-container.yaml
+SPDXID: SPDXRef-item9402492
+FileChecksum: SHA1: 4182f557ea8c02140a078f0a0a75dc2a53187dd2
+FileChecksum: MD5: 991237105e742390c52340a8a8b6dc2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/releases/3.1.0-container.yaml
+SPDXID: SPDXRef-item9402493
+FileChecksum: SHA1: c17658c813e0d9b2bb6585cba6aec360e5f5be1b
+FileChecksum: MD5: e1a8b855a0ce09d5f313fbd0655e7a5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/gateway/application.properties
+SPDXID: SPDXRef-item9402495
+FileChecksum: SHA1: c1c5c2f10d56ebec806fb4a6ec768db0b82ef2de
+FileChecksum: MD5: 739df08979ab78e2181873e5bde33d32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/gateway/application-error.properties
+SPDXID: SPDXRef-item9402496
+FileChecksum: SHA1: 398914dfac1e71b4c372790877ad45bf28df996b
+FileChecksum: MD5: 2790434cca76ee6f93b9d6c1b089c394
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/gateway/application-acumosb.properties
+SPDXID: SPDXRef-item9402497
+FileChecksum: SHA1: 21f60d4bdc2dbf995c3417b3dcb0299cc1ef0023
+FileChecksum: MD5: 9e884216cc0d01b0246a00d4192a5dd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/gateway/application-acumosa.properties
+SPDXID: SPDXRef-item9402498
+FileChecksum: SHA1: 7101b32ce58194cd2551675f7fd20850679defb2
+FileChecksum: MD5: 96841a256ae3f8eb394f1b0370d9beae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/gateway/application-dev.properties
+SPDXID: SPDXRef-item9402500
+FileChecksum: SHA1: ed62e01fea7654ba03360b2d28cc32ef5de19073
+FileChecksum: MD5: 4b2b461d8881e0acd006413677056915
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/gateway/application-test.properties
+SPDXID: SPDXRef-item9402561
+FileChecksum: SHA1: c66c53591b4f3b79f66d894497c2a2b3ec8646dc
+FileChecksum: MD5: c71a6f846eda968904130b008fb587c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/gateway/application.properties.template
+SPDXID: SPDXRef-item9402562
+FileChecksum: SHA1: a7cf4633bb2aa5a591d5ee8cbb9e09cd691e7cef
+FileChecksum: MD5: 6cab91e16fc22ff91b0d45725fc8b63c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/gateway/application-gateway.properties
+SPDXID: SPDXRef-item9402564
+FileChecksum: SHA1: 4ac6afaa09122a2b40cb75b39988c0ddbb92b2e4
+FileChecksum: MD5: 038fc0be50da911f1c4015a9561eaadf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/.gitattributes
+SPDXID: SPDXRef-item9402565
+FileChecksum: SHA1: 1fead8ae4a123d4c2526ba03777b256cb10f7a5a
+FileChecksum: MD5: 635578d7546b35d97c384e8708b86a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/.gitignore
+SPDXID: SPDXRef-item9402566
+FileChecksum: SHA1: 07b80579ceb5e800af1041d46c040a9f455ab8c0
+FileChecksum: MD5: 21d74511b84b52948efc83195a977306
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/docs/fed-gw-arch.png
+SPDXID: SPDXRef-item9402576
+FileChecksum: SHA1: 038b15b5ddec96e96ddde8525083624a884441a3
+FileChecksum: MD5: 7e448ce20fc9ef6e0be3b835175c3d34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/docs/.gitignore
+SPDXID: SPDXRef-item9402578
+FileChecksum: SHA1: a88e44075239047786dd50fd0a9f0a35f19f909a
+FileChecksum: MD5: 176474267717428af53abf6f85c12945
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-config/.gitignore
+SPDXID: SPDXRef-item9402599
+FileChecksum: SHA1: bb92a948d8b652c398ccbacd1467b9f0eab4d145
+FileChecksum: MD5: 63dad536b98c8c68607da9c063a3b2fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-test/src/main/resources/acumosb.pkcs12
+SPDXID: SPDXRef-item9402620
+FileChecksum: SHA1: 8d3e142449db7ce753b0c0378f1e67bd1439b247
+FileChecksum: MD5: 820fbab7705d6961c8f022f45d80ce37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-test/src/main/resources/acumosTrustStore.jks
+SPDXID: SPDXRef-item9402621
+FileChecksum: SHA1: 23db883dfcb1bebb05055085accb3623bbb3f474
+FileChecksum: MD5: 0750c5322d7a82e94a605907112b4e5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-test/src/main/resources/acumosc.pkcs12
+SPDXID: SPDXRef-item9402622
+FileChecksum: SHA1: a884324312e5ecad41b6b713202a15f54581b356
+FileChecksum: MD5: 38ed3f95bcd0f6990a5a4c75738eafff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-test/src/main/resources/acumosa.pkcs12
+SPDXID: SPDXRef-item9402623
+FileChecksum: SHA1: 9755eeb628c199d164c396112d401e52866463e3
+FileChecksum: MD5: 2002ec568823e9fa484518da14542cf4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: federation/acumos-fgw-client-test/.gitignore
+SPDXID: SPDXRef-item9402632
+FileChecksum: SHA1: bb92a948d8b652c398ccbacd1467b9f0eab4d145
+FileChecksum: MD5: 63dad536b98c8c68607da9c063a3b2fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
