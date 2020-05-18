@@ -1,0 +1,954 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_kubernetes-client-2020-05-12.zip_1589310246.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-05-12T19:04:06Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: kubernetes-client-2020-05-12.zip
+PackageFileName: kubernetes-client-2020-05-12.zip
+SPDXID: SPDXRef-upload2464
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 235c3384d4967127741397c931f833760c66245f
+PackageChecksum: SHA1: 4802a40b916c52a98a9f16e57839034babb249cd
+PackageChecksum: MD5: e28a6247b68df1d4cc5d92929fd5e245
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2464
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: kubernetes-client/README.md
+SPDXID: SPDXRef-item9402872
+FileChecksum: SHA1: e1bfd31b3980def12d951d4574c69efe169691c3
+FileChecksum: MD5: f5b052782e69d3ff340be98bd519e3df
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/docs/index.rst
+SPDXID: SPDXRef-item9402945
+FileChecksum: SHA1: 98449756bdaa645658b1ef10d899232ca394f4f2
+FileChecksum: MD5: a57fcc1785f8b2043c2b25a75a511021
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/docs/release-notes.rst
+SPDXID: SPDXRef-item9402946
+FileChecksum: SHA1: 64735549833ac7e5122cf16e110b92a589f254f9
+FileChecksum: MD5: d4e8ee9f443a36ed723ede7e79d396cf
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/license/acumos/header.txt
+SPDXID: SPDXRef-item9402879
+FileChecksum: SHA1: df09ece0d24c1d95a278905bff78c4a1c686ccec
+FileChecksum: MD5: fd976600fafe010d9febbabd6d6c9749
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/src/license/licenses.properties
+SPDXID: SPDXRef-item9402876
+FileChecksum: SHA1: aee72dfc91a08ffc24c24d27873075f81b65989d
+FileChecksum: MD5: 42cc9c7869b44c8408397bd6d499bbf2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/docs/conf.py
+SPDXID: SPDXRef-item9402947
+FileChecksum: SHA1: 0c4a7b8fa0942ebf10c2bc0f54a2e70632a512c2
+FileChecksum: MD5: 44f152d3f9342665253070f171d41409
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright 2018, The Acumos Project.
+Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/beans/DeploymentKubeBean.java
+SPDXID: SPDXRef-item9402899
+FileChecksum: SHA1: e8d334c8dedf2519dcf74b41852686ef47f0faf7
+FileChecksum: MD5: d2bf41c12b62cd071f701078930d54c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/beans/ContainerBean.java
+SPDXID: SPDXRef-item9402898
+FileChecksum: SHA1: 428fe4c19c5650434b0c1b2dceffaaa4a27acd5a
+FileChecksum: MD5: 2870da55de78938d0745e5d01b5a9267
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/parsebean/DataSource.java
+SPDXID: SPDXRef-item9402907
+FileChecksum: SHA1: 98cd8735308c2973f67033f8f8a54e4fc6066608
+FileChecksum: MD5: 5014fd615e670eee2f416e6146ef42b5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/parsebean/MappingTable.java
+SPDXID: SPDXRef-item9402905
+FileChecksum: SHA1: 232fb0a4811913b86bc4e09ee3daad23e3c1a2b1
+FileChecksum: MD5: 89fd5ff16122f320b7c364c03e20da4a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/parsebean/InputField.java
+SPDXID: SPDXRef-item9402908
+FileChecksum: SHA1: 20c597ce6902c628c4347fdbeb203c2a8a59c11d
+FileChecksum: MD5: 88493596aedfbf95eddd076345a472bf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/parsebean/Blueprint.java
+SPDXID: SPDXRef-item9402906
+FileChecksum: SHA1: 3d4566b8011e3884e3abea96b2443b3f5a60da8c
+FileChecksum: MD5: 69493bd506d599025eed3549983d12a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/parsebean/NodeTree.java
+SPDXID: SPDXRef-item9402910
+FileChecksum: SHA1: 7152e5d03a2d91a08b08125c056f1b798566d0d9
+FileChecksum: MD5: a3d954114a58dd98100a4c8c95aca3e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/parsebean/TrainingClient.java
+SPDXID: SPDXRef-item9402909
+FileChecksum: SHA1: 085abaacfcc6db8fe7039f6a5652744da557adad
+FileChecksum: MD5: 6a928b5e69dd54c09ef6672448c829e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/parsebean/InputPort.java
+SPDXID: SPDXRef-item9402911
+FileChecksum: SHA1: 8460ec48d306f99aff7182843a68e42707c9f6dc
+FileChecksum: MD5: 0582b1919f1de09f2edbbb452ee07842
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/parsebean/DataBrokerMap.java
+SPDXID: SPDXRef-item9402913
+FileChecksum: SHA1: 011c667af5e4d5ab8ba4ed3f531b45bdbb98ebac
+FileChecksum: MD5: 7e2718aa6e9b57cca60a1895f58ada0c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/parsebean/OperationSignature.java
+SPDXID: SPDXRef-item9402912
+FileChecksum: SHA1: eef60529bcb6757fb0aa55f7d042d414ae4229a3
+FileChecksum: MD5: b6041f7b4c97d160af073e3ce118cad4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/parsebean/MlModel.java
+SPDXID: SPDXRef-item9402916
+FileChecksum: SHA1: 7489e18f27bda3431c28c8d90374fe872a3b92e4
+FileChecksum: MD5: 0e72016c85db24b2b9c3512d2c940f34
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/parsebean/DataBroker.java
+SPDXID: SPDXRef-item9402914
+FileChecksum: SHA1: 8029f8b38e5e8a0e20b7f45539d8fdc97858c2d7
+FileChecksum: MD5: 73255bda59b11e0f25f39870d491e6c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/parsebean/OutputField.java
+SPDXID: SPDXRef-item9402915
+FileChecksum: SHA1: f8f87ff58ef11582e0d993fb2c1349c670b10f4c
+FileChecksum: MD5: 32b83107b772126f3e334260c9731cf4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/parsebean/ConnectedTo.java
+SPDXID: SPDXRef-item9402917
+FileChecksum: SHA1: 5eb6dde62c5c8f932fffd6c40aa8001706648e3a
+FileChecksum: MD5: 5bc4b866b0a2251d038f409303780222
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/parsebean/MapOutputs.java
+SPDXID: SPDXRef-item9402918
+FileChecksum: SHA1: c7cb656643b310c7e73fea65418458f54071d12f
+FileChecksum: MD5: 82963b98b54b5fea3dbe4d24856b642b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/parsebean/DataBrokerBean.java
+SPDXID: SPDXRef-item9402920
+FileChecksum: SHA1: ba450136c636b3d9bd0a1afb2f90d102574954d3
+FileChecksum: MD5: f284f7b71a25ac7da43a3629a580a23c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/parsebean/ProbeIndicator.java
+SPDXID: SPDXRef-item9402921
+FileChecksum: SHA1: 94e9d2a94b11077c566338b175920a887cf32c0f
+FileChecksum: MD5: fc7c0c7ab17e76bda33130ae7e89989b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/parsebean/OperationSignatureList.java
+SPDXID: SPDXRef-item9402919
+FileChecksum: SHA1: 525579b6a9ae6af40a47be9d78a130ff5078e46c
+FileChecksum: MD5: 3e1268e39e0b4abe539a46e252cffe54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/parsebean/MapInputs.java
+SPDXID: SPDXRef-item9402923
+FileChecksum: SHA1: b2fb1058b70078fb78c400126dac6f251f36899f
+FileChecksum: MD5: 92b3a6d1a0d57d3d50eac47e1f35e919
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/parsebean/Node.java
+SPDXID: SPDXRef-item9402922
+FileChecksum: SHA1: 33b326a4622ffee45e14d4f2ff99b4507e1e15a5
+FileChecksum: MD5: 2676de198abe7701db1745aeae6ea101
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/kubernetesclient/KubernetesClientApplication.java
+SPDXID: SPDXRef-item9402931
+FileChecksum: SHA1: b6edc2e6512444682aef98c0791c07d56840d049
+FileChecksum: MD5: 3401b64d3baacef8d6b886a868e926b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/parsebean/TypeAndRoleHierarchyList.java
+SPDXID: SPDXRef-item9402924
+FileChecksum: SHA1: 8710bfeadb34b6fe79d17853746c390520d950f1
+FileChecksum: MD5: fe2d21afaf0757444ee80ad99b509184
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/kubernetesclient/SwaggerConfiguration.java
+SPDXID: SPDXRef-item9402930
+FileChecksum: SHA1: 6d56c21a66c006947d1e181fb0db18b85db330c3
+FileChecksum: MD5: 65dbc9cfb16500fbe55cd6767020e6c0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/beans/DockerInfo.java
+SPDXID: SPDXRef-item9402897
+FileChecksum: SHA1: edeaa3f0d7a8b937d00a8980d3c38ca667768bfb
+FileChecksum: MD5: 42ebf70b6dc34d6f6d65386de9b9acd4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/service/KubeService.java
+SPDXID: SPDXRef-item9402903
+FileChecksum: SHA1: 19f0cbfb1cb5024b3ad6e469033d4bd2be33afb8
+FileChecksum: MD5: a01b51c7cf37b9bd90a12c38b2e4d8bc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/resources/logback.xml
+SPDXID: SPDXRef-item9402889
+FileChecksum: SHA1: d9eac27ce07128298129f01dc8b17b5ede5de44a
+FileChecksum: MD5: 8d50bf105a36f6eac38e5008377f17af
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/deploy/private/setup_k8s.sh
+SPDXID: SPDXRef-item9402965
+FileChecksum: SHA1: e664cf72dc0cdeb3808fb74c3fcaa73f30ca30dd
+FileChecksum: MD5: 005582edf93211e7116dda9dc9822ee8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/logging/LogConfig.java
+SPDXID: SPDXRef-item9402936
+FileChecksum: SHA1: 5aab99f74f49d17876887d3c514bf6b402289dfe
+FileChecksum: MD5: 4c8c6d3b4100656ecddaf9429360b615
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/logging/ACUMOSLogConstants.java
+SPDXID: SPDXRef-item9402935
+FileChecksum: SHA1: 8f58d7060accd2ff6cf96911c7921b64b42653b1
+FileChecksum: MD5: f83963ec4cf498082a2a62f0a954c6fd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/utils/ParseJSON.java
+SPDXID: SPDXRef-item9402926
+FileChecksum: SHA1: e3eb7fe7587b4b0d3b0f175d243123ee5caf1cf3
+FileChecksum: MD5: 4472479510d3d047e458b0c8b4e261be
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/controller/KubeController.java
+SPDXID: SPDXRef-item9402894
+FileChecksum: SHA1: c782dbb007ed90c15c40227009d009b464392bae
+FileChecksum: MD5: b88069f7d9f1270186e980329265ee14
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/beans/DeploymentBean.java
+SPDXID: SPDXRef-item9402896
+FileChecksum: SHA1: ffa8614b58744373d0a83ee1e578af84f1e120bd
+FileChecksum: MD5: 5f5b9bf1cce8608ac6bc625966e00489
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/deploy/private/test_model_prereqs.sh
+SPDXID: SPDXRef-item9402958
+FileChecksum: SHA1: d71f4a7ff37b15ee60ac52cee1307089dbc1cb42
+FileChecksum: MD5: 16e0209d0a480660abc0ce5058aa90fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/utils/DockerKubeConstants.java
+SPDXID: SPDXRef-item9402928
+FileChecksum: SHA1: f0c96abfefc41e4483fc4eced24f73b61b3a3e0a
+FileChecksum: MD5: 5f4a87551c6cf83753dc9cbeaaa3c49f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/serviceImpl/KubeServiceImpl.java
+SPDXID: SPDXRef-item9402933
+FileChecksum: SHA1: 196452adb397d8d96be25c2f1858946047e9acf6
+FileChecksum: MD5: 3c15bfe0c429c76288cd9ce3d1ec203b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/utils/CommonUtil.java
+SPDXID: SPDXRef-item9402927
+FileChecksum: SHA1: e876fcf7f7a7dbc681e31fd5d0f135400bff01ba
+FileChecksum: MD5: 3ed70efbe4099f5ce61505166f7019d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/deploy/private/test_model.sh
+SPDXID: SPDXRef-item9402957
+FileChecksum: SHA1: 7797183613aa78fdaf9a5938ddaf17b3d0ac8140
+FileChecksum: MD5: 06b009f9e233cc8716926232289545a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/deploy/private/deploy.sh
+SPDXID: SPDXRef-item9402979
+FileChecksum: SHA1: 6003d544e705961f72d00d78058150fa8c364bf2
+FileChecksum: MD5: 8008312b928f841d8418ca564b5920e2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/src/license/acumos/license.txt
+SPDXID: SPDXRef-item9402878
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/LICENSE.txt
+SPDXID: SPDXRef-item9402939
+FileChecksum: SHA1: d943b64d40a8829de83cdd45d80ffab1e9fad171
+FileChecksum: MD5: 1e75c74cc397fb93c8999e75ce0165bc
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/deploy/private/templates/filebeat-configmap.yaml
+SPDXID: SPDXRef-item9402969
+FileChecksum: SHA1: f52ff66c471167088e1048e2628f57ec25c5fa49
+FileChecksum: MD5: 2231ed782d091cab44d92f75f5521c9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: kubernetes-client/deploy/private/templates/filebeat-daemonset.yaml
+SPDXID: SPDXRef-item9402968
+FileChecksum: SHA1: aae246de4b749133d2bd9fc40e40de6fbf3eafe0
+FileChecksum: MD5: 2c958fc72d5c0842300ada265d56781c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: kubernetes-client/deploy/private/templates/filebeat-rbac.yaml
+SPDXID: SPDXRef-item9402967
+FileChecksum: SHA1: 907aa71bb79d5e5d3d9a0ebcb1fb559d6ac096a5
+FileChecksum: MD5: c8799634f00acf714d6237fb8bb0ac77
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: kubernetes-client/deploy/private/templates/nginx-configmap-v1.yaml
+SPDXID: SPDXRef-item9402978
+FileChecksum: SHA1: 2dbcb7d9d75bb0049b137a43a1830ddaef15e298
+FileChecksum: MD5: 32c62ae0671ac6e6e4736f6c2bda41ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: kubernetes-client/deploy/private/templates/nginx-configmap-v2.yaml
+SPDXID: SPDXRef-item9402971
+FileChecksum: SHA1: 80fa182c9810f8c0f00e80bb910164a11a0a4b6d
+FileChecksum: MD5: b2ea9e11048617b33aaa66c57c35755d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: kubernetes-client/deploy/private/templates/nginx-deployment.yaml
+SPDXID: SPDXRef-item9402977
+FileChecksum: SHA1: 7d857859a6a19cea55e1fa6128b13aa3bfae0551
+FileChecksum: MD5: 89ae4d3d7ccf81ed86791918b7888572
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: kubernetes-client/deploy/private/templates/nginx-mc-configmap-v1.yaml
+SPDXID: SPDXRef-item9402972
+FileChecksum: SHA1: 861d433301b880749b41a371f13ad9986959de62
+FileChecksum: MD5: dfa59b77bcd5a6ccf06acec66ed525c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: kubernetes-client/deploy/private/templates/nginx-mc-configmap-v2.yaml
+SPDXID: SPDXRef-item9402975
+FileChecksum: SHA1: a54fdb0ad8365825a9bc380cee1a1f83c757d35e
+FileChecksum: MD5: 7d59f0e958b011539e9cc1015f6d3523
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: kubernetes-client/deploy/private/templates/nginx-mc-deployment.yaml
+SPDXID: SPDXRef-item9402976
+FileChecksum: SHA1: 5b5fcfa38d3944dc6dc83f56358ee569af68b91a
+FileChecksum: MD5: a5989246b07a6e5f15ab7eefc3861709
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: kubernetes-client/deploy/private/templates/nginx-mc-service.yaml
+SPDXID: SPDXRef-item9402973
+FileChecksum: SHA1: f0f3b9fbf0616288494af6f932eb25b507b605a6
+FileChecksum: MD5: 370b9e38402964902ad45d148800de11
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: kubernetes-client/deploy/private/templates/nginx-service-composite.yaml
+SPDXID: SPDXRef-item9402970
+FileChecksum: SHA1: 08ae4c2e04727af47e85967e7501a8f1bb945041
+FileChecksum: MD5: 70705f732c906e1d244997a75cae075a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: kubernetes-client/deploy/private/templates/nginx-service.yaml
+SPDXID: SPDXRef-item9402974
+FileChecksum: SHA1: 719683ef29bff55a67202449e38e379b216f398c
+FileChecksum: MD5: 4d14cfca385ceb7087c51ee9aca40e72
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: kubernetes-client/docs/deploy-in-private-k8s.rst
+SPDXID: SPDXRef-item9402953
+FileChecksum: SHA1: a0feed543a3d798ad65697c5ff04e1a9fdea0da8
+FileChecksum: MD5: b73b1df6230c0c64ee8f84f3ff2105a5
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: kubernetes-client/application.properties
+SPDXID: SPDXRef-item9402871
+FileChecksum: SHA1: 184f44969aa6f96e333172c74130db949f0a689e
+FileChecksum: MD5: 4ae6d6b1923a7d40bfc9b6c96fc8baed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/INFO.yaml
+SPDXID: SPDXRef-item9402873
+FileChecksum: SHA1: 5487a73b6c38333a0cb1b9cd1bd65dacc2651b67
+FileChecksum: MD5: 9355448d170629b5806f2ebc059216b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/src/test/java/com/dockerKube/test/serviceImpl/KubeServiceImplTest.java
+SPDXID: SPDXRef-item9402886
+FileChecksum: SHA1: e113aaecb667e6fddf563cb779719717181bcabb
+FileChecksum: MD5: b2798c734b2318ee32786b104158b269
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/beans/DockerInfoBean.java
+SPDXID: SPDXRef-item9402900
+FileChecksum: SHA1: be47cd912856f24c49792481c612136ef3b217c7
+FileChecksum: MD5: e80337989b4c6f5c78bde538e91dcba3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/src/main/java/com/dockerKube/beans/MLSolutionBean.java
+SPDXID: SPDXRef-item9402901
+FileChecksum: SHA1: 13b72d86ccb63614bb0293424f24828bb1369203
+FileChecksum: MD5: c98d0220f1c1e2993184f80ad7f41289
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/.gitreview
+SPDXID: SPDXRef-item9402937
+FileChecksum: SHA1: 7f722ec86c9b1187154f21b1ad9966cab85b8b62
+FileChecksum: MD5: a903390a08cc0fdd1f82a5790bac5723
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/blueprint.json
+SPDXID: SPDXRef-item9402938
+FileChecksum: SHA1: 887bb3c3126e7d38334c1bbf3603c88aab1932fd
+FileChecksum: MD5: f2a443b9a8a908d79bd86eb21f57fdbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/releases/release-3.0.2-maven-docker.yaml
+SPDXID: SPDXRef-item9402941
+FileChecksum: SHA1: 507fa33c036fcd1c2cb00e2b685abb93c5b8c309
+FileChecksum: MD5: b04732ed0d4119477f7ef3201a2adda7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/.gitignore
+SPDXID: SPDXRef-item9402942
+FileChecksum: SHA1: e0ea96f6b57e53ebeeeac6d203c57ecfd1bb6dd6
+FileChecksum: MD5: 1a4a3c712da4c6fd83c955729f71316f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/docs/Makefile
+SPDXID: SPDXRef-item9402944
+FileChecksum: SHA1: d559243d06bc239c149bd3329eee55c6ee73ce8d
+FileChecksum: MD5: f34330f07eaedb74e65b321921125d22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/docs/images/private-k8s-client-arch.xml
+SPDXID: SPDXRef-item9402949
+FileChecksum: SHA1: 6d2bcc3c6f092e6c0f10f27e791d51817f2f8416
+FileChecksum: MD5: 423223fd4a553a7fa8dcfa40651fbeb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/docs/images/private-k8s-client-arch-no-databroker.png
+SPDXID: SPDXRef-item9402950
+FileChecksum: SHA1: 1c5d95a7b9360540179243c5815389f39640218b
+FileChecksum: MD5: 79bf64cb570d3a48ecf380a2b1af7374
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/docs/images/private-k8s-client-arch-no-databroker.xml
+SPDXID: SPDXRef-item9402951
+FileChecksum: SHA1: d967923227aad1a0900167bfe12ed494f6be9abe
+FileChecksum: MD5: bfec788a34b3396dbec1952fb09a843a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/docs/images/private-k8s-client-arch.png
+SPDXID: SPDXRef-item9402952
+FileChecksum: SHA1: cb6ffae6f345fcbc258813f33258bba220c4f7c7
+FileChecksum: MD5: bf777cde0377792e39e09f378695cf6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/pom.xml
+SPDXID: SPDXRef-item9402954
+FileChecksum: SHA1: b50c53b7baa42bb5406f7d6dc08e621efebd0164
+FileChecksum: MD5: 001a4c3c06223ecb3a499d4f8b3b4a9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/deploy/private/dashboards/Docker_Dashboard-1503539375161.json
+SPDXID: SPDXRef-item9402960
+FileChecksum: SHA1: 0ef732fd9abed0000790d92b22735c3d2e768e65
+FileChecksum: MD5: a6a78add3e2aba3b1249d4bc51814e7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/deploy/private/dashboards/Docker_Host_and_Container_Overview-1503539411705.json
+SPDXID: SPDXRef-item9402961
+FileChecksum: SHA1: 4c32686674bd4919c545af498821f8ee4ba1d7ff
+FileChecksum: MD5: baaa827a49ff04890f316c7f53c81517
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/deploy/private/dashboards/Node_exporter_single_server-1503539807236.json
+SPDXID: SPDXRef-item9402962
+FileChecksum: SHA1: 90fad79da570720bb779b43dd7009360eac2f82f
+FileChecksum: MD5: 6fb18107ecc45a6e3ce72b6f1276a32c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/deploy/private/dashboards/Node_Exporter_Server_Metrics-1503539692670.json
+SPDXID: SPDXRef-item9402963
+FileChecksum: SHA1: 5dd765295c0a2cb0d8baa7f2fcedcfe5148c417c
+FileChecksum: MD5: fe7afcec9290c60a81d342d4bdb4b06e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: kubernetes-client/deploy/private/dashboards/Kubernetes_Pods_Prometheus.json
+SPDXID: SPDXRef-item9402964
+FileChecksum: SHA1: 0eef7b4363d077905e4858e35acbb49f4b4f6bea
+FileChecksum: MD5: 0c99604f810f6c00aad86063735926b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
