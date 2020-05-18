@@ -1,0 +1,81 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_docker-proxy-2020-05-12.zip_1589310186.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-05-12T19:03:06Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: docker-proxy-2020-05-12.zip
+PackageFileName: docker-proxy-2020-05-12.zip
+SPDXID: SPDXRef-upload2457
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: e847236faaf7f576011c0adccaa9e9f338272dd7
+PackageChecksum: SHA1: 4cfa6e2c02a8c6402feb246530b859bc9ef1fd93
+PackageChecksum: MD5: c73f0d661162bb858febd33f10585271
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2457
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: docker-proxy/INFO.yaml
+SPDXID: SPDXRef-item9402072
+FileChecksum: SHA1: 82182d54315ab6657d123bcc16711e7ab84cfa80
+FileChecksum: MD5: 2c504d158165b3ae9746edebf2949c46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: docker-proxy/.gitreview
+SPDXID: SPDXRef-item9402073
+FileChecksum: SHA1: 4790795c1dbf2739c9e57b9fd338e7ade6c1e8f8
+FileChecksum: MD5: 49d320f736ea307e971ce2b7060a27f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
