@@ -1,0 +1,2019 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_model-deployments-2020-05-12.zip_1589310294.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-05-12T19:04:55Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: model-deployments-2020-05-12.zip
+PackageFileName: model-deployments-2020-05-12.zip
+SPDXID: SPDXRef-upload2470
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 286265e14098edc53d86157b6b672f8edbaf73fe
+PackageChecksum: SHA1: efa1ef8004d86c74662795c0e8c2422c96d6b105
+PackageChecksum: MD5: 5580b9706f890f32b97fb41bf58784ee
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2470
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: model-deployments-deployment-client/config/jobs/solution_deploy/templates/filebeat-configmap.yaml
+SPDXID: SPDXRef-item9403933
+FileChecksum: SHA1: a748ac8e88098e7b80ac37ff0a5e4423b5c77a48
+FileChecksum: MD5: 7b358d024df64aef9f74fa428c26ce0b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/config/jobs/solution_deploy/templates/filebeat-daemonset.yaml
+SPDXID: SPDXRef-item9403931
+FileChecksum: SHA1: 5deb39ba6bda50586f275ae85ffbc9cc2a4c2571
+FileChecksum: MD5: cdf3ae2ccaf9c22247bb3e4cd8dc8593
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/config/jobs/solution_deploy/templates/nginx-configmap-v1.yaml
+SPDXID: SPDXRef-item9403946
+FileChecksum: SHA1: 0ad7ee14487336538d687e81d5b61c27788a6977
+FileChecksum: MD5: e259820568f134faa759a1e11bccebcd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/config/jobs/solution_deploy/templates/nginx-configmap-v2.yaml
+SPDXID: SPDXRef-item9403935
+FileChecksum: SHA1: f5f6b3496bb9fc7e56177fff43849fe15c53feb2
+FileChecksum: MD5: b35cf3fc2e1f5e642330fd60eb17bfbe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/config/jobs/solution_deploy/templates/nginx-mc-configmap-v1.yaml
+SPDXID: SPDXRef-item9403937
+FileChecksum: SHA1: 1c64e4edafd82a6d26d86ecab905907ad0a89458
+FileChecksum: MD5: 6d918a4a4d40c83e248addf0076cc2bf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/config/jobs/solution_deploy/templates/nginx-mc-configmap-v2.yaml
+SPDXID: SPDXRef-item9403942
+FileChecksum: SHA1: 0df68b95288f5e56b79116d041d2bace0e514984
+FileChecksum: MD5: 1bc1c778c28bb15a0124deb4a3ac2ea3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/config/jobs/solution_deploy/templates/nginx-service-composite.yaml
+SPDXID: SPDXRef-item9403934
+FileChecksum: SHA1: 42297ac186eeca3b46e4940ae1b01d6410eadd0b
+FileChecksum: MD5: 378e28048710e35b7608d9f783f86336
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/config/jobs/solution_deploy/templates/nginx-service.yaml
+SPDXID: SPDXRef-item9403940
+FileChecksum: SHA1: 42297ac186eeca3b46e4940ae1b01d6410eadd0b
+FileChecksum: MD5: 378e28048710e35b7608d9f783f86336
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/bean/MLModel.java
+SPDXID: SPDXRef-item9403910
+FileChecksum: SHA1: ebf161c5463bfbf4816b81525af11a043c7b0756
+FileChecksum: MD5: 57257cc7b690bb4350a8b51196ef7c5b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/bean/SourceModelInfo.java
+SPDXID: SPDXRef-item9403909
+FileChecksum: SHA1: d1f54565264fd05e5283e884b2eeffe5279c4adb
+FileChecksum: MD5: 4e357be67e56e122b03868de19c60d63
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/util/ParseDockerImageTag.java
+SPDXID: SPDXRef-item9403917
+FileChecksum: SHA1: 315c2f6cd0f0dfec6590cd4174549d8f1da263f0
+FileChecksum: MD5: 9b875f691c1c61149fa58d48ac62dea1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/bean/MLModelMethods.java
+SPDXID: SPDXRef-item9403913
+FileChecksum: SHA1: 765d4186157b8a89268bb3eca560c1c27bd5b4d2
+FileChecksum: MD5: 673294717ffcb36d53c1336ee0fc622b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/config/jobs/solution_deploy/templates/training-get-params-job-pvc.yaml
+SPDXID: SPDXRef-item9403932
+FileChecksum: SHA1: 9e97c6a7e7b170652d09d72b19d7ada7897d9b80
+FileChecksum: MD5: 9176a71d33c7c01de9a7068ed26d54ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/config/jobs/solution_deploy/templates/training-get-params-job.yaml
+SPDXID: SPDXRef-item9403939
+FileChecksum: SHA1: 3faa401b51f16168c7ca910e005e32c4c8d9ae39
+FileChecksum: MD5: 9dc5b8c62a5525478a11c3594c84bb76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/README.md
+SPDXID: SPDXRef-item9403802
+FileChecksum: SHA1: 25e0238a391544bb04d513c31494923db1e9185f
+FileChecksum: MD5: 82c7322dda89d37698e879dbc26fbdfc
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/docs/index.rst
+SPDXID: SPDXRef-item9403955
+FileChecksum: SHA1: 1d1dfe15f9ab4b702e1a23bf6c7d2b61f7d061d4
+FileChecksum: MD5: 8f01df26bf28dd13d103c96904f73882
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/docs/release-notes.rst
+SPDXID: SPDXRef-item9403957
+FileChecksum: SHA1: 9ebd3db5ac733b56fab4dcffaf48edc187b6c674
+FileChecksum: MD5: cc7d395e8470940dfa1a3853d32ce2b8
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/LICENSE.txt
+SPDXID: SPDXRef-item9403747
+FileChecksum: SHA1: b523c4d27faa5170bd3d2f01fbad3ecfbe4b8ef1
+FileChecksum: MD5: 780f56a0baa4b15d9ca552327f88f933
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/predictormanagerservice/_version.py
+SPDXID: SPDXRef-item9403769
+FileChecksum: SHA1: aef1d465ae8528ebf0a7f1ffba694077e5805e22
+FileChecksum: MD5: fe4be80fec17cf91632caa0c73dc0f1e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/predictormanagerservice/settings.py
+SPDXID: SPDXRef-item9403771
+FileChecksum: SHA1: 2602a3febfc8a4d51f8f017cb01da8a917faa91f
+FileChecksum: MD5: 8d4c077502e8c2131379c8f5d6e92958
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/wsgi.py
+SPDXID: SPDXRef-item9403741
+FileChecksum: SHA1: 7f1c5c04b8e0bed5ca85f8c9e597c4908ea70f1f
+FileChecksum: MD5: 08936b22cbdbc9047b776ad3291757a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/setup.py
+SPDXID: SPDXRef-item9403746
+FileChecksum: SHA1: a6439afb7857a45dd0ce6a7e1c0512e6a88cd413
+FileChecksum: MD5: 941af2fae8b41a2396ccdb8c0b5faa10
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/predictormanagerservice/api/v2/__init__.py
+SPDXID: SPDXRef-item9403785
+FileChecksum: SHA1: 4a168b0908ba1ff251666c4617d64e169fab1c41
+FileChecksum: MD5: b3397f7f49d101a80009141bbe933ca8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/predictormanagerservice/api/__init__.py
+SPDXID: SPDXRef-item9403777
+FileChecksum: SHA1: 4a168b0908ba1ff251666c4617d64e169fab1c41
+FileChecksum: MD5: b3397f7f49d101a80009141bbe933ca8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/predictormanagerservice/database/__init__.py
+SPDXID: SPDXRef-item9403775
+FileChecksum: SHA1: 4a168b0908ba1ff251666c4617d64e169fab1c41
+FileChecksum: MD5: b3397f7f49d101a80009141bbe933ca8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/start-server.sh
+SPDXID: SPDXRef-item9403742
+FileChecksum: SHA1: 8be60773e980b40944676b301a4b6eb6acaa4c98
+FileChecksum: MD5: b758c284ced39d19c2ccc1526eaf8540
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/run.py
+SPDXID: SPDXRef-item9403754
+FileChecksum: SHA1: 952a18efe76b3ba080f289941a1effe0977423a6
+FileChecksum: MD5: a9a17168f99e6639b5e9277aeff7def5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/tests/test_parsers.py
+SPDXID: SPDXRef-item9403757
+FileChecksum: SHA1: 81550f10effd0843dbaefffe4605b830e9339280
+FileChecksum: MD5: 3fd3972c50a3231d92c1bbf91301fbe4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/tests/test_business.py
+SPDXID: SPDXRef-item9403758
+FileChecksum: SHA1: 2e22027ff3a6c48048ff657f11bf6bc02fd4e21d
+FileChecksum: MD5: 73f1ab2968fa50cb15d3b03d00b0e739
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/tests/test_responses.py
+SPDXID: SPDXRef-item9403759
+FileChecksum: SHA1: 49a2e9a055d43c243c37b622e72782eb86c8392a
+FileChecksum: MD5: 9365cc9bd9b2f371718d9fe4ae8fd670
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/tests/test_endpoints.py
+SPDXID: SPDXRef-item9403760
+FileChecksum: SHA1: 434286a4fece90dfbd69fb46370ea20e4718503c
+FileChecksum: MD5: e86c8aa12317074d31500db10757fd0d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/tests/mock_context.py
+SPDXID: SPDXRef-item9403762
+FileChecksum: SHA1: 92a3ac35789e11f1382bd098698059f6e81fcf5f
+FileChecksum: MD5: 962efdf0ae537e40cba94372cd6c3aa5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/acumoscommon/responses.py
+SPDXID: SPDXRef-item9403764
+FileChecksum: SHA1: 6f0e0821f3fe2cbd6f0ed95cd441807fa94635ab
+FileChecksum: MD5: 8874f38b97dcc872f81c51c3e95982cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/acumoscommon/config_util.py
+SPDXID: SPDXRef-item9403766
+FileChecksum: SHA1: 926ae69799ee08b967440f6ec18837a2546648e0
+FileChecksum: MD5: 1e6aabbe3627afada830a7aeab278b8b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/predictormanagerservice/app.py
+SPDXID: SPDXRef-item9403770
+FileChecksum: SHA1: d0df65c65d1e4bd03fb8d34f5dd7900067448962
+FileChecksum: MD5: 5975c2bde7e33330e90801ac07b03906
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/predictormanagerservice/database/models.py
+SPDXID: SPDXRef-item9403774
+FileChecksum: SHA1: a32c9695df0f506d455d1973f1aa592821bc9822
+FileChecksum: MD5: 89b38f2e5de736b15bf3e6ae6525e5a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/predictormanagerservice/api/namespaces.py
+SPDXID: SPDXRef-item9403778
+FileChecksum: SHA1: 7be7932f32c496a8f5a724a4435dd97cee035776
+FileChecksum: MD5: 74d41e6af2757d20a271772fa86d8789
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/predictormanagerservice/api/config_util.py
+SPDXID: SPDXRef-item9403780
+FileChecksum: SHA1: 2edf15fbc99ca11bd1f67cf6793cd4c45c2d8608
+FileChecksum: MD5: 773a50d757411d4b558a591d820fb20a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/predictormanagerservice/api/v2/business.py
+SPDXID: SPDXRef-item9403782
+FileChecksum: SHA1: d01219df0107cbbd5115df831d807bf8df816a95
+FileChecksum: MD5: dfd008d7616227525f986c68c3f64244
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/predictormanagerservice/api/restplus.py
+SPDXID: SPDXRef-item9403779
+FileChecksum: SHA1: f150da9258040c65745e4f943de37ebe0e9b89d4
+FileChecksum: MD5: 2295be7523daf2ff899ef4af096ff767
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/predictormanagerservice/predictors/predictors.py
+SPDXID: SPDXRef-item9403788
+FileChecksum: SHA1: 521f84194f2deb986a0ee06ea71bbff337cc0981
+FileChecksum: MD5: 470e21d962f0704261c072404255be6d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/predictormanagerservice/api/v2/endpoints.py
+SPDXID: SPDXRef-item9403786
+FileChecksum: SHA1: f5e63684b64d9c9f796b16f0c99aad200cfb13ea
+FileChecksum: MD5: c2930d524172dd41f4d3f0c53ac9c8e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/predictormanagerservice/api/v2/serializers.py
+SPDXID: SPDXRef-item9403784
+FileChecksum: SHA1: 62b7f855bfa00ee5015251b53ebe6ebfb6fce33d
+FileChecksum: MD5: 2441cfd1734837a2a8ee3249b1539abc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/predictormanagerservice/api/v2/parsers.py
+SPDXID: SPDXRef-item9403783
+FileChecksum: SHA1: 88300cdc2f822535171682a9c3b153bcde0d847c
+FileChecksum: MD5: 8fc44a0434b6dc431dbe4181c22084ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/predictormanagerservice/predictors/__init__.py
+SPDXID: SPDXRef-item9403789
+FileChecksum: SHA1: 8c0e51154f2f0a0ec1a0335698141a756b92b300
+FileChecksum: MD5: 5c5a190cce2141b11f6c60556f91497d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/Dockerfile
+SPDXID: SPDXRef-item9403798
+FileChecksum: SHA1: be604084f85be3bed5561cce41e4586833b7476f
+FileChecksum: MD5: 9957e2f95598105442b1f725cea8e18d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/config/jobs/solution_deploy/templates/ingress.yaml
+SPDXID: SPDXRef-item9403941
+FileChecksum: SHA1: ff43dea60cf10d670c1f5031b3d14a8a0e37c8ec
+FileChecksum: MD5: 66065b150af6325a65fdef145d2915d4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/tools/clean_solution.sh
+SPDXID: SPDXRef-item9403924
+FileChecksum: SHA1: 6557de27b4381b099bbf46871ed5b0009b77a8ef
+FileChecksum: MD5: 4c6b048c066efbe163728da37fa79f7c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/tools/update_k8s_config.sh
+SPDXID: SPDXRef-item9403923
+FileChecksum: SHA1: a7038e3f5663c8e4382d4007285f3fdd8bd8f2d6
+FileChecksum: MD5: 57a6aebda62968b89938438d732cd49e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/docs/conf.py
+SPDXID: SPDXRef-item9403958
+FileChecksum: SHA1: 0c4a7b8fa0942ebf10c2bc0f54a2e70632a512c2
+FileChecksum: MD5: 44f152d3f9342665253070f171d41409
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright 2018, The Acumos Project.
+Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/resources/logback.xml
+SPDXID: SPDXRef-item9403867
+FileChecksum: SHA1: beaffd9ea2b25e8f0f2c4caef159123ad2d35a6c
+FileChecksum: MD5: f7c3b669ee38450e1abed6078059362b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/parsebean/MappingTable.java
+SPDXID: SPDXRef-item9403880
+FileChecksum: SHA1: d5b59c1a7fef533c219912100ec934a023d17b3e
+FileChecksum: MD5: 96222149292226da7c43caa814faabc5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/parsebean/Blueprint.java
+SPDXID: SPDXRef-item9403881
+FileChecksum: SHA1: fb864a12d64089ab64ce271641ab1a96be432d1b
+FileChecksum: MD5: af439ae066a6b6a5aac20639b888acee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/SwaggerConfiguration.java
+SPDXID: SPDXRef-item9403878
+FileChecksum: SHA1: 2883b4dca5b6972ab7e798771ea7ea8bc108ae51
+FileChecksum: MD5: 3ae962c842e79f4c3c3d142258d15244
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/parsebean/TrainingClient.java
+SPDXID: SPDXRef-item9403884
+FileChecksum: SHA1: 15c92cbb9eb591730092ada999c8c39ec6b8447c
+FileChecksum: MD5: b602631dafdca440f34cad93186f1509
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/parsebean/DataSource.java
+SPDXID: SPDXRef-item9403882
+FileChecksum: SHA1: a6485a2697b2237a722997eec95396d16e8b4259
+FileChecksum: MD5: a2fcfa23a82e96b45400e0c604e42a91
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/parsebean/InputField.java
+SPDXID: SPDXRef-item9403883
+FileChecksum: SHA1: d1dcccfa441bcb237db8f43025f38fbb42bf8e7f
+FileChecksum: MD5: fd27208222aaf26b9daad7a6926a247f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/parsebean/NodeTree.java
+SPDXID: SPDXRef-item9403885
+FileChecksum: SHA1: 73cebcb99c85cfaac134aef9253a10ab904ed4b4
+FileChecksum: MD5: 4f517aeb45985466fb3399b06ac5f5c0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/parsebean/InputPort.java
+SPDXID: SPDXRef-item9403886
+FileChecksum: SHA1: 7a5c85d3d0b9087acde4d66ce3a55c5021e1df46
+FileChecksum: MD5: a36c7ee62aa389b97b63939bcbb6f881
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/parsebean/DataBrokerMap.java
+SPDXID: SPDXRef-item9403888
+FileChecksum: SHA1: d846b19ba8b509db62a7eb2a071346a16d5d5ce1
+FileChecksum: MD5: 3abcf9b39594c76cbcff07e1300c9782
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/parsebean/OperationSignature.java
+SPDXID: SPDXRef-item9403887
+FileChecksum: SHA1: 10f1f8f46ee8032e312787eedc858758a58ddeb7
+FileChecksum: MD5: f0a17b9cc2161d1a87e6e394e9dcdba6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/parsebean/DataBroker.java
+SPDXID: SPDXRef-item9403889
+FileChecksum: SHA1: 6222ce258993d6b7a428608d3f76ac2ddafd41de
+FileChecksum: MD5: dd51eea349ebe117b97edadc8a039bd0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/parsebean/OutputField.java
+SPDXID: SPDXRef-item9403890
+FileChecksum: SHA1: 25982c5a382cd250fcf703dd5dafd16e8016ed17
+FileChecksum: MD5: 787582fa26d3d8adf2e085481bf78764
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/parsebean/MlModel.java
+SPDXID: SPDXRef-item9403891
+FileChecksum: SHA1: 3201704dd55aa16504539260d1c4fef82565a523
+FileChecksum: MD5: 436a9eeb4c4ec7eb5c1e380dd73b7d20
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/parsebean/ConnectedTo.java
+SPDXID: SPDXRef-item9403892
+FileChecksum: SHA1: 5d45acea6166678e014b8d96877a03826715ce3b
+FileChecksum: MD5: 39d952f5953d13e0fc332e74d7cac199
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/parsebean/MapOutputs.java
+SPDXID: SPDXRef-item9403893
+FileChecksum: SHA1: be0ede9eb4a8600f12e1400cec9e30fe3bedc94c
+FileChecksum: MD5: f00b45bff17ce60b7f460e8e19e3f243
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/parsebean/DataBrokerBean.java
+SPDXID: SPDXRef-item9403895
+FileChecksum: SHA1: 10087021ef787b67b0b9e188a61a0a784e6260cf
+FileChecksum: MD5: 7c10bd9433522bf090de189e97a14590
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/parsebean/OperationSignatureList.java
+SPDXID: SPDXRef-item9403894
+FileChecksum: SHA1: e356e82e083ead872acfc933010b3c2d48fadd59
+FileChecksum: MD5: 26912859a9e440260943cfe406b93831
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/parsebean/ProbeIndicator.java
+SPDXID: SPDXRef-item9403896
+FileChecksum: SHA1: 9ba061220837d3403eda932434553fa9c8406921
+FileChecksum: MD5: 4208aeeaeed35f42727829b28a58adff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/parsebean/MapInputs.java
+SPDXID: SPDXRef-item9403898
+FileChecksum: SHA1: a2a138870040d8c745958b8a1d8eb4e1858246b9
+FileChecksum: MD5: 8aadc9d1f48f70c89a72b31b514190a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/parsebean/Node.java
+SPDXID: SPDXRef-item9403897
+FileChecksum: SHA1: df1f7c0de20a5c0be4da10a6b54e2335bf6a8757
+FileChecksum: MD5: b82a5570ce8fc064e0263e5dd291d022
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/parsebean/TypeAndRoleHierarchyList.java
+SPDXID: SPDXRef-item9403899
+FileChecksum: SHA1: 0eb462853aede7f31dc31e65389d018cb9a38f49
+FileChecksum: MD5: 27441cc286954493163e9a7df156ea40
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/DeploymentClientApplication.java
+SPDXID: SPDXRef-item9403900
+FileChecksum: SHA1: cd357c83d1e9dde78bbae49525c40ff7b6a3c493
+FileChecksum: MD5: 36d4141ebbef2069de19e92aa7271ce4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/bean/DockerInfo.java
+SPDXID: SPDXRef-item9403907
+FileChecksum: SHA1: 8786d06222b500ef9cc08b23516371fac4d4c6c2
+FileChecksum: MD5: f5fd814ab83841835addbf197ed952fd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/util/LoadDataOnStartUp.java
+SPDXID: SPDXRef-item9403919
+FileChecksum: SHA1: 9d82573fec8c87277a12d194b89fcbe9474ffbaf
+FileChecksum: MD5: 79e101cba10b387ee25dd27e0440f31c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/util/JenkinsJobBuilder.java
+SPDXID: SPDXRef-item9403920
+FileChecksum: SHA1: 7743aee43fc0661ed3cd779a9e3ef67ba7736422
+FileChecksum: MD5: 86342d4cc9527f7478e0284adab45fdc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/test/java/org/acumos/deploymentclient/test/serviceimpl/DeploymentServiceImplTest.java
+SPDXID: SPDXRef-item9403864
+FileChecksum: SHA1: ef27b93c159b2fc7b3563f03db519f3643676fce
+FileChecksum: MD5: 1fb6fe0751e8ac21a750d234251791ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/controller/DeploymentController.java
+SPDXID: SPDXRef-item9403873
+FileChecksum: SHA1: dce0c64c1ce84bcce7262ab45737c37881d44b74
+FileChecksum: MD5: 96ecb5cf8ac10f63018b2439ec083722
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/service/DeploymentService.java
+SPDXID: SPDXRef-item9403877
+FileChecksum: SHA1: 0ba3d1cf2155c7b51cb1ec4ec5af01bdb493d64d
+FileChecksum: MD5: 158288dc6da17af36955ac89893ffc18
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/serviceimpl/DeploymentServiceImpl.java
+SPDXID: SPDXRef-item9403875
+FileChecksum: SHA1: 7d2098d7514b234b2d61f3eb746de3b96abe3e79
+FileChecksum: MD5: a32ab8ad1724f6b0198f12a32ebb1594
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/bean/DeploymentDetailBean.java
+SPDXID: SPDXRef-item9403903
+FileChecksum: SHA1: 54ed2aeb11449e2d0030dcf9e9896660c067e481
+FileChecksum: MD5: 600064d9568424920a70406f5091e1cb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/bean/SolutionBean.java
+SPDXID: SPDXRef-item9403904
+FileChecksum: SHA1: efec2818162f2f79b7582f4d4ebdf9b8b5040551
+FileChecksum: MD5: f5c001bb4727c1ca0f5e74e462338cdf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/bean/DeploymentBean.java
+SPDXID: SPDXRef-item9403902
+FileChecksum: SHA1: ce2cf88b3d2a65423c02c04a81625d54bae5f1de
+FileChecksum: MD5: 52057aa4be1e0aa3177cd37f85f5525f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/bean/MLNotification.java
+SPDXID: SPDXRef-item9403905
+FileChecksum: SHA1: 1a48ceafa2c97b524c25c6cfb4d05e5118ea9d44
+FileChecksum: MD5: df9c4ec13e0488e613ab9ae5009ee16b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/bean/StatusBean.java
+SPDXID: SPDXRef-item9403906
+FileChecksum: SHA1: 687ca8af08e983185ca51db70209404ddd3135c7
+FileChecksum: MD5: 08dca6be8c174826f5d780741c649422
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/bean/ContainerBean.java
+SPDXID: SPDXRef-item9403908
+FileChecksum: SHA1: 8793beae621e9e43190551c473ada6adda37ced6
+FileChecksum: MD5: 84abb28eb1947d00d4eb71e3910550c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/bean/DeploymentKubeBean.java
+SPDXID: SPDXRef-item9403911
+FileChecksum: SHA1: 3df61921cd475b8dd8324cd01c41737562faa0aa
+FileChecksum: MD5: e52412728b0f63e036b5a5034502a86d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/bean/DockerInfoBean.java
+SPDXID: SPDXRef-item9403912
+FileChecksum: SHA1: d51e2b62950023b288cc3d05f8ad3d6e9588d902
+FileChecksum: MD5: 81e142320fc4c4cc919f614eadf9ccf3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/bean/DeployBean.java
+SPDXID: SPDXRef-item9403914
+FileChecksum: SHA1: 3307954681b86a766724ed73acb7e05d5e035dc6
+FileChecksum: MD5: 069462025abc90b3c6b82674756d541f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/util/ParseJSON.java
+SPDXID: SPDXRef-item9403916
+FileChecksum: SHA1: 5d01a7aacf65323a5922f4fc24b2720f094972f1
+FileChecksum: MD5: f3a4753d6d740748352c0da2bfaa0ffe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/src/main/java/org/acumos/deploymentclient/util/DeployConstants.java
+SPDXID: SPDXRef-item9403918
+FileChecksum: SHA1: 62c8d4509390a427e73ebf4498ab7b9c8d256b8e
+FileChecksum: MD5: 6ea8f7f1cdcc301fc92dbbd7da428d6f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/config/jobs/jenkins/solution-deploy.xml
+SPDXID: SPDXRef-item9403949
+FileChecksum: SHA1: f1b9a2a90454528331dcbf0907fcc4b371301bda
+FileChecksum: MD5: 969ec9c4ffbdb8909da51a42f924f212
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/config/jobs/solution_deploy/deploy.sh
+SPDXID: SPDXRef-item9403947
+FileChecksum: SHA1: bfc8d6e1219a21d5257f9b9dc80c4dfb68693f53
+FileChecksum: MD5: 79982f18f8c8682c0090ef84483d90f7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019-2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/pom.xml
+SPDXID: SPDXRef-item9403967
+FileChecksum: SHA1: b0dfc2eb5ed9712611b769d926c6248c59b9648b
+FileChecksum: MD5: fb84137dc8ed3b9db79709f205cc3c09
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/config/jobs/solution_deploy/templates/filebeat-data-pvc.yaml
+SPDXID: SPDXRef-item9403936
+FileChecksum: SHA1: f96ce45769b2bbdfcc41b7a21ea1090f3f9345eb
+FileChecksum: MD5: ff536915820c495b28829aacb1e7c830
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/config/jobs/solution_deploy/templates/filebeat-rbac.yaml
+SPDXID: SPDXRef-item9403930
+FileChecksum: SHA1: 436566f831d6d4fa0de1e663d609f7f23955eef7
+FileChecksum: MD5: 90f4bd03a4ee4dc78c716d170aa7a4eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/config/jobs/solution_deploy/templates/nginx-deployment.yaml
+SPDXID: SPDXRef-item9403945
+FileChecksum: SHA1: 34b3845c3ab8d481e6caeeed0d6698498f869f53
+FileChecksum: MD5: e9b6630195bc688a8efbefbe35221554
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/config/jobs/solution_deploy/templates/nginx-mc-deployment.yaml
+SPDXID: SPDXRef-item9403944
+FileChecksum: SHA1: 20e94e36f13be32d085f6a3795e74d92a76ae09c
+FileChecksum: MD5: 8736dddf3ef2966910f888bc2e0184c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/config/jobs/solution_deploy/templates/nginx-mc-service.yaml
+SPDXID: SPDXRef-item9403938
+FileChecksum: SHA1: 2280e669ac9f2cfb11407265e4fca9f6685be07d
+FileChecksum: MD5: eaef9db187f07e7be8f62d78a4877e6e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/config/jobs/solution_deploy/templates/nginx-proxy-log-pvc.yaml
+SPDXID: SPDXRef-item9403943
+FileChecksum: SHA1: 347e725addcae9b8e03534714c01b66374d39f67
+FileChecksum: MD5: e1006148edbe251304d67296d4d344d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/docs/deployment-client-developer-guide.rst
+SPDXID: SPDXRef-item9403966
+FileChecksum: SHA1: 855775eeb5b19035f502e93aa8fe5b931057ef95
+FileChecksum: MD5: 3a2bf1189700bbb330595e2d521637fe
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/docs/deployment-client-user-guide.rst
+SPDXID: SPDXRef-item9403956
+FileChecksum: SHA1: 90808e68bbd6a4b094bf9c2148b9bc6b04fc8b05
+FileChecksum: MD5: a1203c30531f2d157a8005fb3cd4ca1f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/mvnw
+SPDXID: SPDXRef-item9403950
+FileChecksum: SHA1: f1f852c13ea6ee8de6fa3f8e07a8680778c5f197
+FileChecksum: MD5: 9f3a245b647502a480e5d213908ebdad
+LicenseConcluded: Apache-2.0 AND LicenseRef-Apache-2.0-ASF-Header-1
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-2.0-ASF-Header-1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/mvnw.cmd
+SPDXID: SPDXRef-item9403801
+FileChecksum: SHA1: 9c6d2f7349fb906818588a912e7676ba5fa98148
+FileChecksum: MD5: bd6438d1011e75000683300468bdb0d7
+LicenseConcluded: Apache-2.0 AND LicenseRef-Apache-2.0-ASF-Header-1
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-2.0-ASF-Header-1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/docs/database-install.rst
+SPDXID: SPDXRef-item9403795
+FileChecksum: SHA1: 0f0301430563c34fa15a2ece4fc63d20f653b4b7
+FileChecksum: MD5: ea54fcbbc3c131e313083e37e169d196
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/docs/developer-guide.rst
+SPDXID: SPDXRef-item9403794
+FileChecksum: SHA1: a9cbe5307f17b82ee8046a8b2e795f60597ad9a3
+FileChecksum: MD5: a83ddaedfa481b121ab1a940613beefa
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/docs/index.rst
+SPDXID: SPDXRef-item9403791
+FileChecksum: SHA1: b3e715708c2b79f1fb8fc4449e4ec2e2e4a02bcc
+FileChecksum: MD5: b559f54dd0b6667e3021ab87db8be3d8
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/docs/overview.rst
+SPDXID: SPDXRef-item9403793
+FileChecksum: SHA1: 140e032b7474240e2045345dc61f86fe44678f34
+FileChecksum: MD5: 308f98d23f3443528a8c3ff64bb7c0f7
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/docs/release-notes.rst
+SPDXID: SPDXRef-item9403792
+FileChecksum: SHA1: ddf65ce5194f756e550ea08f49de7542fa4a375b
+FileChecksum: MD5: 5649d2d4508b663750be21518cef13b8
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/README.md
+SPDXID: SPDXRef-item9403743
+FileChecksum: SHA1: 137cf174d8a513437b79df048ba2c8d7b75f99ba
+FileChecksum: MD5: 43a93a87cf5ee8dff2b724876f50715e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/INFO.yaml
+SPDXID: SPDXRef-item9403744
+FileChecksum: SHA1: fe144d79881922c138a3798701699825698cbac6
+FileChecksum: MD5: 67c17f73bb1835eb57ed5171857e992c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/.gitreview
+SPDXID: SPDXRef-item9403745
+FileChecksum: SHA1: 79d9154b3c9e52b17ddb713aff55f6b8f9a971f6
+FileChecksum: MD5: 750872457755b7622f9b5795fa4bb0ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/tox.ini
+SPDXID: SPDXRef-item9403748
+FileChecksum: SHA1: b93a27f62096c8536d4c90ab496785068337b750
+FileChecksum: MD5: 9ae5794dadbeaf5500f037e7ac946438
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/tox-requirements.txt
+SPDXID: SPDXRef-item9403749
+FileChecksum: SHA1: ced25061cc2ff66ce47be39777fcd7fee7ffe699
+FileChecksum: MD5: 87a3d397c4aac4d917aa126a493b8e45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/properties/logging.json
+SPDXID: SPDXRef-item9403751
+FileChecksum: SHA1: da01bc48bee9c6fd36e2c1c9eaf684fcef5ff4bd
+FileChecksum: MD5: 744d3c8b13cea760ee9a3ec01cf078de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/properties/settings.cfg
+SPDXID: SPDXRef-item9403752
+FileChecksum: SHA1: 58b81b4331603712eaae2bda80bc8e307e5bdbbf
+FileChecksum: MD5: 5ef2c2192a22c9c65722a61789da6ab6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/properties/config.ini
+SPDXID: SPDXRef-item9403753
+FileChecksum: SHA1: e4955427f227e2a337aa5519011cac74e22c3070
+FileChecksum: MD5: b5b2fe7078e4f7703734d873c5f7a5cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/.gitattributes
+SPDXID: SPDXRef-item9403755
+FileChecksum: SHA1: 15b3670b998ba154fd4da00ec5dd62336f46a06c
+FileChecksum: MD5: cf6ba74ae0faca4d210f2a9f3786b3ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/tests/__init__.py
+SPDXID: SPDXRef-item9403761
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/acumoscommon/__init__.py
+SPDXID: SPDXRef-item9403765
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/.gitignore
+SPDXID: SPDXRef-item9403767
+FileChecksum: SHA1: e3b87c00752a2e8167ebc64ec1f6a9df279de458
+FileChecksum: MD5: dc56871a404103bbc74ae2ff3d8a9465
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/predictormanagerservice/__init__.py
+SPDXID: SPDXRef-item9403772
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/pom.xml
+SPDXID: SPDXRef-item9403796
+FileChecksum: SHA1: 1be232930c10b1fdc603680ede836792b1cd2d99
+FileChecksum: MD5: dd20bf83c0563530ac42275c808dcaa6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-predictor-management/setup.cfg
+SPDXID: SPDXRef-item9403797
+FileChecksum: SHA1: c49e3ee68044f3030956c16ae3abbdae9e0725ef
+FileChecksum: MD5: ac24c232af33108ef0b249b46f85247f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/application.properties
+SPDXID: SPDXRef-item9403800
+FileChecksum: SHA1: 74d48fab976a1e2e87b68276f5a972fc82cf84f3
+FileChecksum: MD5: 4ee9b8c44cb8f902a120ffe680f716da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/INFO.yaml
+SPDXID: SPDXRef-item9403803
+FileChecksum: SHA1: 591cd6e9cb1304f7e13b164230b30bb196919dac
+FileChecksum: MD5: f20727e6059d83aca017f97c6b927b6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.properties
+SPDXID: SPDXRef-item9403806
+FileChecksum: SHA1: fa707af473c7646b165d206630e7e55326fbeac5
+FileChecksum: MD5: 5b426e3ea8f3a8ecd26da50a51ec92fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/WrapperExecutor.class
+SPDXID: SPDXRef-item9403814
+FileChecksum: SHA1: 3bf6e833ba8977515282dfd35abd0889492d93c8
+FileChecksum: MD5: d39d73efcf0bcbd252be0f6f00f69eeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/DefaultDownloader.class
+SPDXID: SPDXRef-item9403815
+FileChecksum: SHA1: 11fbb6caa45ce961973108eead825a4534f66105
+FileChecksum: MD5: 7fe7f985a0673caea6758db8e0340fba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/PathAssembler$LocalDistribution.class
+SPDXID: SPDXRef-item9403816
+FileChecksum: SHA1: c6530064b1f6fecf78af12d8603d47728a300872
+FileChecksum: MD5: b242803dbb1c12e7550dd53ea6556dae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/Installer.class
+SPDXID: SPDXRef-item9403817
+FileChecksum: SHA1: 1c4ba0e34f23190328d8508ed1bc1887df8b8f25
+FileChecksum: MD5: cb0499439aa85502628ce93837b32de4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/DefaultDownloader$SystemPropertiesProxyAuthenticator.class
+SPDXID: SPDXRef-item9403818
+FileChecksum: SHA1: 03b7b9dc5f14ee8144ed0ff6faebd4cec7ee61c0
+FileChecksum: MD5: 1219bc63cfa85f2be9178257dd4b29fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/CommandLineParser$OptionParserState.class
+SPDXID: SPDXRef-item9403820
+FileChecksum: SHA1: d600e43a51bac05b3d564adc354ce68585f793da
+FileChecksum: MD5: fcb0ce70a44ab30edb08b91d414f7180
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/AbstractCommandLineConverter.class
+SPDXID: SPDXRef-item9403821
+FileChecksum: SHA1: e6a04c6acc836766f2860bcf3b515b8526e457b6
+FileChecksum: MD5: a44755ca7f50636a7444dbd8cdd45247
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/CommandLineConverter.class
+SPDXID: SPDXRef-item9403822
+FileChecksum: SHA1: 50879af17760d85fe65d64a5936a186270efcaf9
+FileChecksum: MD5: f1ebc55df9768f27b5394aa88252b1de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/ParsedCommandLineOption.class
+SPDXID: SPDXRef-item9403823
+FileChecksum: SHA1: 5f1fe0e516f696bac64c7b763799db4a9adb71d3
+FileChecksum: MD5: 820a2982707a52665cb3f18db95d5cc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/CommandLineParser$BeforeFirstSubCommand.class
+SPDXID: SPDXRef-item9403824
+FileChecksum: SHA1: b887c00eb79295acd2441c1cff55d7a50d02eea5
+FileChecksum: MD5: ad75482110499dc9744369320656175f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/CommandLineParser$AfterOptions.class
+SPDXID: SPDXRef-item9403825
+FileChecksum: SHA1: e01a9f0a8575fa3a4b9f7bfb2c9b6ea50ddbd6c0
+FileChecksum: MD5: 7008ac3775ed62d0a579c570da081f4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/CommandLineParser$AfterFirstSubCommand.class
+SPDXID: SPDXRef-item9403826
+FileChecksum: SHA1: c9fb8111a7d303e9d521c082c02ccd35ba8a55bd
+FileChecksum: MD5: 88cbf2ca7086749f57fa6c1bb9c257e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/CommandLineParser$ParserState.class
+SPDXID: SPDXRef-item9403827
+FileChecksum: SHA1: 9010174b4723eccd064e632c4aed678e45c7b215
+FileChecksum: MD5: 12fda4f8635ed6332fba1bd65bb3db3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/CommandLineParser$MissingOptionArgState.class
+SPDXID: SPDXRef-item9403828
+FileChecksum: SHA1: 6549c44d31883cebf5dc985da2b51ed0fff0fe6b
+FileChecksum: MD5: 2a5c89a58ed9f3aff34d7ae49b54775f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/ParsedCommandLine.class
+SPDXID: SPDXRef-item9403829
+FileChecksum: SHA1: 6d0df897b430a5cc37aa36bcca04b4568e8cd023
+FileChecksum: MD5: 8196237533ee940aa19477ac07cb3ae7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/SystemPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item9403830
+FileChecksum: SHA1: 13f22987529b488e809c20641027b1966b14f8d7
+FileChecksum: MD5: f30eb842a03f008c01fa1c6f0af6fbbd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/CommandLineParser$OptionComparator.class
+SPDXID: SPDXRef-item9403831
+FileChecksum: SHA1: 4e99598ca407eb87fb18d04eb44fc3819d0a1f8d
+FileChecksum: MD5: adb05dd4a71991b85038cfbc4204df6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/CommandLineParser$OptionString.class
+SPDXID: SPDXRef-item9403832
+FileChecksum: SHA1: 80404e791f08f12981490ff356ddbddc9908ba41
+FileChecksum: MD5: e1a7b34e9b1c2f3c8b8939e5b138ec4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/ProjectPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item9403833
+FileChecksum: SHA1: 0e7959efda2a07241f81be75bda04e8c9d26ddef
+FileChecksum: MD5: 9c015c1ca0b241e5ac30bbdcab98abc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/CommandLineParser$OptionStringComparator.class
+SPDXID: SPDXRef-item9403834
+FileChecksum: SHA1: c10b641bd1b1417da9fd8c06488985977e6296d3
+FileChecksum: MD5: 24e8e20306dbc2301cee70dbcfc9fe51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/CommandLineParser$CaseInsensitiveStringComparator.class
+SPDXID: SPDXRef-item9403835
+FileChecksum: SHA1: 71e7f297913fea419dd217f3bcc43f38755a4faa
+FileChecksum: MD5: 6d687b24b42466e35a9076d66e728a06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/CommandLineParser$OptionAwareParserState.class
+SPDXID: SPDXRef-item9403836
+FileChecksum: SHA1: 9a77e95e69263a39b2428a4c1bd9bf1e6ccf479c
+FileChecksum: MD5: 2d1a69520dd5325c69247405def620aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/CommandLineParser$KnownOptionParserState.class
+SPDXID: SPDXRef-item9403837
+FileChecksum: SHA1: 5becfdbbfdc288fe91834516411ab421313bedbb
+FileChecksum: MD5: ec185758bc4343a7548743ae9967d062
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/AbstractPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item9403838
+FileChecksum: SHA1: 58be224c3e6d702b184ce041ec0d087a2e90df0d
+FileChecksum: MD5: a6d293d6603d055e2bed1836eb007e87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/CommandLineParser$UnknownOptionParserState.class
+SPDXID: SPDXRef-item9403839
+FileChecksum: SHA1: 09bd240590272abe2010ed9b16ba5cde986444f0
+FileChecksum: MD5: c3b72d74ec9dbc00dbb446033f2a8b42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/CommandLineParser.class
+SPDXID: SPDXRef-item9403840
+FileChecksum: SHA1: 40a712c761c4357c1e5fff19e9f1ac34a8932769
+FileChecksum: MD5: ebf65d83711fe663ae3234e2eff6ecd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/CommandLineOption.class
+SPDXID: SPDXRef-item9403841
+FileChecksum: SHA1: b2552a057cf2acba7122238f5e6aa763a2d78bfc
+FileChecksum: MD5: 02e807032ee4ac22bd6f61838057c8c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/cli/CommandLineArgumentException.class
+SPDXID: SPDXRef-item9403842
+FileChecksum: SHA1: 6214aeab61775cad15d2be4cf18762636a4dba78
+FileChecksum: MD5: 71c3638a2bd9ed4cddc06304d3c2b0bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/MavenWrapperMain.class
+SPDXID: SPDXRef-item9403843
+FileChecksum: SHA1: e5710f642037aa002e2db7322c66660a1b1bdab8
+FileChecksum: MD5: 8ef700b8d48c906c93ec121419c1c22f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/SystemPropertiesHandler.class
+SPDXID: SPDXRef-item9403844
+FileChecksum: SHA1: 785602cf928d3fdef6fe1c5837104e83b12fe804
+FileChecksum: MD5: 7b987b75ad9fce1c8b906597b7dae5cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/PathAssembler.class
+SPDXID: SPDXRef-item9403845
+FileChecksum: SHA1: 919ca007d8d8cc4af11ebe76944d15c6f6bb7469
+FileChecksum: MD5: 91e508924fae6275abf004f100df47f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/BootstrapMainStarter.class
+SPDXID: SPDXRef-item9403846
+FileChecksum: SHA1: 8eb34a9e5f05742bde37fdd1a859f0c85d5b8da4
+FileChecksum: MD5: aceb0b2af4f882e9bc4e48a476e74e06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/Downloader.class
+SPDXID: SPDXRef-item9403847
+FileChecksum: SHA1: 6f0ec4abb72231ba7f21d183f9a5a126cd067534
+FileChecksum: MD5: 7fd332f722fff8dd8a629bced7a2e289
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/Logger.class
+SPDXID: SPDXRef-item9403848
+FileChecksum: SHA1: 32a78fbffaedc2cfe3cd90052fc11162ccdc75b8
+FileChecksum: MD5: 2947cceecb6b8680694b048b12140e84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/org/apache/maven/wrapper/WrapperConfiguration.class
+SPDXID: SPDXRef-item9403849
+FileChecksum: SHA1: 7fa695fb0be33cb3623db75bb7f653f93341ef6d
+FileChecksum: MD5: 9745af059cd78d05c23872edbc98fdeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item9403851
+FileChecksum: SHA1: d5ee006a2f647783a5adf2dec1cff430629bed74
+FileChecksum: MD5: af03e1a2cb27ebb8449bc63289f381b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.mvn/wrapper/maven-wrapper.jar/META-INF/maven/io.takari/maven-wrapper/pom.properties
+SPDXID: SPDXRef-item9403855
+FileChecksum: SHA1: 65b29d3b7156c1dce72449732907e6dcf7d1dd4f
+FileChecksum: MD5: 1cf66538edd197c9f1b6654ccd97dd00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/.gitreview
+SPDXID: SPDXRef-item9403921
+FileChecksum: SHA1: b5da205484d5c56fd79fb7e7655800448d0b4f7a
+FileChecksum: MD5: 91fa8625aa389280a2a0d41545cca8c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/blueprint.json
+SPDXID: SPDXRef-item9403925
+FileChecksum: SHA1: 887bb3c3126e7d38334c1bbf3603c88aab1932fd
+FileChecksum: MD5: f2a443b9a8a908d79bd86eb21f57fdbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/releases/release-deployment-client.yaml
+SPDXID: SPDXRef-item9403952
+FileChecksum: SHA1: e1e1e2db490b7123ce9e60a80c752092b5cf1bbc
+FileChecksum: MD5: edcb4d58306cabf657587a6f731f4783
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/docs/Makefile
+SPDXID: SPDXRef-item9403954
+FileChecksum: SHA1: d559243d06bc239c149bd3329eee55c6ee73ce8d
+FileChecksum: MD5: f34330f07eaedb74e65b321921125d22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/docs/images/deployment-clio.xml
+SPDXID: SPDXRef-item9403960
+FileChecksum: SHA1: 7a26f5f909e107c9845a567ab650d42d7bf0ecc0
+FileChecksum: MD5: fc5a921caa5b6ec2db79468ebaf31b53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/docs/images/README.md
+SPDXID: SPDXRef-item9403961
+FileChecksum: SHA1: 6d3ad66431ee6e09c3e0d51a5ee18578b3d41fca
+FileChecksum: MD5: eaaed3c867979a019c2f35c8e73ecf2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/docs/images/deployment-flow.txt
+SPDXID: SPDXRef-item9403962
+FileChecksum: SHA1: 23b015e5af4693a93f9f74564e7ff78f87fa6bb6
+FileChecksum: MD5: 25e844fa934bc25ea23c1e0fd4295887
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/docs/images/deployment-flow.svg
+SPDXID: SPDXRef-item9403963
+FileChecksum: SHA1: 9da600f0ce97fd3ddf8a9aeb963b4d0c64cbd0a3
+FileChecksum: MD5: fd18fab59f8cdc5af0f8f1a6e188b288
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/docs/images/deployment-flow.png
+SPDXID: SPDXRef-item9403964
+FileChecksum: SHA1: 5502898217aff699fd8ab9c6fa25ce0ab0658d1a
+FileChecksum: MD5: cb0ae664909243a576dd796e1e611113
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-deployments-deployment-client/docs/images/deployment-clio.png
+SPDXID: SPDXRef-item9403965
+FileChecksum: SHA1: 6e58fbb8205a9c55ec683be87212079ab4944a17
+FileChecksum: MD5: e929c77f662227e81831894168b2e7d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Apache-2.0-ASF-Header-1
+LicenseName: Apache-2.0 (ASF Header)
+ExtractedText: <text> Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements. See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership. The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied. See the License for the
+specific language governing permissions and limitations
+under the License. </text>
+
