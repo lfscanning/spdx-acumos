@@ -1,0 +1,2271 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_documentation-2020-09-10.zip_1600734435.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-09-22T00:27:15Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: documentation-2020-09-10.zip
+PackageFileName: documentation-2020-09-10.zip
+SPDXID: SPDXRef-upload2796
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: fcde79de0d525dc7e301dc5420931cc53a5f124a
+PackageChecksum: SHA1: ba8f594eeeda6fcb1d4c3ea1c1a76a58f8da0097
+PackageChecksum: MD5: 5483e6a78a7064ab2ba34301e784b774
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2796
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: documentation/README.md
+SPDXID: SPDXRef-item10690706
+FileChecksum: SHA1: 9d41ef4fd1cfe0c6cea45e8d1f7caf5c191a1db3
+FileChecksum: MD5: d6c7145edc0692a517688822ac6cc97b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/tools/README.rst
+SPDXID: SPDXRef-item10690710
+FileChecksum: SHA1: b589982f9df09a0dcd2f4bffafad20a66832d0e8
+FileChecksum: MD5: 29b66a4a2870f036349d3e8c01400cfc
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/architecture/requirements.rst
+SPDXID: SPDXRef-item10690727
+FileChecksum: SHA1: bf266bbddc7065d448d107a1f696f420b16bcdab
+FileChecksum: MD5: d6c568af04bda9fc50fb1cace6ecb347
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/architecture/intro.rst
+SPDXID: SPDXRef-item10690752
+FileChecksum: SHA1: 1c6bd4fe62943fd9ea2f19c4f6df337f4b3c5746
+FileChecksum: MD5: 9c3645893302428730f1082ed1ba4c51
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/rst-dev-tools.rst
+SPDXID: SPDXRef-item10690757
+FileChecksum: SHA1: eacded17449d4fdea7036e16ee43e8a5639a3c15
+FileChecksum: MD5: 7ea073e89ffa670339ce7f941d68d651
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/architecture/scope.rst
+SPDXID: SPDXRef-item10690751
+FileChecksum: SHA1: 63356bdcdabdc5b30cb02788a8d94b9edfd59207
+FileChecksum: MD5: c569d3b9e1cfc6d27af205deab279cc7
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/review-rst-gerrit.rst
+SPDXID: SPDXRef-item10690763
+FileChecksum: SHA1: 4ff62b080a46ab35546831fe303a55460f9b72a7
+FileChecksum: MD5: 7f0b2813a27ad6673661bf420e156273
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/templates/swaggerv2doc-example-output.rst
+SPDXID: SPDXRef-item10690774
+FileChecksum: SHA1: a657d0fd45b56441bb5d2239293b622ccea1e152
+FileChecksum: MD5: 1efbca45d7f135ee77365f3408405e96
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/architecture/index.rst
+SPDXID: SPDXRef-item10690726
+FileChecksum: SHA1: da5a3d14ad8b9a6db2baec20c9cfc944d364f3dc
+FileChecksum: MD5: ae89c615813ab095187b107405601be1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/index.rst
+SPDXID: SPDXRef-item10690756
+FileChecksum: SHA1: 703b2c21c4ceea3b2d14502400e373b2965d2c65
+FileChecksum: MD5: 91624e45742f45bbd5a6ff763525a0eb
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/architecture/platform_flows.rst
+SPDXID: SPDXRef-item10690753
+FileChecksum: SHA1: eeaabea3cc533c27cd2c55f536ed2aa56f34e94b
+FileChecksum: MD5: ff9a0cf57b683d9e64d1d94ef3ddf117
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/component-docs-guide.rst
+SPDXID: SPDXRef-item10690764
+FileChecksum: SHA1: 07419d60357defba536993eeb1538140b8495a8b
+FileChecksum: MD5: b44c915a1e690e481abe3271063d49ab
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/auto-number/index.rst
+SPDXID: SPDXRef-item10690784
+FileChecksum: SHA1: cf6487849be6f71748eb67d7e61a924da51764fd
+FileChecksum: MD5: f3e938d0140479035201fa41b7192109
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/supported-browsers.rst
+SPDXID: SPDXRef-item10690790
+FileChecksum: SHA1: 21deb3fc743a1911782409c8c5a190316cdf1a2e
+FileChecksum: MD5: 564c125cb34647ffa3e495ea7d3315ad
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/weekly-builds.rst
+SPDXID: SPDXRef-item10690801
+FileChecksum: SHA1: 7e952e7dad691ac7602ad98e9531fdf87b208027
+FileChecksum: MD5: 525c91aeca0827a39f4cfd4a6dae7f50
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/athena/index.rst
+SPDXID: SPDXRef-item10690837
+FileChecksum: SHA1: e2a3545949c72c0aedefec3b00d6e4487fb2afe8
+FileChecksum: MD5: 09de7bfd02768f216a5bacb32aeb354a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/athena/release-athena.rst
+SPDXID: SPDXRef-item10690843
+FileChecksum: SHA1: 03eaf4ced53979b7ef267962b45a93189397570d
+FileChecksum: MD5: b47696e6f93537e8b09ecc977e5f9241
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/athena-maint/maint-manifest-athena.rst
+SPDXID: SPDXRef-item10690808
+FileChecksum: SHA1: e25338f63ce7759ffd7ff5f0e09fe72c4ecbd3ce
+FileChecksum: MD5: 79f078f2b4d317b2d72a6824bc137a2e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/athena-maint/index.rst
+SPDXID: SPDXRef-item10690809
+FileChecksum: SHA1: b72440354975f2d835aafab82c407a621e74db89
+FileChecksum: MD5: 9c77ff2fb1f736e21981242f9802292e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/athena-maint/maint-release-athena.rst
+SPDXID: SPDXRef-item10690812
+FileChecksum: SHA1: 736e08ae8de0cd59a33a9c03f193915e6cbc4f61
+FileChecksum: MD5: 49662193d6bc7616fcb68a472754356f
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/athena/manifest-athena.rst
+SPDXID: SPDXRef-item10690836
+FileChecksum: SHA1: bd8996e8e5c330f6a211d2e6bbbdf33c43fb244d
+FileChecksum: MD5: 248d2bf42bf9d692bdbb0f04e74f39e9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/AcumosUser/portal-user/portal/index.rst
+SPDXID: SPDXRef-item10690985
+FileChecksum: SHA1: a4b889235b1607f6da48c17e194610ab690db943
+FileChecksum: MD5: 8c0d563bf02a7453238f118ad253c892
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/AcumosUser/portal-user/portal/onboarding-java-guide.rst
+SPDXID: SPDXRef-item10690987
+FileChecksum: SHA1: aba86c6b702e5cd247ea345a286746d1fdc9b8ba
+FileChecksum: MD5: b45a2eb61923a780266c7cd6d3268cac
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/AcumosUser/portal-user/portal/onboarding-r-guide.rst
+SPDXID: SPDXRef-item10690986
+FileChecksum: SHA1: f4df1f0d49be4b2426669464e6e54a2c7df19472
+FileChecksum: MD5: d5b5957b1cd5e73ddf101543c72945bb
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/boreas/index.rst
+SPDXID: SPDXRef-item10690827
+FileChecksum: SHA1: 8b8411d423d32d45f084821e68b942bbf32b49e6
+FileChecksum: MD5: 870feb317331efd98c5e64adc3ce6aea
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/boreas/manifest-boreas.rst
+SPDXID: SPDXRef-item10690829
+FileChecksum: SHA1: 3bce9376d0be767f859d13febf1e5f0e7ba7be80
+FileChecksum: MD5: 419e24f0b12ed0457ecc5d2fdb2a1ea7
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/component-release-notes.rst
+SPDXID: SPDXRef-item10690791
+FileChecksum: SHA1: 7a75735f0058e3239178d57e10bf5452d3370873
+FileChecksum: MD5: d09809789f037d5b1d7f3c81d7924a74
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/clio/index.rst
+SPDXID: SPDXRef-item10690819
+FileChecksum: SHA1: 38ca34cb4a290cebfa4d5885f53550ef27e94bb4
+FileChecksum: MD5: 9d2371b91e22a23bef9de2485b335068
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/clio/release-clio.rst
+SPDXID: SPDXRef-item10690821
+FileChecksum: SHA1: a9c9d4b7199d235a4177bab4f23a53ee8177c25b
+FileChecksum: MD5: b67b2f82071a509dc9040b107589889f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/clio/manifest-clio.rst
+SPDXID: SPDXRef-item10690824
+FileChecksum: SHA1: 61db3acac9a5be3b5bf559c6ddfd2caf3be58f09
+FileChecksum: MD5: 6dfe23f631509ea3c5520efd5674372c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/boreas/release-boreas.rst
+SPDXID: SPDXRef-item10690832
+FileChecksum: SHA1: 2413e8cd1b8a3f1f586ff3b5ef8df6b7b4bc3ef0
+FileChecksum: MD5: 92b50b94c3dbeaf10d8eefc7450948a7
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/architecture/platform_architecture.rst
+SPDXID: SPDXRef-item10690754
+FileChecksum: SHA1: 0aa66936465fc26cbdf6c1f2de2e63434630a840
+FileChecksum: MD5: 691614fa6c82f0950fc496801e36427e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/index.rst
+SPDXID: SPDXRef-item10690792
+FileChecksum: SHA1: d88be635315d6e67c66170782cd185b9dfb97a50
+FileChecksum: MD5: 4636c0940e5b302de7f2b1aa52419fbd
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/demeter/index.rst
+SPDXID: SPDXRef-item10690794
+FileChecksum: SHA1: d26e65f901ecf8d544976c48018438cf46f3f790
+FileChecksum: MD5: 4b40ca408547f9af134c7d43529a36b4
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/AcumosContributor/component-guides.rst
+SPDXID: SPDXRef-item10690788
+FileChecksum: SHA1: a9875567386fe0b25901b10f54ea8eac9f7c54dc
+FileChecksum: MD5: 26f15c76845c19d91e01ed36adf0bb12
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/index.rst
+SPDXID: SPDXRef-item10690723
+FileChecksum: SHA1: e2135365228ec697e1ea1efc0c845485a8fa73b6
+FileChecksum: MD5: 550b168efab4b9739ce70dc17a3e1265
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/demeter/manifest-demeter.rst
+SPDXID: SPDXRef-item10690796
+FileChecksum: SHA1: 6d987f2aee30cbd23542337fd5adf84fa66045c3
+FileChecksum: MD5: 00e8b27f84933a967736badc5d2f5297
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/demeter/release-demeter.rst
+SPDXID: SPDXRef-item10690800
+FileChecksum: SHA1: 1182f69a1c8b94c32f7b435ce3ed09feb7824f99
+FileChecksum: MD5: bbcad039b8574f27e01161758c1a872c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/tools/gen_word_rst.sh
+SPDXID: SPDXRef-item10690711
+FileChecksum: SHA1: 373730c378ae49cc3a3b7649fdb3de7a2e014aee
+FileChecksum: MD5: 6344a5c47bc0169c353187cb452aed78
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/tools/gen_pdf_rst.sh
+SPDXID: SPDXRef-item10690714
+FileChecksum: SHA1: 2b96e2a73276127ffeab8189fd4f05560000dac1
+FileChecksum: MD5: f5a6e78c419c7b65dbf14aa75adc6a4a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/tools/gen_md_rst.sh
+SPDXID: SPDXRef-item10690713
+FileChecksum: SHA1: 65991b9c5e4017ba4fee29277083a67954dcd48c
+FileChecksum: MD5: b2a6af1021167d27d276719ae86b6e2f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/tools/gen_html_rst.sh
+SPDXID: SPDXRef-item10690712
+FileChecksum: SHA1: cd905fc58a551ca63d5346832cf7bf4b2e3b05e6
+FileChecksum: MD5: 681b21afc969eb20ae2647cfab2b7796
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/conf.py
+SPDXID: SPDXRef-item10690724
+FileChecksum: SHA1: 3e78cbf7c43c184f369b90c27dec62062ee5966b
+FileChecksum: MD5: ec83f6895364a4a577b7f8433c992ce2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright 2019, The Acumos Project.
+Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/LICENSE.txt
+SPDXID: SPDXRef-item10690951
+FileChecksum: SHA1: 6856896ff0d4b328cc2795e619ef6d08b852c3d1
+FileChecksum: MD5: d427c5350b3b5648c02e938a0faaa446
+LicenseConcluded: OFL-1.1
+LicenseInfoInFile: OFL-1.1
+FileCopyrightText: <text> Copyright 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries. </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/js/bootstrap.js
+SPDXID: SPDXRef-item10690858
+FileChecksum: SHA1: 6a4ae3b419ee374ba89d28161f5f9ef91b4762f3
+FileChecksum: MD5: 019198aae1123c3d1470c1db99d26b2c
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2011-2014 Twitter, Inc. </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/js/bootstrap.min.js
+SPDXID: SPDXRef-item10690857
+FileChecksum: SHA1: 537c6a897ccdf18379a8e88617613301f984b3ce
+FileChecksum: MD5: a537fda11511a82e44d077e73c0909bd
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2011-2014 Twitter, Inc. </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/jquery.js
+SPDXID: SPDXRef-item10690978
+FileChecksum: SHA1: 537bbfbfd297967396b426acdd4c8dbc958ceb6f
+FileChecksum: MD5: 2e2c53c6baeac3e30bc7387946c91bef
+LicenseConcluded: MIT
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: <text> (c) 2005, 2012 jQuery Foundation, Inc. </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/layout.html
+SPDXID: SPDXRef-item10690981
+FileChecksum: SHA1: be62322771b395e4b6ad974e26ed4f0254bff16a
+FileChecksum: MD5: 8e1f8e897544cf4e3d92c29199a49593
+LicenseConcluded: Apache-2.0 AND OFL-1.1
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/auto-number/numbered-content01.rst
+SPDXID: SPDXRef-item10690786
+FileChecksum: SHA1: 3d019f2ecbb2762b5223171cfb1396bb86b7a6e7
+FileChecksum: MD5: ee6c0fe577bf2159d929034b6058d5bf
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 <YOUR COMPANY NAME>. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/auto-number/numbered-content02.rst
+SPDXID: SPDXRef-item10690785
+FileChecksum: SHA1: 8329e6cc74509512a6396c020b80ff493b483336
+FileChecksum: MD5: 5cfbfbdd0332ce2c0ae0f262e7ab7198
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 <YOUR COMPANY NAME>. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/templates/api-docs.rst
+SPDXID: SPDXRef-item10690776
+FileChecksum: SHA1: 6b2fee1b13fc9a3ef80cca0a6ac585160942448a
+FileChecksum: MD5: 52b9003e3b6fb8a2b2a16a8751480cab
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 <YOUR COMPANY NAME>. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/templates/developer-guide.rst
+SPDXID: SPDXRef-item10690772
+FileChecksum: SHA1: 92f0183ba3b3ac383d1eb4230b52d8e045bf6e44
+FileChecksum: MD5: e3d87adcbe4417df4266fdf6b60e48da
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 <YOUR COMPANY NAME>. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/templates/example-swagger.json
+SPDXID: SPDXRef-item10690773
+FileChecksum: SHA1: ab916b8caad1b1e9dc67625baab6a479021301db
+FileChecksum: MD5: 851f8b98708abe393745182d596d3331
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/templates/index.rst
+SPDXID: SPDXRef-item10690766
+FileChecksum: SHA1: a560cf273113e27d7a45eeb521d3f000e0037061
+FileChecksum: MD5: b58c7c99ef23b2b5999af6c022e12235
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 <YOUR COMPANY NAME>. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/templates/install-guide.rst
+SPDXID: SPDXRef-item10690780
+FileChecksum: SHA1: 330dbd365144ec34faa8a905930f5466b1331c4f
+FileChecksum: MD5: 6a35779793af88a56a9125f0c9015ca5
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 <YOUR COMPANY NAME>. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/templates/release-notes.rst
+SPDXID: SPDXRef-item10690767
+FileChecksum: SHA1: 56a5c45e8972e6c8a685c0f9b06834c6e092b416
+FileChecksum: MD5: a66e2f55d0ebd3622964b3073270af25
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 <YOUR COMPANY NAME>. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/templates/user-guide.rst
+SPDXID: SPDXRef-item10690775
+FileChecksum: SHA1: 1385eb306d91c52cca77b875b322800a9ab0a952
+FileChecksum: MD5: 51cef7d19d89cf2ecfd9b45d5970956c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 <YOUR COMPANY NAME>. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/section-headers-example.rst
+SPDXID: SPDXRef-item10690782
+FileChecksum: SHA1: f6d540b6d6d83dceab503e4ab5074025cc812fd6
+FileChecksum: MD5: 0d3f2bc17aed211cfdd48bbee68d3993
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 <YOUR COMPANY NAME>. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/section-headers-numbered-example.rst
+SPDXID: SPDXRef-item10690781
+FileChecksum: SHA1: a35f06cb99b58ea644323f6ae2308cd34f560b30
+FileChecksum: MD5: a95a8751de19f66acabd1cb8db77cf9c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 <YOUR COMPANY NAME>. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/css/bootstrap.min.css
+SPDXID: SPDXRef-item10690860
+FileChecksum: SHA1: 77bbcecd152721e0460a4675743a5b823bca9fe4
+FileChecksum: MD5: aa0adda2ce4566a37bed3e80096cb17a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2011-2014 Twitter, Inc. </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/css/bootstrap-theme.min.css
+SPDXID: SPDXRef-item10690861
+FileChecksum: SHA1: 2277dbf0c6eafd7bc6010bf6b4e8c8c7bfd95136
+FileChecksum: MD5: 30f2111bb0364bd5c7f32438bc87909a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2011-2014 Twitter, Inc. </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/TTF/SourceSerifPro-Black.ttf
+SPDXID: SPDXRef-item10690971
+FileChecksum: SHA1: 05950b00dc3fb70e4177b55ad061a6e55bd5fabb
+FileChecksum: MD5: e40e00ded56248302b573e404b9a0d1d
+LicenseConcluded: OFL-1.1
+LicenseInfoInFile: OFL-1.1
+FileCopyrightText: <text> (c) 2006 VeriSign, Inc. - For authorized use only
+Copyright 2014 Adobe Systems Incorporated. All Rights Reserved.
+Copyright 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries. </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/TTF/SourceSerifPro-Bold.ttf
+SPDXID: SPDXRef-item10690973
+FileChecksum: SHA1: ccc767c6e914d59bef710190beb7a13a4663423b
+FileChecksum: MD5: d90d09991b92065ec7f6e613665cbf2b
+LicenseConcluded: OFL-1.1
+LicenseInfoInFile: OFL-1.1
+FileCopyrightText: <text> (c) 2006 VeriSign, Inc. - For authorized use only
+Copyright 2014 Adobe Systems Incorporated. All Rights Reserved.
+Copyright 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries. </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/TTF/SourceSerifPro-ExtraLight.ttf
+SPDXID: SPDXRef-item10690972
+FileChecksum: SHA1: 14b6a16d8acf8b54edab889864c8ca8736625997
+FileChecksum: MD5: feccf4d504fbb2afe20d5d07ba83f385
+LicenseConcluded: OFL-1.1
+LicenseInfoInFile: OFL-1.1
+FileCopyrightText: <text> (c) 2006 VeriSign, Inc. - For authorized use only
+Copyright 2014 Adobe Systems Incorporated. All Rights Reserved.
+Copyright 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries. </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/TTF/SourceSerifPro-Light.ttf
+SPDXID: SPDXRef-item10690968
+FileChecksum: SHA1: 603088c9578c1cb16366871f3e18ff6875496814
+FileChecksum: MD5: 1ba099916271fa6eb11c89cc9a4c7563
+LicenseConcluded: OFL-1.1
+LicenseInfoInFile: OFL-1.1
+FileCopyrightText: <text> (c) 2006 VeriSign, Inc. - For authorized use only
+Copyright 2014 Adobe Systems Incorporated. All Rights Reserved.
+Copyright 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries. </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/TTF/SourceSerifPro-Regular.ttf
+SPDXID: SPDXRef-item10690969
+FileChecksum: SHA1: 00e7863be3519cb6dd471d2ca74a06470b702b6f
+FileChecksum: MD5: 1b742db1defec3d05d66a8713413d4c1
+LicenseConcluded: OFL-1.1
+LicenseInfoInFile: OFL-1.1
+FileCopyrightText: <text> (c) 2006 VeriSign, Inc. - For authorized use only
+Copyright 2014 Adobe Systems Incorporated. All Rights Reserved.
+Copyright 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries. </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/TTF/SourceSerifPro-Semibold.ttf
+SPDXID: SPDXRef-item10690970
+FileChecksum: SHA1: 34832677bc47c0ae01b500b83cf80754120ca86c
+FileChecksum: MD5: 75ceab2f5b3ec677f169ad6d2b484764
+LicenseConcluded: OFL-1.1
+LicenseInfoInFile: OFL-1.1
+FileCopyrightText: <text> (c) 2006 VeriSign, Inc. - For authorized use only
+Copyright 2014 Adobe Systems Incorporated. All Rights Reserved.
+Copyright 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries. </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/bower.json
+SPDXID: SPDXRef-item10690936
+FileChecksum: SHA1: 378cf74c2054df7d84d085b09154baa4083752ea
+FileChecksum: MD5: 41563ccb573138c6e2d1e69dbc4e8e45
+LicenseConcluded: OFL-1.1
+LicenseInfoInFile: OFL-1.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/LICENSE.txt
+SPDXID: SPDXRef-item10690715
+FileChecksum: SHA1: db4c9f706b95cdc37efdc4ba149cd2cf7428c8a2
+FileChecksum: MD5: c577f460b45fdd553086fd3a9725c5d6
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/INFO.yaml
+SPDXID: SPDXRef-item10690707
+FileChecksum: SHA1: 6d089a056b07c0971498d8060ece944aa3dfa932
+FileChecksum: MD5: 6b2ff3341090b20ab0664c0a97fb3684
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/.gitreview
+SPDXID: SPDXRef-item10690708
+FileChecksum: SHA1: b603b1f9c39d5ec4d470ec9d427178c57f37e36a
+FileChecksum: MD5: 67a7c41beab3e0483078cec3968e7e99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/etc/requirements.txt
+SPDXID: SPDXRef-item10690717
+FileChecksum: SHA1: af558bc47e1afba03ab4be1b121e458363463714
+FileChecksum: MD5: c46c21abd1f12f17be36c1c97e38ba53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/tox.ini
+SPDXID: SPDXRef-item10690718
+FileChecksum: SHA1: b505d0f5eb595009c8bfc6aad2734e070d88aa38
+FileChecksum: MD5: 79402a0147df5e603eed48ff7c0435a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/.gitattributes
+SPDXID: SPDXRef-item10690719
+FileChecksum: SHA1: 1fead8ae4a123d4c2526ba03777b256cb10f7a5a
+FileChecksum: MD5: 635578d7546b35d97c384e8708b86a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/.gitignore
+SPDXID: SPDXRef-item10690720
+FileChecksum: SHA1: c98a59385ba100b3bdd8db0c20957f1a063a04c6
+FileChecksum: MD5: 5d6111523f1078c168b46b024c46e624
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/Makefile
+SPDXID: SPDXRef-item10690722
+FileChecksum: SHA1: d559243d06bc239c149bd3329eee55c6ee73ce8d
+FileChecksum: MD5: f34330f07eaedb74e65b321921125d22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/architecture/images/acumos-overview.png
+SPDXID: SPDXRef-item10690729
+FileChecksum: SHA1: e914202917635907cee9360a9ed6d5098b6c3bcf
+FileChecksum: MD5: 1e7e4fb6ba98a41f83463372fc892525
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/architecture/images/acumos-architecture-athena.png
+SPDXID: SPDXRef-item10690730
+FileChecksum: SHA1: 85bcf0dd6eb3da82c83bb229e65f25ce714cb43e
+FileChecksum: MD5: 286384163d18fb4073f1bb6f92f3a925
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/architecture/images/backend-apis.png
+SPDXID: SPDXRef-item10690731
+FileChecksum: SHA1: d1b1acffb3696c123e801e07f19af6078125768a
+FileChecksum: MD5: b7c7157be0e5f38cb6748dd1f197da39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/architecture/images/acumos-architecture.png
+SPDXID: SPDXRef-item10690732
+FileChecksum: SHA1: 8e141436ddd7ebe4210d14a989bfa6270198ef1e
+FileChecksum: MD5: a2878c14c16c1ce11af87588a1e304ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/architecture/images/external-interfaces.png
+SPDXID: SPDXRef-item10690733
+FileChecksum: SHA1: e79d245ee32dfc48a1306bc1a986373a529eab41
+FileChecksum: MD5: 4494fc8c3360ddc3343eefe714b372ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/architecture/images/flows/acumos-platform-user-flow.png
+SPDXID: SPDXRef-item10690735
+FileChecksum: SHA1: 16a50ccecfc951ccec8ee60431d222be90d28ff4
+FileChecksum: MD5: 37684411bafa58650d06fb0fc186f52a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/architecture/images/flows/user-login.png
+SPDXID: SPDXRef-item10690736
+FileChecksum: SHA1: e46830a2a0e2577fc372a8b1d5f375ced4bfa5ce
+FileChecksum: MD5: 291f73385e77d45fa6d23d83bddc6253
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/architecture/images/flows/federation-publisher.svg
+SPDXID: SPDXRef-item10690737
+FileChecksum: SHA1: e406d68a33cd78d0e64e52ddbdb876775d3b8b7b
+FileChecksum: MD5: dc0e23891b23e2abb028fe46c821b054
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/architecture/images/flows/federation-subscriber.svg
+SPDXID: SPDXRef-item10690738
+FileChecksum: SHA1: ef49e16217e23798d2f2c74b74e39bfda9e2c002
+FileChecksum: MD5: abbc01a5f44c2737c3a6991e0655efeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/architecture/images/flows/ds-create-composite-solution.svg
+SPDXID: SPDXRef-item10690739
+FileChecksum: SHA1: a6d9fcd940c045326596ed6acdfbb021629c3518
+FileChecksum: MD5: d4e4473ff95571a55cb560f47dc6e1ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/architecture/images/flows/user-sign-up.png
+SPDXID: SPDXRef-item10690740
+FileChecksum: SHA1: 3acba607050d94e92ed16528331df8fee447d536
+FileChecksum: MD5: 6564b41b81a1e3459253e9589ec622d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/architecture/images/flows/model-detail.png
+SPDXID: SPDXRef-item10690741
+FileChecksum: SHA1: 6844eb04534a984e372366a86b4413fb33e878be
+FileChecksum: MD5: 69b28d07aa3e6f62fdd74f667b564c2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/architecture/images/flows/onboard-web.svg
+SPDXID: SPDXRef-item10690742
+FileChecksum: SHA1: 9d70371f7737ba674a47b1866ff7c45237544a3a
+FileChecksum: MD5: 9d9446cde8b7395e0f2e50a07ee38635
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/architecture/images/flows/catalog-flow.png
+SPDXID: SPDXRef-item10690743
+FileChecksum: SHA1: 87f460ee64179242b0d2398d5943260f1352d185
+FileChecksum: MD5: 07deb3830dd0aaeb216c40aa32cdcdbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/architecture/images/flows/onboard-cli.svg
+SPDXID: SPDXRef-item10690744
+FileChecksum: SHA1: e3647471be1f1fb10cad0430e64db42ac9988ae5
+FileChecksum: MD5: f8fbe55edc5e4d817f7142b10550017a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/architecture/images/flows/publish.svg
+SPDXID: SPDXRef-item10690745
+FileChecksum: SHA1: dcc5336eda44087e44b96f27d2f14a5c7a90e75d
+FileChecksum: MD5: 1b9c8f35a9fcd0bcbe9dbe54d3d99fed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/architecture/images/acumos-architecture-clio.png
+SPDXID: SPDXRef-item10690746
+FileChecksum: SHA1: 53f5e3426df23c5c902468932c86f9f8d7c96127
+FileChecksum: MD5: 50178cd3cae96ee8063936dada1623a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/architecture/images/acumos-architecture-detail.xml
+SPDXID: SPDXRef-item10690747
+FileChecksum: SHA1: d829f1e53e7b64a330e9ca897af6fa219a1050b3
+FileChecksum: MD5: cbf4861e94a9e79cf0be47d59ccf4a55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/architecture/images/portal-technologies.png
+SPDXID: SPDXRef-item10690748
+FileChecksum: SHA1: 661d4559843f5673617be645fdd45a50c849570b
+FileChecksum: MD5: de19244a89092a1961692f2171ceaace
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/architecture/images/portal-backend.png
+SPDXID: SPDXRef-item10690749
+FileChecksum: SHA1: 339c7be78d7a66c3aafd4b4bae2b0ceedbc40b74
+FileChecksum: MD5: 09b86723588680826b82220e88ce9be3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/architecture/images/acumos-architecture-detail.png
+SPDXID: SPDXRef-item10690750
+FileChecksum: SHA1: 4b444038442f75b69fc9ffa4574badcc79a77816
+FileChecksum: MD5: fb656fdbce8b9027652daf522f256872
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/images/gerrit-htmlfolder.png
+SPDXID: SPDXRef-item10690759
+FileChecksum: SHA1: ab731e999055b004fce177dd771faccc0af34efd
+FileChecksum: MD5: f452158e46323945c902be0eaf7df806
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/images/doc-places.png
+SPDXID: SPDXRef-item10690760
+FileChecksum: SHA1: b7cd4513bd6fafff081cc885a5f5381f0efb1f93
+FileChecksum: MD5: 6e2cd2dd591ce17f2cfe25bce1469d35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/images/docs-structure.png
+SPDXID: SPDXRef-item10690761
+FileChecksum: SHA1: 09bb46061d9763e5010b5abc4b7aa0a018eea940
+FileChecksum: MD5: e9d5b8df4d6f8c13bda4f8c78494f53c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/images/gerrit-docsjoblinks.png
+SPDXID: SPDXRef-item10690762
+FileChecksum: SHA1: 8197190f543f304ab186b6ba87677750b4087d1f
+FileChecksum: MD5: 60d8e3bfd0d0f2fc8b86212a666fc015
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/templates/images/scantool.png
+SPDXID: SPDXRef-item10690769
+FileChecksum: SHA1: d0f2c45ff656c3ced68134e0391d30aea5e894ef
+FileChecksum: MD5: ea3a6f10cea1ea7d0b12d6158783128f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/templates/images/security-verification-arch.png
+SPDXID: SPDXRef-item10690770
+FileChecksum: SHA1: 4cddff80a6d7df283caae4edf61d76bcaf8b2365
+FileChecksum: MD5: b9e76eaf359663cc0e15ca8a15ed85ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/templates/images/ActorInvokesScan.png
+SPDXID: SPDXRef-item10690771
+FileChecksum: SHA1: 089036203f63f1f121bc4a867f79dfdcd8a1c3bf
+FileChecksum: MD5: 52a5a9697191fe5fb20e4cabec745ac0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/templates/diagrams/ActorInvokesScan.xml
+SPDXID: SPDXRef-item10690778
+FileChecksum: SHA1: aef00864aa7e26710969eea87da3a6e33a1e24c5
+FileChecksum: MD5: 29e5b7d774a22baddbe661449a0826a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/docs-contributor-guide/templates/diagrams/security-verification-arch.xml
+SPDXID: SPDXRef-item10690779
+FileChecksum: SHA1: c0751085f82548adda431bcc02efc1c7616ca3f2
+FileChecksum: MD5: 096e7674b2092740414106443cab5b81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/demeter/model-execution.csv
+SPDXID: SPDXRef-item10690795
+FileChecksum: SHA1: 28dfc6ef0c57c7ef04a292b1c79413012c89b7d5
+FileChecksum: MD5: c05fb3904782b5c9ff6441ffbb6e1e2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/demeter/core-components.csv
+SPDXID: SPDXRef-item10690797
+FileChecksum: SHA1: 748245ea55f73fdd75f4ef7bf65c3e0c20c42dc3
+FileChecksum: MD5: f811580fa9c0d25604ffa5e62e894b03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/demeter/libraries.csv
+SPDXID: SPDXRef-item10690798
+FileChecksum: SHA1: 3c07d41568cec900fc11fbd3c6875a67b54cc87b
+FileChecksum: MD5: aeb51fd36e01f9dc081c40a645e028fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/demeter/clients.csv
+SPDXID: SPDXRef-item10690799
+FileChecksum: SHA1: aea0d8d63ca99c30ba91ca7bf3aaa08edf44fc09
+FileChecksum: MD5: 770da86ca70f487c109a20ba56916ef7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/images/firefox.png
+SPDXID: SPDXRef-item10690803
+FileChecksum: SHA1: 2e9ea8005d298abc8cc2af86608757960e34419b
+FileChecksum: MD5: a5f701bfc72503747997622625becc61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/images/chrome.png
+SPDXID: SPDXRef-item10690804
+FileChecksum: SHA1: 909d32c027978157e5bb3aae6de9454b86241086
+FileChecksum: MD5: c3c9e241844be40aabd089db918d26d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/images/microsoft.png
+SPDXID: SPDXRef-item10690805
+FileChecksum: SHA1: 7c13d845be7946b77d180416dbff9b612b458c26
+FileChecksum: MD5: 2b1c07c8ca2249d820b426108f6b4450
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/images/safari.png
+SPDXID: SPDXRef-item10690806
+FileChecksum: SHA1: 5ec9af83f7caab724c82d56dfb190c23052fbd35
+FileChecksum: MD5: 9fdd81e1b48f4d7bb4455a43790668a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/athena-maint/maint-jira-fixed.csv
+SPDXID: SPDXRef-item10690810
+FileChecksum: SHA1: 7468cf527f44af204c8875681b61dd38854621cb
+FileChecksum: MD5: 64c0bffe0bd581fc745d1cc30cdaaa74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/athena-maint/maint-jira-known-issues.csv
+SPDXID: SPDXRef-item10690811
+FileChecksum: SHA1: 20a4bf6b43ea5ab698537445341a517b974f8657
+FileChecksum: MD5: ed5de2763b70143fc3344276b006aca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/athena-maint/maint-model-runners.csv
+SPDXID: SPDXRef-item10690813
+FileChecksum: SHA1: 072c2370e6796d10b46069366cd447be438c750b
+FileChecksum: MD5: 5bac3d447d16921a9087b30c0ed4ede0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/athena-maint/maint-model-execution.csv
+SPDXID: SPDXRef-item10690814
+FileChecksum: SHA1: 2968f1619566addb1d4287c367a8005ced6bbfd7
+FileChecksum: MD5: 1f9b9a52a8fcf2c84f7a1ba5638b6e9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/athena-maint/maint--libraries.csv
+SPDXID: SPDXRef-item10690815
+FileChecksum: SHA1: 9c7088bc1f963c7a89e9e0413e36bdec55e4ee9a
+FileChecksum: MD5: b1a48202eb02c14b3dc44e3c3a93f8f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/athena-maint/maint-core-components.csv
+SPDXID: SPDXRef-item10690816
+FileChecksum: SHA1: 5a70b48cdbe68a4d76e8f6f1b51a53fa5cb225ca
+FileChecksum: MD5: fcc281a6ca5e0feef708d406d836084e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/athena-maint/maint-clients.csv
+SPDXID: SPDXRef-item10690817
+FileChecksum: SHA1: f7c8179c9becda3b4b7746b7f9ecc27aa0b7f074
+FileChecksum: MD5: cc78b8044b0195493c99524d80e3bbae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/clio/model-execution.csv
+SPDXID: SPDXRef-item10690820
+FileChecksum: SHA1: fb888c0cf193fdbd19e6283a79dac697fbbe9782
+FileChecksum: MD5: b0342247cfedb3dd54a01c3e6c855825
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/clio/core-components.csv
+SPDXID: SPDXRef-item10690822
+FileChecksum: SHA1: c9448f5e871b094c08eeb0adcfc7e78436508a2b
+FileChecksum: MD5: c856c27e3c2288a3c671f3a30699ca93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/clio/libraries.csv
+SPDXID: SPDXRef-item10690823
+FileChecksum: SHA1: fe44950d0a198ea6e012c8b3f3bcb93c9446a296
+FileChecksum: MD5: f2dc5b004724a27b5e6ad0ad3c80bb3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/clio/clients.csv
+SPDXID: SPDXRef-item10690825
+FileChecksum: SHA1: e5da1c22701ae4a5bcfdab4cc6bcd5bc1d19cce0
+FileChecksum: MD5: 22d18e07c6446eb68064b63f3da2cf16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/boreas/model-execution.csv
+SPDXID: SPDXRef-item10690828
+FileChecksum: SHA1: 595172e32f867edc7e692cdd7bb62271b1a01a5d
+FileChecksum: MD5: b732c203f9cd2c916724eaa83e0ee32b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/boreas/core-components.csv
+SPDXID: SPDXRef-item10690830
+FileChecksum: SHA1: 24e8b368c28fb5c5307ebdb3386305e7a611847f
+FileChecksum: MD5: 4be40c02dcf8cddeeb680f2e0f5c7c6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/boreas/libraries.csv
+SPDXID: SPDXRef-item10690831
+FileChecksum: SHA1: aa252bf06bed58e07db5a9eccdecfe9fed333cbb
+FileChecksum: MD5: 22ad5098cc2b95fe7ecfcd9557702466
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/boreas/clients.csv
+SPDXID: SPDXRef-item10690833
+FileChecksum: SHA1: 4480c23525ea9c7c00f98ce5ce0508f063a1e7d0
+FileChecksum: MD5: 689d4bdcf859942348bd76ea0e1a7ab4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/boreas/model-runners.csv
+SPDXID: SPDXRef-item10690834
+FileChecksum: SHA1: e04d13273d27c55210711f8e18e881bc8630d3cf
+FileChecksum: MD5: c398e0a327261cbf61eb7a9229570fc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/athena/model-execution.csv
+SPDXID: SPDXRef-item10690838
+FileChecksum: SHA1: 3c3453ff4702e3badee6698099219b1bf309cbde
+FileChecksum: MD5: c71f4bb4f3f5c6f968fbf80e4621e753
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/athena/core-components.csv
+SPDXID: SPDXRef-item10690839
+FileChecksum: SHA1: 05066a9216f68a1b2ddc0571e33f542a3c97ffbf
+FileChecksum: MD5: 8b203fbef395d44448b704ce578a8128
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/athena/libraries.csv
+SPDXID: SPDXRef-item10690840
+FileChecksum: SHA1: 9c7088bc1f963c7a89e9e0413e36bdec55e4ee9a
+FileChecksum: MD5: b1a48202eb02c14b3dc44e3c3a93f8f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/athena/clients.csv
+SPDXID: SPDXRef-item10690841
+FileChecksum: SHA1: 64fb4bccf336ea2e1c7b735d4ef08afef1cef21d
+FileChecksum: MD5: e3dfadd0e5d20b32665a4b1706ef05d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/release-notes/athena/model-runners.csv
+SPDXID: SPDXRef-item10690842
+FileChecksum: SHA1: 072c2370e6796d10b46069366cd447be438c750b
+FileChecksum: MD5: 5bac3d447d16921a9087b30c0ed4ede0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/_static/images/DesignStudio.png
+SPDXID: SPDXRef-item10690846
+FileChecksum: SHA1: a5d6fb9693b4042e08aa8db79bdbf63dc8287548
+FileChecksum: MD5: da2fb2215c94b4ce901e12b2c0ca52e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/_static/images/AcumosArchitecture.png
+SPDXID: SPDXRef-item10690847
+FileChecksum: SHA1: badc168a5d649eee37dfa9a14775690ffeb57cca
+FileChecksum: MD5: 3e029acee503b77777752acd4ff7eb77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/_static/images/logo_acumos.png
+SPDXID: SPDXRef-item10690848
+FileChecksum: SHA1: 7d18718464ce15146169c180fb1268017a154a20
+FileChecksum: MD5: f2993ae2c7f605d002133728fbd4dc33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/logo-text.html
+SPDXID: SPDXRef-item10690850
+FileChecksum: SHA1: fa5108f49e60580e9645b52cbc15d8e046f27640
+FileChecksum: MD5: 1b5dc5a9c53afb6e8e457d7768cc4b63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/searchbox.html
+SPDXID: SPDXRef-item10690851
+FileChecksum: SHA1: f4d470da9a7ab67c2b4335fefcd54a2d5a9c20d4
+FileChecksum: MD5: f9c009788d273d75c364a99009ab4870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/comments.html
+SPDXID: SPDXRef-item10690852
+FileChecksum: SHA1: ff0ce85c73f59bae4100df113ed6fbd126419e2d
+FileChecksum: MD5: cbdabbbf98d602484ff35a08085d6d6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/theme.conf
+SPDXID: SPDXRef-item10690853
+FileChecksum: SHA1: 334592b67e3f61365418c6a74c10ff846081e9d5
+FileChecksum: MD5: f103f2c0378973df07ea63c10ee2238b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/localtoc.html
+SPDXID: SPDXRef-item10690854
+FileChecksum: SHA1: 01c31625561d82e78cb29ce60b198e56c802b186
+FileChecksum: MD5: 7855087d8ddeab875b85f2497519dc30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/jquery.min.map
+SPDXID: SPDXRef-item10690862
+FileChecksum: SHA1: 5d459941aacf3d11dcb48a0f85c5a1104f017aa7
+FileChecksum: MD5: 4efe065202638dd059a1846f0cc2f3e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/guzzle.css_t
+SPDXID: SPDXRef-item10690863
+FileChecksum: SHA1: 084b7e9e7366bb0503bf0815006a4ab0cd5c90fa
+FileChecksum: MD5: 3990ea0093d6d3fd9848423c0a3b0e29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/glyphicons-halflings-regular.woff
+SPDXID: SPDXRef-item10690865
+FileChecksum: SHA1: c6ea7b1a5bb16b160cc9b8a02f6f6371b5ef7b73
+FileChecksum: MD5: 5eae1f7217b606d3580dd70ac840fea1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/glyphicons-halflings-regular.svg
+SPDXID: SPDXRef-item10690866
+FileChecksum: SHA1: ecee9033d9183117d8f59df0e7238e2b24002b24
+FileChecksum: MD5: 0a5c48c69a25a93e37ed62db813387fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/stylesheet.css
+SPDXID: SPDXRef-item10690868
+FileChecksum: SHA1: 68506820dde903126363a54664134440377f1fbe
+FileChecksum: MD5: de6fdc8c4db94b687178601a68a010cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Bold-webfont.woff
+SPDXID: SPDXRef-item10690870
+FileChecksum: SHA1: 797951452944f07d793a097e1b1a74a61b4abc10
+FileChecksum: MD5: 53dae00e94f00fffb6415476485173db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Semibold-webfont.woff
+SPDXID: SPDXRef-item10690877
+FileChecksum: SHA1: dc0d11d1b50972a8126f252d61f11c932e2f9521
+FileChecksum: MD5: 2a6e5499275369d9841b9cb0903547e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Semibold-webfont.ttf
+SPDXID: SPDXRef-item10690878
+FileChecksum: SHA1: c4dabbc89510afd8b4e06edf9156445619cab02c
+FileChecksum: MD5: eb76643072cd558d7d782105c3eef25f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Bold-webfont.ttf
+SPDXID: SPDXRef-item10690883
+FileChecksum: SHA1: edc8158d8b3047deed8ff55f6ce7edb8302ca8ef
+FileChecksum: MD5: 72018a2356bbf143a4d334abb756efab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-BoldItalic-webfont.svg
+SPDXID: SPDXRef-item10690884
+FileChecksum: SHA1: 29ff1192704edc545b21ec41a2eaee001d3b0ebc
+FileChecksum: MD5: a73ae8486f71dfc132708a3512285b7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright 2010-2011 Google Corporation
+Copyright : Digitized data copyright 20102011 Google Corporation Foundry : Ascender Corporation Foundry URL : httpwwwascendercorpcom </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-ExtraBold-webfont.svg
+SPDXID: SPDXRef-item10690885
+FileChecksum: SHA1: 7d382fe6f627c32833ac09bda23174924e0a2836
+FileChecksum: MD5: e9bcb4528769ad034d1841abd8605662
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright 2011 Google Corporation
+Copyright : Digitized data copyright 2011 Google Corporation Foundry : Ascender Corporation Foundry URL : httpwwwascendercorpcom </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-ExtraBoldItalic-webfont.woff
+SPDXID: SPDXRef-item10690886
+FileChecksum: SHA1: 3d07a60cc14a0042992008140c9421043388a7b2
+FileChecksum: MD5: 6c907f41dd44a4d24c1ddf9ae71b81b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-BoldItalic-webfont.ttf
+SPDXID: SPDXRef-item10690889
+FileChecksum: SHA1: ff95dcf394b1eec56cfd4dfc83b93da171e74998
+FileChecksum: MD5: 8502d8b3e09785d91feca0a34b53d1e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Bold-webfont.svg
+SPDXID: SPDXRef-item10690892
+FileChecksum: SHA1: 7be4e03069a97c0ac1c14b927c67ba7d1fe4cf01
+FileChecksum: MD5: c8743c33e928a7041128864aa0f0a6c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright 2010-2011 Google Corporation
+Copyright : Digitized data copyright 20102011 Google Corporation Foundry : Ascender Corporation Foundry URL : httpwwwascendercorpcom </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-ExtraBoldItalic-webfont.ttf
+SPDXID: SPDXRef-item10690893
+FileChecksum: SHA1: c5b5c9fac3fae7f4a7c5da2a4a80bd62babb1b3c
+FileChecksum: MD5: 6f1d682fa6766ea77f35078274e65a35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-SemiboldItalic-webfont.svg
+SPDXID: SPDXRef-item10690894
+FileChecksum: SHA1: ed3ea71d25af8e4563d4ddca0b9ef8703696646a
+FileChecksum: MD5: b5a6b8f96332ac8b6b922099f82696f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright 2010-2011 Google Corporation
+Copyright : Digitized data copyright 20102011 Google Corporation Foundry : Ascender Corporation Foundry URL : httpwwwascendercorpcom </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-ExtraBold-webfont.woff
+SPDXID: SPDXRef-item10690897
+FileChecksum: SHA1: 0b88f1012a6cf49361e636ae25af33f780f7f573
+FileChecksum: MD5: bdf02302ed908254d189deeb5e22fee4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-LightItalic-webfont.ttf
+SPDXID: SPDXRef-item10690898
+FileChecksum: SHA1: db01fc7994fd6df4a81e114b4d69bb2b2e5b0c67
+FileChecksum: MD5: f8ac25b9e0bac4fe58f0f00924727dd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Regular-webfont.woff
+SPDXID: SPDXRef-item10690899
+FileChecksum: SHA1: 4e9fe179bbb4c898b4658ca4801e82d82c2f71cd
+FileChecksum: MD5: 96f62f549352cef6d2fb7c71ac9133d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Light-webfont.svg
+SPDXID: SPDXRef-item10690900
+FileChecksum: SHA1: 1337ea237ed4ac2f1f5288e09ab1479d00b8e157
+FileChecksum: MD5: 6ddd2204acc440f78d9871c02657792a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright 2010-2011 Google Corporation
+Copyright : Digitized data copyright 20102011 Google Corporation Foundry : Ascender Corporation Foundry URL : httpwwwascendercorpcom </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Light-webfont.ttf
+SPDXID: SPDXRef-item10690901
+FileChecksum: SHA1: d92b1bee5c22a1647396e951549f9771c6591fb4
+FileChecksum: MD5: cf4f8f2c1013afed762589bb5ff756af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Light-webfont.woff
+SPDXID: SPDXRef-item10690902
+FileChecksum: SHA1: 2cf63379bcba2127662f7bedb01ed0f7b82dcf0a
+FileChecksum: MD5: 70fb3d3dc1833a6c5d41ab76e7f7508d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-SemiboldItalic-webfont.ttf
+SPDXID: SPDXRef-item10690905
+FileChecksum: SHA1: 42c1369e2212308e874343d478637ef264a7a5d8
+FileChecksum: MD5: 639c197d1e9f6120cccc98d732e58751
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-ExtraBoldItalic-webfont.svg
+SPDXID: SPDXRef-item10690906
+FileChecksum: SHA1: ac6e167798229c3cf3c825d1480618d04eca58da
+FileChecksum: MD5: 25ae5ef2331cca9b1a1c6ed6046eddbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright 2010-2011 Google Corporation
+Copyright : Digitized data copyright 20102011 Google Corporation Foundry : Ascender Corporation Foundry URL : httpwwwascendercorpcom </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-BoldItalic-webfont.woff
+SPDXID: SPDXRef-item10690907
+FileChecksum: SHA1: 45c304b4871f9aab4b6d342d2fc04144e27b9fed
+FileChecksum: MD5: 15c0b021c7ef8e31adcf67a8c40160f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Regular-webfont.svg
+SPDXID: SPDXRef-item10690908
+FileChecksum: SHA1: 139ddeb637db33a909798d50503f1c08f88446f1
+FileChecksum: MD5: ba8bcd8ddb0416b85f656fb34d2dcafd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright 2010-2011 Google Corporation
+Copyright : Digitized data copyright 20102011 Google Corporation Foundry : Ascender Corporation Foundry URL : httpwwwascendercorpcom </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Italic-webfont.ttf
+SPDXID: SPDXRef-item10690909
+FileChecksum: SHA1: 70ce491bef6b63a8e9a9be4475573e3468f52636
+FileChecksum: MD5: 491fb0270ebd90d4af0dc20d43695650
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-SemiboldItalic-webfont.woff
+SPDXID: SPDXRef-item10690910
+FileChecksum: SHA1: 52b92ff2e8e331278801b7ef2c1b71c182048892
+FileChecksum: MD5: 7588288bd0671d593af01f0f58f4a749
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Italic-webfont.svg
+SPDXID: SPDXRef-item10690911
+FileChecksum: SHA1: d3abbfaa285db614d9cf065b0b651126593b3fb7
+FileChecksum: MD5: bb635e1cc26e9b6f6202e5df7626fdc0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright 2010-2011 Google Corporation
+Copyright : Digitized data copyright 20102011 Google Corporation Foundry : Ascender Corporation Foundry URL : httpwwwascendercorpcom </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-LightItalic-webfont.svg
+SPDXID: SPDXRef-item10690914
+FileChecksum: SHA1: f149de6195a565e8828da26895d379910705dd97
+FileChecksum: MD5: 92daaac8c9d2460f8760f81e25308217
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright 2010-2011 Google Corporation
+Copyright : Digitized data copyright 20102011 Google Corporation Foundry : Ascender Corporation Foundry URL : httpwwwascendercorpcom </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Italic-webfont.woff
+SPDXID: SPDXRef-item10690915
+FileChecksum: SHA1: 0fbc0f22b5d001eaa7f72c90db4f54681ecf2147
+FileChecksum: MD5: b3705990a3b91f6a7880b212b2884b7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-ExtraBold-webfont.ttf
+SPDXID: SPDXRef-item10690916
+FileChecksum: SHA1: d1e914878d32fbc3b7ea8e708c105b3ae2514c47
+FileChecksum: MD5: 45e377f263b6e767c5c283c36ffa4542
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-LightItalic-webfont.woff
+SPDXID: SPDXRef-item10690917
+FileChecksum: SHA1: 788077c2cb41fc50186a3fb0b3575f63dc730ad6
+FileChecksum: MD5: 7ac70c4f4af53aa69a5015629523a4d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Regular-webfont.ttf
+SPDXID: SPDXRef-item10690918
+FileChecksum: SHA1: 1bda9f65b10d2b75b5b8049cd9107e6109112d7d
+FileChecksum: MD5: 98b25ed8f8a57633895435395edf05d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Semibold-webfont.svg
+SPDXID: SPDXRef-item10690919
+FileChecksum: SHA1: 1fd3ff2cadc0b095e9fe47972d45d5b6e8908cef
+FileChecksum: MD5: 065a703083da1a09e9dce83a5f78f183
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright 2011 Google Corporation
+Copyright : Digitized data copyright 2011 Google Corporation Foundry : Ascender Corporation Foundry URL : httpwwwascendercorpcom </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/glyphicons-halflings-regular.ttf
+SPDXID: SPDXRef-item10690920
+FileChecksum: SHA1: 536d2b1b2f3462fb122df1922f2e232546f1b11d
+FileChecksum: MD5: 47da44498fc073d9fff9ab0cdb0bef8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/README.md
+SPDXID: SPDXRef-item10690922
+FileChecksum: SHA1: d2ca84737755e0ddac96da05ffe6f9eabed7b425
+FileChecksum: MD5: 32545d0ec0717eea497c100420d90951
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/SourceSerifProReadMe.html
+SPDXID: SPDXRef-item10690937
+FileChecksum: SHA1: 99410c80cadbd4848d0b58c1dc9e9422f63aabab
+FileChecksum: MD5: 87568eaa781ee8724b44846439edc857
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> (c) 2014 Adobe Systems Incorporated. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/OTF/SourceSerifPro-Semibold.otf.woff
+SPDXID: SPDXRef-item10690954
+FileChecksum: SHA1: 48e886deaeb21a9656b9e97607b33ee6f1e5af0e
+FileChecksum: MD5: 2d93d129bfeb07085527ca419c4516b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/OTF/SourceSerifPro-Light.otf.woff
+SPDXID: SPDXRef-item10690955
+FileChecksum: SHA1: fa1e733e4da233fe8e4f861693fae4357e6ac9f3
+FileChecksum: MD5: 883c4f53ab2b2b7aca8c60fa834a8177
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/OTF/SourceSerifPro-ExtraLight.otf.woff
+SPDXID: SPDXRef-item10690956
+FileChecksum: SHA1: 8a6cb38e7df8258a8721dfe4af01071114892907
+FileChecksum: MD5: 6e525a261421be39b4e774927db10b55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/OTF/SourceSerifPro-Regular.otf.woff
+SPDXID: SPDXRef-item10690957
+FileChecksum: SHA1: d5b4cc9121fc6e81a9f87b013c1f49d082241090
+FileChecksum: MD5: 2ff6913fd741b30c4b4d5dff5546d3fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/OTF/SourceSerifPro-Black.otf.woff
+SPDXID: SPDXRef-item10690958
+FileChecksum: SHA1: ae812d3d406906b719a7a85c26cd5e50ce2640d3
+FileChecksum: MD5: d3846da5d7b6d14f15016d23bae76fbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/OTF/SourceSerifPro-Bold.otf.woff
+SPDXID: SPDXRef-item10690959
+FileChecksum: SHA1: d4f30e5e11c688ecaf8a5490e526b71024656bd3
+FileChecksum: MD5: 02820b7e6869a0d51b74b9c207a5cc08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/TTF/SourceSerifPro-Black.ttf.woff
+SPDXID: SPDXRef-item10690961
+FileChecksum: SHA1: 51c1eee296fc0c513bb5684fcb223b3966bfe6d3
+FileChecksum: MD5: 97374cc62dd2cb1257aa2ea82017fe8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/TTF/SourceSerifPro-ExtraLight.ttf.woff
+SPDXID: SPDXRef-item10690962
+FileChecksum: SHA1: 339870a5d591a19d95b735d57a19e3586e2283b2
+FileChecksum: MD5: 765197944d8a71c1ae4cfd454188ae5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/TTF/SourceSerifPro-Semibold.ttf.woff
+SPDXID: SPDXRef-item10690963
+FileChecksum: SHA1: c7d4ec82c5f2ff7ff8156537c8be44109104e4d9
+FileChecksum: MD5: 2e79a16087c1b24b7ca83636c3459a4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/TTF/SourceSerifPro-Light.ttf.woff
+SPDXID: SPDXRef-item10690964
+FileChecksum: SHA1: 920f12eb0d452f28d6d1e87c2f050e4c1585d065
+FileChecksum: MD5: 78e0c8eb7a4bad95bc2e263c3de3b640
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/TTF/SourceSerifPro-Bold.ttf.woff
+SPDXID: SPDXRef-item10690965
+FileChecksum: SHA1: ee521382f7cd0e3af99365560891402778551f57
+FileChecksum: MD5: 0315035febd7b00ebb9746800b8a26bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/TTF/SourceSerifPro-Regular.ttf.woff
+SPDXID: SPDXRef-item10690966
+FileChecksum: SHA1: fe6ace796cf65b3ac9f775a11560d3ace9d779c7
+FileChecksum: MD5: 7d9c73e359007f39de8ae89865c4a2b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/ReadMe.html
+SPDXID: SPDXRef-item10690974
+FileChecksum: SHA1: 4b72116b16459d77df40423c490dd54cca5e7803
+FileChecksum: MD5: e6bbc6b22ab47f522bb1cf8dbf3fa644
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/source-serif-pro.css
+SPDXID: SPDXRef-item10690975
+FileChecksum: SHA1: 75de211ba1e57e460af875daedd29eaa0e6f8d78
+FileChecksum: MD5: c1523b0dcfc122e127bb57029f8342e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/search.html
+SPDXID: SPDXRef-item10690979
+FileChecksum: SHA1: 1c5ca63a2fc93b1bf09aca3eddc5844e901b0b14
+FileChecksum: MD5: 117b8eb48597f8581ee2c84c1a60ee0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/docs/guzzle_sphinx_theme/globaltoc.html
+SPDXID: SPDXRef-item10690980
+FileChecksum: SHA1: 5de1cf433028de3eb32ff54629a622b2907f7d6b
+FileChecksum: MD5: 2912ae7f6da6dd5f04e96130d60b4051
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation/.gitmodules
+SPDXID: SPDXRef-item10690988
+FileChecksum: SHA1: bc27608eda2722a0ddc5ca898bd29085a32dd01a
+FileChecksum: MD5: 7f0ea9a084a18906d347e136f98279da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
