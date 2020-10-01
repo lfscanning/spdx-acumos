@@ -1,0 +1,70 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_platform-orchestration-2020-09-10.zip_1600734614.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-09-22T00:30:14Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: platform-orchestration-2020-09-10.zip
+PackageFileName: platform-orchestration-2020-09-10.zip
+SPDXID: SPDXRef-upload2815
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: f1f4e16acfc1888a75370f7daaba55b2e0cbcf7a
+PackageChecksum: SHA1: ab703a94f5013b0ddfa7128d4a8c9e34748337c9
+PackageChecksum: MD5: 1687cf098c35ed655a823f8b48ecd012
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2815
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: platform-orchestration/.gitreview
+SPDXID: SPDXRef-item10693368
+FileChecksum: SHA1: 49e7f18d06f2355cd83ba56448d7d1dd66757d05
+FileChecksum: MD5: c4ca8f8984f09b60e9dbeccf2e842651
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
