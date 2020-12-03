@@ -1,0 +1,1588 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_microservice-generation-2020-12-03.zip_1607012677.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-12-03T16:24:37Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: microservice-generation-2020-12-03.zip
+PackageFileName: microservice-generation-2020-12-03.zip
+SPDXID: SPDXRef-upload3149
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 73a8c99cf67ac21b86df0fb65ce3d75c0015b045
+PackageChecksum: SHA1: a646419bbde7328d3560160ea3dbf46cdf436a03
+PackageChecksum: MD5: 791e8416669d7b5390e4e1b0fecbd193
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3149
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: microservice-generation/docs/index.rst
+SPDXID: SPDXRef-item12376627
+FileChecksum: SHA1: 0da3c67220ce6b4aebc86e6681494c814377c6d7
+FileChecksum: MD5: fb86d954f21b4bdb523bc90f590bba50
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/docs/developer-guide.rst
+SPDXID: SPDXRef-item12376629
+FileChecksum: SHA1: 7dfe48e3f216fc3fc16e176c8eb78565ec41418a
+FileChecksum: MD5: 75ee006e175314da3c9bfc92e6ff68a7
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/docs/release-notes.rst
+SPDXID: SPDXRef-item12376628
+FileChecksum: SHA1: 0a30147b2a4c14b9d0e1215670650fe7650f62dc
+FileChecksum: MD5: 8e4ce007d2c791341efe80a0a0a5d3cc
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/test/java/org/acumos/microservice/FilePathTest.java
+SPDXID: SPDXRef-item12376521
+FileChecksum: SHA1: cf8cc393244655110787cbd1709f24bd12413769
+FileChecksum: MD5: eaba24cecb6d499eb58cb2f8b02f2d08
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/component/docker/cmd/DeleteImageCommand.java
+SPDXID: SPDXRef-item12376592
+FileChecksum: SHA1: 7d2e643483b42bd72c2523f8b434d7999c1571f4
+FileChecksum: MD5: 1e985b74c965a6a964b82b18597a3703
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/component/docker/cmd/DockerCommand.java
+SPDXID: SPDXRef-item12376597
+FileChecksum: SHA1: daf2347646b1c537391f15334f5d305e102ca328
+FileChecksum: MD5: 6246b0650665c0226649884a3d5b2dab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/component/docker/DockerConfiguration.java
+SPDXID: SPDXRef-item12376588
+FileChecksum: SHA1: 942f27a04777be97a92a1db51a2deff149ca449f
+FileChecksum: MD5: 9eb251423ba6226de7b2a50374a392e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/component/docker/cmd/CommandUtils.java
+SPDXID: SPDXRef-item12376596
+FileChecksum: SHA1: 98c6bea8e473f2bb37ddb19ef843804408c9f9ef
+FileChecksum: MD5: 77d771546c0014b55346625bd815acc1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/component/docker/DockerClientFactory.java
+SPDXID: SPDXRef-item12376606
+FileChecksum: SHA1: e6b07252558b1e4e038756a54ae1345ba4d5cc26
+FileChecksum: MD5: 85c1de0da17e774a4036dd57aab78cfb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/templates/python/runner.py
+SPDXID: SPDXRef-item12376487
+FileChecksum: SHA1: 7554073009b03a166a56f82f21af35fdb7e985e4
+FileChecksum: MD5: 2caea8771ff5bab8de134f14dca8f37a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/LICENSE.txt
+SPDXID: SPDXRef-item12376610
+FileChecksum: SHA1: fd459fc35532546fcdb4a360171596b92bc65c7a
+FileChecksum: MD5: b7ba35bdeb8d3224ccd7e61283deca30
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/test/java/org/acumos/microservice/PushImageCommandTest.java
+SPDXID: SPDXRef-item12376525
+FileChecksum: SHA1: 6a124c0fd486c8960300d03bea87340182d18ffb
+FileChecksum: MD5: cf47cf30741d26d750dfc59b821ac1e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/test/java/org/acumos/microservice/DockerConfigurationTest.java
+SPDXID: SPDXRef-item12376512
+FileChecksum: SHA1: 880c4bdabbbfe6483f6d76c79a36092aad337086
+FileChecksum: MD5: eabc958e9c544e5a3c010fed3461804b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/test/java/org/acumos/microservice/SaveImageCommandTest.java
+SPDXID: SPDXRef-item12376517
+FileChecksum: SHA1: 8e3a2ef89a89b807ba729316d35d0e4f47244cd6
+FileChecksum: MD5: d4b9860c4162ec968bd18c6189a69b74
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/test/java/org/acumos/microservice/CommandUtilsTest.java
+SPDXID: SPDXRef-item12376524
+FileChecksum: SHA1: 94e11edb180debc082c6f8097c0965158dbec9f6
+FileChecksum: MD5: d02a2b80be97568cff5e0e190d1380e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/test/java/org/acumos/microservice/DeleteImageCommandTest.java
+SPDXID: SPDXRef-item12376527
+FileChecksum: SHA1: 5dd64d7d71b5358e26467a8334906cc7d34bbd8c
+FileChecksum: MD5: d2b47c0c33e33c7311dfc6ccad524f75
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/test/java/org/acumos/microservice/CreateImageCommandTest.java
+SPDXID: SPDXRef-item12376531
+FileChecksum: SHA1: cde5b3e92d0666a0037998e33e49a44e4d679b21
+FileChecksum: MD5: 1507ebebdaf5d5f50d48fdf97c98c7ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/services/impl/RestServiceConfiguration.java
+SPDXID: SPDXRef-item12376584
+FileChecksum: SHA1: 76f22c7ce8b65f29d2c52c3e8c7b6ed90c75de2d
+FileChecksum: MD5: b473287ec3c8c03f0437859303a8877c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/component/docker/NoImplSslConfig.java
+SPDXID: SPDXRef-item12376607
+FileChecksum: SHA1: de8cd2f513b3f3fab2c2fee03e3771479b399072
+FileChecksum: MD5: b255d8d26e450a343efc7f6710fa4bb7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/test/java/org/acumos/microservice/ResourceUtilsTest.java
+SPDXID: SPDXRef-item12376516
+FileChecksum: SHA1: e37d0769504df9d9711fcd2bb88c09abb5a0e522
+FileChecksum: MD5: 7d55296fa2ca063db5a892afa13e69fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/MicroserviceApplication.java
+SPDXID: SPDXRef-item12376576
+FileChecksum: SHA1: 5ad51002a2a71c15a85bd5e5d82011816e6066c8
+FileChecksum: MD5: 1aaf2dd531c21567004c91c99e2c2bec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/common/config/DockerClientConfiguration.java
+SPDXID: SPDXRef-item12376579
+FileChecksum: SHA1: 75cdb87c186927f52c9341c8313cd88496ebeb70
+FileChecksum: MD5: 6e148aa93d27493b2d5dc316e4a9aadc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/component/docker/cmd/CreateImageCommand.java
+SPDXID: SPDXRef-item12376593
+FileChecksum: SHA1: dfab4d188b55593f36698468c4e92a7f48675cba
+FileChecksum: MD5: fc974d9420d0a04becb87f6c2d12685f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/component/docker/cmd/PushImageCommand.java
+SPDXID: SPDXRef-item12376590
+FileChecksum: SHA1: ca11e0191076fcc6406fdfff57e70544d1180fc8
+FileChecksum: MD5: 6769ebdf13532ca678b5947aeac76614
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/services/DockerService.java
+SPDXID: SPDXRef-item12376585
+FileChecksum: SHA1: ac40f809c1b0b546b5b4bb45b36bb40b7c2ffd8d
+FileChecksum: MD5: 39a552437c8f1c824c16874d07a5f988
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/component/docker/cmd/TagImageCommand.java
+SPDXID: SPDXRef-item12376595
+FileChecksum: SHA1: ce39db72dbc721886c386294a1590a1ee6c7932d
+FileChecksum: MD5: a9084f7d898a23c001bde01b227a36d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/test/java/org/acumos/microservice/PythonDockerPrepratorTest.java
+SPDXID: SPDXRef-item12376515
+FileChecksum: SHA1: 3fa666f7ca97d9838c3255c5a12acb94f487d458
+FileChecksum: MD5: 8ab4f4629188db417dd693cea4d37a7d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/component/docker/cmd/SaveImageCommand.java
+SPDXID: SPDXRef-item12376598
+FileChecksum: SHA1: 15bad8ff5b6037a8c00e40de7c9633e6c4d74d22
+FileChecksum: MD5: d9e64ff56775982bcf23ed5943fd7900
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/services/impl/DownloadModelArtifacts.java
+SPDXID: SPDXRef-item12376583
+FileChecksum: SHA1: 322d8bd9257606429ac72783f409195b2ed67c04
+FileChecksum: MD5: 3e8bc0f3161358287c19982dfad0a966
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/test/java/org/acumos/microservice/TagImageCommandTest.java
+SPDXID: SPDXRef-item12376528
+FileChecksum: SHA1: 8540f6c8dc5dfb036bdb75edfd5fe2b707edc933
+FileChecksum: MD5: 95cf5be20c0101875fd20d78b9bf9700
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/test/java/org/acumos/microservice/H2ODockerPreparatorTest.java
+SPDXID: SPDXRef-item12376513
+FileChecksum: SHA1: d043d05f1618e11cb70e2ab79e8f326226f37caa
+FileChecksum: MD5: ea7ad83d67cdffdd095064b917f4527d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/test/java/org/acumos/microservice/JavaSparkDockerPreparatorTest.java
+SPDXID: SPDXRef-item12376530
+FileChecksum: SHA1: 7ac0c4be6649b1de33cf81a08cad27c09c78a25e
+FileChecksum: MD5: f99120e3eaa1f4a05b8235ae6bea79d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/test/java/org/acumos/microservice/CPPDockerPreparatorTest.java
+SPDXID: SPDXRef-item12376518
+FileChecksum: SHA1: 759485277cf190b1af0c48278c4d4d9fbe7519b9
+FileChecksum: MD5: 4d2b0e2ec374d8fdcf3bbc05100f6c09
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/component/docker/preparation/CPPDockerPreparator.java
+SPDXID: SPDXRef-item12376601
+FileChecksum: SHA1: a2a3576a1fb08a06c25c0c7e588df535b3676788
+FileChecksum: MD5: fa0057b628d952bbd0317c14c0bfc546
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/test/java/org/acumos/microservice/JavaGenericDockerPreparatorTest.java
+SPDXID: SPDXRef-item12376519
+FileChecksum: SHA1: 2364c15425df4777fb1335353eaf2973ac404806
+FileChecksum: MD5: 9cae79edea69ee25c0316be0b4630db4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/component/docker/preparation/RDockerPreparator.java
+SPDXID: SPDXRef-item12376600
+FileChecksum: SHA1: 7b746982790f7fb9850e064335e1029c5b0fe311
+FileChecksum: MD5: edf736b92be1776195a389982a9bc5bc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/component/docker/cmd/ApplicationStartupPullImage.java
+SPDXID: SPDXRef-item12376591
+FileChecksum: SHA1: 8c7ebac9102ea945db06ef1fe9abbda4bcda1600
+FileChecksum: MD5: 780ff2899fb33aa548661fcc379bfc49
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/test/java/org/acumos/microservice/RDockerPreparatorTest.java
+SPDXID: SPDXRef-item12376526
+FileChecksum: SHA1: 8893f1db1238ba68ebaab5634bbd5a45fe3b6c65
+FileChecksum: MD5: d6a1474cf0280c92f0ff15b15c677f30
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/logback.xml
+SPDXID: SPDXRef-item12376568
+FileChecksum: SHA1: 080ae40908511c8a4736c2403b03feb9777d8529
+FileChecksum: MD5: 322acc37088cb98c8d71c2a8b377e5b3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/component/docker/preparation/JavaGenericDockerPreparator.java
+SPDXID: SPDXRef-item12376602
+FileChecksum: SHA1: 7b4177caafc5b7c0b7a564c99bd54f1122351d8e
+FileChecksum: MD5: 6496436ee2856327418766b757630759
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/services/impl/GenerateMicroserviceController.java
+SPDXID: SPDXRef-item12376582
+FileChecksum: SHA1: 550dd50cd39772bc8ec6d3c658d7d534c153f9a0
+FileChecksum: MD5: a4b0f6081122fdd6cd3cc103dd9bb73f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/component/docker/preparation/JavaSparkDockerPreparator.java
+SPDXID: SPDXRef-item12376604
+FileChecksum: SHA1: 87451300b31429cd64cb6f1b7882a8866d0d0fb0
+FileChecksum: MD5: efe693c34eb96fc8a4df49d2b704594e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/component/docker/preparation/H2ODockerPreparator.java
+SPDXID: SPDXRef-item12376605
+FileChecksum: SHA1: 987c2660c0a405ef69d4eccddeef0bbd1d69f5ae
+FileChecksum: MD5: cb16bca125994432f46aa8786a526b99
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/component/docker/DockerizeModel.java
+SPDXID: SPDXRef-item12376608
+FileChecksum: SHA1: c2e72bb74e8eb1e44f5a175ba6b9b987d474832c
+FileChecksum: MD5: 3c25bccb042d1d005de1b031795a6df9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/component/docker/preparation/PythonDockerPreprator.java
+SPDXID: SPDXRef-item12376603
+FileChecksum: SHA1: 450a855da85d7a5aab568f1de6bc16a4a4f52d24
+FileChecksum: MD5: 6f0db6b3fc56153d90ddbac7ac581d3f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: microservice-generation/application.properties
+SPDXID: SPDXRef-item12376461
+FileChecksum: SHA1: bdf43dab8b297a99fbf4246265a82c2bb6899f60
+FileChecksum: MD5: 6325f1b3754361da8d35e34f7cc5e7af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/README.md
+SPDXID: SPDXRef-item12376462
+FileChecksum: SHA1: b82118bab86dbd9f5df4b02c1131fd53d84d3942
+FileChecksum: MD5: 901b1523bd5e60b0b341d42990ce64bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/INFO.yaml
+SPDXID: SPDXRef-item12376463
+FileChecksum: SHA1: 6efe1b436cd4d5bd2fe3647a1d84a3abdc65c073
+FileChecksum: MD5: 4b0e43aa5c906738570a844ac590414f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/model.proto
+SPDXID: SPDXRef-item12376467
+FileChecksum: SHA1: 73a06171ba0d2d70053a23b63d5c6efacdacdd39
+FileChecksum: MD5: c7c4dff80ca9c6c6967705efffe1032f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/modelDetails.json
+SPDXID: SPDXRef-item12376468
+FileChecksum: SHA1: 19ad55a96619b65118a8e611d91137ca517de2b1
+FileChecksum: MD5: 49219e9edc6ebd78f37443e75b85427f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/outFile.csv
+SPDXID: SPDXRef-item12376469
+FileChecksum: SHA1: c54fb261b50079a83de117b56417e6fe25f6be51
+FileChecksum: MD5: 0d9dee60f2b3e9df11321a1dc8aafbb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/packages.R
+SPDXID: SPDXRef-item12376470
+FileChecksum: SHA1: 591760ef3a0c2f23da406a4bbdcd8a49e161e96e
+FileChecksum: MD5: be3bc1e723f1b8db952bc07a5af6c9a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/meta.json
+SPDXID: SPDXRef-item12376471
+FileChecksum: SHA1: eba1f3392b150a927d1e5ff8ff4881c882b5e30f
+FileChecksum: MD5: 832b55ecfe1f36b6d5e5ee775c470406
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/cpp.json
+SPDXID: SPDXRef-item12376472
+FileChecksum: SHA1: dea0db87e7ac5f2c366febca03130dbe9225938e
+FileChecksum: MD5: d0a786df6a503bd05004d70bd364a771
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/templates/h2o/requirements.txt
+SPDXID: SPDXRef-item12376475
+FileChecksum: SHA1: aa4340f61ad9b39e757115a40dddf7411f3f2b51
+FileChecksum: MD5: 28702e96c519ec2fdafef8f88816b390
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/templates/h2o/Dockerfile
+SPDXID: SPDXRef-item12376476
+FileChecksum: SHA1: 3de7ce1e7fd20af5d699c83782a35e86e110a798
+FileChecksum: MD5: 5b53d8a1444d358ede1944a3ea349a1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/templates/r/packages.R
+SPDXID: SPDXRef-item12376478
+FileChecksum: SHA1: 591760ef3a0c2f23da406a4bbdcd8a49e161e96e
+FileChecksum: MD5: be3bc1e723f1b8db952bc07a5af6c9a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/templates/r/runtime.json
+SPDXID: SPDXRef-item12376479
+FileChecksum: SHA1: e065866336276ff0d4426617ff83fbef91df9134
+FileChecksum: MD5: 45d2a238413b5ddee0b5485a685aff55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/templates/r/run.R
+SPDXID: SPDXRef-item12376480
+FileChecksum: SHA1: 24624e8ad207d271e3453835a5da02c7c9e4bad0
+FileChecksum: MD5: 33e4a846a25c9a67a54ed1725d115892
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/templates/r/acumos.R
+SPDXID: SPDXRef-item12376481
+FileChecksum: SHA1: 04c9e6921057b6aa471bb82ca653aa7d5087f915
+FileChecksum: MD5: 696fa6e2a18022183e15e8acf18d9a8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/templates/r/Dockerfile
+SPDXID: SPDXRef-item12376482
+FileChecksum: SHA1: a95b26691eaf0d04b1b024d2834d5691f07968f5
+FileChecksum: MD5: 2cfbada08a712caba93bfd4ef5abb15a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/templates/java_argus/Dockerfile
+SPDXID: SPDXRef-item12376484
+FileChecksum: SHA1: 58807c56746aef6242a815a101f2cfa0ff32e36e
+FileChecksum: MD5: d8b142e09f143f7378872ad50ec6d55e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/templates/python/requirements.txt
+SPDXID: SPDXRef-item12376486
+FileChecksum: SHA1: 7293b19d32ed6212d989b1fe587d6493b43e5a6f
+FileChecksum: MD5: 0850736fa884de4206a8082981db809c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/templates/python/Dockerfile
+SPDXID: SPDXRef-item12376488
+FileChecksum: SHA1: 73dee447af0f00ececec7f30d687b76a4aca0f7d
+FileChecksum: MD5: 8bc6bfff9c7757ae2b2d6582b325e442
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/templates/dcae_python/anomaly-in.json
+SPDXID: SPDXRef-item12376490
+FileChecksum: SHA1: dd869b49a2be47a18444d8df208ee9fee764b7a0
+FileChecksum: MD5: 9536848cad187d99ebac4dc9efe489ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/templates/dcae_python/onsdemo1.yaml
+SPDXID: SPDXRef-item12376491
+FileChecksum: SHA1: 6df6ad9d5a863cdaf89efe27e99a873ba102a7cd
+FileChecksum: MD5: e07156a4033078b391768e728689a501
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/templates/dcae_python/anomaly-out.json
+SPDXID: SPDXRef-item12376492
+FileChecksum: SHA1: bc66e05ae4b4382e429b65dd5db07de3e809612c
+FileChecksum: MD5: dc1b558fff11f86381b3b7754b67fae8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/templates/dcae_python/component.json
+SPDXID: SPDXRef-item12376493
+FileChecksum: SHA1: d1ce3a14971a182d715ec6306eb037fd00ba2757
+FileChecksum: MD5: fdbbcc3a4184662333a18634050ddf60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/templates/dcae_python/requirements.txt
+SPDXID: SPDXRef-item12376494
+FileChecksum: SHA1: 57d61fdd8496303dd67c37629869a6207cf12de6
+FileChecksum: MD5: 8b2060937124b6fb16cfb4f281164054
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/templates/dcae_python/runner.py
+SPDXID: SPDXRef-item12376495
+FileChecksum: SHA1: 00180b68b510fda30fd0229a6e508340f9abb0b5
+FileChecksum: MD5: b4e862fcc772f242fdbb649e8d417a79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/templates/dcae_python/Dockerfile
+SPDXID: SPDXRef-item12376496
+FileChecksum: SHA1: 44a68f8bd390bf7487d4e2d58df99f23407fdfd5
+FileChecksum: MD5: a6340fd19c41d50652762144f3229268
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/templates/javaGeneric/requirements.txt
+SPDXID: SPDXRef-item12376498
+FileChecksum: SHA1: aa4340f61ad9b39e757115a40dddf7411f3f2b51
+FileChecksum: MD5: 28702e96c519ec2fdafef8f88816b390
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/templates/javaGeneric/getVersion.sh
+SPDXID: SPDXRef-item12376499
+FileChecksum: SHA1: 43d24ad9377326ee6a5a86375368d26868bd0259
+FileChecksum: MD5: 195ceb3c319eb9f2abbddb959a96d731
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/templates/javaGeneric/Dockerfile
+SPDXID: SPDXRef-item12376500
+FileChecksum: SHA1: 6c7aa061e8dabe8268d9bc86f3bebee372d5f68d
+FileChecksum: MD5: c09070a192516c50516538c044871552
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/wrap.json
+SPDXID: SPDXRef-item12376501
+FileChecksum: SHA1: ab34350883f3189150e2a7d41e872c738f2b8bb9
+FileChecksum: MD5: 15653584fdf3964f17abce076f9bb47e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/java_genric.json
+SPDXID: SPDXRef-item12376502
+FileChecksum: SHA1: f3bb16c5aa84d57e67b60aa54ab8505e5b812578
+FileChecksum: MD5: fc476c40c6a43fed421255455dc7bb3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/requirements.txt
+SPDXID: SPDXRef-item12376503
+FileChecksum: SHA1: 54fa4704fb47b2097dd5dacc078d15a91bbd6957
+FileChecksum: MD5: f4bb3f438dda0db0a9f6be673e73e367
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/inFile.csv
+SPDXID: SPDXRef-item12376504
+FileChecksum: SHA1: c54fb261b50079a83de117b56417e6fe25f6be51
+FileChecksum: MD5: 0d9dee60f2b3e9df11321a1dc8aafbb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/metadata.json
+SPDXID: SPDXRef-item12376505
+FileChecksum: SHA1: 966363626c30790565f41e76cd09f6872e6d3412
+FileChecksum: MD5: aba58f914dbc9f68a57cfdb4dd70e2cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/model_pb2.py
+SPDXID: SPDXRef-item12376506
+FileChecksum: SHA1: 0dd223c29edc8d0afdaca13557eb983c2cb9854f
+FileChecksum: MD5: da28f56cb8555055ca9a954191a5d357
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/resources/Dockerfile
+SPDXID: SPDXRef-item12376507
+FileChecksum: SHA1: ab81d05623bb9e9c0e851e3480d3440baa860d1a
+FileChecksum: MD5: 590accad459402e78940e3fdb06aa64c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/java/org/acumos/microservice/model.proto
+SPDXID: SPDXRef-item12376514
+FileChecksum: SHA1: 73a06171ba0d2d70053a23b63d5c6efacdacdd39
+FileChecksum: MD5: c7c4dff80ca9c6c6967705efffe1032f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/java/org/acumos/microservice/DownloadModelArtifactsTest.java
+SPDXID: SPDXRef-item12376520
+FileChecksum: SHA1: 2a52b8a83fd0970f65d7077d6f00f2e251f4fae3
+FileChecksum: MD5: ae7f3478dc6adb8478039880f07cf634
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/java/org/acumos/microservice/DockerizeModelTest.java
+SPDXID: SPDXRef-item12376522
+FileChecksum: SHA1: 143546dd379f381697633e94403770e47cfbd5ac
+FileChecksum: MD5: 22b62575a9761c8090d8ea9ddeab4ba1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/java/org/acumos/microservice/GenerateMicroserviceControllerTest.java
+SPDXID: SPDXRef-item12376523
+FileChecksum: SHA1: 0ec5806f03b720baea255fa226c1546a39b5acc8
+FileChecksum: MD5: 3a58dee596a6b2846df094db4c904e8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/test/java/org/acumos/microservice/metadata.json
+SPDXID: SPDXRef-item12376529
+FileChecksum: SHA1: 424287c8f9af0b639a157ac6402ba1a70a2dab2b
+FileChecksum: MD5: 8c4ad52caec3dfed61c21a0b28faaab4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/model-schema-0.5.0.json
+SPDXID: SPDXRef-item12376534
+FileChecksum: SHA1: c719747196a59e787de3e9df9446f5572dd7c0fd
+FileChecksum: MD5: 90e8cb2d38917bdeb0880a756d71dc9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/h2o/requirements.txt
+SPDXID: SPDXRef-item12376537
+FileChecksum: SHA1: aa4340f61ad9b39e757115a40dddf7411f3f2b51
+FileChecksum: MD5: 28702e96c519ec2fdafef8f88816b390
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/h2o/Dockerfile
+SPDXID: SPDXRef-item12376538
+FileChecksum: SHA1: dd6da898eb9acb04c50c41c64dc48120d247d975
+FileChecksum: MD5: c54f0b5dcec4345c80214879f0ae9d43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/javaspark/requirements.txt
+SPDXID: SPDXRef-item12376540
+FileChecksum: SHA1: aa4340f61ad9b39e757115a40dddf7411f3f2b51
+FileChecksum: MD5: 28702e96c519ec2fdafef8f88816b390
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/javaspark/Dockerfile
+SPDXID: SPDXRef-item12376541
+FileChecksum: SHA1: 6b2aa09424063f3a7b8be6faaca9ea887b48dee0
+FileChecksum: MD5: 9d17f6ee6a884885ea8c0ccff8d14794
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/r/packages.R
+SPDXID: SPDXRef-item12376543
+FileChecksum: SHA1: cfaa4a9a48ec449c5cc9b0636520a35ac34dd238
+FileChecksum: MD5: 86052afb066473d5fe38d81ca64f0b4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/r/runtime.json
+SPDXID: SPDXRef-item12376544
+FileChecksum: SHA1: 5e7d5258a322271d0a6f954aba0745df49663d17
+FileChecksum: MD5: e841bbfa1d037340fac1f04424be0f5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/r/run.R
+SPDXID: SPDXRef-item12376545
+FileChecksum: SHA1: fde40d99ddff739635eac02a0d57fa324fb2296f
+FileChecksum: MD5: 8430143d4e5813dc38cc5231017acb84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/r/acumos.R
+SPDXID: SPDXRef-item12376546
+FileChecksum: SHA1: 04c9e6921057b6aa471bb82ca653aa7d5087f915
+FileChecksum: MD5: 696fa6e2a18022183e15e8acf18d9a8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/r/Dockerfile
+SPDXID: SPDXRef-item12376547
+FileChecksum: SHA1: 09cc5c9bc54394ee8e151c1c5c618c6f0ea67ea3
+FileChecksum: MD5: 698507755e117ef53cece93f14aa2e9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/java_argus/Dockerfile
+SPDXID: SPDXRef-item12376549
+FileChecksum: SHA1: 58807c56746aef6242a815a101f2cfa0ff32e36e
+FileChecksum: MD5: d8b142e09f143f7378872ad50ec6d55e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/cpp/requirements.txt
+SPDXID: SPDXRef-item12376551
+FileChecksum: SHA1: aa4340f61ad9b39e757115a40dddf7411f3f2b51
+FileChecksum: MD5: 28702e96c519ec2fdafef8f88816b390
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/cpp/Dockerfile
+SPDXID: SPDXRef-item12376552
+FileChecksum: SHA1: aa839e8b45f58327db820365f7e2c96f54f6be21
+FileChecksum: MD5: 614d450295b41bc7f68f332984bee371
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/python/requirements.txt
+SPDXID: SPDXRef-item12376554
+FileChecksum: SHA1: 733a07c526792643665893e6b33d9cd4e8b6e1d9
+FileChecksum: MD5: 9fcdeb19ad580e95c298c3ac4ef1cfe5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/python/Dockerfile
+SPDXID: SPDXRef-item12376555
+FileChecksum: SHA1: 3d8937a1beeebbae0698c18221cb75c22a9628bc
+FileChecksum: MD5: ff64e3e92570667089e6c02fa417205c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/dcae_python/anomaly-in.json
+SPDXID: SPDXRef-item12376557
+FileChecksum: SHA1: dd869b49a2be47a18444d8df208ee9fee764b7a0
+FileChecksum: MD5: 9536848cad187d99ebac4dc9efe489ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/dcae_python/onsdemo1.yaml
+SPDXID: SPDXRef-item12376558
+FileChecksum: SHA1: 6df6ad9d5a863cdaf89efe27e99a873ba102a7cd
+FileChecksum: MD5: e07156a4033078b391768e728689a501
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/dcae_python/anomaly-out.json
+SPDXID: SPDXRef-item12376559
+FileChecksum: SHA1: bc66e05ae4b4382e429b65dd5db07de3e809612c
+FileChecksum: MD5: dc1b558fff11f86381b3b7754b67fae8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/dcae_python/component.json
+SPDXID: SPDXRef-item12376560
+FileChecksum: SHA1: d1ce3a14971a182d715ec6306eb037fd00ba2757
+FileChecksum: MD5: fdbbcc3a4184662333a18634050ddf60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/dcae_python/requirements.txt
+SPDXID: SPDXRef-item12376561
+FileChecksum: SHA1: 57d61fdd8496303dd67c37629869a6207cf12de6
+FileChecksum: MD5: 8b2060937124b6fb16cfb4f281164054
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/dcae_python/runner.py
+SPDXID: SPDXRef-item12376562
+FileChecksum: SHA1: 00180b68b510fda30fd0229a6e508340f9abb0b5
+FileChecksum: MD5: b4e862fcc772f242fdbb649e8d417a79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/dcae_python/Dockerfile
+SPDXID: SPDXRef-item12376563
+FileChecksum: SHA1: 44a68f8bd390bf7487d4e2d58df99f23407fdfd5
+FileChecksum: MD5: a6340fd19c41d50652762144f3229268
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/javaGeneric/requirements.txt
+SPDXID: SPDXRef-item12376565
+FileChecksum: SHA1: aa4340f61ad9b39e757115a40dddf7411f3f2b51
+FileChecksum: MD5: 28702e96c519ec2fdafef8f88816b390
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/javaGeneric/getVersion.sh
+SPDXID: SPDXRef-item12376566
+FileChecksum: SHA1: 43d24ad9377326ee6a5a86375368d26868bd0259
+FileChecksum: MD5: 195ceb3c319eb9f2abbddb959a96d731
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/templates/javaGeneric/Dockerfile
+SPDXID: SPDXRef-item12376567
+FileChecksum: SHA1: 65218ed37c122e55895dbf139199554186ef9715
+FileChecksum: MD5: 7c3e192d5e8e49d815a0c611249acd33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/TOSCAApplication.properties
+SPDXID: SPDXRef-item12376569
+FileChecksum: SHA1: d99ec17c8d8a296ccf3d168839a615503c4892de
+FileChecksum: MD5: 2deaab5fcbd1c88ab99099daa42b7195
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/model-schema-0.4.0.json
+SPDXID: SPDXRef-item12376570
+FileChecksum: SHA1: 2f51eab6c6c83cab23c19903a2613b72b8af95f8
+FileChecksum: MD5: b2d195bc260e209dceb831d4d285db3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/resources/model-schema-0.3.0.json
+SPDXID: SPDXRef-item12376571
+FileChecksum: SHA1: a9c653c9fc8bfd53bc22315e860fe7a3a49cba28
+FileChecksum: MD5: b66cf2c030d9edfc273299ff253ef5de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/src/main/java/org/acumos/microservice/component/docker/cmd/PullImageCommand.java
+SPDXID: SPDXRef-item12376594
+FileChecksum: SHA1: 524175754efe6f13b3b5ca7e0a73313c453434ee
+FileChecksum: MD5: b979f4da212cf3b9b766903942e9fc41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/.gitreview
+SPDXID: SPDXRef-item12376609
+FileChecksum: SHA1: a1321f266711db87c518dcf71c14c7fcd0b0c710
+FileChecksum: MD5: 732dca34017fe3c230c1e512f97fc070
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/releases/release-4.2.0-maven-docker.yaml
+SPDXID: SPDXRef-item12376612
+FileChecksum: SHA1: fbd5c4193d4d38c23aeac9067cb6e6f9b6ff998a
+FileChecksum: MD5: d2265b16053524fd267713b790e640ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/releases/release-4.7.0-maven-docker.yaml
+SPDXID: SPDXRef-item12376613
+FileChecksum: SHA1: e0a1511730cc0406a10609c27f618dc73fc28a14
+FileChecksum: MD5: 06cd15a7c21c2fd524c868fa01d6f3b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/releases/release-4.5.0-maven-docker.yaml
+SPDXID: SPDXRef-item12376614
+FileChecksum: SHA1: 336c709cd35f9fd5246cc2f0d6bd8ba406384032
+FileChecksum: MD5: af55e8f5d44753ec752b8355ad9bd094
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/releases/release-4.1.0-maven-docker.yaml
+SPDXID: SPDXRef-item12376615
+FileChecksum: SHA1: a1a3abf9525b9d758920f58f60ecf3b07906b7bc
+FileChecksum: MD5: cd47d374321c7a721fdfc6330bf7ecb2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/releases/release-3.5.4-maven-docker.yaml
+SPDXID: SPDXRef-item12376616
+FileChecksum: SHA1: 8ffe5047213c1dc2816235910833d482d11d8e69
+FileChecksum: MD5: 0f77a6b5cbefc346124fd84344e969a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/releases/release-4.6.0-maven-docker.yaml
+SPDXID: SPDXRef-item12376617
+FileChecksum: SHA1: c853222842ae780a8169e6309cc89bf05320361b
+FileChecksum: MD5: e7fa80aac3b316aa299ce12442505c15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/releases/release-3.8.0-maven-docker.yaml
+SPDXID: SPDXRef-item12376618
+FileChecksum: SHA1: f89e7df9c1cfa1553a65dc63706ff8498ef693a3
+FileChecksum: MD5: 39d867d98cfe3029b91bb6644e03a9cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/releases/release-3.8.1-maven-docker.yaml
+SPDXID: SPDXRef-item12376619
+FileChecksum: SHA1: 44d4e822e09beecf499b07c3a7838646b24991d8
+FileChecksum: MD5: 49723e63ea32d3ca0bff96463d347379
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/releases/release-4.7.1-maven-docker.yaml
+SPDXID: SPDXRef-item12376620
+FileChecksum: SHA1: fd7183821a81e133b218d4c75f309775a938577d
+FileChecksum: MD5: f490de661c96def1a9bf5cf0c4eafc1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/releases/release-3.6.0-maven-docker.yaml
+SPDXID: SPDXRef-item12376621
+FileChecksum: SHA1: 1b9edacb8b307961dc661129bd85f25d361083a8
+FileChecksum: MD5: a38268169305f8ad6f7301641eea8fa3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/releases/release-4.3.0-maven-docker.yaml
+SPDXID: SPDXRef-item12376622
+FileChecksum: SHA1: ee6387c2cd90e739c9c489333cca1692cce3c76b
+FileChecksum: MD5: 6b8053261a40c88da0f9aec57f606cb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/releases/release-4.4.0-maven-docker.yaml
+SPDXID: SPDXRef-item12376623
+FileChecksum: SHA1: cc60650afde2927a3566ddcec96f1ff045b2feb7
+FileChecksum: MD5: 3ed24d6c530fe4f4e6a3ae64ac52bdad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/.gitattributes
+SPDXID: SPDXRef-item12376624
+FileChecksum: SHA1: 1fead8ae4a123d4c2526ba03777b256cb10f7a5a
+FileChecksum: MD5: 635578d7546b35d97c384e8708b86a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/.gitignore
+SPDXID: SPDXRef-item12376625
+FileChecksum: SHA1: b7e611b02b0fa6e913975c3c8fc233d6691abc1b
+FileChecksum: MD5: 2f21c05dcc32c43bd0cd05e53249349f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/docs/media/Architecture_Diagram.png
+SPDXID: SPDXRef-item12376631
+FileChecksum: SHA1: b4deebbc5b562dcd0d4dfeb476a042b1e53f5a06
+FileChecksum: MD5: 5996867a4a87905651bb76779684b9bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/docs/media/UseCase.png
+SPDXID: SPDXRef-item12376632
+FileChecksum: SHA1: d565af5b34bf7f6daedf5d2022fb7bdb887f5e0e
+FileChecksum: MD5: 3cdc1b02770ee1bee8c1e16a63d583c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/docs/media/DockerFileStructure.png
+SPDXID: SPDXRef-item12376633
+FileChecksum: SHA1: b0abe8a4b5ad11f8ceb09ff6935eef748c42829d
+FileChecksum: MD5: 91ce28315fef3e2186018ff9980137b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/docs/media/HighLevelFlow.png
+SPDXID: SPDXRef-item12376634
+FileChecksum: SHA1: 97dfad610f876b9621cea9fad8367f754520f69b
+FileChecksum: MD5: 1d783bc3a0237f93197bcf81232f7f28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/docs/media/LowLevelDesign.png
+SPDXID: SPDXRef-item12376635
+FileChecksum: SHA1: 633bbbccff5d37b6018d27dd23553ef60ae2cbe0
+FileChecksum: MD5: b1d6d183c758243388bff657b3a9fc54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/docs/media/MSArchDiagram.png
+SPDXID: SPDXRef-item12376636
+FileChecksum: SHA1: 835565a6995583bf5e4ba08cbb27ec24b5995b13
+FileChecksum: MD5: 31ec7563c84ee852ba76d6544ef47aca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/docs/media/ModelArtifact.png
+SPDXID: SPDXRef-item12376637
+FileChecksum: SHA1: 21c99e84e65760c087c0566f05aefec9988c1cc5
+FileChecksum: MD5: 602a6a964e5c69d1ca66cb6bb2cd896e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/docs/media/DesignArchitecture.png
+SPDXID: SPDXRef-item12376638
+FileChecksum: SHA1: ca23a5c1aad8d346f528d20fa03be5024a74c9e3
+FileChecksum: MD5: 5f9f7c7e0c1d83acc2765b76a6320e6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: microservice-generation/pom.xml
+SPDXID: SPDXRef-item12376639
+FileChecksum: SHA1: c9163b7f1e12ec11a559fd5c26caade07cff079f
+FileChecksum: MD5: ad538bbbd72ee282944c9490881bf7ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
