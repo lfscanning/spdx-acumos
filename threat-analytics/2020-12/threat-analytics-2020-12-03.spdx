@@ -1,0 +1,138 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_threat-analytics-2020-12-03.zip_1607012846.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-12-03T16:27:26Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: threat-analytics-2020-12-03.zip
+PackageFileName: threat-analytics-2020-12-03.zip
+SPDXID: SPDXRef-upload3169
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 300c031f8e02dcbda4e0db47d998a0c477a9ccfc
+PackageChecksum: SHA1: 64171c91ae61047440d72a820735fe2378d39033
+PackageChecksum: MD5: 0923d868efdebf7c2a0bfa6ca7202c43
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3169
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: threat-analytics/LICENSE.txt
+SPDXID: SPDXRef-item12382627
+FileChecksum: SHA1: 14a09dfbaf4d175f0399c4db07cc9897aa0e1114
+FileChecksum: MD5: 6dbc473aee31d40c4347872ce856beab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: threat-analytics/create-simple.R
+SPDXID: SPDXRef-item12382623
+FileChecksum: SHA1: 507dd061fe983c9ff4164721ed410dbba663258c
+FileChecksum: MD5: 230109a969c3772166dfe2113b054603
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: threat-analytics/INFO.yaml
+SPDXID: SPDXRef-item12382624
+FileChecksum: SHA1: 870d2f8debd6868d26d820878d91c14b60e892cd
+FileChecksum: MD5: 13ecaf86976ed55a220621b45ee79ddc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: threat-analytics/.gitreview
+SPDXID: SPDXRef-item12382625
+FileChecksum: SHA1: 404c3cf3d05f5755ccc08e5f8166bdda16b0c2e1
+FileChecksum: MD5: 016557921216811a694fecac7e8969c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: threat-analytics/README.Rd
+SPDXID: SPDXRef-item12382626
+FileChecksum: SHA1: 1f4cc48782b625d71aaa66c5dc4824e9f15d60ad
+FileChecksum: MD5: a55ec48d54025e042f3f8d1e848002f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: threat-analytics/training-data
+SPDXID: SPDXRef-item12382628
+FileChecksum: SHA1: 0c8129aeea65ffa5040e795b0c3d396e5ad86c0a
+FileChecksum: MD5: 4fc1418dfe9be09b8e5f65548d163506
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-file
+LicenseName: See-file
+ExtractedText: <text> This license means that you can get copyright or license information through a reference file.
+
+one example below:
+/* 
+ * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;
+ * see btnx.c for detailed license information
+ * 
+ * revoco.c is under a different copyright. See that file for details.
+ * 
+ */ </text>
+
