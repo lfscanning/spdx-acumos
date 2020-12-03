@@ -1,0 +1,368 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_python-dcae-model-runner-2020-12-03.zip_1607012779.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-12-03T16:26:19Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: python-dcae-model-runner-2020-12-03.zip
+PackageFileName: python-dcae-model-runner-2020-12-03.zip
+SPDXID: SPDXRef-upload3161
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 9a73e75f451cb42d3043855171c4621d574216cd
+PackageChecksum: SHA1: 0e275324ffae6147a72ba151ef01575feb8178b9
+PackageChecksum: MD5: 62909c0339c62e7ff4c84919c5f3411b
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3161
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: python-dcae-model-runner/docs/index.rst
+SPDXID: SPDXRef-item12379463
+FileChecksum: SHA1: e0f1a82b5932ae46f56a59f1b45c54d4c869c10d
+FileChecksum: MD5: 350d1829a3de78ee0ea9b74b93471281
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-dcae-model-runner/docs/contributing.rst
+SPDXID: SPDXRef-item12379466
+FileChecksum: SHA1: ffcd39257b872b514fe87bb974dba9fea0869844
+FileChecksum: MD5: e1b885f1c046aa6503eb41c0734669d5
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-dcae-model-runner/docs/release-notes.rst
+SPDXID: SPDXRef-item12379464
+FileChecksum: SHA1: 6b72628257845d7e3c3d3395906b59028ac952fb
+FileChecksum: MD5: ab4c9e85924fc993034269fcdd708979
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-dcae-model-runner/docs/tutorial/index.rst
+SPDXID: SPDXRef-item12379468
+FileChecksum: SHA1: 4b56e546ac098cb3ea968a48b07f9628a67fbfe7
+FileChecksum: MD5: c797ad3a6d301bc609f8e0139ae169e4
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-dcae-model-runner/docs/README.rst
+SPDXID: SPDXRef-item12379465
+FileChecksum: SHA1: 9e19271b25e1e5be3a0d9a07503603c21ba9559f
+FileChecksum: MD5: 4165a1608386df56559bd9f62f78b9a4
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-dcae-model-runner/acumos_dcae_model_runner/__init__.py
+SPDXID: SPDXRef-item12379474
+FileChecksum: SHA1: e74559ca159346edf900f2c045e28b4c1cba318c
+FileChecksum: MD5: 2cda90ad3b1cdcb755fe7c89ee830d54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-dcae-model-runner/example/example_model.py
+SPDXID: SPDXRef-item12379449
+FileChecksum: SHA1: 9e3fa62256b5cad2537ed3fa742f81bedde53d8e
+FileChecksum: MD5: 29d58ee07c6d4cdfeb7e1839fff0c2b3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-dcae-model-runner/acumos_dcae_model_runner/runner.py
+SPDXID: SPDXRef-item12379475
+FileChecksum: SHA1: 449357b238784dbc089300d5c230818024aca7f0
+FileChecksum: MD5: 68289ef01009684e1a6b662fa45f9335
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-dcae-model-runner/acumos_dcae_model_runner/tests/test_runner.py
+SPDXID: SPDXRef-item12379477
+FileChecksum: SHA1: 0cfb617be99261d9ba3fd6c6c75b22b982e75c6b
+FileChecksum: MD5: 9736d914edd4d3bf152778613bdd48b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-dcae-model-runner/setup.py
+SPDXID: SPDXRef-item12379454
+FileChecksum: SHA1: 5a48d8403451f4f2af55c240450d4cf00c60eebb
+FileChecksum: MD5: 93b4e077d6247b43dedd1731f0281979
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-dcae-model-runner/tests/test_project.py
+SPDXID: SPDXRef-item12379460
+FileChecksum: SHA1: 2eef95663404410c04bb12c1db8c9985d04ba5d1
+FileChecksum: MD5: 675859c232beb5031fdc2a8c202198b5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-dcae-model-runner/acumos_dcae_model_runner/_version.py
+SPDXID: SPDXRef-item12379473
+FileChecksum: SHA1: 73139cba2c82e728f6187b7579e14a785518e911
+FileChecksum: MD5: 94a2c131a4e11fa2080b986e101601e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-dcae-model-runner/LICENSE.txt
+SPDXID: SPDXRef-item12379455
+FileChecksum: SHA1: 828217c4742b9980933855ae5475873ec73abc2d
+FileChecksum: MD5: 2200af8ec096eb82621839882cfc79ee
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-dcae-model-runner/example/packages/.keep
+SPDXID: SPDXRef-item12379443
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-dcae-model-runner/example/dcae-artifacts/component.json
+SPDXID: SPDXRef-item12379445
+FileChecksum: SHA1: 5a2cf316625c0ca8f7f451685c48d6765ef325db
+FileChecksum: MD5: c7a87e9c481cec9920b06dab5f2d1db7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-dcae-model-runner/example/dcae-artifacts/number-out.json
+SPDXID: SPDXRef-item12379446
+FileChecksum: SHA1: 5d549e83e92e10418c8ccef288a3ae7991be12dd
+FileChecksum: MD5: c46ac5d58217e9a7d3c04f77e47f91e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-dcae-model-runner/example/dcae-artifacts/numbers-in.json
+SPDXID: SPDXRef-item12379447
+FileChecksum: SHA1: eb9fccfde97c840773dfd3f9d4cc30d3a8c0c54e
+FileChecksum: MD5: e8efa5e6cfca14bdf5118efa15a0e2d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-dcae-model-runner/example/requirements.txt
+SPDXID: SPDXRef-item12379448
+FileChecksum: SHA1: e08850309b6f0f52051f297bdbf813beaaa6d617
+FileChecksum: MD5: ae7d3077d8d88614e5cc9cbcea81400b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-dcae-model-runner/example/Dockerfile
+SPDXID: SPDXRef-item12379450
+FileChecksum: SHA1: ddf2154de057e46393c9979301f30f24620543c8
+FileChecksum: MD5: 757a76623f0fa3814b8d2effd5d0b841
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-dcae-model-runner/INFO.yaml
+SPDXID: SPDXRef-item12379451
+FileChecksum: SHA1: ec3fb8de8d7c5f144a4c4052087f3ec16c610713
+FileChecksum: MD5: e2df7a24d18ef30a553c32484cc788a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-dcae-model-runner/.gitreview
+SPDXID: SPDXRef-item12379452
+FileChecksum: SHA1: 8443bfb9eb320941f61df82adfc3e7eeddb297f1
+FileChecksum: MD5: 8574bbc1acbf830094f0d34f7cefb245
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-dcae-model-runner/README.rst
+SPDXID: SPDXRef-item12379453
+FileChecksum: SHA1: 66f83645f69b94347fc93979f4e45769bd0ae92b
+FileChecksum: MD5: 220134de8dd047dcf0278c0571086bbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-dcae-model-runner/tox.ini
+SPDXID: SPDXRef-item12379456
+FileChecksum: SHA1: 63c39192bc5ef86bcb1d83ffae41109966fcd54f
+FileChecksum: MD5: 7dd6c5a483177901aa45e48f6d3fbf79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-dcae-model-runner/MANIFEST.in
+SPDXID: SPDXRef-item12379457
+FileChecksum: SHA1: 9f2088490294b4750aeb73511c13bae2620796be
+FileChecksum: MD5: 28cc677828b0c8ab367d73c58b914c17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-dcae-model-runner/.gitattributes
+SPDXID: SPDXRef-item12379458
+FileChecksum: SHA1: 5cfc5ed0eadc8b88271270b51cc202d2707b1c13
+FileChecksum: MD5: 7224c6b798f45050d22b233873a61b86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-dcae-model-runner/.gitignore
+SPDXID: SPDXRef-item12379461
+FileChecksum: SHA1: 6e00d8e5efa4302df373080fd9c6f493e54d5e66
+FileChecksum: MD5: 061015becea94cb5a2e95ef78c20dd9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-dcae-model-runner/pom.xml
+SPDXID: SPDXRef-item12379469
+FileChecksum: SHA1: 0783d32f0cbc10ca83bbdd4ac0688655b22ec0aa
+FileChecksum: MD5: b4e247bfb7390bc4409f12964a87de9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-dcae-model-runner/testing/requirements.txt
+SPDXID: SPDXRef-item12379471
+FileChecksum: SHA1: db392e2f89eb3f2b757daed771368038eae69cc7
+FileChecksum: MD5: 9da034b7beb3a7b41b4af9211ac6e698
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
