@@ -1,0 +1,790 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_acumos-c-client-2020-12-03.zip_1607012516.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-12-03T16:21:56Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: acumos-c-client-2020-12-03.zip
+PackageFileName: acumos-c-client-2020-12-03.zip
+SPDXID: SPDXRef-upload3130
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 45e7aafb6a3c0c415d752af549ea1189e483898d
+PackageChecksum: SHA1: 103f88bea8ea1b177463fd9019f8749924c813d0
+PackageChecksum: MD5: cb1714bfdcb3649737b9c01220fe6e6f
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3130
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/tests/unpickler_helper.py
+SPDXID: SPDXRef-item12373320
+FileChecksum: SHA1: 051de5b1ba17510bf5cb17df83cf41860d155943
+FileChecksum: MD5: 9e1ab7ec53f819b91eaf6cb0401772de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/exc.py
+SPDXID: SPDXRef-item12373310
+FileChecksum: SHA1: 988f1ed4a4508fd01d844caad1e19e14cd5e26b7
+FileChecksum: MD5: aa11d74e3adabb4d26e51ca2b3df663d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/tests/test_wrapped.py
+SPDXID: SPDXRef-item12373323
+FileChecksum: SHA1: f4e39598682e98c57ab01be7e0c5b8a0ebfce32e
+FileChecksum: MD5: 6a3b6f2042b231943904e970fb4ccf6c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/tests/test_modeling.py
+SPDXID: SPDXRef-item12373326
+FileChecksum: SHA1: 0a2ea6426aa563914172229a9f5d19b7d9a32e03
+FileChecksum: MD5: 302f013a7153e3911f92e13aadf399d0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/tests/test_protogen.py
+SPDXID: SPDXRef-item12373324
+FileChecksum: SHA1: e7efab125a326c37467c7bef889f99ca398c1d64
+FileChecksum: MD5: e7e06ec535878dd35366bbd382ad242d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/tests/model_loader_helper.py
+SPDXID: SPDXRef-item12373325
+FileChecksum: SHA1: ab86647662e1c75ddde19dd0abe87255c9852f69
+FileChecksum: MD5: b20feb2a2a77d1f7525c6283df0c19b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/tests/py36_namedtuple.py
+SPDXID: SPDXRef-item12373319
+FileChecksum: SHA1: 780bae1ae50a52cfa62ea90f0550baaad54f3d04
+FileChecksum: MD5: 2370bad9393c489d055d3e214d37483b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/tests/utils.py
+SPDXID: SPDXRef-item12373334
+FileChecksum: SHA1: 24ef4df25e4c39d7f4703b345d17cc11baaade84
+FileChecksum: MD5: 1c18e7b08843359180f4091b4126390b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/tests/test_pickler.py
+SPDXID: SPDXRef-item12373318
+FileChecksum: SHA1: ddf8ddb7e84e9cde01de5ccf1077d6278ec8135f
+FileChecksum: MD5: c2e615c0f593b1c59f758ff088de33b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/tests/test_metadata.py
+SPDXID: SPDXRef-item12373335
+FileChecksum: SHA1: b80a53d8b5596f5702b0c790401292fd87a73d58
+FileChecksum: MD5: 5f3c391fc1281dfe02eba5c2c842bedd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/tests/user_package/__init__.py
+SPDXID: SPDXRef-item12373330
+FileChecksum: SHA1: 4df2aec7fd0014e71bf74f67a2a84354c6293c90
+FileChecksum: MD5: 777908ad98d1bd1fbb9c53ea24e87436
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/tests/mock_server.py
+SPDXID: SPDXRef-item12373327
+FileChecksum: SHA1: 66454cf9d77facf5c946a0a88e0cd1aa87618d13
+FileChecksum: MD5: c20d9f38d1892b7d5c35a6fcc8c52515
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/tests/connexion_server.py
+SPDXID: SPDXRef-item12373331
+FileChecksum: SHA1: 3df5ed928e82ab8b202e83d0e79830ebd4c0a131
+FileChecksum: MD5: 738cf15b812318c478544843fee85a3a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/_version.py
+SPDXID: SPDXRef-item12373307
+FileChecksum: SHA1: 03ea93bc2e16fa0fd98c614da79805e10f774dfe
+FileChecksum: MD5: f0b01a6014e5ec70838e8b5c35b95e5b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/tests/test_session.py
+SPDXID: SPDXRef-item12373332
+FileChecksum: SHA1: e6b83a80837f0dd932b09a78604c5086ee8fcc2b
+FileChecksum: MD5: 044ab845959a98d76208a9ecedb1e20c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/tests/user_package/user_package_module.py
+SPDXID: SPDXRef-item12373329
+FileChecksum: SHA1: 9d9a72fef54ed1ebdda6f6d45caefd593fe1336b
+FileChecksum: MD5: 44c0d61635d3d797ed99505bd527d444
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/tests/user_module.py
+SPDXID: SPDXRef-item12373333
+FileChecksum: SHA1: 615afc65b3dc7e35150e67b7c0c9c85d0236ade1
+FileChecksum: MD5: b64032ae1fb954e6de83c7e84c5e8cb3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/metadata.py
+SPDXID: SPDXRef-item12373336
+FileChecksum: SHA1: bb715a206f0de214e49e7b1b591a1861814fb05d
+FileChecksum: MD5: 78e3687f49af28a65192b833252fc9ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/auth.py
+SPDXID: SPDXRef-item12373309
+FileChecksum: SHA1: 39a52ba9aa45243c5bb97cde142c316c6671ecdd
+FileChecksum: MD5: 5c203b80b878058614963506db96c1a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/session.py
+SPDXID: SPDXRef-item12373315
+FileChecksum: SHA1: 725e510dbb7b6ab3d5dd7e4304c1358b485386a1
+FileChecksum: MD5: 753a72543193af3d9be690cdadb96bc9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/utils.py
+SPDXID: SPDXRef-item12373337
+FileChecksum: SHA1: 00d4645ed77255fd6072fa555943ffd0a1acf263
+FileChecksum: MD5: 24f18606ffc9161752cb34b82bb7c43d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/logging.py
+SPDXID: SPDXRef-item12373308
+FileChecksum: SHA1: d6660e50818f3b37a45fe74bbae7049886d0f992
+FileChecksum: MD5: 12b52cd5d7005d6fa39dc8a4f9af1592
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/c_client/__init__.py
+SPDXID: SPDXRef-item12373312
+FileChecksum: SHA1: 2ef57f8b5824337594ce241f2f5d323a77df9aed
+FileChecksum: MD5: 8a99f61da0da4acddd8897efe66a92df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Fraunhofer Gesellschaft. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/c_client/module.py
+SPDXID: SPDXRef-item12373313
+FileChecksum: SHA1: 3a6fd923a6ee6bbfa5c9c90bbc36e3f34433ffef
+FileChecksum: MD5: 85cddc3d85976741c98d7e48a90f43a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Fraunhofer Gesellschaft. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/tests/mock-license.json
+SPDXID: SPDXRef-item12373322
+FileChecksum: SHA1: 600646b9e45f219599f71d09ceca072f812ef2ea
+FileChecksum: MD5: 424638a60813ff2f97a95a75aafa5058
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/__init__.py
+SPDXID: SPDXRef-item12373314
+FileChecksum: SHA1: 2ef57f8b5824337594ce241f2f5d323a77df9aed
+FileChecksum: MD5: 8a99f61da0da4acddd8897efe66a92df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Fraunhofer Gesellschaft. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/docs/developer-guide.rst
+SPDXID: SPDXRef-item12373350
+FileChecksum: SHA1: 67c66ecac74bf251a43141bf41a4c51b8a747fab
+FileChecksum: MD5: e5a61223f83b742019e55d4eb425199a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Fraunhofer Gesellschaft. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/docs/index.rst
+SPDXID: SPDXRef-item12373342
+FileChecksum: SHA1: 943f4a7b17e46c7466c42dd8aed81897ad2e9ec2
+FileChecksum: MD5: 0b9c89f15765e17570c3b47a2b27b08b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Fraunhofer Gesellschaft. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/docs/onboarding-Cpp-guide.rst
+SPDXID: SPDXRef-item12373341
+FileChecksum: SHA1: b00eaa53d6b9ead2c99cc5ce48ea6d6ff9915ce4
+FileChecksum: MD5: c490f7b3801ba778619269c72ec0ec36
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Fraunhofer Gesellschaft. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/docs/release-notes.rst
+SPDXID: SPDXRef-item12373343
+FileChecksum: SHA1: 7a0baf799c7732a29a9df3e6d224fed831680fac
+FileChecksum: MD5: 0529f14cd3310d7fda859e623460b724
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Fraunhofer Gesellschaft. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/examples/iris-kmeans/src/iris-kmeans.cpp
+SPDXID: SPDXRef-item12373290
+FileChecksum: SHA1: b56675a8f9440400cbe9459425c0654362f47abd
+FileChecksum: MD5: 76e6344a8e404a16c025e039ed40158e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Fraunhofer Gesellschaft. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/examples/iris-kmeans/step2_serialize_model/load-iris-kmeans.cpp
+SPDXID: SPDXRef-item12373285
+FileChecksum: SHA1: 5250f871423b81c7ca3e6f379801fecc768cd8a6
+FileChecksum: MD5: aeae99bd9d51f9b0886f869198ca13ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Fraunhofer Gesellschaft. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/examples/iris-kmeans/step2_serialize_model/save-iris-kmeans.cpp
+SPDXID: SPDXRef-item12373281
+FileChecksum: SHA1: 1fab3ebe1b93a8408a03b8ac78368a7eb9fc3cbb
+FileChecksum: MD5: 10267b468f8afdd93efae63d382c4c32
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Fraunhofer Gesellschaft. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/examples/iris-kmeans/step3_model_microservice/iris-query.py
+SPDXID: SPDXRef-item12373299
+FileChecksum: SHA1: a56ac802909616f308261d7c75ed298eebaffa78
+FileChecksum: MD5: 802a744ac6fb31a50c8b63af69d2d170
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Fraunhofer Gesellschaft. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/examples/iris-kmeans/step3_model_microservice/run-microservice.cpp
+SPDXID: SPDXRef-item12373303
+FileChecksum: SHA1: e0863899006dbc06f5ac62fc228352a280daff81
+FileChecksum: MD5: d656cd93c99cd1e6b3de9933b3632839
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Fraunhofer Gesellschaft. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/examples/iris-kmeans/CMakeLists.txt
+SPDXID: SPDXRef-item12373291
+FileChecksum: SHA1: 0d92888021012143fcc3b84f2f492f0485afa7cd
+FileChecksum: MD5: 8e6500f8a44c78d4d40f1feb65e64314
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Fraunhofer Gesellschaft. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/CMakeLists.txt
+SPDXID: SPDXRef-item12373338
+FileChecksum: SHA1: 8a6a58ce0bbeeba0c87e424a4d9c545bd16f61ea
+FileChecksum: MD5: 5773368ff82ce67cf2eff73762ccbccb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Fraunhofer Gesellschaft. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/cpp-client.py
+SPDXID: SPDXRef-item12373352
+FileChecksum: SHA1: 27da998377d2e68383e84e88e805be130f512fd9
+FileChecksum: MD5: d077545b5623c7bf9ed22a80583b78a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Fraunhofer Gesellschaft. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/LICENSE.txt
+SPDXID: SPDXRef-item12373305
+FileChecksum: SHA1: 62202c626906c90b48c8827490744da4e903c29c
+FileChecksum: MD5: e7006d4b5970e99514a4a028a2462654
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2019 Fraunhofer Gesellschaft. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/README.md
+SPDXID: SPDXRef-item12373275
+FileChecksum: SHA1: 4905a1fc96404d411a572913af8ed62c0f4387b4
+FileChecksum: MD5: 41e6f3ea60ecd456b59fd96767661b50
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Fraunhofer Gesellschaft. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-c-client/INFO.yaml
+SPDXID: SPDXRef-item12373276
+FileChecksum: SHA1: 530ed5daf8f999ea3a4019664c6938695fa8fdaa
+FileChecksum: MD5: 43aac233254489e4d5774e9103b729b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/.gitreview
+SPDXID: SPDXRef-item12373277
+FileChecksum: SHA1: abaef3ab0be3cb1c146218e8a84a73c0a18f8987
+FileChecksum: MD5: 530673ddadfce5c6a2d81f1a6e813a34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/examples/iris-kmeans/step2_serialize_model/CMakeLists.txt
+SPDXID: SPDXRef-item12373282
+FileChecksum: SHA1: 873b6277258e9d30b8d34812889ba4d78eeb1b9f
+FileChecksum: MD5: 4ddc0c8e1a07e18e0313ee0af14cf281
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/examples/iris-kmeans/step2_serialize_model/centroids.proto
+SPDXID: SPDXRef-item12373283
+FileChecksum: SHA1: 85ae3b774df768e1ec0f376b09f0045dd6d2250b
+FileChecksum: MD5: 1f1c46c3d8659f17f53f667bd7a5b925
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/examples/iris-kmeans/step2_serialize_model/readme.txt
+SPDXID: SPDXRef-item12373284
+FileChecksum: SHA1: 67fb77b1dfdc5517a25ae627d674773b56bebe5e
+FileChecksum: MD5: c342b83b73afac506abe8c9abf708677
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/examples/iris-kmeans/step2_serialize_model/.gitignore
+SPDXID: SPDXRef-item12373286
+FileChecksum: SHA1: 58014c27507e6b08835dad553624db2178b1be03
+FileChecksum: MD5: 6c279a4f3d2238f957762447a41a69bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/examples/iris-kmeans/src/bench.cpp
+SPDXID: SPDXRef-item12373288
+FileChecksum: SHA1: 53098a6a0e289b2f510038c4c47b3d7be5f4f0df
+FileChecksum: MD5: b7f6f07c81ad8c95443ac7537c8d25ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/examples/iris-kmeans/src/simple.cpp
+SPDXID: SPDXRef-item12373289
+FileChecksum: SHA1: 472adf886cf190ac5cf9456545e14c39df79b563
+FileChecksum: MD5: a833160f7c637e6f8fb68454f209282d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/examples/iris-kmeans/.gitignore
+SPDXID: SPDXRef-item12373292
+FileChecksum: SHA1: 4a668b89eb651ee2e037ff78056291180622239d
+FileChecksum: MD5: 90aa8051ef26fe11fa95bd7a172c564d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/examples/iris-kmeans/data/iris-data-4d.csv
+SPDXID: SPDXRef-item12373294
+FileChecksum: SHA1: d4f5554465b21d982b8fcd698298b6f4423161f6
+FileChecksum: MD5: 69b0700e509f0363eed2daeb37422222
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/examples/iris-kmeans/data/iris.names
+SPDXID: SPDXRef-item12373295
+FileChecksum: SHA1: 6c0a93a7f77ae58577aa0d4e20d7f57030885dc3
+FileChecksum: MD5: 1759b220ad1e305d573a7dbbdb9c7039
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/examples/iris-kmeans/data/iris.data
+SPDXID: SPDXRef-item12373296
+FileChecksum: SHA1: d11777fac6574637a4ec5f0effeab8542ae88b65
+FileChecksum: MD5: 42615765a885ddf54427f12c34a0a070
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/examples/iris-kmeans/data/.gitignore
+SPDXID: SPDXRef-item12373297
+FileChecksum: SHA1: b697aaf9be5ef43e6d3a69cc1d1b794a94d87331
+FileChecksum: MD5: 7efb8e41535edb2dbf15b2e3a0b37b25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/examples/iris-kmeans/step3_model_microservice/model.proto
+SPDXID: SPDXRef-item12373300
+FileChecksum: SHA1: ef654b64dfde50d67e5dc6bbd0cea043dde86302
+FileChecksum: MD5: e4ab1da450f0792719a013bec7c9d172
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/examples/iris-kmeans/step3_model_microservice/CMakeLists.txt
+SPDXID: SPDXRef-item12373301
+FileChecksum: SHA1: f711a5659cba736926f8d7c0fb3f94e3477df999
+FileChecksum: MD5: a587d8f2d78a91a74ec8f7bf2f212447
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/examples/iris-kmeans/step3_model_microservice/readme.txt
+SPDXID: SPDXRef-item12373302
+FileChecksum: SHA1: b597c5bf210ba5229904d3952a20600010860cd6
+FileChecksum: MD5: 0d6a1e23c236255a07f8e3e0a1d9e711
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/examples/iris-kmeans/step3_model_microservice/.gitignore
+SPDXID: SPDXRef-item12373304
+FileChecksum: SHA1: b36f2bc87a6ed785223e3253e8472728d0928efa
+FileChecksum: MD5: 7d73737243da8e935868e4240462502a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/tests/att.png
+SPDXID: SPDXRef-item12373317
+FileChecksum: SHA1: 80d9ac9af835f37e82ef68c44582789944af94cf
+FileChecksum: MD5: b9d861f21136ef23829d307d4bf8c6f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/acumos_cpp/tests/swagger.yaml
+SPDXID: SPDXRef-item12373321
+FileChecksum: SHA1: 1efb08adb54901f851d063f1fc4610fcf7a06024
+FileChecksum: MD5: 576f428985779216a630ab59cbf8ec85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/.gitignore
+SPDXID: SPDXRef-item12373339
+FileChecksum: SHA1: ee991a497985d88d456a3d63554dff13b77c7b6c
+FileChecksum: MD5: db805354d61b661e647ac1507530037d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/docs/images/Class_diagramm_run_microservice.png
+SPDXID: SPDXRef-item12373345
+FileChecksum: SHA1: c39a64244ec0842a820359246415b1d48b456791
+FileChecksum: MD5: be7bcd46dd9997cb37a960f9667d4824
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/docs/images/Acumos_logo_white.png
+SPDXID: SPDXRef-item12373346
+FileChecksum: SHA1: e977805e3c1eb63a214432468dc3c678bd8a165c
+FileChecksum: MD5: 1d45095d04e415302115b287f52d8b2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/docs/images/sequence_diagramm_cpp_client.png
+SPDXID: SPDXRef-item12373347
+FileChecksum: SHA1: b107a4d2610432598d2f6a58d377768a12d99734
+FileChecksum: MD5: e623d19efd856cd4d6a0b2fcfffe05ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/docs/images/Class_diagram_cpp_client.png
+SPDXID: SPDXRef-item12373348
+FileChecksum: SHA1: af64a67df18af4439a6b7a6d1aa376d5a7a86675
+FileChecksum: MD5: 9714db9253f0a4482ec7a2c1517a4949
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/docs/images/Architecture.png
+SPDXID: SPDXRef-item12373349
+FileChecksum: SHA1: 571b7ed281e7332fe770be92ad9445f4f9adbe40
+FileChecksum: MD5: 45a0eec485e105867f8ffad10cde0f71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-c-client/.gitmodules
+SPDXID: SPDXRef-item12373351
+FileChecksum: SHA1: 64de98266e42d95a25394fa39c3d7977eb2ee4fc
+FileChecksum: MD5: 7c03ea51042c4159ab28d109d9f0bc86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
