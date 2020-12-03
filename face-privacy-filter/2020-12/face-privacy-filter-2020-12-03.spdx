@@ -1,0 +1,787 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_face-privacy-filter-2020-12-03.zip_1607012600.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-12-03T16:23:20Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: face-privacy-filter-2020-12-03.zip
+PackageFileName: face-privacy-filter-2020-12-03.zip
+SPDXID: SPDXRef-upload3140
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: ac7575eb70557cd9bf60c3db62b19dea78cf4cdc
+PackageChecksum: SHA1: c1efe63b4f443e161b7111218bdec6a7a053de95
+PackageChecksum: MD5: 02e39f1fcc492976102184ec8765e6b1
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3140
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: face-privacy-filter/README.rst
+SPDXID: SPDXRef-item12375330
+FileChecksum: SHA1: 1964842ea99127137f19748b12353bdeb3c55ac9
+FileChecksum: MD5: e307abb26f2d7d8df237d018b1ba5127
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/README.md
+SPDXID: SPDXRef-item12375339
+FileChecksum: SHA1: b334481927783736713be1c92919c725370f6098
+FileChecksum: MD5: 9c0eb1b40ebe12ebbb21afe4b4b0539e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/docs/tutorials/index.rst
+SPDXID: SPDXRef-item12375377
+FileChecksum: SHA1: 4f258e96f04b9192b5f2b7aea09b4ac3600ac730
+FileChecksum: MD5: 98a1151a71de6d1b38938da79b1a26b7
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/docs/index.rst
+SPDXID: SPDXRef-item12375374
+FileChecksum: SHA1: 3d1d89cf7708882dac8fc6b11aab1f155dc535f7
+FileChecksum: MD5: 004ef68311ad9035da4168c730b0aec8
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/docs/tutorials/deployment.rst
+SPDXID: SPDXRef-item12375378
+FileChecksum: SHA1: 7df342476135463df14b64bba2aaed7836efc7ae
+FileChecksum: MD5: ca761f22eaeb562fb9ca4193d0758884
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/testing/README.rst
+SPDXID: SPDXRef-item12375386
+FileChecksum: SHA1: caaa9bd480dba75fa9c06489623b307f3b578a5d
+FileChecksum: MD5: 93a5546205846dbe59bbfd803cc84b17
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/docs/release-notes.rst
+SPDXID: SPDXRef-item12375375
+FileChecksum: SHA1: 23d85f7e9e664349b8d5bbc813979bd845842e9e
+FileChecksum: MD5: 750117b0de7b1eca7d6394f9f5c4d286
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/docs/tutorials/demonstration.rst
+SPDXID: SPDXRef-item12375379
+FileChecksum: SHA1: f64d34117fedd3be5482750f0021f9fc497dcb38
+FileChecksum: MD5: 4f206ba15e29de1ff222273078ce8258
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/docs/face-privacy-filter.rst
+SPDXID: SPDXRef-item12375382
+FileChecksum: SHA1: efd451279843986a6e036128b4256806707af92a
+FileChecksum: MD5: b6e825b326cf6111ad19136dc98ffeeb
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/face_privacy_filter/filter_image.py
+SPDXID: SPDXRef-item12375317
+FileChecksum: SHA1: 12c9952fb81fe153f21edb7b6110201ac98bb373
+FileChecksum: MD5: 88398ea4e1724a6898285d0243013a76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/face_privacy_filter/transform_detect.py
+SPDXID: SPDXRef-item12375319
+FileChecksum: SHA1: df359e2e934c72019717de2e0deafd0fcd12926f
+FileChecksum: MD5: 04fdb3042a55b832a5e9d1c5d0172cb1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/face_privacy_filter/tests/test_detect.py
+SPDXID: SPDXRef-item12375321
+FileChecksum: SHA1: 702056ef13bb8a4f43196284c401e12d3d1bf39c
+FileChecksum: MD5: d2f5dce41a8081f19bb2222e49fca939
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/face_privacy_filter/transform_region.py
+SPDXID: SPDXRef-item12375322
+FileChecksum: SHA1: ed01363ba2fb1bacad1d4ea979e952b6dba2194b
+FileChecksum: MD5: 136939d865547e68c7c1973dbf359502
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/setup.py
+SPDXID: SPDXRef-item12375331
+FileChecksum: SHA1: 74bb83939d8524af52702c1ea6144613994ea457
+FileChecksum: MD5: 19f63752e49a51ed4f3c26cd06ef12e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/LICENSE.txt
+SPDXID: SPDXRef-item12375332
+FileChecksum: SHA1: b4c1f3d5e1d91601344b7b48db7bd5bcef70b7b7
+FileChecksum: MD5: 2a6f23a661e5896cd097c60d9e1acf02
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/demo-framework.css
+SPDXID: SPDXRef-item12375358
+FileChecksum: SHA1: 8a6143d7c110b4b5ed2f42641d1691a8a0ccc42f
+FileChecksum: MD5: 1cf87295bfab2061d6e1f5158efe0509
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/demo-framework.js
+SPDXID: SPDXRef-item12375359
+FileChecksum: SHA1: def10cc95eb82780249210cbb8a88d349c2918ea
+FileChecksum: MD5: 287cdcae1e1e96b71d24bab288580fb4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/face-privacy.js
+SPDXID: SPDXRef-item12375338
+FileChecksum: SHA1: cc93ba91d3177e51afc235c2d3f665823bdbbeab
+FileChecksum: MD5: 3fa6d2545d2654db4264981ed7437cec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/face-privacy.html
+SPDXID: SPDXRef-item12375337
+FileChecksum: SHA1: f414badaf8a92512333dccf8ef6e41e6c04f0351
+FileChecksum: MD5: f143448e9615207222f0fa6c6e1d9ce7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/face_privacy_filter/data/haarcascade_frontalface_alt.xml.gz/haarcascade_frontalface_alt.xml
+SPDXID: SPDXRef-item12375326
+FileChecksum: SHA1: 1246a90d1f7d2d522aea89e93ed0fa8a38d993a3
+FileChecksum: MD5: 0d8d5f4c7c2c2861172d3028ad04334d
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright (C) 2000, Intel Corporation, all rights reserved. Third party copyrights are property of their respective owners. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/protobuf/protobuf.js
+SPDXID: SPDXRef-item12375364
+FileChecksum: SHA1: aeb51f8ca6eb979f2bd2906bd91cc0ba5d79176a
+FileChecksum: MD5: 9e34bbf7c67d1df7640e9630e026eb7f
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> (c) 2016, daniel wirtz </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/protobuf/protobuf.min.js
+SPDXID: SPDXRef-item12375365
+FileChecksum: SHA1: f8703dacf7197e26a46ec3e565fa915c659d820a
+FileChecksum: MD5: 1e7d7371412491b4e41a185fccd1b8e2
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> (c) 2016, daniel wirtz </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/Dockerfile
+SPDXID: SPDXRef-item12375369
+FileChecksum: SHA1: 069cbdfd475fae10ef673bb557a0dc10c06fb020
+FileChecksum: MD5: fffd1df58dfd4ff97603b7666f96546a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/jquery-ajax-native.js
+SPDXID: SPDXRef-item12375361
+FileChecksum: SHA1: 065d6640ba1de84234996b76630801c231b471f5
+FileChecksum: MD5: d104c60f77bdf798c976bb8b4b0c0aa3
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> (c) 2015 Tarik Zakaria Benmerar, Acigna Inc. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/jquery.js
+SPDXID: SPDXRef-item12375362
+FileChecksum: SHA1: 5a9dcfbef655a2668e78baebeaa8dc6f41d8dabb
+FileChecksum: MD5: 4f252523d4af0b478c810c2547a63e19
+LicenseConcluded: MIT
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: <text> (c) jQuery Foundation </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/face_privacy_filter/_version.py
+SPDXID: SPDXRef-item12375316
+FileChecksum: SHA1: 3b84150fcb0c978b53d84d40bd2dce859c201071
+FileChecksum: MD5: 78620135f11920ba190907ea1a85d830
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/face_privacy_filter/__init__.py
+SPDXID: SPDXRef-item12375318
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/INSTALL.txt
+SPDXID: SPDXRef-item12375327
+FileChecksum: SHA1: 91ed2077277395c62d191ed80e48e2298febb6a9
+FileChecksum: MD5: c5eea12677c6eccbbe70b02e12e14aa1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/INFO.yaml
+SPDXID: SPDXRef-item12375328
+FileChecksum: SHA1: 2a1df1af74a4de4b12b2918600bc787e034aaf5f
+FileChecksum: MD5: dc9afcedea42706be81b5b00c43ad52c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/.gitreview
+SPDXID: SPDXRef-item12375329
+FileChecksum: SHA1: 9725ad007e506f97fd6102c7544f79dac8746a41
+FileChecksum: MD5: 03c3ab0473bd0929cf99a4c5f6e99617
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/tox.ini
+SPDXID: SPDXRef-item12375333
+FileChecksum: SHA1: 57a485178d78647e534e0fdaae2a1b4f9627c387
+FileChecksum: MD5: cbd60ffcae3591d4ac5d14a4379a95c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/requirements.txt
+SPDXID: SPDXRef-item12375334
+FileChecksum: SHA1: 52c019b278190e10dfd444b106b831790bee7014
+FileChecksum: MD5: b2ca3e914c241f9d4a2e48b0beaf457e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/.gitattributes
+SPDXID: SPDXRef-item12375335
+FileChecksum: SHA1: f86c68f96adf05cdb04ec7b7d43f8d0ee19e94f1
+FileChecksum: MD5: 60d83d1ee637b07308c58923f255f54c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/images/face_family_pixelate.jpg
+SPDXID: SPDXRef-item12375341
+FileChecksum: SHA1: df3d119f79bd97dabdabfbf0b136b42dbf28c186
+FileChecksum: MD5: 0462b876a0aee9db526b1c0f9ac398e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/images/commercial.jpg
+SPDXID: SPDXRef-item12375342
+FileChecksum: SHA1: 8957634caef2548b0cd5d3b4338799050d4f499e
+FileChecksum: MD5: 8b1cdd565d2e0ad0b6580367892212db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Apple Inc., 2017 </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/images/face_family.jpg
+SPDXID: SPDXRef-item12375343
+FileChecksum: SHA1: e6d627dd376ea4b258d7061075da0d454cc451fd
+FileChecksum: MD5: a4e64ad6a28603c0ced956e6a99c8224
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/images/face_DiCaprio_pixelate.jpg
+SPDXID: SPDXRef-item12375344
+FileChecksum: SHA1: 4c6f39f32a88b25b1e6d4196eb726ab94b728a0e
+FileChecksum: MD5: 43c6e980e78f670c9691464bea695b49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/images/face_DeGeneres.jpg
+SPDXID: SPDXRef-item12375345
+FileChecksum: SHA1: cc3f973135395865a24c0434bd751980b363f030
+FileChecksum: MD5: af9b1c16edf33c8a7455e005afdddf84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/images/face_reunion.jpg
+SPDXID: SPDXRef-item12375346
+FileChecksum: SHA1: 22a361dbf69373f29db397328776540a9cee8b58
+FileChecksum: MD5: bf6b3ad56b1cfc3a0f3c198503a9584f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/images/face_glasses.jpg
+SPDXID: SPDXRef-item12375347
+FileChecksum: SHA1: fc8f0bcc3ecf83680cc2115e688a5ff6f3784281
+FileChecksum: MD5: 2976667b8512464f39b54bd08e4170e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Company </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/images/face_reunion_pixelate.jpg
+SPDXID: SPDXRef-item12375348
+FileChecksum: SHA1: b5221d5f12aaedcc66cdaeccce12bb730670d903
+FileChecksum: MD5: 58eac7f41b6f96d6620fdb648d3d87ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/images/face_Schwarzenegger.jpg
+SPDXID: SPDXRef-item12375349
+FileChecksum: SHA1: e06047c9979f2014e90198a55b0582a18bdbb7f2
+FileChecksum: MD5: 164da7ed85784f691dc44222ec916eb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/images/face_DiCaprio.jpg
+SPDXID: SPDXRef-item12375350
+FileChecksum: SHA1: 9fa44f016da4aeeb7f578296da200a622dec0808
+FileChecksum: MD5: 030ae8c78c5464e46eee5a1277f330b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/images/commercial.mp4
+SPDXID: SPDXRef-item12375351
+FileChecksum: SHA1: 09ee19804296cf294e6e8c70c4f22466385b1459
+FileChecksum: MD5: 33c76a582016952da1ad38429937bc04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/images/commercial_pixelate.jpg
+SPDXID: SPDXRef-item12375352
+FileChecksum: SHA1: 7fb03c29f9203b4ff230df19959baa5b76ac4a9e
+FileChecksum: MD5: 5de0556f6adc628cb4fa51e2d8884c0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/spinnerbar.gif
+SPDXID: SPDXRef-item12375353
+FileChecksum: SHA1: 8e22cdf33f090f9bb20b9b153176694d8d313cc7
+FileChecksum: MD5: f42fa6a34ca5be9b492b26be6458bd48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/model.recognize.proto
+SPDXID: SPDXRef-item12375354
+FileChecksum: SHA1: ecca322a30bf1af4c1b45245fb2292275f497ed8
+FileChecksum: MD5: fee4c560cdb55276f0642a1aca51fdcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/protobuf.RegionDetectionSet.bin
+SPDXID: SPDXRef-item12375355
+FileChecksum: SHA1: 6fb241427d7d58f25dde3be08bcbb433a2c722e1
+FileChecksum: MD5: 6365cf33d36b17535f58987d9dc478c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/model.detect.proto
+SPDXID: SPDXRef-item12375356
+FileChecksum: SHA1: 577b50e48820b3e9335b45a38b3bc81eefa929b9
+FileChecksum: MD5: 6c4815269bd31f8e841feba1166240d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/protobuf.Image.bin
+SPDXID: SPDXRef-item12375357
+FileChecksum: SHA1: 890e0ac7616d5405ca30eae90fd7bbb37d4c33d9
+FileChecksum: MD5: a03f4c066aa4223cc06ae350e7356061
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/model.pixelate.proto
+SPDXID: SPDXRef-item12375360
+FileChecksum: SHA1: 5a2eab8ff178a4966c1c7beda54e095fff4b14d0
+FileChecksum: MD5: a50643f2ee6e0fb36f0b9db059926599
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/protobuf/protobuf.min.js.map
+SPDXID: SPDXRef-item12375366
+FileChecksum: SHA1: de3653d20d0cc5d9b1e8e371e6b57b760bc0e2ec
+FileChecksum: MD5: a811eb0e3bffb6aa4067dfdc1a9a157f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/protobuf/protobuf.js.map
+SPDXID: SPDXRef-item12375367
+FileChecksum: SHA1: 8d826930cdc96ca38b466f1e9486f0ba9e0a6535
+FileChecksum: MD5: 0aee26ffd1f6c828b2e44f6c4f9c753f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/web_demo/simple-cors-http-server-python3.py
+SPDXID: SPDXRef-item12375368
+FileChecksum: SHA1: 40fdf2619066222a067113de7346f0e32e043847
+FileChecksum: MD5: b445b18202500d1979c0032d65ac74cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/.gitignore
+SPDXID: SPDXRef-item12375370
+FileChecksum: SHA1: 78bf1f138a68dba791eed825e63047cac0f5e085
+FileChecksum: MD5: 8face5f58560f529dc74fa559e2ba8c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/docs/catalog_image_blur.png
+SPDXID: SPDXRef-item12375372
+FileChecksum: SHA1: 52503798871637135e9fd5001ed059ee3dd62267
+FileChecksum: MD5: 6cb196bb4e8b31505ac1d5c9a3dd4d34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/docs/catalog_image_detect.png
+SPDXID: SPDXRef-item12375373
+FileChecksum: SHA1: 454ca1bee92623a1d6979ff23f1328f4f0699183
+FileChecksum: MD5: f5d53fd1f39663c4e40ca0b6eab50d11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/docs/tutorials/example_running.jpg
+SPDXID: SPDXRef-item12375380
+FileChecksum: SHA1: 24f1d28bd5686af7569ae4c45b08ec69587b68e8
+FileChecksum: MD5: 6ffaec900c301021ff7bed3a0be1c4e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Apple Inc., 2018 </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/docs/tutorials/example_running_detect.jpg
+SPDXID: SPDXRef-item12375381
+FileChecksum: SHA1: 124af4e4f15b00a5fcecd29b586d3334208ad58b
+FileChecksum: MD5: 9029693a5953167bd0ba328f3a6f63c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: <text> Copyright 2007 Apple Inc., all rights reserved. </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/docs/commercial_pixelate.png
+SPDXID: SPDXRef-item12375383
+FileChecksum: SHA1: a976bcb651b139ed5b3e8dc1dce186a3ffbcc78f
+FileChecksum: MD5: a7661c1c06dac5e261ed385813e75344
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/pom.xml
+SPDXID: SPDXRef-item12375384
+FileChecksum: SHA1: fbbcf5e6181d238353a02339a7b60823479fe27b
+FileChecksum: MD5: 04b2004b1bac3cb064ab281c79640b4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/testing/tox-requirements.txt
+SPDXID: SPDXRef-item12375387
+FileChecksum: SHA1: a7c8f6a7ff86727503a74b5bb514c3ca418eb86c
+FileChecksum: MD5: 7ecaaad445a7af882e47bce0e732929d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/testing/single-face_pexels.jpg
+SPDXID: SPDXRef-item12375388
+FileChecksum: SHA1: cb6f40626844b27609ab7441814e6f8fd0fa33b6
+FileChecksum: MD5: 922d97b433c82a370984f1b6b974448a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Company </text>
+ 
+
+##File
+
+FileName: face-privacy-filter/testing/.gitignore
+SPDXID: SPDXRef-item12375389
+FileChecksum: SHA1: b313bf205ba57d08ef5965c62fac7c32969074e4
+FileChecksum: MD5: 15b8e24e3c893c0198bc78414fa9fbca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: face-privacy-filter/testing/multi-face_pexels.jpg
+SPDXID: SPDXRef-item12375390
+FileChecksum: SHA1: f7b07ea79382498e34b46238ce29eeb6e930a665
+FileChecksum: MD5: 45329e72c42efb9d15a165e055156458
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Company </text>
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-BSD-style
+LicenseName: BSD-style
+ExtractedText: <text> According to BSD license, add some modifications </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
