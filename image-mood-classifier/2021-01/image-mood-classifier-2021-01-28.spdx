@@ -1,0 +1,668 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_image-mood-classifier-2021-01-28.zip_1612291088.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-02-02T18:38:08Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: image-mood-classifier-2021-01-28.zip
+PackageFileName: image-mood-classifier-2021-01-28.zip
+SPDXID: SPDXRef-upload3270
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: f7195d786250c9acb19f1f123ef0709156f23cb6
+PackageChecksum: SHA1: 038cf855b3547282ee899a515fa139c6f02b6ba4
+PackageChecksum: MD5: 7b5ab362d2d6d95677bc4108e9af6f00
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3270
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: image-mood-classifier/web_demo/README.md
+SPDXID: SPDXRef-item12709713
+FileChecksum: SHA1: b334481927783736713be1c92919c725370f6098
+FileChecksum: MD5: 9c0eb1b40ebe12ebbb21afe4b4b0539e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/README.rst
+SPDXID: SPDXRef-item12709704
+FileChecksum: SHA1: b3c44b680201a1644739cadad99b2824cc4a4179
+FileChecksum: MD5: 6de55281f64502e32c5e2f4018e77348
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/testing/README.rst
+SPDXID: SPDXRef-item12709748
+FileChecksum: SHA1: 84107d38cfed8a7d2ff3bd32df9e2778f5f1c2d6
+FileChecksum: MD5: b04a9a0bd893bc954a8b30452e37dc6c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/docs/tutorials/index.rst
+SPDXID: SPDXRef-item12709740
+FileChecksum: SHA1: e41e1c291cfbdff4fdfd022147cc970e31bbde53
+FileChecksum: MD5: deff5087b5afe7a17fd0845863ca8d7c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/docs/tutorials/deployment.rst
+SPDXID: SPDXRef-item12709741
+FileChecksum: SHA1: 7db0547c90f87050e250efd4ddd35466a7913d45
+FileChecksum: MD5: 7be9a02e44aa09cf5d6174202ec2bed8
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/docs/index.rst
+SPDXID: SPDXRef-item12709737
+FileChecksum: SHA1: 3e7a3ffb49bf9b59de131013ae3e480b4ef79820
+FileChecksum: MD5: a0b973c5695de63700b225d4d9f09e53
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/docs/image-mood-classifier.rst
+SPDXID: SPDXRef-item12709744
+FileChecksum: SHA1: 86cf8e38eeacf96e3fef8575e4ae6d6f1764d300
+FileChecksum: MD5: 5545fb2fb2afb3d34ff3a13a589efc9a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/docs/release-notes.rst
+SPDXID: SPDXRef-item12709738
+FileChecksum: SHA1: b8c7fb0931a6dfd7338506fd3d97c44ad0cb7724
+FileChecksum: MD5: ac36c7fc66c93020dde84acb650923c1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/docs/tutorials/demonstration.rst
+SPDXID: SPDXRef-item12709742
+FileChecksum: SHA1: ca66b9bea24963de251a14338208487a0812b1fb
+FileChecksum: MD5: d6d6864013c8bbae4e5bb93eea0c559b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/setup.py
+SPDXID: SPDXRef-item12709705
+FileChecksum: SHA1: 2d345560e711b1e19e11ba9fb0676f013c47f7ed
+FileChecksum: MD5: 67caeb90990d8e81f330196c7711ed3d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/LICENSE.txt
+SPDXID: SPDXRef-item12709706
+FileChecksum: SHA1: e334fb1ddb7468aea41f4cd384655671e6905ac9
+FileChecksum: MD5: 33288e57a14b9b3b75baecfac8b3cc91
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/image_mood_classifier/tests/test_mood.py
+SPDXID: SPDXRef-item12709757
+FileChecksum: SHA1: 2792bd593328956cdd05491b5132f0a25b4281f1
+FileChecksum: MD5: 4442450e690884d3361cfad02117dc3b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/image_mood_classifier/classify_image.py
+SPDXID: SPDXRef-item12709754
+FileChecksum: SHA1: e63c32c935256a2c7cd0b954b847b214e66c183e
+FileChecksum: MD5: 63a5c58823d3e9d7e6da5cd6dee0d1df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/web_demo/demo-framework.css
+SPDXID: SPDXRef-item12709724
+FileChecksum: SHA1: 8a6143d7c110b4b5ed2f42641d1691a8a0ccc42f
+FileChecksum: MD5: 1cf87295bfab2061d6e1f5158efe0509
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/web_demo/demo-framework.js
+SPDXID: SPDXRef-item12709725
+FileChecksum: SHA1: 421a7f9bc119058a0a49bb86330107fcbf227fa4
+FileChecksum: MD5: 14fb905405910b2e1a053b307d015741
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/image_mood_classifier/prediction_formatter.py
+SPDXID: SPDXRef-item12709753
+FileChecksum: SHA1: d6833e9a4000dc9c232909c130ce008c33a38a27
+FileChecksum: MD5: 4f7d226a424f40afd13d285902c3e7ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/web_demo/image-mood-classes.js
+SPDXID: SPDXRef-item12709723
+FileChecksum: SHA1: 63d9e9dbdf4135533beb4457c124989c0458758c
+FileChecksum: MD5: f9a6e697e5672a54401ec1703c40086c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/web_demo/image-mood-classes.html
+SPDXID: SPDXRef-item12709711
+FileChecksum: SHA1: 465aa0d70cf11c570ec523260c63537d97742e70
+FileChecksum: MD5: 558ac002b23812ed826461f4d09a742b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/web_demo/protobuf/protobuf.js
+SPDXID: SPDXRef-item12709729
+FileChecksum: SHA1: aeb51f8ca6eb979f2bd2906bd91cc0ba5d79176a
+FileChecksum: MD5: 9e34bbf7c67d1df7640e9630e026eb7f
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> (c) 2016, daniel wirtz </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/web_demo/protobuf/protobuf.min.js
+SPDXID: SPDXRef-item12709730
+FileChecksum: SHA1: f8703dacf7197e26a46ec3e565fa915c659d820a
+FileChecksum: MD5: 1e7d7371412491b4e41a185fccd1b8e2
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> (c) 2016, daniel wirtz </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/web_demo/jquery-ajax-native.js
+SPDXID: SPDXRef-item12709726
+FileChecksum: SHA1: 065d6640ba1de84234996b76630801c231b471f5
+FileChecksum: MD5: d104c60f77bdf798c976bb8b4b0c0aa3
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> (c) 2015 Tarik Zakaria Benmerar, Acigna Inc. </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/web_demo/jquery.js
+SPDXID: SPDXRef-item12709727
+FileChecksum: SHA1: 5a9dcfbef655a2668e78baebeaa8dc6f41d8dabb
+FileChecksum: MD5: 4f252523d4af0b478c810c2547a63e19
+LicenseConcluded: MIT
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: <text> (c) jQuery Foundation </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/INSTALL.txt
+SPDXID: SPDXRef-item12709701
+FileChecksum: SHA1: 91ed2077277395c62d191ed80e48e2298febb6a9
+FileChecksum: MD5: c5eea12677c6eccbbe70b02e12e14aa1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/INFO.yaml
+SPDXID: SPDXRef-item12709702
+FileChecksum: SHA1: b6ea6c5c6a2cbdf605e13d6108ff0a3cfa47d33a
+FileChecksum: MD5: 4bdb0dc9bebf4f8f071d072b57848fc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/.gitreview
+SPDXID: SPDXRef-item12709703
+FileChecksum: SHA1: 3a2bc4c481134ea1a8b7cd63f31fac1e92c63705
+FileChecksum: MD5: a4f12b58ef81458f5d41c1c3ad8cc82c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/tox.ini
+SPDXID: SPDXRef-item12709707
+FileChecksum: SHA1: 57a485178d78647e534e0fdaae2a1b4f9627c387
+FileChecksum: MD5: cbd60ffcae3591d4ac5d14a4379a95c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/requirements.txt
+SPDXID: SPDXRef-item12709708
+FileChecksum: SHA1: d605c8c3a1ca1e5229df665f1db81c6faca64d5a
+FileChecksum: MD5: 0bbba1d30cb662dd47254c6d1bd6ec0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/.gitattributes
+SPDXID: SPDXRef-item12709709
+FileChecksum: SHA1: 1fead8ae4a123d4c2526ba03777b256cb10f7a5a
+FileChecksum: MD5: 635578d7546b35d97c384e8708b86a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/web_demo/model.image.proto
+SPDXID: SPDXRef-item12709712
+FileChecksum: SHA1: 8bfe59cd1d92df91caca3ee345166ce460051e07
+FileChecksum: MD5: f2a04d0c0b4d005dd8720a72fb1dfd03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/web_demo/images/example_excitement_2.jpg
+SPDXID: SPDXRef-item12709715
+FileChecksum: SHA1: 5390d0d1035c6304429b77faeeac5cecc38d3111
+FileChecksum: MD5: 22a4326874e6ac464cbcef6d2429c276
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/web_demo/images/example_awe_1.jpg
+SPDXID: SPDXRef-item12709716
+FileChecksum: SHA1: 33fadb053a1cdaf4733462c2d94f69083077db6b
+FileChecksum: MD5: 3eff29119262696b76442f6d095f9d8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/web_demo/images/example_sad_1.jpg
+SPDXID: SPDXRef-item12709717
+FileChecksum: SHA1: 7d0bd5958a4b0589fca93d9ba8ae9968f4933afe
+FileChecksum: MD5: 88c001e9a4c15e62b37caf9882955a8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Company </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/web_demo/images/example_excitement_1.jpg
+SPDXID: SPDXRef-item12709718
+FileChecksum: SHA1: 6c297713c0310cd63ab8c0c246e0d5d41c960fc2
+FileChecksum: MD5: d6e06b3d2cb3cbae1c84f7b60d3065ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/web_demo/spinnerbar.gif
+SPDXID: SPDXRef-item12709719
+FileChecksum: SHA1: 8e22cdf33f090f9bb20b9b153176694d8d313cc7
+FileChecksum: MD5: f42fa6a34ca5be9b492b26be6458bd48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/web_demo/protobuf.classifier.ImageTagSet.bin
+SPDXID: SPDXRef-item12709720
+FileChecksum: SHA1: a25ac6751832382c2980a267eee97aaeb2b89add
+FileChecksum: MD5: ff769c1f5c6303164dc4671172e9aba6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/web_demo/protobuf.Image.bin
+SPDXID: SPDXRef-item12709721
+FileChecksum: SHA1: 9f35d29b12ffce8b71ad3184349c4fa5110d789d
+FileChecksum: MD5: 15942281fa78b24e5b46be4a881919f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/web_demo/protobuf.mood.ImageTagSet.bin
+SPDXID: SPDXRef-item12709722
+FileChecksum: SHA1: 6a41665a9f62d40555fca063b1cc54a77ca1dc14
+FileChecksum: MD5: 7fa795ce8979d1f5e060be4c97ae20ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/web_demo/protobuf/protobuf.min.js.map
+SPDXID: SPDXRef-item12709731
+FileChecksum: SHA1: de3653d20d0cc5d9b1e8e371e6b57b760bc0e2ec
+FileChecksum: MD5: a811eb0e3bffb6aa4067dfdc1a9a157f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/web_demo/protobuf/protobuf.js.map
+SPDXID: SPDXRef-item12709732
+FileChecksum: SHA1: 8d826930cdc96ca38b466f1e9486f0ba9e0a6535
+FileChecksum: MD5: 0aee26ffd1f6c828b2e44f6c4f9c753f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/web_demo/simple-cors-http-server-python3.py
+SPDXID: SPDXRef-item12709733
+FileChecksum: SHA1: 40fdf2619066222a067113de7346f0e32e043847
+FileChecksum: MD5: b445b18202500d1979c0032d65ac74cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/web_demo/model.tag.proto
+SPDXID: SPDXRef-item12709734
+FileChecksum: SHA1: 6877c2297064e1445fb052f5a6ddcbebb7e98dfb
+FileChecksum: MD5: 5f8668b6bf68ff704666014b842e264b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/.gitignore
+SPDXID: SPDXRef-item12709735
+FileChecksum: SHA1: 3b76be0a712758380baa5cf04a503511eb5f01b6
+FileChecksum: MD5: d1a7a0bbbeba2ffd562918c89acb36d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/docs/tutorials/example_running.jpg
+SPDXID: SPDXRef-item12709743
+FileChecksum: SHA1: 704f54dff17c70ba85e3e9471d108078c44c2748
+FileChecksum: MD5: 12d9ee3eb653f7eba742735d542e5227
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Apple Inc., 2018 </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/docs/catalog_example.png
+SPDXID: SPDXRef-item12709745
+FileChecksum: SHA1: 11bc6e9da24e3f67b1de4e7afdfcc076474d8dfa
+FileChecksum: MD5: 74c3476d268e377ccc49ec6ac4a26825
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/pom.xml
+SPDXID: SPDXRef-item12709746
+FileChecksum: SHA1: 52c7cfbe390178ef9a7ad3d7ebd1ade83db36a37
+FileChecksum: MD5: e5f10c7106e665679b40206ceefb4ff6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/testing/tox-requirements.txt
+SPDXID: SPDXRef-item12709749
+FileChecksum: SHA1: 56cb2b680fdbf01deb34614c4675923d75d1cc28
+FileChecksum: MD5: 8a72db4e8aa748c87ab18ced6389b5d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/testing/.gitignore
+SPDXID: SPDXRef-item12709750
+FileChecksum: SHA1: b313bf205ba57d08ef5965c62fac7c32969074e4
+FileChecksum: MD5: 15b8e24e3c893c0198bc78414fa9fbca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/image_mood_classifier/_version.py
+SPDXID: SPDXRef-item12709752
+FileChecksum: SHA1: 0d7ff07afa1ea597ae79925a44bce04f092366db
+FileChecksum: MD5: 1f01612f475273438715c79a4c91bd1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/image_mood_classifier/__init__.py
+SPDXID: SPDXRef-item12709755
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/data/emotion_classifier_reference.jpg
+SPDXID: SPDXRef-item12709759
+FileChecksum: SHA1: 82f16df45c356bed9276a707de0f514aa9c2b97f
+FileChecksum: MD5: 45953644d82b27843bab04cff874f17c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Apple Inc., 2017 </text>
+ 
+
+##File
+
+FileName: image-mood-classifier/data/features_testImages_artphoto.csv.bz2/features_testImages_artphoto.csv
+SPDXID: SPDXRef-item12709762
+FileChecksum: SHA1: 1dd94aebbcfb45c1044a461a32094b9d70688a30
+FileChecksum: MD5: 318e0ad1a9c2378fe9d16d825e737fe9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/data/labels_testImages_artphoto.txt
+SPDXID: SPDXRef-item12709763
+FileChecksum: SHA1: ee3037119e78341bbbb7618afd91bfe4271842d8
+FileChecksum: MD5: 254cae8092cd0ed580e577395ef311c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/data/list_testImages_artphoto.txt
+SPDXID: SPDXRef-item12709764
+FileChecksum: SHA1: cac03c525b1d323ac72b68cf72c0343cd862704b
+FileChecksum: MD5: 3b67727a9b6bde7780dcea5bd4449888
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/data/example_awe_1.csv
+SPDXID: SPDXRef-item12709765
+FileChecksum: SHA1: a3bb644996b517c6f51e605eac03899d8c72fc1a
+FileChecksum: MD5: e7d8d65689b44fe8fc45219a6303c7e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: image-mood-classifier/data/example_awe_1_30.csv
+SPDXID: SPDXRef-item12709766
+FileChecksum: SHA1: 75e49ca3b5b52da0d670034aa10d47b9d9a0478f
+FileChecksum: MD5: 2e10cd06c28aa56f1b3a32a8ca25c9cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
