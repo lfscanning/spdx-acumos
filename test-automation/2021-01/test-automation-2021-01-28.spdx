@@ -1,0 +1,401 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_test-automation-2021-01-28.zip_1612291289.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-02-02T18:41:29Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: test-automation-2021-01-28.zip
+PackageFileName: test-automation-2021-01-28.zip
+SPDXID: SPDXRef-upload3293
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: ec63ca136cb81315fc214b5d21c9e556abd497a7
+PackageChecksum: SHA1: 3acdd4310537578584cf7532f2eb81dae1c9fe8c
+PackageChecksum: MD5: 91ff7056335c1f1b6a1ad98f993926e1
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3293
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: test-automation/docs/release-notes.rst
+SPDXID: SPDXRef-item12714919
+FileChecksum: SHA1: 6a361e6da592221ad7a4b87b1dd2aa9d46d28b19
+FileChecksum: MD5: b8e5481bcbdc3fe033fad0c3571affc0
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/docs/user_guide.rst
+SPDXID: SPDXRef-item12714920
+FileChecksum: SHA1: abd08f9157aa343c9fa019bd68271447714fbd29
+FileChecksum: MD5: 60871d7e1203754ceb9e449ca94d5f40
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/test/api/README.md
+SPDXID: SPDXRef-item12714886
+FileChecksum: SHA1: 8ae70ffc1c1dd0c2f7c3fc5fd5f0888f6518230c
+FileChecksum: MD5: b89e477a5934b252f0749ad16edfa3a1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/docs/developer_guide.rst
+SPDXID: SPDXRef-item12714918
+FileChecksum: SHA1: 32fe78705e753725be4074227115a09e57f31163
+FileChecksum: MD5: c9b26cca0b7cef0fc68f38a9df7b0282
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/docs/tutorials/index.rst
+SPDXID: SPDXRef-item12714923
+FileChecksum: SHA1: 3644888f198e794a9f53d0e94008ad86f20c7199
+FileChecksum: MD5: d5c8cd0038a7d79734b17605d2ce1bd0
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/docs/api_testing.rst
+SPDXID: SPDXRef-item12714921
+FileChecksum: SHA1: 0ae10c21044ee3cb2433ed21033ea89d718e0605
+FileChecksum: MD5: ef06455d9a5fb6b3baf2b10bcc5530fb
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/docs/index.rst
+SPDXID: SPDXRef-item12714917
+FileChecksum: SHA1: 0ac085a2c5ae621a7bdeb75f354f43a025d48a30
+FileChecksum: MD5: 77e2368acbae91d0bcd7f4cd26c37e66
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/test/api/resources/variables/common.robot
+SPDXID: SPDXRef-item12714889
+FileChecksum: SHA1: 2903eccdc4241be6b3e24955d504b68402a220ce
+FileChecksum: MD5: 4878850f587fd97eb88ba21838891653
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/test/api/resources/keywords/cds_keywords.robot
+SPDXID: SPDXRef-item12714893
+FileChecksum: SHA1: fd06b81d03f57dbc94797eef5f6bde2bc44dc25f
+FileChecksum: MD5: 48bc9503e063efcf200fcf172ce1fdeb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/test/api/resources/keywords/portal_keywords.robot
+SPDXID: SPDXRef-item12714892
+FileChecksum: SHA1: 2a0f19dc51e8af0041d17bbac3b443bc1c02f608
+FileChecksum: MD5: a638f712b204b9afa800ea72a65c0bfc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/test/api/tests/component/portal/web_login.robot
+SPDXID: SPDXRef-item12714898
+FileChecksum: SHA1: 966e5373cfe46e41a2e5fabb5b3be956297ef85f
+FileChecksum: MD5: cc4e5967e59dde5f597058be17ea7323
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/test/api/tests/component/portal/endpoint_exists.robot
+SPDXID: SPDXRef-item12714897
+FileChecksum: SHA1: 9bcf267f6c7f148bc837817c7cdd020546498bcb
+FileChecksum: MD5: 54fe22cec6a5a189f1251fbda3d89ffa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/test/api/resources/keywords/session_keywords.robot
+SPDXID: SPDXRef-item12714891
+FileChecksum: SHA1: 3a0d86355705934c19a92bf8a755e3ed2c97e6b8
+FileChecksum: MD5: a1ac3b73f2e3e15f43ed25c743390b03
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/test/api/tests/component/portal/no_auth.robot
+SPDXID: SPDXRef-item12714900
+FileChecksum: SHA1: d14277c6e9b5e9eaeb1e7c273056cf29621364bc
+FileChecksum: MD5: dfeb24b011a8384622e4c7d76888cf89
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/test/api/tests/component/azure-client/azure.robot
+SPDXID: SPDXRef-item12714902
+FileChecksum: SHA1: 7c090dcad4f7f45c7cb47f2bf4f1c77bc1c311c2
+FileChecksum: MD5: 92de504381646b6a40cc08ff293f7633
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/test/api/tests/component/portal/login_logout.robot
+SPDXID: SPDXRef-item12714899
+FileChecksum: SHA1: c7aba0c53a90dd59d0df0af088652049f64cdf00
+FileChecksum: MD5: b12538dc54ade0c4bbb80ee508da665b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/test/api/tests/component/cds/role.robot
+SPDXID: SPDXRef-item12714905
+FileChecksum: SHA1: 53fca834c7e68e8bd53b7de1351b59ad0018e989
+FileChecksum: MD5: ef0480f4bd9ac8ae84c1e9ddc203cd0b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/test/api/tests/component/cds/search.robot
+SPDXID: SPDXRef-item12714906
+FileChecksum: SHA1: a9434134ee064c9814e960e6eaa04d3aaabb3084
+FileChecksum: MD5: aff73489b9c8a0fff457b661c685fa6e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/test/api/tests/scratch/test_create_json.robot
+SPDXID: SPDXRef-item12714912
+FileChecksum: SHA1: f1f047beaf1bf60a0d1cc95332d4914c5a495a32
+FileChecksum: MD5: 1c4da849a4b21dc8e85c67fd965cae15
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/test/api/tests/component/cds/site_config.robot
+SPDXID: SPDXRef-item12714904
+FileChecksum: SHA1: 66eeb5a96667d00af4c9a8be1f6d0316fc2b4602
+FileChecksum: MD5: 9ff1503150ff1632f6828b96a7aa1e64
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/test/api/tests/integration/register_portal_user.robot
+SPDXID: SPDXRef-item12714910
+FileChecksum: SHA1: 6dc3113b69df6cdbea7b890e985820b6b70d4af7
+FileChecksum: MD5: f2deda55b8c12aa2de17b982520c8875
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/test/api/tests/integration/onboard/onboard_model.robot
+SPDXID: SPDXRef-item12714909
+FileChecksum: SHA1: 0dfa3ed8eaebf999729e8118b7af0fe54b9ac085
+FileChecksum: MD5: 34b1a51e7338b67eea6eaa29b9e2458b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/LICENSE.txt
+SPDXID: SPDXRef-item12714913
+FileChecksum: SHA1: 251466a38ea5530a139ee78acbc0b3ee6263fa4d
+FileChecksum: MD5: 1452eadcf007bc417e45686c33971829
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: test-automation/INFO.yaml
+SPDXID: SPDXRef-item12714875
+FileChecksum: SHA1: 75d4587deba698300a04c1ef3e768030ee770048
+FileChecksum: MD5: d1a042e570d06ed9c64ac3e7cd768140
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: test-automation/.gitreview
+SPDXID: SPDXRef-item12714876
+FileChecksum: SHA1: f754528615149d56640650e23382b26e113416d7
+FileChecksum: MD5: 797114659160c975d72accce9de38b45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: test-automation/test/csit/tests/portal/testsuites/resource_Acumos_data.robot
+SPDXID: SPDXRef-item12714882
+FileChecksum: SHA1: bbbef27c9622af0ab9d122d0483dd0d10753799d
+FileChecksum: MD5: c125645fc1254844dca109f93023ec91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: test-automation/test/csit/tests/portal/testsuites/locators_Acumos.robot
+SPDXID: SPDXRef-item12714883
+FileChecksum: SHA1: 9bb8163a04ffa8c05477173b8ad4c9285d98288e
+FileChecksum: MD5: c40703ea3d7b2bde1b4a766180418694
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: test-automation/test/csit/tests/portal/testsuites/acumosTestSuit.robot
+SPDXID: SPDXRef-item12714884
+FileChecksum: SHA1: fff20243d01dd0889d5112d2521464d773462c76
+FileChecksum: MD5: 581a1cea3f2826d0e9dd09ff36422322
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: test-automation/.gitattributes
+SPDXID: SPDXRef-item12714914
+FileChecksum: SHA1: f86c68f96adf05cdb04ec7b7d43f8d0ee19e94f1
+FileChecksum: MD5: 60d83d1ee637b07308c58923f255f54c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: test-automation/.gitignore
+SPDXID: SPDXRef-item12714915
+FileChecksum: SHA1: 1e511e91d3caab17ed299fc9b86c5d84e247413e
+FileChecksum: MD5: 5ab77be2ed9ca5d07d655b15730c586c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: test-automation/docs/diagrams/onboardModel.xml
+SPDXID: SPDXRef-item12714925
+FileChecksum: SHA1: 1e49b2d8b753d83f1b76c8ce529a86a614efc524
+FileChecksum: MD5: 8c0d0a1f386db4e13de6813a94de3564
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
