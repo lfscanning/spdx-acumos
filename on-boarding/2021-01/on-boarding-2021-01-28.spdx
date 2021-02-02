@@ -1,0 +1,2501 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_on-boarding-2021-01-28.zip_1612291185.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-02-02T18:39:45Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: on-boarding-2021-01-28.zip
+PackageFileName: on-boarding-2021-01-28.zip
+SPDXID: SPDXRef-upload3281
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: b34d0045811eae8b520fd632c3b1ef6228f1edb5
+PackageChecksum: SHA1: e262b3b4b4de945679516af4aeae31fc05b64e85
+PackageChecksum: MD5: 2250057e19a2f3a471decc3c2425ea99
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3281
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: on-boarding/docs/index.rst
+SPDXID: SPDXRef-item12711156
+FileChecksum: SHA1: c65fc2445e7e627ede1588f0beaef097fb496e0f
+FileChecksum: MD5: 69d132e5ac8f50143bba547961f14d13
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/docs/onboarding-ONNX-PFA-guide.rst
+SPDXID: SPDXRef-item12711155
+FileChecksum: SHA1: f8997f475eb95c29a526553822ac8d1b420424e8
+FileChecksum: MD5: f9fb101ce8eb80e9df850ad294895901
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/docs/developer-guide.rst
+SPDXID: SPDXRef-item12711162
+FileChecksum: SHA1: 9ac01a0d271c17fd4c8a9480866a2a6680733e2c
+FileChecksum: MD5: fed8e15f37bd504c76d9c6fde0c1e5da
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/docs/user-guide.rst
+SPDXID: SPDXRef-item12711163
+FileChecksum: SHA1: 3ddd0034ded367fabd5991697eb54fc22451dee8
+FileChecksum: MD5: e0bc49d78bdc203395129a2838934a41
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/docs/release-notes.rst
+SPDXID: SPDXRef-item12711159
+FileChecksum: SHA1: bab05396d525383ee49004932b7622ee2ec979d2
+FileChecksum: MD5: 2ab2d33e90f8cec744c65261919a688c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/docs/onboarding-pre_dockerised_and_URI_guide.rst
+SPDXID: SPDXRef-item12711164
+FileChecksum: SHA1: 2610f3b6de0b2a45eb9deb99196b111c7f681c01
+FileChecksum: MD5: 46508657d9289ffc8bb7034aefe66403
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/wsgi.py
+SPDXID: SPDXRef-item12711034
+FileChecksum: SHA1: b2be686a68986b83815b246ab398e515c8a74be4
+FileChecksum: MD5: 2de99ec5e187e9ef28e8f5e2fdac3bfd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/LICENSE.txt
+SPDXID: SPDXRef-item12711040
+FileChecksum: SHA1: b523c4d27faa5170bd3d2f01fbad3ecfbe4b8ef1
+FileChecksum: MD5: 780f56a0baa4b15d9ca552327f88f933
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/run.py
+SPDXID: SPDXRef-item12711048
+FileChecksum: SHA1: a14ce1dec2688062a38b0dd26cdeae0b7ed1779b
+FileChecksum: MD5: 0a16db4aec27f725165ffca48596508b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/tests/test_business.py
+SPDXID: SPDXRef-item12711052
+FileChecksum: SHA1: 31db3f488fabf34782698880a2f79d4f81165288
+FileChecksum: MD5: d90fba10a3e70fc0dec2a91bfe470099
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/tests/test_parsers.py
+SPDXID: SPDXRef-item12711051
+FileChecksum: SHA1: 668273df7c2ac7c87b443b85a86d085e2a69dd1b
+FileChecksum: MD5: 4cc7853a8ffe8ce1551d17ea2c5756da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/tests/test_responses.py
+SPDXID: SPDXRef-item12711053
+FileChecksum: SHA1: abff83c2ea6ca04c42efd41b50e66b800c6c587f
+FileChecksum: MD5: 4526de3369175ce9116abf18a14198b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/acumos_model_management/database/models.py
+SPDXID: SPDXRef-item12711063
+FileChecksum: SHA1: c1f02775a814f612cc97ad0f7cf28b6131f5ada1
+FileChecksum: MD5: 86dbe18236581e3fea8df5ff38c67845
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/tests/mock_context.py
+SPDXID: SPDXRef-item12711056
+FileChecksum: SHA1: e8116268be4418864b6d36baf363613f082e1db0
+FileChecksum: MD5: 6092a3033c523fcedc4483f78aa56911
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/acumos_model_management/api/parser.py
+SPDXID: SPDXRef-item12711066
+FileChecksum: SHA1: e3dc220b42a218d91150b1a6473becebd23ef970
+FileChecksum: MD5: 94c8aa62cd6558ba3dcdbfb642dd0a21
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/acumos_model_management/settings.py
+SPDXID: SPDXRef-item12711060
+FileChecksum: SHA1: 2602a3febfc8a4d51f8f017cb01da8a917faa91f
+FileChecksum: MD5: 8d4c077502e8c2131379c8f5d6e92958
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/acumos_model_management/api/namespaces.py
+SPDXID: SPDXRef-item12711069
+FileChecksum: SHA1: d2615f4a95ed66920b6aca85873d2c0bb039cbd3
+FileChecksum: MD5: 38cc85287f7c4aa7da883ba528f717e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/acumos_model_management/api/responses.py
+SPDXID: SPDXRef-item12711067
+FileChecksum: SHA1: d38d15136967e8dc8efc56428edfb613d980465e
+FileChecksum: MD5: f6a17b15e55ba7402166c7ab304b9527
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/acumos_model_management/api/restplus.py
+SPDXID: SPDXRef-item12711070
+FileChecksum: SHA1: c3867b83b8f5c239e201f78b99d1dafc1716e544
+FileChecksum: MD5: 89703b5afd27427757303c76707ad3fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/acumos_model_management/api/v2/business.py
+SPDXID: SPDXRef-item12711072
+FileChecksum: SHA1: 4ce4aa10139abf63825de53b3af240a9049a60cc
+FileChecksum: MD5: d5a062166fff4f73196333dd3123584d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/acumos_model_management/api/v2/parsers.py
+SPDXID: SPDXRef-item12711073
+FileChecksum: SHA1: 5b60c250baa8214013d62c5a8724cc2403027c58
+FileChecksum: MD5: 7c58145c98db74c53e3ecd494b6a553b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/acumos_model_management/api/v2/serializers.py
+SPDXID: SPDXRef-item12711074
+FileChecksum: SHA1: d07c6365f9d1a58bec2bb1522778fed787e991f9
+FileChecksum: MD5: 69b88de201b65d8c9a4b0c05f9fdd240
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/acumos_model_management/api/v2/__init__.py
+SPDXID: SPDXRef-item12711075
+FileChecksum: SHA1: 4a168b0908ba1ff251666c4617d64e169fab1c41
+FileChecksum: MD5: b3397f7f49d101a80009141bbe933ca8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/acumos_model_management/api/__init__.py
+SPDXID: SPDXRef-item12711068
+FileChecksum: SHA1: 4a168b0908ba1ff251666c4617d64e169fab1c41
+FileChecksum: MD5: b3397f7f49d101a80009141bbe933ca8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/acumos_model_management/database/__init__.py
+SPDXID: SPDXRef-item12711064
+FileChecksum: SHA1: 4a168b0908ba1ff251666c4617d64e169fab1c41
+FileChecksum: MD5: b3397f7f49d101a80009141bbe933ca8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/acumos_model_management/api/v2/endpoints.py
+SPDXID: SPDXRef-item12711076
+FileChecksum: SHA1: 38a5652570a5aac668de323d308fa8288ee82fa8
+FileChecksum: MD5: 838ddd7b3b217121cfedac267dcb49c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/acumos_model_management/_version.py
+SPDXID: SPDXRef-item12711058
+FileChecksum: SHA1: aef1d465ae8528ebf0a7f1ffba694077e5805e22
+FileChecksum: MD5: fe4be80fec17cf91632caa0c73dc0f1e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/acumos_model_management/__init__.py
+SPDXID: SPDXRef-item12711061
+FileChecksum: SHA1: a050fd1921d71255bc2233d9fc87d21614cddcc8
+FileChecksum: MD5: 4669774d25da0181229333af047cb5a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/setup.py
+SPDXID: SPDXRef-item12711039
+FileChecksum: SHA1: 5fc0c699a363d13ee1bc1e4a80fe3539c121853c
+FileChecksum: MD5: c678c95c17d6e6d52ee5aa35406fc67f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/tests/test_endpoints.py
+SPDXID: SPDXRef-item12711054
+FileChecksum: SHA1: 1c33ab8de9c023f671542f97f58433a0e40a9154
+FileChecksum: MD5: ec76da2206bf6b1e5d14703700bfbc24
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/acumos_model_management/app.py
+SPDXID: SPDXRef-item12711059
+FileChecksum: SHA1: ca2262ba1a920ce21f28a2ad2bd3e5a803c4d9c0
+FileChecksum: MD5: aa6b9fd7959c1673c09b594b86218899
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/start-server.sh
+SPDXID: SPDXRef-item12711035
+FileChecksum: SHA1: 95cf8b0c0c76a9b138507827c1a5459e631b3a72
+FileChecksum: MD5: 6282df9a68d436f62dbfc439a1f7d650
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/Dockerfile
+SPDXID: SPDXRef-item12711087
+FileChecksum: SHA1: 9945ee5254fbf217ae146c388e5e416beb6dc29a
+FileChecksum: MD5: f1d8ee41fdad7220f2049b05cec3f38a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/LICENSE.txt
+SPDXID: SPDXRef-item12711100
+FileChecksum: SHA1: be41bceae5e7cb51063549a900882902ef9b2b3c
+FileChecksum: MD5: 01559fed84cd9ca90d5b76e19d73d066
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/CrediantialsTest.java
+SPDXID: SPDXRef-item12711222
+FileChecksum: SHA1: 8e78ea3b3ca9fb76f081c5dbcc9c89554829ca6c
+FileChecksum: MD5: 558d4fb449dfb26b3a4f737b973106d9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/AbstractResponseObjectTest.java
+SPDXID: SPDXRef-item12711219
+FileChecksum: SHA1: 5939b30b12525d3e9f47808ab8e2a7a35ac19ebe
+FileChecksum: MD5: cbbeab4fb024ab007c7094ffe4150bb0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/FilePathTest.java
+SPDXID: SPDXRef-item12711225
+FileChecksum: SHA1: e2a22d2c9d2627bf5405c736c1d2f97ead3c52b3
+FileChecksum: MD5: 9f6091b848354092253101a65ff7cb8f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/MetadataTest.java
+SPDXID: SPDXRef-item12711214
+FileChecksum: SHA1: ba716619c42c94790217b8343bb0cf44e48e0c6b
+FileChecksum: MD5: 0f96fa4aa168e36be74f812623ad00ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/JsonResponseTest.java
+SPDXID: SPDXRef-item12711226
+FileChecksum: SHA1: ba8cbc5c37d8d84fd30759e7088f821866d82466
+FileChecksum: MD5: d52a06cea9ef344b65b723078c7536f8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/HealthcheckControllerTest.java
+SPDXID: SPDXRef-item12711227
+FileChecksum: SHA1: c9a04af0f2766f6fd139e5ac72fe7e756f4b9122
+FileChecksum: MD5: 62de60dc44f002d4332967075e66ee9b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/CustomErrorControllerTest.java
+SPDXID: SPDXRef-item12711232
+FileChecksum: SHA1: 6438645b5ea4014bf5f3f1f395ef7fe88dc4ffc0
+FileChecksum: MD5: ea5a9639a8189ea10f4c0370a71f6791
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/utils/Crediantials.java
+SPDXID: SPDXRef-item12711264
+FileChecksum: SHA1: 2b6352463c847a7d7ceaae50da7375a07c9569a7
+FileChecksum: MD5: d9c51ccc3c4da0fd751468b1d9ea957b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/utils/ResourceUtils.java
+SPDXID: SPDXRef-item12711266
+FileChecksum: SHA1: 2755368a1bd62388fd6ece689d6f2b1c37753334
+FileChecksum: MD5: 832c7374c0b407223f9acc7bfb9407c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/utils/AbstractResponseObject.java
+SPDXID: SPDXRef-item12711267
+FileChecksum: SHA1: f594338a0a57fec624d07c7709e1d91f56e0d364
+FileChecksum: MD5: dc3e8c144ddf9d7b9e8e2bd5f2d88252
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/utils/JsonRequest.java
+SPDXID: SPDXRef-item12711270
+FileChecksum: SHA1: 935b3e1762e4d75b070f45d9e49d350f65c43331
+FileChecksum: MD5: 543ae31a16c0722e768acc12b2f1cc72
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/utils/JsonResponse.java
+SPDXID: SPDXRef-item12711269
+FileChecksum: SHA1: 8da9129ad153eb7f5d4ec7831ad56fb48dae0a07
+FileChecksum: MD5: 402d240efe983c3f9f1a73f2d0558937
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/utils/LogThreadLocal.java
+SPDXID: SPDXRef-item12711268
+FileChecksum: SHA1: 472d15ce7a50e926de4a79a20bf32096fd47052c
+FileChecksum: MD5: 01ef94f2566ff5c4c0f2e912bef90506
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/utils/JSONTags.java
+SPDXID: SPDXRef-item12711274
+FileChecksum: SHA1: 1f0a70be0d0f983b4dc81dacbdaaac0a6b319111
+FileChecksum: MD5: d05b3accb5ee68af2036f139df892c00
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/services/Application.java
+SPDXID: SPDXRef-item12711284
+FileChecksum: SHA1: 457b53da22207eabf79a99c2f1531894c972f825
+FileChecksum: MD5: da02a22fe9599a1f0193e51387799ee6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/exception/AcumosServiceException.java
+SPDXID: SPDXRef-item12711277
+FileChecksum: SHA1: dd7d83dc9cd8a964c148c136d330be716097a4c8
+FileChecksum: MD5: 31e03c0e40e27bcebbf1dd76dce5a3b5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/services/HealthcheckService.java
+SPDXID: SPDXRef-item12711298
+FileChecksum: SHA1: 6d4269d5d5f9af886f43fdd4ff0080a750f250eb
+FileChecksum: MD5: 431699ca23933d93cf6a5d3d06c09cfc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/logging/HandlerInterceptorConfiguration.java
+SPDXID: SPDXRef-item12711280
+FileChecksum: SHA1: 2a9f1fed361603cf84afd36c5fdb770245cf2e4f
+FileChecksum: MD5: 8bcaf9a11baf5fb06af4242d30f3daa4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/component/docker/preparation/Requirement.java
+SPDXID: SPDXRef-item12711304
+FileChecksum: SHA1: 2157c8472ebfa4649d39ce59fc3c5e2971d0042d
+FileChecksum: MD5: dd7e44c3f6e649c2cd5376b5820a23e8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/utils/LogBean.java
+SPDXID: SPDXRef-item12711275
+FileChecksum: SHA1: f947b637b17549e2f4905f2dfa4c6886cef27cbb
+FileChecksum: MD5: a5ced31245c4e44e2c2e2cd723ee6c90
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/logging/LoggingHandlerInterceptor.java
+SPDXID: SPDXRef-item12711282
+FileChecksum: SHA1: 9db4fef767c79a45db922016fde5573a3eb6ff89
+FileChecksum: MD5: 935d728305bdd0cb06c04890cda66e49
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/services/PortalRestClient.java
+SPDXID: SPDXRef-item12711297
+FileChecksum: SHA1: 0238e09036b899df07dd3faaca74aead2dfa1fc2
+FileChecksum: MD5: edba6baa30c7376cb0ab58eccbc32df1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-app-open/src/main/java/org/acumos/onboarding/open/service/impl/CustomErrorController.java
+SPDXID: SPDXRef-item12711147
+FileChecksum: SHA1: 592523d7b5b54119aad02852ebfe78c0b5634f54
+FileChecksum: MD5: a96fb0fd51f5fa3889a26194864ac1d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/services/impl/CustomErrorController.java
+SPDXID: SPDXRef-item12711287
+FileChecksum: SHA1: fc19548753e7656eb3e38ef869f7c9cfa19e1718
+FileChecksum: MD5: 9db06ce1c54c2c97be6f583db3b5e5db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-app-open/src/main/java/org/acumos/onboarding/open/OnboardingApplication.java
+SPDXID: SPDXRef-item12711149
+FileChecksum: SHA1: 13e4f9ecbc4ffcdb3429a8b8a2ad3811cf3a7f07
+FileChecksum: MD5: 439f52fc80eec170992680cc5ec88229
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/ServiceResponseTest.java
+SPDXID: SPDXRef-item12711213
+FileChecksum: SHA1: 619ab56128f8593af59fdec02254ea7dacfd4cb1
+FileChecksum: MD5: c18c56c3bc889e6032ccb2b4e462d417
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/aspect/OnboardingLoggingAspect.java
+SPDXID: SPDXRef-item12711246
+FileChecksum: SHA1: cba91505966ac9e1835b4c383b6f923e491e69c6
+FileChecksum: MD5: 400834c86a8d03255d465f0708833252
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/ResourceUtilsTest.java
+SPDXID: SPDXRef-item12711215
+FileChecksum: SHA1: 7d50a610b2b9b0ca61c2c0d6fb8fa0909ead8e6d
+FileChecksum: MD5: 7c8535be5d1841a116c0dbe70eabd0f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/MetadataParserTest.java
+SPDXID: SPDXRef-item12711220
+FileChecksum: SHA1: 272a5ee0861b13a9adb95b32ea4088b13033e667
+FileChecksum: MD5: ed00f4144a2d976109e37aca2a2fefb4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/services/MicroserviceRestClient.java
+SPDXID: SPDXRef-item12711285
+FileChecksum: SHA1: 5304e9e53d4b28a91bd5019ad4aaca7856306199
+FileChecksum: MD5: 41f12c14f5d37b98bdb2383ec0ea8e04
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/models/ServiceResponse.java
+SPDXID: SPDXRef-item12711260
+FileChecksum: SHA1: d270b4e8e6c63a8b56e60c0d018d8e91b38c72a7
+FileChecksum: MD5: 36a43cdc94a1264aac841fe88ee4b2e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/services/impl/HealthcheckController.java
+SPDXID: SPDXRef-item12711292
+FileChecksum: SHA1: 84f32fbc95c735d707013421cd058c83864f0942
+FileChecksum: MD5: 7815290bb073f13a2d809423e9bbe580
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-app-open/src/main/resources/logback.xml
+SPDXID: SPDXRef-item12711139
+FileChecksum: SHA1: 305996671e3a6c1220cac97af3f934a7a3d6252e
+FileChecksum: MD5: f5c16e1a3b8e276a4a80045c9df95581
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/JsonRequestTest.java
+SPDXID: SPDXRef-item12711224
+FileChecksum: SHA1: 598d2cfabe9e6d3264299026af8345bad19f0c62
+FileChecksum: MD5: 506a7e9d7f8e50a2eb6db09e06d465a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/models/OnboardingNotification.java
+SPDXID: SPDXRef-item12711261
+FileChecksum: SHA1: 29c1efce594e4c4a78d40625a943e55153030e51
+FileChecksum: MD5: 25c2a0a689744e3444e388090e239ec2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/utils/LoggerDelegate.java
+SPDXID: SPDXRef-item12711271
+FileChecksum: SHA1: 79ea2052c86530e81823cea992293a103defe5a4
+FileChecksum: MD5: dfa9e001f45533e51f3983d210fad4d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/UtilityFunctionTest.java
+SPDXID: SPDXRef-item12711231
+FileChecksum: SHA1: f144701aea18036bc67d79f7fda27ca3a153589a
+FileChecksum: MD5: a91fd76e7c917cccc448b0e5aff16e29
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/utils/OnboardingConstants.java
+SPDXID: SPDXRef-item12711272
+FileChecksum: SHA1: c7bedecd12a3c1770da62eb3ef7fbda8b8cbaa62
+FileChecksum: MD5: e53489c49c60468513531e2835b997b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/proto/ProtobufOption.java
+SPDXID: SPDXRef-item12711249
+FileChecksum: SHA1: ce1103c719bb0673494d9c8baadbe53369a925c0
+FileChecksum: MD5: bb8aeea0929cd0fdd9d67f6465f131d5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/component/docker/preparation/Metadata.java
+SPDXID: SPDXRef-item12711305
+FileChecksum: SHA1: 02c393d8ed4456eef8575fb19a058fac281b1b52
+FileChecksum: MD5: 93267651c73760dc55a448edac140828
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/proto/Protobuf.java
+SPDXID: SPDXRef-item12711250
+FileChecksum: SHA1: 2754f7ac3401094f71962308890ca9eedbf02242
+FileChecksum: MD5: f521d97795b3c0a96311fdbdf7e47b2f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/proto/ProtobufMessageField.java
+SPDXID: SPDXRef-item12711253
+FileChecksum: SHA1: c50fc2652b49e75e4e3fc4f6275e2e87f7f5e9bc
+FileChecksum: MD5: 1009eb0676494bd37df80d7a9ad55901
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/proto/ProtobufService.java
+SPDXID: SPDXRef-item12711251
+FileChecksum: SHA1: 1039009044e87841b58fb3c96ef26fbcd65da2d6
+FileChecksum: MD5: 1003680bc498134c76c67e30a9e7fbea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/proto/ProtobufServiceOperation.java
+SPDXID: SPDXRef-item12711254
+FileChecksum: SHA1: cfe66c514e52e9b58009b57375a5c3d940d7d5f3
+FileChecksum: MD5: 710c70feb389274e07bf704d36b0078b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/utils/Constants.java
+SPDXID: SPDXRef-item12711263
+FileChecksum: SHA1: d1710b514ec10c77bb4b67a94e5e5d78fdcdf716
+FileChecksum: MD5: 39de67b3e08fd3d679ddba5700e77000
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/proto/ProtobufMessage.java
+SPDXID: SPDXRef-item12711258
+FileChecksum: SHA1: 9100cbf6c18bc3bf8d033dba7782afc4230d136f
+FileChecksum: MD5: 25b46983f0bd42c72b75b5cbf56956c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/utils/ProtobufUtil.java
+SPDXID: SPDXRef-item12711273
+FileChecksum: SHA1: 416f3ca96368b89ce94a87767d3f30571e7dc238
+FileChecksum: MD5: 4c5c65e73cee5c0c27ab3640cd2a7898
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/utils/UtilityFunction.java
+SPDXID: SPDXRef-item12711265
+FileChecksum: SHA1: 18339977bdd648dc6b109262b85a6f771f0054f0
+FileChecksum: MD5: 81702205d0c707b907e5a0b99a453e9c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/logging/OnboardingLogConstants.java
+SPDXID: SPDXRef-item12711279
+FileChecksum: SHA1: 48d3f01bd897cb085193fd2ed5860e9b5cfd2467
+FileChecksum: MD5: 1d45002cb52a853fa8af597c3932e0c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/logging/OnboardingLogAdapter.java
+SPDXID: SPDXRef-item12711281
+FileChecksum: SHA1: 0ed14f23fd186a2f7c6b56e685f8ddfa9a399268
+FileChecksum: MD5: 08435e288f0aef3c86e6663490588baa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/services/impl/DownloadModelArtifacts.java
+SPDXID: SPDXRef-item12711293
+FileChecksum: SHA1: eccb94768cd2c715ccf95fc982d8df29d25ca5bc
+FileChecksum: MD5: 45b907eb3fd5bf585070b7161a807573
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/services/impl/MicroserviceRestClientImpl.java
+SPDXID: SPDXRef-item12711288
+FileChecksum: SHA1: 500aa66b4a02687ce5e1558e4e7b6d0279022c68
+FileChecksum: MD5: 09a76dc2ae5e3b5d7b657f2b8775d8d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/services/impl/PortalRestClientImpl.java
+SPDXID: SPDXRef-item12711290
+FileChecksum: SHA1: baa9627c88ee231488c6a29d808da0c3f1be2e7d
+FileChecksum: MD5: dc879d74e0b401dc6e60dec568c446d5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/OnboardingNotificationTest.java
+SPDXID: SPDXRef-item12711217
+FileChecksum: SHA1: 27a258a70ff03f0492c1ef4abf2b56875c8864c0
+FileChecksum: MD5: 3ae1d3fa4c474c04e14ccae3b349c842
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-app-open/src/main/java/org/acumos/onboarding/open/service/RestServiceConfiguration.java
+SPDXID: SPDXRef-item12711148
+FileChecksum: SHA1: 36ecd9c27ce5a75ce8183e6610807e2823847ff6
+FileChecksum: MD5: 2a3ce3a99f82902ad82a700bce8777f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/CommonOnboardingTest.java
+SPDXID: SPDXRef-item12711228
+FileChecksum: SHA1: 2aa61d88642b8e7b05122c02acce810b525b5bab
+FileChecksum: MD5: a63d6e5e00c19158001209bb5a6a0e2e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/OnboardingControllerTest.java
+SPDXID: SPDXRef-item12711221
+FileChecksum: SHA1: 3b06d881aab9561626d52d0afbe1a51255e8c30b
+FileChecksum: MD5: 2d8069a6f73f23d0f47b6b6013ed9954
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/PortalRestClientImplTest.java
+SPDXID: SPDXRef-item12711233
+FileChecksum: SHA1: a160ead1614a0c8196a0ce6c7631af909a12977d
+FileChecksum: MD5: 9442f3ce24031dd1715794ff98b0a692
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/services/DockerService.java
+SPDXID: SPDXRef-item12711296
+FileChecksum: SHA1: c42cec0bca96de390724f7254dbe8d89364cac6b
+FileChecksum: MD5: c3671de40d4e0ca78341b35213b1bbcd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/component/docker/preparation/MetadataParser.java
+SPDXID: SPDXRef-item12711303
+FileChecksum: SHA1: ce6b19578f3b34752626550f6fdde3b56139b6a1
+FileChecksum: MD5: 1ece45c1d5cc9eb757ad8988dfb4fac5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/services/impl/OnboardingController.java
+SPDXID: SPDXRef-item12711289
+FileChecksum: SHA1: e0c2458349daca8050a75b27fbef3613a5394bc3
+FileChecksum: MD5: b75cc31e8483a76656e0dec7a8686a03
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/services/impl/CommonOnboarding.java
+SPDXID: SPDXRef-item12711294
+FileChecksum: SHA1: f089e6a1fbfcac6390befd11d0399adb7f8502f2
+FileChecksum: MD5: 4b740c06516755a0c528fe0b2dd78998
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/docs/database-install.rst
+SPDXID: SPDXRef-item12711084
+FileChecksum: SHA1: 85d225bf9d5ffdc36d749a6c77d84ad86302adf5
+FileChecksum: MD5: c0964913152f86cf37f219a26af164d7
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/docs/developer-guide.rst
+SPDXID: SPDXRef-item12711082
+FileChecksum: SHA1: c96b45a6c2df7d6273007f7c2abe7cd38dc171cf
+FileChecksum: MD5: 098a0624ed5c5283d987ffc20e64e124
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/docs/index.rst
+SPDXID: SPDXRef-item12711079
+FileChecksum: SHA1: d38d899c1562793e1fe9a6a255c204108ca63dfc
+FileChecksum: MD5: 35277a1248fafb10424b8b969b661fc9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/docs/overview.rst
+SPDXID: SPDXRef-item12711081
+FileChecksum: SHA1: 2e3a0d5c3f74e4caf82e3f6a7177cfcc9b3e0dc6
+FileChecksum: MD5: 535ab41534a8a1078cb6930002e1842c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/docs/release-notes.rst
+SPDXID: SPDXRef-item12711080
+FileChecksum: SHA1: 7c30c02307424a3076d8e86d9e7ba5397203f596
+FileChecksum: MD5: cf7d1bbc15c358d6444fc0fa89158c51
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/docs/user-guide.rst
+SPDXID: SPDXRef-item12711083
+FileChecksum: SHA1: 11a654a0bf95754b2aaeb10f1dbb729be3178625
+FileChecksum: MD5: cd4eb6533f4003e734b8d80c11cfca6f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/README.md
+SPDXID: SPDXRef-item12711036
+FileChecksum: SHA1: eaaa0fb5027c22b1418054b6d4c270dddd35fa7c
+FileChecksum: MD5: ad53a16971e1198b82928028f8deeea6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/docs/script/CLI_docker_image_uri_script.py
+SPDXID: SPDXRef-item12711158
+FileChecksum: SHA1: 2411e3fdb0207ecae9483315a91764119d3df8fb
+FileChecksum: MD5: 87550af9dde847cfbfe44f94e33f7b81
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Fraunhofer Gesellschaft. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding/docs/api-docs.rst
+SPDXID: SPDXRef-item12711186
+FileChecksum: SHA1: 4afd0d5b6ca28ee336210b14a2efe6528407c11b
+FileChecksum: MD5: 3cae1e9074f5dd97ee3abf6843f4ec65
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 <YOUR COMPANY NAME>. All rights reserved. </text>
+ 
+
+##File
+
+FileName: on-boarding-model-management/INFO.yaml
+SPDXID: SPDXRef-item12711037
+FileChecksum: SHA1: e33eef73716f854eb6c165358a5b2e716792891b
+FileChecksum: MD5: e91223eaf0e17337c54d6755eb039de4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding-model-management/.gitreview
+SPDXID: SPDXRef-item12711038
+FileChecksum: SHA1: c5b2640ddfcbf2c0f73dbae206f74739bccbfffa
+FileChecksum: MD5: 98e090aa5691ccfca8e57b7d8a45c4a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding-model-management/tox.ini
+SPDXID: SPDXRef-item12711041
+FileChecksum: SHA1: c3b88a8b918082767e2f6aaee6c0317395f92866
+FileChecksum: MD5: 1643169eda5b0811274aa1653b67f0bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding-model-management/tox-requirements.txt
+SPDXID: SPDXRef-item12711042
+FileChecksum: SHA1: ced25061cc2ff66ce47be39777fcd7fee7ffe699
+FileChecksum: MD5: 87a3d397c4aac4d917aa126a493b8e45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding-model-management/properties/settings.cfg.sample
+SPDXID: SPDXRef-item12711044
+FileChecksum: SHA1: 8333b43134adc98a8fb25624397809e2707b1140
+FileChecksum: MD5: ccf645cd1cea34cb6ebf5db63df57df2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding-model-management/properties/logging.json
+SPDXID: SPDXRef-item12711045
+FileChecksum: SHA1: da01bc48bee9c6fd36e2c1c9eaf684fcef5ff4bd
+FileChecksum: MD5: 744d3c8b13cea760ee9a3ec01cf078de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding-model-management/properties/settings.cfg
+SPDXID: SPDXRef-item12711046
+FileChecksum: SHA1: 8333b43134adc98a8fb25624397809e2707b1140
+FileChecksum: MD5: ccf645cd1cea34cb6ebf5db63df57df2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding-model-management/properties/config.ini
+SPDXID: SPDXRef-item12711047
+FileChecksum: SHA1: e4955427f227e2a337aa5519011cac74e22c3070
+FileChecksum: MD5: b5b2fe7078e4f7703734d873c5f7a5cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding-model-management/.gitattributes
+SPDXID: SPDXRef-item12711049
+FileChecksum: SHA1: 1fead8ae4a123d4c2526ba03777b256cb10f7a5a
+FileChecksum: MD5: 635578d7546b35d97c384e8708b86a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding-model-management/tests/__init__.py
+SPDXID: SPDXRef-item12711055
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding-model-management/.gitignore
+SPDXID: SPDXRef-item12711077
+FileChecksum: SHA1: 956fb3297a42b8b084c1f7a17eb50e7f9612815e
+FileChecksum: MD5: 7af72e73fa25b4e5e4691e2620806354
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding-model-management/pom.xml
+SPDXID: SPDXRef-item12711085
+FileChecksum: SHA1: 2939f7d960d085a66f3ff66c10b4f9a6adf29b27
+FileChecksum: MD5: 1317302f9b1fc55512f5cfcdcfdd2be3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding-model-management/setup.cfg
+SPDXID: SPDXRef-item12711086
+FileChecksum: SHA1: c49e3ee68044f3030956c16ae3abbdae9e0725ef
+FileChecksum: MD5: ac24c232af33108ef0b249b46f85247f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/base-image/README.md
+SPDXID: SPDXRef-item12711090
+FileChecksum: SHA1: 9bc9194fd890f4a64c7ea6b6aa0ca0231c365a42
+FileChecksum: MD5: cee1b4dc375d8a444eed62c23a5b45a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/base-image/r/packages.R
+SPDXID: SPDXRef-item12711092
+FileChecksum: SHA1: 67ce9dda684507910ee53c63592faaf8bf32cbe8
+FileChecksum: MD5: c1c3ff2c0ec256abd4b24ae41d246042
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/base-image/r/container-tag.yaml
+SPDXID: SPDXRef-item12711093
+FileChecksum: SHA1: aa1974311a54286d0959fb4de29053f878304b75
+FileChecksum: MD5: 6723df89afa249daf42b9d10d64e981d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/base-image/r/acumos.R
+SPDXID: SPDXRef-item12711094
+FileChecksum: SHA1: e1c1c9e8b7fb3bc7f141b92decc0dfbf74810897
+FileChecksum: MD5: 0ff61f760f076e1fb21e8af4abcb9877
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/base-image/r/Dockerfile
+SPDXID: SPDXRef-item12711095
+FileChecksum: SHA1: 8507fb3e4ef96ea5340c33960992315d550b934b
+FileChecksum: MD5: 1d6838aee6aa676b7ec9cecb580a5e0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/README.md
+SPDXID: SPDXRef-item12711096
+FileChecksum: SHA1: f14562dd298424587c9da902918e5ed095421a06
+FileChecksum: MD5: b6b53b5ca12b3806b05fac0ce585a48a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/INFO.yaml
+SPDXID: SPDXRef-item12711097
+FileChecksum: SHA1: a90774f23fa1b0277c89fa5139d5ce0fa0af8ecd
+FileChecksum: MD5: ea59728ef8fce7c5896792b228b08600
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/.gitreview
+SPDXID: SPDXRef-item12711098
+FileChecksum: SHA1: 11b306b25d18a39d3d0d93705f8f4cbe9798febd
+FileChecksum: MD5: ed9da2623aff5718d38489a192c2f938
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/swagger-api-docs.json
+SPDXID: SPDXRef-item12711099
+FileChecksum: SHA1: b0cdf161a0561df5d7ef6bfb9d9ded15a6f3b278
+FileChecksum: MD5: 460884ee791dfbb3f7a1183bee4aafa8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-4.1.0-maven-jar.yaml
+SPDXID: SPDXRef-item12711102
+FileChecksum: SHA1: 0063438ae12390cffefaa0e1d29df7ac9ea92c7d
+FileChecksum: MD5: 88aeab9f3d3abe610a1c4df38cc4f79e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-4.6.4-maven-docker.yaml
+SPDXID: SPDXRef-item12711103
+FileChecksum: SHA1: bbc5a3499fcbe31f847040d2b516855be63ec2e7
+FileChecksum: MD5: 22b0a42bb2f18ace159e62f5a31feb91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-4.6.4-maven-jar.yaml
+SPDXID: SPDXRef-item12711104
+FileChecksum: SHA1: 6bf2e5ca997070b9c419154962d686e771675fdc
+FileChecksum: MD5: 6ccf21943f10ac29cd2755f8a5b658a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-4.6.2-maven-docker.yaml
+SPDXID: SPDXRef-item12711105
+FileChecksum: SHA1: 6125ff86ca6c4fd497f5a9e122b5dbeb1e0efbac
+FileChecksum: MD5: 5518445ada7c033b1c1c2913c6ea4d9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-4.2.0-maven-docker.yaml
+SPDXID: SPDXRef-item12711106
+FileChecksum: SHA1: 8ed9d12769bd39dbaf9cfaf871225c493cc818fe
+FileChecksum: MD5: ede4042643c003f7e44150081a65ed08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-3.7.0-maven-jar.yaml
+SPDXID: SPDXRef-item12711107
+FileChecksum: SHA1: da2525711abbddaf84e8ee680b7d767af18bc34f
+FileChecksum: MD5: 6cc4ca3ad620426e30ff35903fa29d9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-4.6.3-maven-jar.yaml
+SPDXID: SPDXRef-item12711108
+FileChecksum: SHA1: 69aa908395eaeab755a72b085caedf550ee17801
+FileChecksum: MD5: 54e55f1e65bd7b5bb9b84cfe9f0e4ff7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-4.5.0-maven-docker.yaml
+SPDXID: SPDXRef-item12711109
+FileChecksum: SHA1: a79248a4f735e2599cbd9ae101bfab71db44bcc6
+FileChecksum: MD5: bd8a29d4ee46520fce24abe617bd0c58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/onboarding-base-r_1_2_2.yaml
+SPDXID: SPDXRef-item12711110
+FileChecksum: SHA1: de9b53679efcf0b44ed14294628ace0dccd52fc8
+FileChecksum: MD5: 06f1936e7bf7cc1932df110512a0a5c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-3.5.1-maven-jar.yaml
+SPDXID: SPDXRef-item12711111
+FileChecksum: SHA1: c265c645054c11716d0368c401529e704ef62409
+FileChecksum: MD5: 926800a89acf2e717a4a16728aa69e92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-4.6.3-maven-docker.yaml
+SPDXID: SPDXRef-item12711112
+FileChecksum: SHA1: b8ff9023004e7626ab53be4f9a7fbfef16becb86
+FileChecksum: MD5: e61d059d3100e403678f78afc80ae485
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-4.1.0-maven-docker.yaml
+SPDXID: SPDXRef-item12711113
+FileChecksum: SHA1: 05f8e77a7d590f471283e21599c6c7a216968f1d
+FileChecksum: MD5: 5df208ba8a0d37ac0923c26dd668db3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-3.5.1-maven-docker.yaml
+SPDXID: SPDXRef-item12711114
+FileChecksum: SHA1: 66498adb7aa203fcba6f680699f7221fa9f68e48
+FileChecksum: MD5: c9382f4fa13961624f7ebf2664d79bc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-4.6.1-maven-jar.yaml
+SPDXID: SPDXRef-item12711115
+FileChecksum: SHA1: d40f85fcae10d1f0195d88a198c5ddf78d543877
+FileChecksum: MD5: 772ac5cfcd2a54b250c3f4d62521a208
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-4.6.0-maven-docker.yaml
+SPDXID: SPDXRef-item12711116
+FileChecksum: SHA1: 6c83e6b6521085371c9526ccdf4baf3b593c5414
+FileChecksum: MD5: 4d5d554bdb9a4bd1f4d0df52e96702ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-maven-jar.yaml
+SPDXID: SPDXRef-item12711117
+FileChecksum: SHA1: 868e417b38c9d2372347c470c20f236bdb9d1459
+FileChecksum: MD5: 60a211ee43ea68c3227388ed276df059
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-3.6.0-maven-jar.yaml
+SPDXID: SPDXRef-item12711118
+FileChecksum: SHA1: c2378a6464f8499490473d120c494e0ca1adf95f
+FileChecksum: MD5: 469dc16ba5eb0541741675305311e810
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-4.6.1-maven-docker.yaml
+SPDXID: SPDXRef-item12711119
+FileChecksum: SHA1: 56a41ab24b04f677e1ed576af8a018a36fac5dc5
+FileChecksum: MD5: 1e89d1eae48b1ea56ed6f565868124cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-3.8.0-maven-docker.yaml
+SPDXID: SPDXRef-item12711120
+FileChecksum: SHA1: 3a14347d244007f999a21d72bef6c447c4537313
+FileChecksum: MD5: 29702e82080efe2d99688a4ad1ec15e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-4.6.2-maven-jar.yaml
+SPDXID: SPDXRef-item12711121
+FileChecksum: SHA1: dd6d4120e8660956b32a0b105b74d6a91840069b
+FileChecksum: MD5: c396a62eb7d8352a508da86d8ad29ca7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-3.8.1-maven-docker.yaml
+SPDXID: SPDXRef-item12711122
+FileChecksum: SHA1: 8f059c4647098776239fbf43ec555b1f5437da2c
+FileChecksum: MD5: cc254e2cf1fb79a17b7b53bb699f0428
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/onboarding-base-r.yaml
+SPDXID: SPDXRef-item12711123
+FileChecksum: SHA1: be7f51d0501921d33e6b2d8dc7c9ba50c78678cd
+FileChecksum: MD5: 7454ce7b2b3a195692a47c131f097836
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-3.8.0-maven-jar.yaml
+SPDXID: SPDXRef-item12711124
+FileChecksum: SHA1: 9be066520e3ff2565757d8f87a31ca6c542f76d9
+FileChecksum: MD5: 8a377356b29a5be5226d968bd43464b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-4.6.0-maven-jar.yaml
+SPDXID: SPDXRef-item12711125
+FileChecksum: SHA1: 5f93b5670c11592729a9882e063052a0cec99326
+FileChecksum: MD5: bf92f11b28bbba4f868c19dbf122cfb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-3.8.1-maven-jar.yaml
+SPDXID: SPDXRef-item12711126
+FileChecksum: SHA1: dc4a4307a1531848675063f974eb4a66db912b01
+FileChecksum: MD5: 5221914f72177ce227ac167e21f13078
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-3.6.0-maven-docker.yaml
+SPDXID: SPDXRef-item12711127
+FileChecksum: SHA1: b04fa9f1a685ef0ee671fb9800329dba7976ad31
+FileChecksum: MD5: bebefb23c107b824470ad641b942d889
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-4.4.0-maven-jar.yaml
+SPDXID: SPDXRef-item12711128
+FileChecksum: SHA1: c9bb0c6ba879c0b2d95e2e5c6beecaa9395ab101
+FileChecksum: MD5: 362e5367a978d2c065f8127284a5ecbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-4.3.0-maven-docker.yaml
+SPDXID: SPDXRef-item12711129
+FileChecksum: SHA1: 07d52104e8d3373cf8e35a65c79b6c060d8efa5c
+FileChecksum: MD5: c798bb4a8b8d8d1edb801f778cd3432c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-4.5.0-maven-jar.yaml
+SPDXID: SPDXRef-item12711130
+FileChecksum: SHA1: 7a47f24f9377e4a35f08f781ad7b1c287c4d4fca
+FileChecksum: MD5: 36b37fd5331e79597828abbce9bafae3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-4.2.0-maven-jar.yaml
+SPDXID: SPDXRef-item12711131
+FileChecksum: SHA1: eea1f1e4005cfc163b9bc4ccf55d9d312c9ecf63
+FileChecksum: MD5: 6d0671d4862b1f509c13246da80b093c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-4.3.0-maven-jar.yaml
+SPDXID: SPDXRef-item12711132
+FileChecksum: SHA1: e3ba16165bb41e861bd92cc16c7ed1fe4ef1a219
+FileChecksum: MD5: 30e74604808edd4d9c86366a6253d30b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/releases/release-4.4.0-maven-docker.yaml
+SPDXID: SPDXRef-item12711133
+FileChecksum: SHA1: 08b91c622311037218eb958b41edff965ec8a8de
+FileChecksum: MD5: 824d9ca308e6d85f6b18c3cb002a7e46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-app-open/application.properties
+SPDXID: SPDXRef-item12711135
+FileChecksum: SHA1: e30d1fa8373dbf0015d1babb03722b57eaaf1219
+FileChecksum: MD5: 7cb2295781589542a42cdd0b80de2e7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-app-open/.gitignore
+SPDXID: SPDXRef-item12711150
+FileChecksum: SHA1: b7e611b02b0fa6e913975c3c8fc233d6691abc1b
+FileChecksum: MD5: 2f21c05dcc32c43bd0cd05e53249349f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-app-open/pom.xml
+SPDXID: SPDXRef-item12711151
+FileChecksum: SHA1: e448ee86ab363fddad8ddd97b0e22f68de2db193
+FileChecksum: MD5: 84f9b4e2c81c477cacf873e11d659276
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/.gitattributes
+SPDXID: SPDXRef-item12711152
+FileChecksum: SHA1: 1fead8ae4a123d4c2526ba03777b256cb10f7a5a
+FileChecksum: MD5: 635578d7546b35d97c384e8708b86a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/.gitignore
+SPDXID: SPDXRef-item12711153
+FileChecksum: SHA1: caebdd1d121d24ffb762235bfcb84e49890fb0aa
+FileChecksum: MD5: 3058ed3777066c59c554d5776571d965
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/docs/tutorials/index.rst
+SPDXID: SPDXRef-item12711161
+FileChecksum: SHA1: 5bb27ddb389f3492a6971980d9867f1fecc0c8a6
+FileChecksum: MD5: 56cce94248469bf8629a023b9a2eb885
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/docs/media/UG_image2.png
+SPDXID: SPDXRef-item12711166
+FileChecksum: SHA1: ca23a5c1aad8d346f528d20fa03be5024a74c9e3
+FileChecksum: MD5: 5f9f7c7e0c1d83acc2765b76a6320e6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/docs/media/Architecture_Diagram.png
+SPDXID: SPDXRef-item12711167
+FileChecksum: SHA1: 922d475b1684947595ab9811bf83168d0ebfbe05
+FileChecksum: MD5: eab36337e3560d57ebf7046d5afa8e2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/docs/media/UG_image9.png
+SPDXID: SPDXRef-item12711168
+FileChecksum: SHA1: 59d717348d6ea0a50bc07ae9dbf0ab1967e30589
+FileChecksum: MD5: 1046c21167d8920f34647980cfe4766d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/docs/media/UseCase.png
+SPDXID: SPDXRef-item12711169
+FileChecksum: SHA1: d565af5b34bf7f6daedf5d2022fb7bdb887f5e0e
+FileChecksum: MD5: 3cdc1b02770ee1bee8c1e16a63d583c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/docs/media/UG_image1.png
+SPDXID: SPDXRef-item12711170
+FileChecksum: SHA1: bb70f4e9b6bc1f03f88fb220a3a6dbc304cf87a6
+FileChecksum: MD5: de8eda4e77dcff02cf94761906cdc5ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/docs/media/UG_image6.png
+SPDXID: SPDXRef-item12711171
+FileChecksum: SHA1: aa6ce8b8300ba54a123b94be94ee5e43e6cfb340
+FileChecksum: MD5: 0cd8efdec31a11b9bafc6abcf74ebf43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/docs/media/DockerFileStructure.png
+SPDXID: SPDXRef-item12711172
+FileChecksum: SHA1: 1c0ded155c38971f18bd4e178d536bff5f71f4d8
+FileChecksum: MD5: 5280a1f2e3763fb3c3ce11bb0aeada6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/docs/media/ArchitectureDiagram2.png
+SPDXID: SPDXRef-item12711173
+FileChecksum: SHA1: 2cca5d8c9ae8165849047ae4dadcbc27c5d7bd30
+FileChecksum: MD5: 20bb50773a9587b25b66c765e6a293d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/docs/media/HighLevelFlow.png
+SPDXID: SPDXRef-item12711174
+FileChecksum: SHA1: 7e60250f8ddd5543f792055818c9e40463135eee
+FileChecksum: MD5: bc2e61bedd2fc3fb46c72c77992d8b38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/docs/media/HighLevelFlow1ter.png
+SPDXID: SPDXRef-item12711175
+FileChecksum: SHA1: 37fe60c9d71869038553e1bfea6fd6c4073e05e6
+FileChecksum: MD5: 43843c88b89a30ac4c9ec7db333744ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/docs/media/UG_image8.png
+SPDXID: SPDXRef-item12711176
+FileChecksum: SHA1: 3467a8dcd77e9ececfea4762d89b5786d83c2335
+FileChecksum: MD5: 0294dc6304e902411afe3ec3ecec59d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/docs/media/HighLevelFlow1bis.png
+SPDXID: SPDXRef-item12711177
+FileChecksum: SHA1: 4f0bd1535be9ecc46d3a415edfa3b3a55321c9e9
+FileChecksum: MD5: 23738867a86378dd2702309fa031c0fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/docs/media/LowLevelDesign.png
+SPDXID: SPDXRef-item12711178
+FileChecksum: SHA1: 633bbbccff5d37b6018d27dd23553ef60ae2cbe0
+FileChecksum: MD5: b1d6d183c758243388bff657b3a9fc54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/docs/media/Obdr_arch_diagramm_c++_model.png
+SPDXID: SPDXRef-item12711179
+FileChecksum: SHA1: 9103736e034d37be28af54fa38dc9acc6dd84153
+FileChecksum: MD5: 17a0d2e79ccb5fcc48698b4b137bc802
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/docs/media/UG_image4.png
+SPDXID: SPDXRef-item12711180
+FileChecksum: SHA1: 41ea6255ec1362311f0c921f5156c0180cbfa99d
+FileChecksum: MD5: e01bd2725dd24fb6f610dbe7164b0a2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/docs/media/UG_image3.png
+SPDXID: SPDXRef-item12711181
+FileChecksum: SHA1: 9b2f3f89aa76458ccf80bae6f1d25e92c5026dcf
+FileChecksum: MD5: 760a2b729ab14c9aa14e2c4737693f63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/docs/media/ModelArtifact.png
+SPDXID: SPDXRef-item12711182
+FileChecksum: SHA1: 21c99e84e65760c087c0566f05aefec9988c1cc5
+FileChecksum: MD5: 602a6a964e5c69d1ca66cb6bb2cd896e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/docs/media/UG_image7.png
+SPDXID: SPDXRef-item12711183
+FileChecksum: SHA1: 5300e1ebf9596b3fa22f1de5f6104384c7ea17b7
+FileChecksum: MD5: 259635630dc3073022330fe37ff43201
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/docs/media/DesignArchitecture.png
+SPDXID: SPDXRef-item12711184
+FileChecksum: SHA1: ca23a5c1aad8d346f528d20fa03be5024a74c9e3
+FileChecksum: MD5: 5f9f7c7e0c1d83acc2765b76a6320e6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/docs/media/UG_image5.png
+SPDXID: SPDXRef-item12711185
+FileChecksum: SHA1: 169a9b44d85645953c7d51ceed467ecd4e50f70f
+FileChecksum: MD5: 562de5f0b7c8fa190caf62811dcc586f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/pom.xml
+SPDXID: SPDXRef-item12711187
+FileChecksum: SHA1: b6ac56c3669c6674b30c5ce144455e47c37db4d4
+FileChecksum: MD5: 95bbf26062e6337989fe7776f77d76c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/resources/model2.proto
+SPDXID: SPDXRef-item12711192
+FileChecksum: SHA1: 73a06171ba0d2d70053a23b63d5c6efacdacdd39
+FileChecksum: MD5: c7c4dff80ca9c6c6967705efffe1032f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/resources/model.onnx
+SPDXID: SPDXRef-item12711193
+FileChecksum: SHA1: 966363626c30790565f41e76cd09f6872e6d3412
+FileChecksum: MD5: aba58f914dbc9f68a57cfdb4dd70e2cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/resources/model.proto
+SPDXID: SPDXRef-item12711194
+FileChecksum: SHA1: 73a06171ba0d2d70053a23b63d5c6efacdacdd39
+FileChecksum: MD5: c7c4dff80ca9c6c6967705efffe1032f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/resources/modelDetails.json
+SPDXID: SPDXRef-item12711195
+FileChecksum: SHA1: 19ad55a96619b65118a8e611d91137ca517de2b1
+FileChecksum: MD5: 49219e9edc6ebd78f37443e75b85427f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/resources/outFile.csv
+SPDXID: SPDXRef-item12711196
+FileChecksum: SHA1: c54fb261b50079a83de117b56417e6fe25f6be51
+FileChecksum: MD5: 0d9dee60f2b3e9df11321a1dc8aafbb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/resources/packages.R
+SPDXID: SPDXRef-item12711197
+FileChecksum: SHA1: 591760ef3a0c2f23da406a4bbdcd8a49e161e96e
+FileChecksum: MD5: be3bc1e723f1b8db952bc07a5af6c9a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/resources/meta.json
+SPDXID: SPDXRef-item12711198
+FileChecksum: SHA1: eba1f3392b150a927d1e5ff8ff4881c882b5e30f
+FileChecksum: MD5: 832b55ecfe1f36b6d5e5ee775c470406
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/resources/wrap.json
+SPDXID: SPDXRef-item12711199
+FileChecksum: SHA1: ab34350883f3189150e2a7d41e872c738f2b8bb9
+FileChecksum: MD5: 15653584fdf3964f17abce076f9bb47e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/resources/model.pkl
+SPDXID: SPDXRef-item12711200
+FileChecksum: SHA1: 35c44899fbb24467a96575b6c86f1529ab61d229
+FileChecksum: MD5: ba066439711a75bc1b12333cad51c1e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/resources/java_genric.json
+SPDXID: SPDXRef-item12711201
+FileChecksum: SHA1: f3bb16c5aa84d57e67b60aa54ab8505e5b812578
+FileChecksum: MD5: fc476c40c6a43fed421255455dc7bb3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/resources/requirements.txt
+SPDXID: SPDXRef-item12711202
+FileChecksum: SHA1: 54fa4704fb47b2097dd5dacc078d15a91bbd6957
+FileChecksum: MD5: f4bb3f438dda0db0a9f6be673e73e367
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/resources/license.json
+SPDXID: SPDXRef-item12711203
+FileChecksum: SHA1: 966363626c30790565f41e76cd09f6872e6d3412
+FileChecksum: MD5: aba58f914dbc9f68a57cfdb4dd70e2cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/resources/inFile.csv
+SPDXID: SPDXRef-item12711204
+FileChecksum: SHA1: c54fb261b50079a83de117b56417e6fe25f6be51
+FileChecksum: MD5: 0d9dee60f2b3e9df11321a1dc8aafbb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/resources/metadata.json
+SPDXID: SPDXRef-item12711205
+FileChecksum: SHA1: 966363626c30790565f41e76cd09f6872e6d3412
+FileChecksum: MD5: aba58f914dbc9f68a57cfdb4dd70e2cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/resources/model_pb2.py
+SPDXID: SPDXRef-item12711206
+FileChecksum: SHA1: 0dd223c29edc8d0afdaca13557eb983c2cb9854f
+FileChecksum: MD5: da28f56cb8555055ca9a954191a5d357
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/resources/Dockerfile
+SPDXID: SPDXRef-item12711207
+FileChecksum: SHA1: 339eface09edb3c4f79f3934f9f0b800dbf4f586
+FileChecksum: MD5: ff5145827843778d2512da2bcdfa3c4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/model.proto
+SPDXID: SPDXRef-item12711212
+FileChecksum: SHA1: 73a06171ba0d2d70053a23b63d5c6efacdacdd39
+FileChecksum: MD5: c7c4dff80ca9c6c6967705efffe1032f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/MicroserviceRestClientImplTest.java
+SPDXID: SPDXRef-item12711216
+FileChecksum: SHA1: 748e0e0b7938e781b389d953c649527a4eaafaab
+FileChecksum: MD5: bf3c9a081ed5019e1153779a5107f64b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/ProtobufRevisionTest.java
+SPDXID: SPDXRef-item12711218
+FileChecksum: SHA1: 6b0aa1c898cc88855c7bae22bbe4cb48447df867
+FileChecksum: MD5: 5ca161851b667c969ccb9fdde6bdc4c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/DownloadModelArtifactsTest.java
+SPDXID: SPDXRef-item12711223
+FileChecksum: SHA1: 720cf8e4dfe1156dddcd613fc895cdc0001858b9
+FileChecksum: MD5: 8d5e766b11b6934b8ef6e19a58c4b7e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/OnboardingLogAdapterTest.java
+SPDXID: SPDXRef-item12711229
+FileChecksum: SHA1: 1a70a4deefc626972b516ef5cac20cf5c6d39392
+FileChecksum: MD5: 7542189568010f1b263934a0ed10025b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/test/java/org/acumos/onboarding/metadata.json
+SPDXID: SPDXRef-item12711230
+FileChecksum: SHA1: 424287c8f9af0b639a157ac6402ba1a70a2dab2b
+FileChecksum: MD5: 8c4ad52caec3dfed61c21a0b28faaab4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/resources/model-schema-0.5.0.json
+SPDXID: SPDXRef-item12711236
+FileChecksum: SHA1: e9a8aba3def80c249334918e5102142b8a05f954
+FileChecksum: MD5: dfe715da21fef4a07fbd474ac80a2103
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/resources/TOSCAApplication.properties
+SPDXID: SPDXRef-item12711237
+FileChecksum: SHA1: fb44e4bd1c615ba7689282699c5e0a2fa2c0770b
+FileChecksum: MD5: 4c119bcd2f5339ca687555fbf34ff369
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/resources/model-schema-0.4.0.json
+SPDXID: SPDXRef-item12711238
+FileChecksum: SHA1: 7bcb6c39983d441bc1a82dd77cab4e64bfbfe277
+FileChecksum: MD5: 21b0dbc5e4abf4ba04efa459df58bd5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/resources/model-schema-0.3.0.json
+SPDXID: SPDXRef-item12711239
+FileChecksum: SHA1: 82fecad3ae5cc1b5cd64bcd9553cb255f878bd5d
+FileChecksum: MD5: c7b12cd414124a3e04dd3bd8e6b3e172
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/resources/model-schema-0.6.0.json
+SPDXID: SPDXRef-item12711240
+FileChecksum: SHA1: 7964f4ba2ec717a7dade7bf0b2f86e9a06fe1d98
+FileChecksum: MD5: e3a8be98feb1af619d184d4b9273fbab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/proto/MessageNameComparator.java
+SPDXID: SPDXRef-item12711252
+FileChecksum: SHA1: d1ba712f290a8d8418da753f6f53ec74de84a92a
+FileChecksum: MD5: cc810439bb5debdc24821994c877a47b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/proto/MessageFieldNameComparator.java
+SPDXID: SPDXRef-item12711255
+FileChecksum: SHA1: f0840e2bd9d5698ff8bf7a131dfa187ba75e440e
+FileChecksum: MD5: 1b68974f8f6547a9726cb0f0fc4e7921
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/proto/ServiceNameComparator.java
+SPDXID: SPDXRef-item12711256
+FileChecksum: SHA1: f76e6aa1763091482c8159193bbd2c1bfe613fde
+FileChecksum: MD5: 254947c9cc774e78ac50c409b54fd816
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/common/proto/RevisionListDateComaparator.java
+SPDXID: SPDXRef-item12711257
+FileChecksum: SHA1: ec6dcf34b5e4a3773d0023db37f4172e1f0cc2fe
+FileChecksum: MD5: 0b44d547acbed6d51ee55d8f4d019975
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/services/impl/ProtobufRevision.java
+SPDXID: SPDXRef-item12711291
+FileChecksum: SHA1: 48b44e9e43ce2a6aa24902da8983e2c15c379bb1
+FileChecksum: MD5: f642ad0a018032d8448e0b95c82edd39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/services/ProtoServiceBase.java
+SPDXID: SPDXRef-item12711295
+FileChecksum: SHA1: 330248ae8bb6ae546895c304b2de8bb2def11d15
+FileChecksum: MD5: 19e38132c68e2ad3d0c02e140c6ed597
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/src/main/java/org/acumos/onboarding/services/ProtoService.java
+SPDXID: SPDXRef-item12711299
+FileChecksum: SHA1: 6ac79a8cc611427038ddbf02547aba995a772d81
+FileChecksum: MD5: a53a2ca3fb68f23416a69b7a98fe6154
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/.gitignore
+SPDXID: SPDXRef-item12711306
+FileChecksum: SHA1: b7e611b02b0fa6e913975c3c8fc233d6691abc1b
+FileChecksum: MD5: 2f21c05dcc32c43bd0cd05e53249349f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: on-boarding/onboarding-common/pom.xml
+SPDXID: SPDXRef-item12711307
+FileChecksum: SHA1: ffe2cf1141f79b26f4683ad8f969f533034049b3
+FileChecksum: MD5: 6e4519d9f7ce9d2d075ef8e4c74d674b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
