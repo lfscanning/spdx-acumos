@@ -1,0 +1,1256 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_vm-predictor-2021-01-28.zip_1612291324.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-02-02T18:42:05Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: vm-predictor-2021-01-28.zip
+PackageFileName: vm-predictor-2021-01-28.zip
+SPDXID: SPDXRef-upload3297
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 02c105edab4e5606697572aa617aa7b88fd74b85
+PackageChecksum: SHA1: 58698a0a44ae2930fe3895956d01da7ed9096764
+PackageChecksum: MD5: 466fea620b0694dd4509720ef20bf850
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3297
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: vm-predictor/README.md
+SPDXID: SPDXRef-item12716609
+FileChecksum: SHA1: 035375cadf21fde26b7c6a8eb3929cbfc2b3cab6
+FileChecksum: MD5: 7b3a1be98f9814dd81648c77dadac569
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/README.md
+SPDXID: SPDXRef-item12716657
+FileChecksum: SHA1: c21a35c1e93a8092046d361a6d12ebc6c837f671
+FileChecksum: MD5: d453938c724c52adcc964ebf3377bed2
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/docs/index.rst
+SPDXID: SPDXRef-item12716698
+FileChecksum: SHA1: 4110cf9fb2f5a8241a49e5702a26bb7d575e420b
+FileChecksum: MD5: 611ef00588881c002201e2221b145adf
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/docs/tutorials/index.rst
+SPDXID: SPDXRef-item12716700
+FileChecksum: SHA1: f7998e04cbcb87c95718604eca4235cbbbae9ac6
+FileChecksum: MD5: abd30849d410b9cd42618f44fe222fa2
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/docs/release-notes.md
+SPDXID: SPDXRef-item12716706
+FileChecksum: SHA1: cde12f55d118d25e8385679d4528a06bc276bff6
+FileChecksum: MD5: c074b6f29fbe0f5adc1cddd3ca3e2902
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/docs/tutorials/lesson3.md
+SPDXID: SPDXRef-item12716702
+FileChecksum: SHA1: 0842be11e317d67e1d778b1781ef44d07322c679
+FileChecksum: MD5: 6a75be2e13f0b0cffe4735ac43408b2f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/docs/tutorials/lesson2.md
+SPDXID: SPDXRef-item12716704
+FileChecksum: SHA1: ded225fa116c38bb771e9d3686f2f6d59e54e2ce
+FileChecksum: MD5: 557f44782500e893ad3d933f7277fb1f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/docs/tutorials/lesson1.md
+SPDXID: SPDXRef-item12716701
+FileChecksum: SHA1: 99eb7e3573c0567fbc2c39548f399f3ddcca7e23
+FileChecksum: MD5: f73f425047584dbd2a5fa50c7ffe9cc2
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/docs/vm-predictor.md
+SPDXID: SPDXRef-item12716707
+FileChecksum: SHA1: e4aa5f8accf2a10c05c56bbcd9fc0807c3bb88bc
+FileChecksum: MD5: da6cf2233d5af82c210f948086731288
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/legacy/experiment/df_colnospc.py
+SPDXID: SPDXRef-item12716615
+FileChecksum: SHA1: 5ec3105fe304b4a29454c2c9caa9a5e4ca9739c2
+FileChecksum: MD5: 0b30ce776799e52d0059215e47b83a69
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/legacy/experiment/spam_score.py
+SPDXID: SPDXRef-item12716616
+FileChecksum: SHA1: 8dda95d2d5ab5adf544b2012ddbde3173df0e104
+FileChecksum: MD5: dfb800d92dd610cdbb8db19b12c82377
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/legacy/experiment/df_col2float.py
+SPDXID: SPDXRef-item12716614
+FileChecksum: SHA1: 5864f9e79b6d84c7deb6a210adcb0eeda4e8afd8
+FileChecksum: MD5: 3643c74d9da5334e3478d9102bec7ef3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/legacy/experiment/date_demo.py
+SPDXID: SPDXRef-item12716617
+FileChecksum: SHA1: 056c07fe03fa259d319223f8539b908d91801c10
+FileChecksum: MD5: 971fcaad41ef793a8e3c2a9bb055d50b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/legacy/bin/example-python.sh
+SPDXID: SPDXRef-item12716620
+FileChecksum: SHA1: 35d1453bb3bcca1d557d3cf31ec07bab58071973
+FileChecksum: MD5: 3dac6e2f953bc9565b32a88881888f49
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/legacy/experiment/df_trim.py
+SPDXID: SPDXRef-item12716618
+FileChecksum: SHA1: 0839ba99c4a070c4f2a033abdd1aa4697a0c8fb5
+FileChecksum: MD5: d0bfe5fb2a848b1894af8402464f78dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/legacy/bin/run_vm_and_subscriber.sh
+SPDXID: SPDXRef-item12716621
+FileChecksum: SHA1: 85b76b14fc43178b5ba8b2306608ba20e7325a82
+FileChecksum: MD5: c432e15f3cfcff2ed2703c6f4feb8070
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/legacy/bin/example-envfile.sh
+SPDXID: SPDXRef-item12716622
+FileChecksum: SHA1: 029012273985b690f2b266c6ce7beba31c5b4d8e
+FileChecksum: MD5: fd434646a4d15b579d30e808444ae2a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/legacy/bin/run_all_models.sh
+SPDXID: SPDXRef-item12716623
+FileChecksum: SHA1: 380ac41021915a1ab29637ef21494b8fb3d1fccc
+FileChecksum: MD5: 2cee6e91502fcc99f0745f5293b1b7fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/setup.py
+SPDXID: SPDXRef-item12716626
+FileChecksum: SHA1: b1f4f2479c90ba34ad8887ea3af09ef0171ed2fc
+FileChecksum: MD5: 3f92d67851a46096f5d90b470c3f19c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/legacy/bin/run_vm_models.sh
+SPDXID: SPDXRef-item12716624
+FileChecksum: SHA1: 6f4c27047baf8c66adc7de1cdf8e0229bb8a78e5
+FileChecksum: MD5: 87a9ae5e5af0cfb3795989bb5debaa13
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/legacy/bin/run-example-python.sh
+SPDXID: SPDXRef-item12716625
+FileChecksum: SHA1: be354498b0702a6a4fab1d97ebecd7122da6bc7f
+FileChecksum: MD5: af70ff1ba4321ece3f052d19e6b94881
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/LICENSE.txt
+SPDXID: SPDXRef-item12716627
+FileChecksum: SHA1: be41bceae5e7cb51063549a900882902ef9b2b3c
+FileChecksum: MD5: 01559fed84cd9ca90d5b76e19d73d066
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/js/npm.js
+SPDXID: SPDXRef-item12716637
+FileChecksum: SHA1: bd0b0f0ffd2ad4dfd98b48ec4ae01533ce62e590
+FileChecksum: MD5: d1d5a3eeff560886e47270d85cd0f77b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/vmpredictor.html
+SPDXID: SPDXRef-item12716683
+FileChecksum: SHA1: 5869a53431f4c5a872f0defdfc3413e904721e3f
+FileChecksum: MD5: 48af4b2f0c07a2af3ce15b42a64a632e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/custom/vmpredictor.css
+SPDXID: SPDXRef-item12716692
+FileChecksum: SHA1: 4f4716fbfddc07704a1ed1e3f88f88680c2349ef
+FileChecksum: MD5: 0fc3b639acdfeeed3008cd7da415684e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/custom/vmpredictor.js
+SPDXID: SPDXRef-item12716693
+FileChecksum: SHA1: f96ed3822fb8d240661abe2fde05bd27cf533e02
+FileChecksum: MD5: 803cb3380bc839eb5c13adb79025a12f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/vm_predictor/StringColumnEncoder.py
+SPDXID: SPDXRef-item12716711
+FileChecksum: SHA1: 8da5bf54d57f76d60a12038f34fa9800e7e3807d
+FileChecksum: MD5: 6419e821df78599d95b885621d2737d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/vm_predictor/crome_train.py
+SPDXID: SPDXRef-item12716712
+FileChecksum: SHA1: cd008dcdbceeb98b67ce42233a1d862f73a49d22
+FileChecksum: MD5: f050b648acdb404a865b3e16969367d4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/vm_predictor/crome_multi.py
+SPDXID: SPDXRef-item12716714
+FileChecksum: SHA1: 7a9ca366b72d916c69f88499ee9ed65a12da505c
+FileChecksum: MD5: a6a047dbf5bbc15bfc290d5c80014410
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/vm_predictor/sample_FEAT.py
+SPDXID: SPDXRef-item12716713
+FileChecksum: SHA1: 5a00ec2ef65e6a199530663583277d48d6676803
+FileChecksum: MD5: 8ca9285333bd131472122012c9873953
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/vm_predictor/bigmodel.py
+SPDXID: SPDXRef-item12716717
+FileChecksum: SHA1: b627df5d7b823dcb4e767c971f7f02b7d02d07b2
+FileChecksum: MD5: 532dd8ce971f2494bbc43c23a734bd0d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/vm_predictor/ML_arima.py
+SPDXID: SPDXRef-item12716715
+FileChecksum: SHA1: 15c0b9e0c8d5772e297f3c3b6ed82f8a0984678e
+FileChecksum: MD5: 6e02f60f59ea5d74800fe19659da4b40
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/vm_predictor/util/dirList.py
+SPDXID: SPDXRef-item12716721
+FileChecksum: SHA1: 1ebc8276a8e7d06193a00ee1f0ef6807b0e2ba95
+FileChecksum: MD5: 02fcf69106162eadf4e5fb1fd85e847b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/vm_predictor/util/plot_test.py.old
+SPDXID: SPDXRef-item12716720
+FileChecksum: SHA1: b01942fdf6d80ced288123d0eaa8e603869d37dd
+FileChecksum: MD5: b8bb197132cbbceab84b0e2e127c799f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/vm_predictor/util/breakout_VMs.py
+SPDXID: SPDXRef-item12716719
+FileChecksum: SHA1: 24b1dda8f05731a5e99ba7ff150b4f0ba786530d
+FileChecksum: MD5: 86644782abe5a9f0d240bfcc41e6e41a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/vm_predictor/util/showFiles.py
+SPDXID: SPDXRef-item12716722
+FileChecksum: SHA1: c40fc27ed1bc41989965b7de74c04789845ce73e
+FileChecksum: MD5: 925ddbdcd609fa4f3da7017ce526df01
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/vm_predictor/tests/test_train.py
+SPDXID: SPDXRef-item12716728
+FileChecksum: SHA1: 6f51108757a5b83f96b0927cac5917ea788c26a9
+FileChecksum: MD5: 18b24ab456ab634d96b14dd9c92cee19
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/vm_predictor/util/add_FEAT_data.py
+SPDXID: SPDXRef-item12716724
+FileChecksum: SHA1: fcbbc7a835720f2427438d22ccb40e5e841e3d9b
+FileChecksum: MD5: eeebf34ff642d9ed84842fe42fba0336
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/vm_predictor/subscriber_models.py
+SPDXID: SPDXRef-item12716726
+FileChecksum: SHA1: 81213f6ed2b5306a374af3c46706a03f57e31038
+FileChecksum: MD5: 9806fc5c2a66c95894127c523f2d593d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/vm_predictor/crome.py
+SPDXID: SPDXRef-item12716725
+FileChecksum: SHA1: 60cb59b1df63efa25d10601727736ecbd6f28ffe
+FileChecksum: MD5: f379720a68a5cc9e2fe72e49c9a5dd95
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/vm_predictor/variations.py
+SPDXID: SPDXRef-item12716730
+FileChecksum: SHA1: 5d0ce2501a293e04a2790cf17ddfeb69e1694c07
+FileChecksum: MD5: 56927f9d9e777d02861740263f9bd6b1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/vm_predictor/preds2charts.py
+SPDXID: SPDXRef-item12716729
+FileChecksum: SHA1: 30bc9537c202594eda8ae8df5a678852fadc0e60
+FileChecksum: MD5: 7c007d41ccee8a180ce08c4708eaa82b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/vm_predictor/ML_h2o.py
+SPDXID: SPDXRef-item12716731
+FileChecksum: SHA1: d2e395abcd0a683d736027ca28edc7f0cdda79f3
+FileChecksum: MD5: 28cc3a85de972f44d1d742aee6053836
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/vm_predictor/h2o_vm_models.py
+SPDXID: SPDXRef-item12716732
+FileChecksum: SHA1: 6638e43927fe6fba2c5802485d011990cb8caf21
+FileChecksum: MD5: 23fbd45af921298185f18da6f19e2713
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/css/bootstrap.css
+SPDXID: SPDXRef-item12716653
+FileChecksum: SHA1: f597f59f955cda06e5d7a79342d9e0c22b5ec6d2
+FileChecksum: MD5: 2a31dca112f26923b51676cb764c58d5
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2011-2016 Twitter, Inc. </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/css/bootstrap.css.map
+SPDXID: SPDXRef-item12716652
+FileChecksum: SHA1: ca50d917657a1631d58ce0c791604760d5532d12
+FileChecksum: MD5: c7ffd8c7a285780039b2366034f3bca2
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2011-2016 Twitter, Inc. </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/css/bootstrap.min.css
+SPDXID: SPDXRef-item12716650
+FileChecksum: SHA1: 6527d8bf3e1e9368bab8c7b60f56bc01fa3afd68
+FileChecksum: MD5: ec3bb52a00e176a7181d454dffaea219
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2011-2016 Twitter, Inc. </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/css/bootstrap.min.css.map
+SPDXID: SPDXRef-item12716651
+FileChecksum: SHA1: e0d7b2bde55a0bac1b658a507e8ca491a6729e06
+FileChecksum: MD5: 35b79ebe0b7805c1c84524ad920faa33
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2011-2016 Twitter, Inc. </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/css/bootstrap-theme.css
+SPDXID: SPDXRef-item12716655
+FileChecksum: SHA1: 1468254bdfd4712c9f496b8f521225362a17ed95
+FileChecksum: MD5: b9b46bcc4dad6cc90fc4f95073c50735
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2011-2016 Twitter, Inc. </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/css/bootstrap-theme.css.map
+SPDXID: SPDXRef-item12716649
+FileChecksum: SHA1: 5b1fdfb2666d478d5b4911c7bbd49edbf1b47fb1
+FileChecksum: MD5: d6cc0a3c7532b74efe92da8992bd7542
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2011-2016 Twitter, Inc. </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/css/bootstrap-theme.min.css
+SPDXID: SPDXRef-item12716654
+FileChecksum: SHA1: 8256575374f430476bdcd49de98c77990229ce31
+FileChecksum: MD5: ab6b02efeaf178e0247b9504051472fb
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2011-2016 Twitter, Inc. </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/css/bootstrap-theme.min.css.map
+SPDXID: SPDXRef-item12716656
+FileChecksum: SHA1: 87f7dfd79d77051ac2eca7d093d961fbd1c8f6eb
+FileChecksum: MD5: 5f587b800215ee268efd2676ac010b25
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2011-2016 Twitter, Inc. </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/js/angular-animate.min.js
+SPDXID: SPDXRef-item12716636
+FileChecksum: SHA1: 758e93f4f9c4b6bd594023e39fd75ff893645746
+FileChecksum: MD5: 1e556a55bfbc544582b1ac121b9f262b
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> (c) 2010-2016 Google, Inc. http://angularjs.org </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/js/angular.js
+SPDXID: SPDXRef-item12716632
+FileChecksum: SHA1: 3d175dd9e341af98d733c060c948b74a89904278
+FileChecksum: MD5: badf97a1909c5784be3b1b66d05d5654
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> (c) 2010-2017 Google, Inc. http://angularjs.org </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/js/angular.min.js
+SPDXID: SPDXRef-item12716638
+FileChecksum: SHA1: d1592f45531b8c471048606c1b1607f69034d4d9
+FileChecksum: MD5: ed0ac421e5a640435b2900389405ccc6
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> (c) 2010-2016 Google, Inc. http://angularjs.org </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/js/angular-sanitize.js
+SPDXID: SPDXRef-item12716639
+FileChecksum: SHA1: aed4f33d4e6302503250a32d8293ccdcccc39224
+FileChecksum: MD5: 018cb4cd78803daa0397fcd51a26c544
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> (c) 2010-2016 Google, Inc. http://angularjs.org </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/js/angular-touch.min.js
+SPDXID: SPDXRef-item12716633
+FileChecksum: SHA1: e1d427d70a1d7fce86a24d81446c37d24c9ebd01
+FileChecksum: MD5: e4db8bd255b9298d7b487fb8634e6529
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> (c) 2010-2016 Google, Inc. http://angularjs.org </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/js/bootstrap.js
+SPDXID: SPDXRef-item12716645
+FileChecksum: SHA1: 3b965a36a6b08854ad6eddedf85c5319fd392b4a
+FileChecksum: MD5: fb81549ee2896513a1ed5714b1b1a0f0
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2011-2016 Twitter, Inc. </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/js/bootstrap.min.js
+SPDXID: SPDXRef-item12716635
+FileChecksum: SHA1: 430a443d74830fe9be26efca431f448c1b3740f9
+FileChecksum: MD5: 5869c96cc8f19086aee625d670d741f9
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2011-2016 Twitter, Inc. </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/js/jquery.js
+SPDXID: SPDXRef-item12716646
+FileChecksum: SHA1: fd81582bf1b15e6747472df880ca822c362a97d1
+FileChecksum: MD5: 09dd64a64ba840c31a812a3ca25eaeee
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright jQuery Foundation and other contributors
+Copyright JS Foundation and other contributors </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/js/jquery.min.js
+SPDXID: SPDXRef-item12716643
+FileChecksum: SHA1: 1055018c28ab41087ef9ccefe411606893dabea2
+FileChecksum: MD5: c9f5aeeca3ad37bf2aa006139b935f0a
+LicenseConcluded: MIT
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: <text> (c) JS Foundation and other contributors </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/js/protobuf.js
+SPDXID: SPDXRef-item12716634
+FileChecksum: SHA1: aeb51f8ca6eb979f2bd2906bd91cc0ba5d79176a
+FileChecksum: MD5: 9e34bbf7c67d1df7640e9630e026eb7f
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> (c) 2016, daniel wirtz </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/js/protobuf.min.js
+SPDXID: SPDXRef-item12716642
+FileChecksum: SHA1: f8703dacf7197e26a46ec3e565fa915c659d820a
+FileChecksum: MD5: 1e7d7371412491b4e41a185fccd1b8e2
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> (c) 2016, daniel wirtz </text>
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/js/ui-bootstrap-tpls-2.5.0.js
+SPDXID: SPDXRef-item12716640
+FileChecksum: SHA1: 4fbb355c5657b8bd8154e44ca130e284deeb4a7c
+FileChecksum: MD5: 402af05a712f4f86c2313b8feb59f274
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/js/ui-bootstrap-tpls-2.5.0.min.js
+SPDXID: SPDXRef-item12716641
+FileChecksum: SHA1: f692082f69c296cc7635b01e1fef8173c27dac54
+FileChecksum: MD5: c572f42d057f681abb138e2c2c966157
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/INSTALL.txt
+SPDXID: SPDXRef-item12716608
+FileChecksum: SHA1: 91ed2077277395c62d191ed80e48e2298febb6a9
+FileChecksum: MD5: c5eea12677c6eccbbe70b02e12e14aa1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/INFO.yaml
+SPDXID: SPDXRef-item12716610
+FileChecksum: SHA1: 6fd2bb5f20c90e91fd611ca3880c066831bc27f9
+FileChecksum: MD5: f1f35920759518d535bb3292ab160f83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/.gitreview
+SPDXID: SPDXRef-item12716611
+FileChecksum: SHA1: cc7e08aca0db885c77e54d18f12f32a090d4d3c7
+FileChecksum: MD5: 9d4ffa6df56cd418a339998ed298499c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/tox.ini
+SPDXID: SPDXRef-item12716628
+FileChecksum: SHA1: 176d4b5f359a5865a3aba6aa082b0fc090182dc3
+FileChecksum: MD5: 6e95abef0bdbaece0de2790dc28239a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/requirements.txt
+SPDXID: SPDXRef-item12716629
+FileChecksum: SHA1: bff0d601703be3b220a2e8b0332593db440b8e44
+FileChecksum: MD5: 819fe474db538917634a71599a02e6da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/js/protobuf.min.js.map
+SPDXID: SPDXRef-item12716644
+FileChecksum: SHA1: de3653d20d0cc5d9b1e8e371e6b57b760bc0e2ec
+FileChecksum: MD5: a811eb0e3bffb6aa4067dfdc1a9a157f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/js/protobuf.js.map
+SPDXID: SPDXRef-item12716647
+FileChecksum: SHA1: 8d826930cdc96ca38b466f1e9486f0ba9e0a6535
+FileChecksum: MD5: 0aee26ffd1f6c828b2e44f6c4f9c753f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/assets/model.proto
+SPDXID: SPDXRef-item12716659
+FileChecksum: SHA1: 63631774ceb7f7f66ca8164ae1087893abd9bfc6
+FileChecksum: MD5: 3d92ae05270f41b5a3de848bd2855c48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/assets/charts/cpu_usage/16a0ad6e-4aff-4eb7-ac73-37426abfd16d.png
+SPDXID: SPDXRef-item12716662
+FileChecksum: SHA1: 62031f4d8c2ec738642fe6381a18627556de46cb
+FileChecksum: MD5: 23f846dc1836f8386bb75c464208ca99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/assets/charts/cpu_usage/rcdtxvVvn2b17.png
+SPDXID: SPDXRef-item12716663
+FileChecksum: SHA1: 712c764aa9c635214fbbad3ea2dd9299e5b17166
+FileChecksum: MD5: f659510871e043a32269f316b22d5515
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/assets/charts/cpu_usage/803e3807-59b0-4cb8-908e-f77ada7562a3.png
+SPDXID: SPDXRef-item12716664
+FileChecksum: SHA1: eec0d550758fb88a72f841189c3795c71d27bf3e
+FileChecksum: MD5: 22ac4da4541c42f8ba5186ae8cdefc1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/assets/charts/cpu_usage/340d7db3-8156-4117-8642-c1e006cdecb6.png
+SPDXID: SPDXRef-item12716665
+FileChecksum: SHA1: 5f02b844d595dd6a1cc306a4135c2b51c1c9d88c
+FileChecksum: MD5: e7f9a2bb4435934a554c1d96124e2418
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/assets/charts/cpu_usage/0abc84fd-0d20-47cd-bb90-843db3f2d805.png
+SPDXID: SPDXRef-item12716666
+FileChecksum: SHA1: 6a903461efa971e04feca3daa46a2906f72c80c5
+FileChecksum: MD5: 7d33f85b53808f63314dfcd659025c6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/assets/charts/cpu_usage/77049640-f68a-4f61-ad69-07193e4f1446.png
+SPDXID: SPDXRef-item12716667
+FileChecksum: SHA1: e748bded9cefbc96cc93d6513dd6aaa19b27aaa2
+FileChecksum: MD5: 094c902494e07650ac64048e9ce92acd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/assets/charts/net_usage/16a0ad6e-4aff-4eb7-ac73-37426abfd16d.png
+SPDXID: SPDXRef-item12716669
+FileChecksum: SHA1: 8f62f8b0cee2228ecefb4fb259a7d8547571b1c0
+FileChecksum: MD5: bdcb2a7b36d31cebd8eb1b9109a5ba49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/assets/charts/net_usage/rcdtxvVvn2b17.png
+SPDXID: SPDXRef-item12716670
+FileChecksum: SHA1: 0e04d47b6eb9de2436fb557448c09ed01953bbea
+FileChecksum: MD5: 46b36c3310e514d224e4a8c8301d7ed9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/assets/charts/net_usage/803e3807-59b0-4cb8-908e-f77ada7562a3.png
+SPDXID: SPDXRef-item12716671
+FileChecksum: SHA1: 29ee551bea3210d85ddc8468d55218c6b50c8c4e
+FileChecksum: MD5: 7e89215d3890ae5664f0302d3fc6251d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/assets/charts/net_usage/340d7db3-8156-4117-8642-c1e006cdecb6.png
+SPDXID: SPDXRef-item12716672
+FileChecksum: SHA1: 9799f4ef343274d5e664adf09e6a47eac2b1b91e
+FileChecksum: MD5: 33b7379e047425ce82d4cb1b04e7640e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/assets/charts/net_usage/0abc84fd-0d20-47cd-bb90-843db3f2d805.png
+SPDXID: SPDXRef-item12716673
+FileChecksum: SHA1: 68779c5cab46bdbd01f78253d36e0cfc7a3abfed
+FileChecksum: MD5: 7ac2221aa9a120a0873c525f30ece322
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/assets/charts/net_usage/77049640-f68a-4f61-ad69-07193e4f1446.png
+SPDXID: SPDXRef-item12716674
+FileChecksum: SHA1: 7f8e3d930e7a7722f30a2d2142cb2d3e466d4e6b
+FileChecksum: MD5: 317d30aee9dbba5ebb1789dd57de00f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/assets/charts/mem_usage/16a0ad6e-4aff-4eb7-ac73-37426abfd16d.png
+SPDXID: SPDXRef-item12716676
+FileChecksum: SHA1: 9751c799100b15d7d87dcb14b611487a4e0b69de
+FileChecksum: MD5: bd954b428d1aae0044551a4f73e90e2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/assets/charts/mem_usage/rcdtxvVvn2b17.png
+SPDXID: SPDXRef-item12716677
+FileChecksum: SHA1: add6cb6d1a2260f637c142e11e77b4e5cae3a7a3
+FileChecksum: MD5: 4787076007e8dbc5a70a69d6563b53b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/assets/charts/mem_usage/803e3807-59b0-4cb8-908e-f77ada7562a3.png
+SPDXID: SPDXRef-item12716678
+FileChecksum: SHA1: f532ff26e668eae235c3d6f3782e01141d90d2dd
+FileChecksum: MD5: e52ebfb9d2507194c70ea448c804c7cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/assets/charts/mem_usage/340d7db3-8156-4117-8642-c1e006cdecb6.png
+SPDXID: SPDXRef-item12716679
+FileChecksum: SHA1: eeb743120cf735a5e417107accca6b06e81dfc83
+FileChecksum: MD5: 6e3861e07cb4b7cfeb9845ae3deba23f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/assets/charts/mem_usage/0abc84fd-0d20-47cd-bb90-843db3f2d805.png
+SPDXID: SPDXRef-item12716680
+FileChecksum: SHA1: d87c713bda80acafe8dece82e6bea72a3893cebf
+FileChecksum: MD5: af08f2d27043d90a3fcc0ad6f2f4438c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/assets/charts/mem_usage/77049640-f68a-4f61-ad69-07193e4f1446.png
+SPDXID: SPDXRef-item12716681
+FileChecksum: SHA1: d722362e419f070b8118ffe1def3ac1a5202748e
+FileChecksum: MD5: bccd0b3a93046603a953c9c66292e288
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/assets/header.png
+SPDXID: SPDXRef-item12716682
+FileChecksum: SHA1: 2e660c1b83ba876b5f290e450f448e81b1edbe0d
+FileChecksum: MD5: b4b2044e5efef1214a36d00a2a90b37f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/fonts/glyphicons-halflings-regular.woff
+SPDXID: SPDXRef-item12716685
+FileChecksum: SHA1: 278e49a86e634da6f2a02f3b47dd9d2a8f26210f
+FileChecksum: MD5: fa2772327f55d8198301fdb8bcfc8158
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/fonts/glyphicons-halflings-regular.svg
+SPDXID: SPDXRef-item12716686
+FileChecksum: SHA1: de51a8494180a6db074af2dee2383f0a363c5b08
+FileChecksum: MD5: 89889688147bd7575d6327160d64e760
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/fonts/glyphicons-halflings-regular.ttf
+SPDXID: SPDXRef-item12716687
+FileChecksum: SHA1: 44bc1850f570972267b169ae18f1cb06b611ffa2
+FileChecksum: MD5: e18bbf611f2a2e43afc071aa2f4e1512
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/web_demo/fonts/glyphicons-halflings-regular.woff2
+SPDXID: SPDXRef-item12716688
+FileChecksum: SHA1: ca35b697d99cae4d1b60f2d60fcd37771987eb07
+FileChecksum: MD5: 448c34a56d699c29117adc64c43affeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/tests/tox-requirements.txt
+SPDXID: SPDXRef-item12716695
+FileChecksum: SHA1: e88fbe8952e3f838172b106ea461219c220282bd
+FileChecksum: MD5: d4cae1e4232395e245751852ad38ba93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/.gitignore
+SPDXID: SPDXRef-item12716696
+FileChecksum: SHA1: 65b862c75768ffd4e8fd4c1812f16949d4ce7793
+FileChecksum: MD5: 1486ae74435942c68a3624237954ee6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/docs/tutorials/example_running.jpg
+SPDXID: SPDXRef-item12716703
+FileChecksum: SHA1: 213353f1c963b51e03bd3887860b0dc63bacbb9e
+FileChecksum: MD5: 1804bbdc61e0350091d2598335d762a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Apple Inc., 2017 </text>
+ 
+
+##File
+
+FileName: vm-predictor/docs/catalog_image.png
+SPDXID: SPDXRef-item12716705
+FileChecksum: SHA1: 42c61de87d4a3ce8cd95d34250c9707ba5104399
+FileChecksum: MD5: 878b9d039962c133c6fe2f77beea4b3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/pom.xml
+SPDXID: SPDXRef-item12716708
+FileChecksum: SHA1: f6e0348bf0a1a551de794c0a59335320ab02f178
+FileChecksum: MD5: eee801a8de979ebd8405fc310ae8de28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/vm_predictor/_version.py
+SPDXID: SPDXRef-item12716710
+FileChecksum: SHA1: d4e0708d39ea689e0caf4bd56112b9e72c1f4407
+FileChecksum: MD5: 0410c0cd9ffd2bf3c7c6578489eb5b66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/vm_predictor/__init__.py
+SPDXID: SPDXRef-item12716716
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/vm_predictor/util/__init__.py
+SPDXID: SPDXRef-item12716723
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/data/multi/test-features.csv
+SPDXID: SPDXRef-item12716735
+FileChecksum: SHA1: 968ba52f7502f92a57d8397380ea5ae8fb68982c
+FileChecksum: MD5: a761a0f713fe07dd13da170e02656b40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/data/multi/raw-feature.csv.gz/raw-feature.csv
+SPDXID: SPDXRef-item12716738
+FileChecksum: SHA1: 893c914be272d3e1ad655d0d0e22561ec79e66c7
+FileChecksum: MD5: a05a43d3665bc81f9488132729f51fd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/data/single/test.csv
+SPDXID: SPDXRef-item12716740
+FileChecksum: SHA1: 34442a476203f9fd3e7b187eadbe2493e42d30a9
+FileChecksum: MD5: 8786369c8069991be5664b4e3e759229
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vm-predictor/data/single/train.csv
+SPDXID: SPDXRef-item12716741
+FileChecksum: SHA1: 0fe3c075570a786b463ffedc08b4cfd63488d1a7
+FileChecksum: MD5: bb7f2e825fd897e7e49e8590921bfbfa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
