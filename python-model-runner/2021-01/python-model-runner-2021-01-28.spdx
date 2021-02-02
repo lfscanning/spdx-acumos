@@ -1,0 +1,1129 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_python-model-runner-2021-01-28.zip_1612291247.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-02-02T18:40:47Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: python-model-runner-2021-01-28.zip
+PackageFileName: python-model-runner-2021-01-28.zip
+SPDXID: SPDXRef-upload3288
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 7d3929dcba6cbbb691f0c795bea3fa226d253374
+PackageChecksum: SHA1: d1f207728a432ada205da6c1b2deff9aac48f9af
+PackageChecksum: MD5: 985fc1c785828ebf8d15a79aa140c06b
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3288
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: python-model-runner/README.rst
+SPDXID: SPDXRef-item12713434
+FileChecksum: SHA1: 3833274c2f05f66516d22b3e84a36ee2488777a9
+FileChecksum: MD5: 887bcaecf5602b4e7815624d15c498bd
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/examples/README.rst
+SPDXID: SPDXRef-item12713436
+FileChecksum: SHA1: 33f13875e4696b848bd0efc249a165c7776118a0
+FileChecksum: MD5: c9bd3dc756d41a34745dc077400dd92c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/docs/developer-guide.rst
+SPDXID: SPDXRef-item12713581
+FileChecksum: SHA1: 49ad52bc834629efebe67b42037935ed344d1cb6
+FileChecksum: MD5: d371ef5deecdebbdfb9c1d2d8b6113c1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/docs/index.rst
+SPDXID: SPDXRef-item12713579
+FileChecksum: SHA1: 59fd583da408e0c4ff96a082564b46c43fedf4e0
+FileChecksum: MD5: 71830cc80c80ce6b510e41db906e1b16
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/docs/user-guide.rst
+SPDXID: SPDXRef-item12713582
+FileChecksum: SHA1: 618cf72217e7f9331f2115d064196caa8d4a3945
+FileChecksum: MD5: 1bd20b0235729967935544553dc8c7e1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/docs/tutorial/index.rst
+SPDXID: SPDXRef-item12713584
+FileChecksum: SHA1: 0e7ce40cae53739b8aa010226a41c2e05cb9b6e0
+FileChecksum: MD5: a9b6a96cb1ede6ffba306946e5e93ad9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/docs/release-notes.rst
+SPDXID: SPDXRef-item12713580
+FileChecksum: SHA1: 829a9172cbd3b1f6b8956cccf49bc97edeb33c77
+FileChecksum: MD5: ef7eb4d31b5e17c211281e1276707f50
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2020 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/__init__.py
+SPDXID: SPDXRef-item12713453
+FileChecksum: SHA1: e74559ca159346edf900f2c045e28b4c1cba318c
+FileChecksum: MD5: 2cda90ad3b1cdcb755fe7c89ee830d54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/LICENSE.txt
+SPDXID: SPDXRef-item12713440
+FileChecksum: SHA1: da598254ed37da7207501cb3f2b417cf5000f540
+FileChecksum: MD5: ae8aeb3ac4fb125e53de2671fc6ed945
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/examples/chain_models.py
+SPDXID: SPDXRef-item12713437
+FileChecksum: SHA1: 9e60f041a084b2f057bd0edb81dbdc09278e7635
+FileChecksum: MD5: e8673cedc2ba2171d7c2b11de5d07b38
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/examples/example_model.py
+SPDXID: SPDXRef-item12713438
+FileChecksum: SHA1: 8300b57dcbd280c8087431da30080f9221f7b5b8
+FileChecksum: MD5: 38e001f20eb6bf7bf7eb3741c2c353a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/proto_parser.py
+SPDXID: SPDXRef-item12713452
+FileChecksum: SHA1: 7004dd47187d5ee855b57e7d636c86b430e6bf56
+FileChecksum: MD5: a3132b7b0d7b6640196b579299050636
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/test_oas_gen.py
+SPDXID: SPDXRef-item12713456
+FileChecksum: SHA1: 6a534c867aede0ac73b98f600d52bf53f6b0e4d4
+FileChecksum: MD5: fc09339259d9a263740196b814617ae5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/test_proto_parser.py
+SPDXID: SPDXRef-item12713461
+FileChecksum: SHA1: 38fa0d3fefc9a30af01b9e886f07f9bc556d41c1
+FileChecksum: MD5: 6ffaf2b2dbfa25415e979b476a7056bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/testing_utils.py
+SPDXID: SPDXRef-item12713463
+FileChecksum: SHA1: 2fbb52ab5322367af218749f6aabe6c23502ffec
+FileChecksum: MD5: ec8aa0867b36fb8abf8dda62e086800c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/utils.py
+SPDXID: SPDXRef-item12713569
+FileChecksum: SHA1: a216462bd3aac9fd726ca276861668371b7d7931
+FileChecksum: MD5: f5cfa4b63b8327116128d652be9365f4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/runner.py
+SPDXID: SPDXRef-item12713454
+FileChecksum: SHA1: 4f05656033d4481be81887510577d8b047bbc181
+FileChecksum: MD5: 3f2942980140f01a1520b12d82aa1510
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/oas_gen.py
+SPDXID: SPDXRef-item12713576
+FileChecksum: SHA1: 56eb95d13739dab30f6b8f14cfd42ad88894268d
+FileChecksum: MD5: 7468160b49e3e88824574ef55370adba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2020 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: python-model-runner/setup.py
+SPDXID: SPDXRef-item12713439
+FileChecksum: SHA1: a4d8052728754e673d9577b9926a94fcc54a0761
+FileChecksum: MD5: bd2d2c25c4337e56888244f073486c24
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/api.py
+SPDXID: SPDXRef-item12713450
+FileChecksum: SHA1: 89b51d3d775974583e10ca937e46adabc43de496
+FileChecksum: MD5: 063f8aba1d5f8f61a6f8318fc0a4867f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/runner_helper.py
+SPDXID: SPDXRef-item12713458
+FileChecksum: SHA1: 1e9dce748c96cdb258093332be2104152e19b884
+FileChecksum: MD5: 8b890c1797e9fbe8d4541f15675158ba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/test_backward_compatibility.py
+SPDXID: SPDXRef-item12713459
+FileChecksum: SHA1: edf208beb9723bcaadc6795980791b11296db7d3
+FileChecksum: MD5: f46e143ee024a307a8a59e359c7d505f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Orange All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/_version.py
+SPDXID: SPDXRef-item12713451
+FileChecksum: SHA1: 3010cdc855389b0c9811b87d87fcfe59ebbdc4c0
+FileChecksum: MD5: 61bfd6f8ff1ce1d531252f2d59541bd5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2020 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/test_runner.py
+SPDXID: SPDXRef-item12713462
+FileChecksum: SHA1: e587b824a255c6606d109e36d9980b78d2616116
+FileChecksum: MD5: a2659a80c30cd6bc966665470b0fa2ea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/data/templates/0.6.0/base.yaml
+SPDXID: SPDXRef-item12713575
+FileChecksum: SHA1: ef3de0d05dc5f4cce39655aea2078014e26d57e8
+FileChecksum: MD5: e0048371e226f5b75b9699f275f12e56
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.6.5/oas.yaml
+SPDXID: SPDXRef-item12713532
+FileChecksum: SHA1: 4c184bb0454dc61448168926919bc931fa0a9714
+FileChecksum: MD5: ab692c9497f3cc8f7e734a7e0bbf13da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.7.2/oas.yaml
+SPDXID: SPDXRef-item12713557
+FileChecksum: SHA1: 4c184bb0454dc61448168926919bc931fa0a9714
+FileChecksum: MD5: ab692c9497f3cc8f7e734a7e0bbf13da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.8.0/oas.yaml
+SPDXID: SPDXRef-item12713481
+FileChecksum: SHA1: 4c184bb0454dc61448168926919bc931fa0a9714
+FileChecksum: MD5: ab692c9497f3cc8f7e734a7e0bbf13da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.9.4/oas.yaml
+SPDXID: SPDXRef-item12713507
+FileChecksum: SHA1: 4c184bb0454dc61448168926919bc931fa0a9714
+FileChecksum: MD5: ab692c9497f3cc8f7e734a7e0bbf13da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/INFO.yaml
+SPDXID: SPDXRef-item12713432
+FileChecksum: SHA1: 51e6a387ab000a0aa5e2b9cf5dac63d0f4249706
+FileChecksum: MD5: 1bc6ac4b793bca40dc70f1d3731bc7a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/.gitreview
+SPDXID: SPDXRef-item12713433
+FileChecksum: SHA1: 55c3d5c7dd1d83a527697b45aeb3440fb033a803
+FileChecksum: MD5: 7c265de8a40c144596cf43f0edbb889f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/releases/pypi_0_2_5.yaml
+SPDXID: SPDXRef-item12713442
+FileChecksum: SHA1: aaabba289a8002ed057d39e9b4f908be0e962375
+FileChecksum: MD5: 44e0a4c6f3cc8ac419c9d08f2bd5847c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/releases/pypi_0_2_4.yaml
+SPDXID: SPDXRef-item12713443
+FileChecksum: SHA1: c2b39294d70f9338604279f302ad10d4805ecad9
+FileChecksum: MD5: c734ab88fd308e9a7df8ab5d0ed3e8a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/releases/pypi_0_2_6.yaml
+SPDXID: SPDXRef-item12713444
+FileChecksum: SHA1: bbc231fc35e0289657d7a9dcdc7c37d9ccd97695
+FileChecksum: MD5: 839f941f78f15a03269247940cb87b77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/releases/pypi.yaml
+SPDXID: SPDXRef-item12713445
+FileChecksum: SHA1: 1a3276e7c053fbdeea501b49f266492872d40d0a
+FileChecksum: MD5: 467610ad2fb4e2c35752f9c0be3070b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/tox.ini
+SPDXID: SPDXRef-item12713446
+FileChecksum: SHA1: e8fada94f8c0423582862359fc1b65032873359c
+FileChecksum: MD5: 2e6fb0bb15b3493d203244d7b0549bbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/MANIFEST.in
+SPDXID: SPDXRef-item12713447
+FileChecksum: SHA1: 9f2088490294b4750aeb73511c13bae2620796be
+FileChecksum: MD5: 28cc677828b0c8ab367d73c58b914c17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/.gitattributes
+SPDXID: SPDXRef-item12713448
+FileChecksum: SHA1: 1fead8ae4a123d4c2526ba03777b256cb10f7a5a
+FileChecksum: MD5: 635578d7546b35d97c384e8708b86a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/sample.proto
+SPDXID: SPDXRef-item12713457
+FileChecksum: SHA1: 24a5474e5ce08228e33ed723a16b18a3ef0eec9a
+FileChecksum: MD5: 1602ac6d0384d8c147c3e5da6919b4fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/sample.json
+SPDXID: SPDXRef-item12713460
+FileChecksum: SHA1: da96545ef035c7d9ec56389f217ef45a2fbc637f
+FileChecksum: MD5: db7d0860f3f4513d537c79505e5014d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/acumos_logo.png
+SPDXID: SPDXRef-item12713465
+FileChecksum: SHA1: bda479fd5dadf7d5c42b7b903f26744d3c1f3f6a
+FileChecksum: MD5: 4dedcdc53e1f123560da251652475f80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.8.0/model.proto
+SPDXID: SPDXRef-item12713468
+FileChecksum: SHA1: 61883f120a2e06c5d3898fa4f87030fce6417043
+FileChecksum: MD5: e0174d6de6b388d5ee4b1c420ea568e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.8.0/model.zip/context.json
+SPDXID: SPDXRef-item12713472
+FileChecksum: SHA1: fec7974d4fa0d4dd596c0d021ef039ed56ab89b9
+FileChecksum: MD5: 1dc821f4b6c44eac86e58548a6680be2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.8.0/model.zip/model.pkl
+SPDXID: SPDXRef-item12713473
+FileChecksum: SHA1: 37b43415abc7913b42532a9c3158b963675dec9b
+FileChecksum: MD5: 2456a830fe047719632059535ee945f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.8.0/model.zip/scripts/acumos_gen/ZBVatLCMyBknrNbgwSxygtBbZjgmHlzV/model_pb2.py
+SPDXID: SPDXRef-item12713477
+FileChecksum: SHA1: a6c0211e4aa78f69d964e4721ef69f8b3577ad63
+FileChecksum: MD5: 32719221650add648f725bdc4968c991
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.8.0/model.zip/scripts/user_provided/typing.py
+SPDXID: SPDXRef-item12713479
+FileChecksum: SHA1: 66c7949fdae4ad01dc52563e84ef09d060b06b91
+FileChecksum: MD5: ff2ec56f029775ab884daf2cc850ebed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.8.0/model.zip/scripts/user_provided/.keep
+SPDXID: SPDXRef-item12713480
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.8.0/metadata.json
+SPDXID: SPDXRef-item12713482
+FileChecksum: SHA1: c367ef14efd1d2749d9d3f2b7c2fd7a453498c2b
+FileChecksum: MD5: fe46fbd4269a7d94924a5f94de4b0582
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.8.0/model/context.json
+SPDXID: SPDXRef-item12713484
+FileChecksum: SHA1: fec7974d4fa0d4dd596c0d021ef039ed56ab89b9
+FileChecksum: MD5: 1dc821f4b6c44eac86e58548a6680be2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.8.0/model/model.pkl
+SPDXID: SPDXRef-item12713485
+FileChecksum: SHA1: 37b43415abc7913b42532a9c3158b963675dec9b
+FileChecksum: MD5: 2456a830fe047719632059535ee945f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.8.0/model/scripts/acumos_gen/ZBVatLCMyBknrNbgwSxygtBbZjgmHlzV/model_pb2.py
+SPDXID: SPDXRef-item12713489
+FileChecksum: SHA1: a6c0211e4aa78f69d964e4721ef69f8b3577ad63
+FileChecksum: MD5: 32719221650add648f725bdc4968c991
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.8.0/model/scripts/user_provided/typing.py
+SPDXID: SPDXRef-item12713491
+FileChecksum: SHA1: 66c7949fdae4ad01dc52563e84ef09d060b06b91
+FileChecksum: MD5: ff2ec56f029775ab884daf2cc850ebed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.8.0/model/scripts/user_provided/.keep
+SPDXID: SPDXRef-item12713492
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.9.4/model.proto
+SPDXID: SPDXRef-item12713494
+FileChecksum: SHA1: cc8b3c64c88f5137d4a0bafcb2c9d64aeac0f06e
+FileChecksum: MD5: dac412bde1c69bc722768ac14252cb56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.9.4/model.zip/context.json
+SPDXID: SPDXRef-item12713498
+FileChecksum: SHA1: 6a6ef45203a3e16cf929414554cfec4916bcf74a
+FileChecksum: MD5: 694f6e94eace34a07c0d43c8057347c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.9.4/model.zip/model.pkl
+SPDXID: SPDXRef-item12713499
+FileChecksum: SHA1: a358faab643dda3b59ad334be1a7f19f6b066622
+FileChecksum: MD5: d70f0a66ca3621cfb9d0515dcf4a9f19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.9.4/model.zip/scripts/acumos_gen/PJAzYVgScWvGjAYlXZcreFqruxoIJnsJ/model_pb2.py
+SPDXID: SPDXRef-item12713503
+FileChecksum: SHA1: 3a599d40b5e32b3b614653eaecf23fbdedfb8741
+FileChecksum: MD5: a2be6a3c5beb0676e5fc2ff4bfbb3868
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.9.4/model.zip/scripts/user_provided/typing.py
+SPDXID: SPDXRef-item12713505
+FileChecksum: SHA1: 66c7949fdae4ad01dc52563e84ef09d060b06b91
+FileChecksum: MD5: ff2ec56f029775ab884daf2cc850ebed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.9.4/model.zip/scripts/user_provided/.keep
+SPDXID: SPDXRef-item12713506
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.9.4/metadata.json
+SPDXID: SPDXRef-item12713508
+FileChecksum: SHA1: 429e02400e1bb0326d18c9ee63b3bab6384cc072
+FileChecksum: MD5: 99e7370b450f5d3d02d27696e79f8c39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.9.4/model/context.json
+SPDXID: SPDXRef-item12713510
+FileChecksum: SHA1: 6a6ef45203a3e16cf929414554cfec4916bcf74a
+FileChecksum: MD5: 694f6e94eace34a07c0d43c8057347c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.9.4/model/model.pkl
+SPDXID: SPDXRef-item12713511
+FileChecksum: SHA1: a358faab643dda3b59ad334be1a7f19f6b066622
+FileChecksum: MD5: d70f0a66ca3621cfb9d0515dcf4a9f19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.9.4/model/scripts/acumos_gen/PJAzYVgScWvGjAYlXZcreFqruxoIJnsJ/model_pb2.py
+SPDXID: SPDXRef-item12713515
+FileChecksum: SHA1: 3a599d40b5e32b3b614653eaecf23fbdedfb8741
+FileChecksum: MD5: a2be6a3c5beb0676e5fc2ff4bfbb3868
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.9.4/model/scripts/user_provided/typing.py
+SPDXID: SPDXRef-item12713517
+FileChecksum: SHA1: 66c7949fdae4ad01dc52563e84ef09d060b06b91
+FileChecksum: MD5: ff2ec56f029775ab884daf2cc850ebed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.9.4/model/scripts/user_provided/.keep
+SPDXID: SPDXRef-item12713518
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.6.5/model.proto
+SPDXID: SPDXRef-item12713520
+FileChecksum: SHA1: 00e921fe2131cc76e52410831c33d86818ec82dc
+FileChecksum: MD5: 622082a8db0bb095f78f04d7681d44e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.6.5/model.zip/context.json
+SPDXID: SPDXRef-item12713524
+FileChecksum: SHA1: 9c81c6e778be910c42b37d0a631dbaa510c39e7a
+FileChecksum: MD5: 9ac8e509c636970338dd49ea4cbf091d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.6.5/model.zip/model.pkl
+SPDXID: SPDXRef-item12713525
+FileChecksum: SHA1: d1d18623eead9a7437445491e6cb5ee0ac08726e
+FileChecksum: MD5: 5e1c67ab1645a1881953c3c830c76333
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.6.5/model.zip/scripts/acumos_gen/qHxHuyVrhGjDgNzlpegZyeLDiuIOPWvQ/model_pb2.py
+SPDXID: SPDXRef-item12713529
+FileChecksum: SHA1: b8929947eaeb694a3f10af1e376456a5952513cc
+FileChecksum: MD5: 256129dc1ec2fcddadbaffee2274346d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.6.5/model.zip/scripts/user_provided/.keep
+SPDXID: SPDXRef-item12713531
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.6.5/metadata.json
+SPDXID: SPDXRef-item12713533
+FileChecksum: SHA1: ff98be09ede42cc43ec1b77cffcac6c22b513fc2
+FileChecksum: MD5: 42ede0cd956e31990296dfbcd79e56f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.6.5/model/context.json
+SPDXID: SPDXRef-item12713535
+FileChecksum: SHA1: 9c81c6e778be910c42b37d0a631dbaa510c39e7a
+FileChecksum: MD5: 9ac8e509c636970338dd49ea4cbf091d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.6.5/model/model.pkl
+SPDXID: SPDXRef-item12713536
+FileChecksum: SHA1: d1d18623eead9a7437445491e6cb5ee0ac08726e
+FileChecksum: MD5: 5e1c67ab1645a1881953c3c830c76333
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.6.5/model/scripts/acumos_gen/qHxHuyVrhGjDgNzlpegZyeLDiuIOPWvQ/model_pb2.py
+SPDXID: SPDXRef-item12713540
+FileChecksum: SHA1: b8929947eaeb694a3f10af1e376456a5952513cc
+FileChecksum: MD5: 256129dc1ec2fcddadbaffee2274346d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.6.5/model/scripts/user_provided/.keep
+SPDXID: SPDXRef-item12713542
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.7.2/model.proto
+SPDXID: SPDXRef-item12713544
+FileChecksum: SHA1: a9bcb1c5fd0aa6636281f2e1764d369ac0f80297
+FileChecksum: MD5: c7c907f706de49dea7a2710617f9a264
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.7.2/model.zip/context.json
+SPDXID: SPDXRef-item12713548
+FileChecksum: SHA1: c2a9140482930f9c6dc3babe2f6edbfd47ffa6ed
+FileChecksum: MD5: 04b4ec95165457624b05f60fede00a1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.7.2/model.zip/model.pkl
+SPDXID: SPDXRef-item12713549
+FileChecksum: SHA1: d1d18623eead9a7437445491e6cb5ee0ac08726e
+FileChecksum: MD5: 5e1c67ab1645a1881953c3c830c76333
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.7.2/model.zip/scripts/acumos_gen/twgZPQKEXUkxjdXHhEfwSTrIaxhdMhSX/model_pb2.py
+SPDXID: SPDXRef-item12713553
+FileChecksum: SHA1: c71ea17c14bd23475cc9f8283f36ed8a17a0ef66
+FileChecksum: MD5: dafd5fd54becea3c5f2941911a378b44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.7.2/model.zip/scripts/user_provided/typing.py
+SPDXID: SPDXRef-item12713555
+FileChecksum: SHA1: 66c7949fdae4ad01dc52563e84ef09d060b06b91
+FileChecksum: MD5: ff2ec56f029775ab884daf2cc850ebed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.7.2/model.zip/scripts/user_provided/.keep
+SPDXID: SPDXRef-item12713556
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.7.2/metadata.json
+SPDXID: SPDXRef-item12713558
+FileChecksum: SHA1: 67b3718dc7b76d7a74f1efec3a8afac95495d45f
+FileChecksum: MD5: 99946afba35b9652fa3751fd2b4188a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.7.2/model/context.json
+SPDXID: SPDXRef-item12713560
+FileChecksum: SHA1: c2a9140482930f9c6dc3babe2f6edbfd47ffa6ed
+FileChecksum: MD5: 04b4ec95165457624b05f60fede00a1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.7.2/model/model.pkl
+SPDXID: SPDXRef-item12713561
+FileChecksum: SHA1: d1d18623eead9a7437445491e6cb5ee0ac08726e
+FileChecksum: MD5: 5e1c67ab1645a1881953c3c830c76333
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.7.2/model/scripts/acumos_gen/twgZPQKEXUkxjdXHhEfwSTrIaxhdMhSX/model_pb2.py
+SPDXID: SPDXRef-item12713565
+FileChecksum: SHA1: c71ea17c14bd23475cc9f8283f36ed8a17a0ef66
+FileChecksum: MD5: dafd5fd54becea3c5f2941911a378b44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.7.2/model/scripts/user_provided/typing.py
+SPDXID: SPDXRef-item12713567
+FileChecksum: SHA1: 66c7949fdae4ad01dc52563e84ef09d060b06b91
+FileChecksum: MD5: ff2ec56f029775ab884daf2cc850ebed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/tests/data/backward_compatible_models/model-0.7.2/model/scripts/user_provided/.keep
+SPDXID: SPDXRef-item12713568
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/data/proto3.ebnf
+SPDXID: SPDXRef-item12713571
+FileChecksum: SHA1: 83030d645189ab8d2deea762e94c64b27ea81645
+FileChecksum: MD5: 0f211bcaf482c4fdedfcd3c42bc625d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/acumos_model_runner/data/templates/0.6.0/method.yaml
+SPDXID: SPDXRef-item12713574
+FileChecksum: SHA1: 385b4f0fc5ae9686f5e09a009048db49cbdd920d
+FileChecksum: MD5: 6fee1b87b2d9f969eceb90048dc06868
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/.gitignore
+SPDXID: SPDXRef-item12713577
+FileChecksum: SHA1: 0a7f4ba5e355de10fd8764a2bc66e3796fc1d9b4
+FileChecksum: MD5: 557acc6fe42f9ce86c98c71b8350e8f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/docs/tutorial/example-model-method.png
+SPDXID: SPDXRef-item12713585
+FileChecksum: SHA1: 2c908f40a0a749da335f62c0fa7a265ed5b17001
+FileChecksum: MD5: 37df7364428df2e325639231f1c67ce2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/docs/tutorial/example-model-response.png
+SPDXID: SPDXRef-item12713586
+FileChecksum: SHA1: 898cf6e6f7dc09f2c7b3b3aca8800d0ab6ce5af8
+FileChecksum: MD5: 642f7f2055ad570e6d8104ec82081d47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/docs/tutorial/example-model-apis.png
+SPDXID: SPDXRef-item12713587
+FileChecksum: SHA1: a998b63bd42af637054df1d53f8a1b9846a3d765
+FileChecksum: MD5: 405148a1885910ba763b3c4bef830e5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/docs/tutorial/example-model-request.png
+SPDXID: SPDXRef-item12713588
+FileChecksum: SHA1: 65f372ad21cc69446ff2ac2f3e8ec9b73bbba702
+FileChecksum: MD5: 533d973b9ae9c88e5b9ea549a469ba0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/pom.xml
+SPDXID: SPDXRef-item12713589
+FileChecksum: SHA1: 24fe949fc831bcc1ce10ffa04a0d246c022cf0f7
+FileChecksum: MD5: 144b9048d5cda3e9c42dee9389c6ca88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/setup.cfg
+SPDXID: SPDXRef-item12713590
+FileChecksum: SHA1: c49e3ee68044f3030956c16ae3abbdae9e0725ef
+FileChecksum: MD5: ac24c232af33108ef0b249b46f85247f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: python-model-runner/testing/tox-requirements.txt
+SPDXID: SPDXRef-item12713592
+FileChecksum: SHA1: 67a7efdb420ce672417b2edd180c69db85ba1cb4
+FileChecksum: MD5: 256a01502ed7dc3e91528aab36e77d9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
