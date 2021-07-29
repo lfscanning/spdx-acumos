@@ -1,0 +1,3168 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_license-manager-2021-07-08.zip_1627583912.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-07-29T18:38:33Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: license-manager-2021-07-08.zip
+PackageFileName: license-manager-2021-07-08.zip
+SPDXID: SPDXRef-upload3823
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: dd9ea7e7272323f63f60aacb7357d37b0ac2c038
+PackageChecksum: SHA1: 17c77684224f2bf03c95f2bd111aca2796d19555
+PackageChecksum: MD5: 93e18de2df6bc61003073c3dac5b485b
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3823
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: license-manager/README.md
+SPDXID: SPDXRef-item14729955
+FileChecksum: SHA1: 83e9f683fb4380f42bbff6b168a572bd41c3a83a
+FileChecksum: MD5: f4dd65339ffd9e20df62eeae64d08224
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/README.md
+SPDXID: SPDXRef-item14729962
+FileChecksum: SHA1: 736ead96aba763d01898fa785e0eb5df0534c6ff
+FileChecksum: MD5: ecceae09ffe9dcd85c4fc77e91987bca
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/README.md
+SPDXID: SPDXRef-item14730160
+FileChecksum: SHA1: 50361e77e6eccae36a8324ecc761eb0dcd2bca24
+FileChecksum: MD5: 80907a0d8b7ff66cd035e1c2defbadc1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/version.js
+SPDXID: SPDXRef-item14730191
+FileChecksum: SHA1: d08c914f1157d2da833bff773f2daeabe1118cb2
+FileChecksum: MD5: 949e7b57c48421b2c887888326495076
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor-helm-chart/templates/tests/test-connection.yaml
+SPDXID: SPDXRef-item14730059
+FileChecksum: SHA1: 44bb06ddd67eabb4350ca5806d91d573fafca28c
+FileChecksum: MD5: a9c395cbdbcb834d9b260d82fc5e6cb5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor-helm-chart/templates/deployment.yaml
+SPDXID: SPDXRef-item14730057
+FileChecksum: SHA1: 7e7d6629bb29117c6ca74a2bf568b4ac52dbb8d9
+FileChecksum: MD5: 16989984b320142aea26b54130c95622
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor-helm-chart/templates/docker-secret.yaml
+SPDXID: SPDXRef-item14730054
+FileChecksum: SHA1: 7fa18039584a40644df3e1da24a0336d511d019a
+FileChecksum: MD5: bebbad615eb37c835af1f651813a9655
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor-helm-chart/templates/_helpers.tpl
+SPDXID: SPDXRef-item14730053
+FileChecksum: SHA1: 04270c2744c85e9ceb70f0c597ac994863281e25
+FileChecksum: MD5: 1c99836ea26edfcf82c1d794e3155906
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor-helm-chart/templates/ingress.yaml
+SPDXID: SPDXRef-item14730056
+FileChecksum: SHA1: 0963c0d87b8e4dc1a07add86cd07d2b81d6888ec
+FileChecksum: MD5: 3507258b63722aeab07a4aa0e25203c3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation
+Copyright (c) 2020 AT&T Intellectual Property. All rights reserved </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor-helm-chart/templates/NOTES.txt
+SPDXID: SPDXRef-item14730055
+FileChecksum: SHA1: a8c5a2487701b00ed948343140e1bdc66461bbc0
+FileChecksum: MD5: b847ed3e3235230ca9a472f163bc2351
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor-helm-chart/templates/service.yaml
+SPDXID: SPDXRef-item14730060
+FileChecksum: SHA1: 95e46e8279bac16c2c4b8a1ce3ecc3b7ef4ba1e3
+FileChecksum: MD5: 8d1a583ed98da63ab5d5dc78ff78cd25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor-helm-chart/Chart.yaml
+SPDXID: SPDXRef-item14730062
+FileChecksum: SHA1: 76e3244bf6e07d46a3cface28283ea18c8901e04
+FileChecksum: MD5: 8798c8dedf5b0702a203d12869d5d2e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation
+Copyright (c) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor-helm-chart/values.yaml
+SPDXID: SPDXRef-item14730051
+FileChecksum: SHA1: c09c2fca4c493def3819fbf9c6147fb76739df6a
+FileChecksum: MD5: d0ff61e8754769041a3f1888900ce834
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation
+Copyright (c) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-manager/docs/api-docs.rst
+SPDXID: SPDXRef-item14730152
+FileChecksum: SHA1: e2bcf2f2fc83910aeae903ae1b0d1b5767fec8dd
+FileChecksum: MD5: fe601845e2981a303a92bc392a844c7e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/docs/developer-guide.rst
+SPDXID: SPDXRef-item14730141
+FileChecksum: SHA1: 37c9cfb229902373a83c6f1af7800f2802712b4f
+FileChecksum: MD5: 220d81151f21b0eace121af3dfddd745
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/docs/dev-guide-license-profile-editor.rst
+SPDXID: SPDXRef-item14730140
+FileChecksum: SHA1: e199c05c376b2152e90603e5dbdbde596cf59f6d
+FileChecksum: MD5: b09fa85006ec34133ade7ef63f405e3d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/docs/dev-guide-license-rtu-editor.rst
+SPDXID: SPDXRef-item14730091
+FileChecksum: SHA1: 105400d3e48bd47a288087657edbb38567037199
+FileChecksum: MD5: eb48f4744561188d4c491fed27c76149
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/docs/index.rst
+SPDXID: SPDXRef-item14730090
+FileChecksum: SHA1: fd1bcf78f1e7aec7036dd4704aeb2183482dc9b0
+FileChecksum: MD5: 46cdd5dea3aa52651a71311b92e3c85e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/docs/model-usage-tracking-comp.rst
+SPDXID: SPDXRef-item14730142
+FileChecksum: SHA1: 459d5973d30de260d273059672e28645ba1e9c0f
+FileChecksum: MD5: c78cd476c69401a6226a1d112e148551
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/docs/model-usage-tracking.rst
+SPDXID: SPDXRef-item14730139
+FileChecksum: SHA1: b425bcac8e70de2ac1341077765524eef2c5c178
+FileChecksum: MD5: a24ad49035a5b842f439c073be421714
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/app/license-rtu-editor/license-rtu-editor.component.html
+SPDXID: SPDXRef-item14730011
+FileChecksum: SHA1: a022a75793dead1a3bc44ef03fa830f7993c2319
+FileChecksum: MD5: 3e4e42a6551604b93e0a9e5de04e5807
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation.
+copyright (C)2020 Tech Mahindra. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/app/license-rtu-editor/license-rtu-editor.component.spec.ts
+SPDXID: SPDXRef-item14730013
+FileChecksum: SHA1: 8f58acee2056c9879b278e78f17507643faeafe9
+FileChecksum: MD5: 875a66185d214519c2daf08c3d379edb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/app/license-rtu-meta.service.spec.ts
+SPDXID: SPDXRef-item14730017
+FileChecksum: SHA1: 07e87458a2a2a92a574b96b04cefa3402b72b4bd
+FileChecksum: MD5: 52a77901d55390411fceb2ad5a6492ba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/index.html
+SPDXID: SPDXRef-item14730007
+FileChecksum: SHA1: b8127ccd1187de5b5dc694cf31632a0ff52ef5b4
+FileChecksum: MD5: 0ae87a29d45a6c72d0c09ecc84069e28
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/main.ts
+SPDXID: SPDXRef-item14730018
+FileChecksum: SHA1: cae2c0a1d512df0b1095f69301f6ccc3bd5c8a2a
+FileChecksum: MD5: 06e4131513b344286b4eec19e4effa16
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/polyfills.ts
+SPDXID: SPDXRef-item14730019
+FileChecksum: SHA1: 28f6acaf8b9bc1da647282255cca8dbe9b112893
+FileChecksum: MD5: 79b06070ad30ff2a135fc8974905eefc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/styles.scss
+SPDXID: SPDXRef-item14730002
+FileChecksum: SHA1: 53c6f9d2c0c8ae6040d2a9ef4690daf7a6504c76
+FileChecksum: MD5: ec836ad6742ec755e82617db0a4b2313
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/test.ts
+SPDXID: SPDXRef-item14730003
+FileChecksum: SHA1: 1b9055251fd25655fff2fa9938584a21c644dd7d
+FileChecksum: MD5: 24ae7463d454378405439fd80ad0d7e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/theme.scss
+SPDXID: SPDXRef-item14730004
+FileChecksum: SHA1: 7d8517a5302a0986edc28cad3182acb67457b6de
+FileChecksum: MD5: 4ff5ecf94f76e28253af6c5e03bb79a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/version.js
+SPDXID: SPDXRef-item14730000
+FileChecksum: SHA1: d08c914f1157d2da833bff773f2daeabe1118cb2
+FileChecksum: MD5: 949e7b57c48421b2c887888326495076
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/web-cmp.html
+SPDXID: SPDXRef-item14730001
+FileChecksum: SHA1: a30b7b43cc143b567e2f16e4c4bce8f7e8387504
+FileChecksum: MD5: bd4583fecf906e684c8b37312875d650
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/build-elements.js
+SPDXID: SPDXRef-item14730021
+FileChecksum: SHA1: ab7c5768e1ec14745836f1c791e032e00d09a211
+FileChecksum: MD5: ed204683431293811a25dc6e5e8b2043
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor-helm-chart/templates/tests/test-connection.yaml
+SPDXID: SPDXRef-item14730081
+FileChecksum: SHA1: 3057fdc58a1ee4862a3cbc01b806cb5e24a26507
+FileChecksum: MD5: 07f6307ed19076ea3f1e4ad1514a450c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor-helm-chart/templates/deployment.yaml
+SPDXID: SPDXRef-item14730079
+FileChecksum: SHA1: 63361ca52a92b9fb8984dbe9d14847b49a82a518
+FileChecksum: MD5: 6413c7855b340fd2eb1411c4353d448b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor-helm-chart/templates/docker-secret.yaml
+SPDXID: SPDXRef-item14730076
+FileChecksum: SHA1: 7fa18039584a40644df3e1da24a0336d511d019a
+FileChecksum: MD5: bebbad615eb37c835af1f651813a9655
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor-helm-chart/templates/_helpers.tpl
+SPDXID: SPDXRef-item14730075
+FileChecksum: SHA1: 13157dfc606f55e7645df4f5681c0fb6a615aa63
+FileChecksum: MD5: b6c115ee78b043f8295e4c177b201296
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor-helm-chart/templates/ingress.yaml
+SPDXID: SPDXRef-item14730078
+FileChecksum: SHA1: 878466b5c2e6af793dd1fcb111354b660a8ddf74
+FileChecksum: MD5: 4bbd90c9ee2c0c48fc1a21e8dda4a67f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation
+Copyright (c) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor-helm-chart/templates/NOTES.txt
+SPDXID: SPDXRef-item14730077
+FileChecksum: SHA1: 0bfa7fc940d291a8bfc137248e51b4e2baadc0cb
+FileChecksum: MD5: 3fc0e5cb3a1c768b4bab28098d5ca92c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor-helm-chart/templates/service.yaml
+SPDXID: SPDXRef-item14730082
+FileChecksum: SHA1: 6344ae561f9bb953279ce1ebf65a111500de3b3c
+FileChecksum: MD5: 6a1b89f6f5796c7b752f738993017844
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor-helm-chart/Chart.yaml
+SPDXID: SPDXRef-item14730084
+FileChecksum: SHA1: 89238af9850c1fe50e9f8629fa9edc387a1fe443
+FileChecksum: MD5: 8149e0b2d3481231843cfe57ee068b79
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation
+Copyright (c) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor-helm-chart/values.yaml
+SPDXID: SPDXRef-item14730073
+FileChecksum: SHA1: 5464e3077d651be885f7b482c60cda5a4ede6220
+FileChecksum: MD5: 16002cabdfee6caec48143a64d2eeff5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation
+Copyright (c) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-manager/docker-compose.yaml
+SPDXID: SPDXRef-item14730071
+FileChecksum: SHA1: cf2cdd3fa2ef2d83b4e4baedf8ab42932b29656e
+FileChecksum: MD5: 6206e9ac6ee79b11c70a4304a57180d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation.
+copyright (C) 2020 Tech Mahindra. </text>
+ 
+
+##File
+
+FileName: license-manager/iframe-license-editor.html
+SPDXID: SPDXRef-item14730070
+FileChecksum: SHA1: 9718aba6a5abacd7ac39050d2e952888e477ed1b
+FileChecksum: MD5: 28444a3bacccc7946487c92f5b4752ce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/LICENSE.txt
+SPDXID: SPDXRef-item14730063
+FileChecksum: SHA1: a3467f9ed6d4ba5d0daf59573f18f47cd977233a
+FileChecksum: MD5: 27344c0614d8446ee32f37a3fdaa4a0e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/pom.xml
+SPDXID: SPDXRef-item14730153
+FileChecksum: SHA1: ef3101d1fb6fe49aee0fc016100d5bb72bb68d4a
+FileChecksum: MD5: 183c670ed840a5b886e8899ea9e61a58
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/exceptions/LicenseAssetRegistrationException.java
+SPDXID: SPDXRef-item14730297
+FileChecksum: SHA1: 4cd2efd61969a10406f0b12e7a04af1201c974a2
+FileChecksum: MD5: 54b75aca8949b1f6013d0f2a2252de42
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/exceptions/package-info.java
+SPDXID: SPDXRef-item14730299
+FileChecksum: SHA1: a6f851632b9f14aa8427af92e8a33a96233d0cd3
+FileChecksum: MD5: 14b3050fcabc842a907de297a8d5ff28
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/exceptions/RightToUseException.java
+SPDXID: SPDXRef-item14730298
+FileChecksum: SHA1: a28e5634e7611f7f702234cbf3deca562d555d39
+FileChecksum: MD5: bd3d3210502556ed29e0cfe603b48b8e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/profilevalidator/exceptions/LicenseProfileException.java
+SPDXID: SPDXRef-item14730303
+FileChecksum: SHA1: 9e87c3c99301df0e0bce41473cb4388dede9489a
+FileChecksum: MD5: 4ad3d32bf9856eb82ee06ba1df768311
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: JSON
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/profilevalidator/model/ILicenseProfileValidator.java
+SPDXID: SPDXRef-item14730306
+FileChecksum: SHA1: 6146313af2474fdb3acb092bd9b96b119938d337
+FileChecksum: MD5: df313b677174f3a15bd11abe7cc0fe2a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/profilevalidator/model/LicenseProfileValidationResults.java
+SPDXID: SPDXRef-item14730308
+FileChecksum: SHA1: ae040c9d9990e3626e1f51179c0e192b3241bab6
+FileChecksum: MD5: 7651c65390476b871e22733dd202f622
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/profilevalidator/model/package-info.java
+SPDXID: SPDXRef-item14730307
+FileChecksum: SHA1: 3b412b6a0e27d75a09453487ba7317340b4f289c
+FileChecksum: MD5: 5726223da46aabfbc5dd0686b26caa05
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/profilevalidator/resource/LicenseJsonSchema.java
+SPDXID: SPDXRef-item14730310
+FileChecksum: SHA1: 080fabc66dc24bf3e712ffe443b910c280017f69
+FileChecksum: MD5: 60bc54af7ff6557fa9252e0ccea57f25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: JSON
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/profilevalidator/resource/package-info.java
+SPDXID: SPDXRef-item14730311
+FileChecksum: SHA1: 135e53bea31ea34494db60cee7b9302dd1c3b93c
+FileChecksum: MD5: 92e8d75f8ab330034c1b940c4ab120ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/profilevalidator/LicenseProfileValidator.java
+SPDXID: SPDXRef-item14730301
+FileChecksum: SHA1: e14a6e164936d0745d5ce09f96a2306382b28582
+FileChecksum: MD5: eda9f6b6b4a6039fec26aae6d7d13bd6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/profilevalidator/package-info.java
+SPDXID: SPDXRef-item14730304
+FileChecksum: SHA1: 2c16acaea377b1598981f34aae0dcaa1c6c986d9
+FileChecksum: MD5: 66a0b3b5d9436d22de877519a67206fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/test/java/org/acumos/licensemanager/client/main/GetEntitledSwidTagsByUserMain.java
+SPDXID: SPDXRef-item14730256
+FileChecksum: SHA1: 823764625a0e79aee7bac5bbdb61a06684252fac
+FileChecksum: MD5: 0a0f88396a911312b481abe7fe78c7a4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Tech Mahindra. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/test/java/org/acumos/licensemanager/client/main/LicenseAssetMain.java
+SPDXID: SPDXRef-item14730258
+FileChecksum: SHA1: a23e9eecc90cdb6537a508585f5d372d8503c6fa
+FileChecksum: MD5: b4fb055ca8c65eb3b1a140e967600a88
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/test/java/org/acumos/licensemanager/client/main/LicenseProfileMain.java
+SPDXID: SPDXRef-item14730259
+FileChecksum: SHA1: 149a9725bb24939ba5eae504c54d2baff0198d70
+FileChecksum: MD5: 0f41e2d09ef94871edd8dcfc807e97b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/test/java/org/acumos/licensemanager/client/main/LicenseRtuVerifierMain.java
+SPDXID: SPDXRef-item14730257
+FileChecksum: SHA1: d9df09f722bd7be79c608e4f6b24d842253ad050
+FileChecksum: MD5: b3583ff23ac3a7df0a533de12211c16d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/test/java/org/acumos/licensemanager/client/LicenseAssetTest.java
+SPDXID: SPDXRef-item14730260
+FileChecksum: SHA1: ef10e0dcf498b3b0da9ab98cf39d79808b7b1313
+FileChecksum: MD5: 2c16d27fcdf7d039a8040eb4fe4cf23e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation.
+copyright (C)2020 Tech Mahindra. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/test/java/org/acumos/licensemanager/client/LicenseProfileTest.java
+SPDXID: SPDXRef-item14730253
+FileChecksum: SHA1: 59e8fafd73a28702175e46c769056529005333d2
+FileChecksum: MD5: 990917fa12702f8c04dc287960eb9bed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/test/java/org/acumos/licensemanager/client/LicenseRtuVerifierTest.java
+SPDXID: SPDXRef-item14730254
+FileChecksum: SHA1: 211b639d37fb54897d47d3bc91211a0cb21b23e3
+FileChecksum: MD5: 660c322cacd96d7e901b92cd393986ea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/test/java/org/acumos/licensemanager/profilevalidator/main/LicenseProfileValidatorMain.java
+SPDXID: SPDXRef-item14730263
+FileChecksum: SHA1: bd4fb2c81126d03c8557cecd5919e81d58fdfdf0
+FileChecksum: MD5: 72ab5a357d57d81079d23b8d9e784e05
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: JSON
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/test/java/org/acumos/licensemanager/profilevalidator/LicenseProfileValidatorTest.java
+SPDXID: SPDXRef-item14730264
+FileChecksum: SHA1: 6cb0ed2f37339b02c7bf6b3d7ec8f8ac646552e3
+FileChecksum: MD5: 0dbe7aba35040502a4d63ab422f83da7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/test/resources/logback.xml
+SPDXID: SPDXRef-item14730245
+FileChecksum: SHA1: 730cd8fa4a599aba000b38404874bcd3d57d80fc
+FileChecksum: MD5: 2359f5470d7c77e7d57fb88c98bd6060
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/pom.xml
+SPDXID: SPDXRef-item14730312
+FileChecksum: SHA1: 1abe0eddf8e63d6461166caebffe3009247d37dd
+FileChecksum: MD5: ff508512d2ebf17383049e9db44261b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation
+Copyright (C) 2020 Tech Mahindra </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/app/license-profile-editor/license-profile-editor.component.html
+SPDXID: SPDXRef-item14730206
+FileChecksum: SHA1: 5ed0eecdf4efe781acec080738feb10c3cbf7c60
+FileChecksum: MD5: 81efff76a89a87ebbb4ce11c67f0397a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/app/license-profile-editor/license-profile-editor.component.scss
+SPDXID: SPDXRef-item14730207
+FileChecksum: SHA1: 3adb92fc20715329ad35ccb2818d7868d2264f5c
+FileChecksum: MD5: 81bcd8781cee775ccb829349699e8c1a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/app/license-profile-editor/license-profile-editor.component.spec.ts
+SPDXID: SPDXRef-item14730208
+FileChecksum: SHA1: e2219f1ba4ab2a4b5bc9c3f4e4ce59eb219b0c4d
+FileChecksum: MD5: f0a529077f2ea4fc69ddb5a5a568033c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/app/license-profile-editor/license-profile-editor.component.ts
+SPDXID: SPDXRef-item14730205
+FileChecksum: SHA1: 2a42f8988fe06426584a35c98bff09fd2dcbf343
+FileChecksum: MD5: 076e4f7225deb00dd97230b215170936
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/app/AcumosMaterialDesignFramework.ts
+SPDXID: SPDXRef-item14730201
+FileChecksum: SHA1: 1498727a555a3d629f3ee778b9d66e9d423ef06e
+FileChecksum: MD5: 3fd81de1423ee72159a45019d64bb1dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/app/app.module.ts
+SPDXID: SPDXRef-item14730200
+FileChecksum: SHA1: 243991bec090e33bde61ee2e71ab1215fb48c85b
+FileChecksum: MD5: e5a6197b1b5f21741c7a427a913ac1d0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/app/license-profile-service.service.spec.ts
+SPDXID: SPDXRef-item14730202
+FileChecksum: SHA1: 9040e844cd94602cbaad4ad29e42828e0db9c285
+FileChecksum: MD5: 6225a15d350b31fea72b08ec19e0f297
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/app/license-profile-service.service.ts
+SPDXID: SPDXRef-item14730203
+FileChecksum: SHA1: ee8913b37039dc65092359b1c375f5998c1d367a
+FileChecksum: MD5: 887497268df39004726862e30a97a01b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/environments/environment.prod.ts
+SPDXID: SPDXRef-item14730171
+FileChecksum: SHA1: 771a8a7517d130de32e47bb73419ac8c6d142f90
+FileChecksum: MD5: 3ac23639f85f84bd28afcb13f7e9864e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/environments/environment.ts
+SPDXID: SPDXRef-item14730170
+FileChecksum: SHA1: 309ee603814ec6dbad5a2a29a52feb952fd2a074
+FileChecksum: MD5: e29b54ca21ee46048df3d47d068510ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/license/acumos/header.txt
+SPDXID: SPDXRef-item14730168
+FileChecksum: SHA1: 8ceacc6f539095e5985a2315f30adb789c835a03
+FileChecksum: MD5: bcef675755d1b1ed19c0e9b3761c0833
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/license/acumos/license.txt
+SPDXID: SPDXRef-item14730167
+FileChecksum: SHA1: 8ceacc6f539095e5985a2315f30adb789c835a03
+FileChecksum: MD5: bcef675755d1b1ed19c0e9b3761c0833
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/license/licenses.properties
+SPDXID: SPDXRef-item14730165
+FileChecksum: SHA1: 86b36db82e94071481a0363096d3add0ba50712f
+FileChecksum: MD5: 71f0dbb91c615f4ed06cfabdae94d47f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/fonts-opensans.css
+SPDXID: SPDXRef-item14730197
+FileChecksum: SHA1: ac462640fd2372b0cd0c40cfd20c62cbdfbf510c
+FileChecksum: MD5: 624b9dcb0a2c322b518143292b599133
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/index.html
+SPDXID: SPDXRef-item14730198
+FileChecksum: SHA1: f665522185b37d259e195de9df3468796fb7db35
+FileChecksum: MD5: 1c92b3b33e4debecd7f0b0777ab33a3a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/main.ts
+SPDXID: SPDXRef-item14730209
+FileChecksum: SHA1: 3c7aa2076bc5ed0fc66c52cdb6965242a094273a
+FileChecksum: MD5: b7c51c13536537e4c25317309cb34b5b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/polyfills.ts
+SPDXID: SPDXRef-item14730210
+FileChecksum: SHA1: 2d3b47e2a34a245376989c14e2c07821dfe741e6
+FileChecksum: MD5: 9878f0ca620e88e8fcf83bf01f1386a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/styles.scss
+SPDXID: SPDXRef-item14730193
+FileChecksum: SHA1: 44a558ee668c88998e06e64199d48f5514b9acec
+FileChecksum: MD5: 69b6d29b77565ac357c46d2db13bf8dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/test.ts
+SPDXID: SPDXRef-item14730194
+FileChecksum: SHA1: d3902ee59a357bf65f8982ac8017dd047e4e0b7f
+FileChecksum: MD5: 18a1d22d49cbd0114f388e7a9a985b87
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/theme.scss
+SPDXID: SPDXRef-item14730195
+FileChecksum: SHA1: 6a1f36077ac8ed9e8158d9e869b4f5ac93cfc734
+FileChecksum: MD5: a5c3d7bc69d8489e233e6cd1c39e92ba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/web-cmp.html
+SPDXID: SPDXRef-item14730192
+FileChecksum: SHA1: 7c3b75d808fb537f32c36632640cd514507f2126
+FileChecksum: MD5: cac00dc4c25886ad111dc14662726b9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/browserslist
+SPDXID: SPDXRef-item14730161
+FileChecksum: SHA1: 416f29f9e06357126c8b6572a971100028b7cf23
+FileChecksum: MD5: 91d139fdc8627105b6d637bbff6a0b50
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/build-elements.ts
+SPDXID: SPDXRef-item14730211
+FileChecksum: SHA1: 05aac27f56393b9caeba8a2cde57ec2a74159d64
+FileChecksum: MD5: a95a9f4851da1fd0c688eecdefe78ea3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/karma.conf.js
+SPDXID: SPDXRef-item14730212
+FileChecksum: SHA1: 979f72410400da707ec833901d3b69f901d186e0
+FileChecksum: MD5: b24391c82bd6f76469d501620a16981d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/docs/model-usage-tracking-simple.rst
+SPDXID: SPDXRef-item14730093
+FileChecksum: SHA1: 557e7876231baa6bc46d54559afe41415b78a49e
+FileChecksum: MD5: 3979dd4cd1914478ee7c2856c6dc7231
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/docs/release-notes-license-profile-editor.rst
+SPDXID: SPDXRef-item14730138
+FileChecksum: SHA1: 4a5eead4c78ebbcef80bdddeb67df03f82cf62f0
+FileChecksum: MD5: e222c94cd9d9190f9360976063ba8873
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/docs/release-notes-license-rtu-editor.rst
+SPDXID: SPDXRef-item14730151
+FileChecksum: SHA1: 36813bc8814ac3d2765bd8d1800166d3e12ceeca
+FileChecksum: MD5: 09fdcfe5bf42f8425d852c6828157e17
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/docs/release-notes.rst
+SPDXID: SPDXRef-item14730092
+FileChecksum: SHA1: 34852d6109d4970b14a8afc1eb7784e3ffb03b99
+FileChecksum: MD5: c12fff324bb1c59b988766755209a121
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: JSON
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation
+copyright (C)2020 Tech Mahindra </text>
+ 
+
+##File
+
+FileName: license-manager/docs/user-guide-admin-license-services.rst
+SPDXID: SPDXRef-item14730143
+FileChecksum: SHA1: 4b0ca64be847b7046e2803144fd0d96349e7b081
+FileChecksum: MD5: 5e8591d94e8109751c6c42375ba7bcc3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/docs/user-guide-license-profile-editor.rst
+SPDXID: SPDXRef-item14730094
+FileChecksum: SHA1: 46c28ae3f1bbf8587e78a2e5cedd07e0ba50ed13
+FileChecksum: MD5: 12b70037795e09d65d8b29eb2d2e4a22
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/docs/user-guide-license-rtu-editor.rst
+SPDXID: SPDXRef-item14730137
+FileChecksum: SHA1: 441deb15f1de1790ec4cf2d928c4e354eb9a3351
+FileChecksum: MD5: 58972f96735a8f0cbcb8e55567d8ffcf
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-manager/helm-chart-test/helm-profile-editor-deploy-helm3.sh
+SPDXID: SPDXRef-item14730043
+FileChecksum: SHA1: bc8cd68bb8a2705635d3fca9814d7d8779c6a873
+FileChecksum: MD5: c4da3b2d1b255e3e14df116011c4d40a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/helm-chart-test/helm-profile-editor-deploy.sh
+SPDXID: SPDXRef-item14730044
+FileChecksum: SHA1: 62c40fa07443a5a61d1695763e450d501d33d988
+FileChecksum: MD5: e6b43385cacfef327d0df19ae0761558
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/helm-chart-test/helm-profile-editor.values.yaml
+SPDXID: SPDXRef-item14730039
+FileChecksum: SHA1: 1bf31e841d2d11769f7b8d0468b224c7549320ff
+FileChecksum: MD5: 0d9913c24de5c675fb825e32307bf098
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/helm-chart-test/helm-rtu-editor-deploy-helm3.sh
+SPDXID: SPDXRef-item14730046
+FileChecksum: SHA1: 667401511e29d61f3ffd1367813e36d116a37265
+FileChecksum: MD5: 747d834731db9c5bf1de65765d854126
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/helm-chart-test/helm-rtu-editor-deploy.sh
+SPDXID: SPDXRef-item14730042
+FileChecksum: SHA1: d30dc1bb634bfe53bae16b764f919a4cf3dc6b1c
+FileChecksum: MD5: d4b06017157ff15a18a18f64dd52dbb1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/helm-chart-test/helm-rtu-editor.values.yaml
+SPDXID: SPDXRef-item14730040
+FileChecksum: SHA1: 7607f70e6bdeeff3840bbc1ab22461b29018331a
+FileChecksum: MD5: 10095b1109deeb9bc08dacb9a13cf815
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/helm-chart-test/license-profile-build.sh
+SPDXID: SPDXRef-item14730047
+FileChecksum: SHA1: cdf8fe187ac7b7552227879bf61b77a0ef144718
+FileChecksum: MD5: 0ac1a2b8d3f70e661567b93eb2ef7229
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/helm-chart-test/license-rtu-build.sh
+SPDXID: SPDXRef-item14730041
+FileChecksum: SHA1: 84c005b2c7a218bb7894d273ccd8ef967d605407
+FileChecksum: MD5: 12bebe933a843a6a2ead1db441ddd0dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/helm-chart-test/minikube-setup.sh
+SPDXID: SPDXRef-item14730045
+FileChecksum: SHA1: 46f52a4af17ad651533563664cd15b47b6b2950c
+FileChecksum: MD5: 919a6c514ac16418003aa7dade7c5a0a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/license/acumos/header.txt
+SPDXID: SPDXRef-item14730234
+FileChecksum: SHA1: 8ceacc6f539095e5985a2315f30adb789c835a03
+FileChecksum: MD5: bcef675755d1b1ed19c0e9b3761c0833
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/license/acumos/license.txt
+SPDXID: SPDXRef-item14730233
+FileChecksum: SHA1: 8ceacc6f539095e5985a2315f30adb789c835a03
+FileChecksum: MD5: bcef675755d1b1ed19c0e9b3761c0833
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/license/licenses.properties
+SPDXID: SPDXRef-item14730231
+FileChecksum: SHA1: 86b36db82e94071481a0363096d3add0ba50712f
+FileChecksum: MD5: 71f0dbb91c615f4ed06cfabdae94d47f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/client/model/BaseLicenseRequest.java
+SPDXID: SPDXRef-item14730284
+FileChecksum: SHA1: 9937a8cd62717acd0212625bcab14d435c207254
+FileChecksum: MD5: 3ce5c016b40baa133969a30a432acd39
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/client/model/DenialReason.java
+SPDXID: SPDXRef-item14730283
+FileChecksum: SHA1: f8735b53dbc2b3f366938100d4751a1b5a0219a6
+FileChecksum: MD5: e3f8b0951b6fe932b3ec75079d5df5ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/client/model/ICommonLicenseRequest.java
+SPDXID: SPDXRef-item14730287
+FileChecksum: SHA1: 3b2cbe3b9c356f75e68c4a395201f79aa1dcc683
+FileChecksum: MD5: 44db0b67d28cc63e8e73d69dbba103ce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/client/model/ILicenseRtuVerification.java
+SPDXID: SPDXRef-item14730288
+FileChecksum: SHA1: 2f158309e9f8c08ce3c317129b74c6f60752d23c
+FileChecksum: MD5: 07f264549597e90e3c234ee18fbc55c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/client/model/ILicenseRtuVerifier.java
+SPDXID: SPDXRef-item14730291
+FileChecksum: SHA1: 44ecb8b5c3ddfc7606add2ffee531bb86a5e4c27
+FileChecksum: MD5: 3c2aa3d6015a3a5954f1fecc70f59c17
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/client/model/IVerifyLicenseRequest.java
+SPDXID: SPDXRef-item14730290
+FileChecksum: SHA1: 6159bf8cb97476a76d935b069e2db827827e10ab
+FileChecksum: MD5: 21bf019baa96f741f291386fb1a4adde
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/client/model/LicenseAction.java
+SPDXID: SPDXRef-item14730285
+FileChecksum: SHA1: 8d10ec4fc1c6c51828f4abed4ae905fcead4db6b
+FileChecksum: MD5: 28ec6bb721c20e4105528a02475faa58
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/client/model/LicenseProfileHolder.java
+SPDXID: SPDXRef-item14730295
+FileChecksum: SHA1: ffd2e8a240a0c62b842c711634b7607e539f659e
+FileChecksum: MD5: 61c6e30f962d175ea1353d7b8b3b8fe8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/client/model/LicenseRtuVerification.java
+SPDXID: SPDXRef-item14730294
+FileChecksum: SHA1: fd685b37c050e5914467071d783357a36967519d
+FileChecksum: MD5: f915602fce926381cca86f5a136a3472
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/client/model/package-info.java
+SPDXID: SPDXRef-item14730293
+FileChecksum: SHA1: 599697db0560e6e0ebb08d6a4d950fb2a79560bf
+FileChecksum: MD5: 58db95206d6734b22d5ad813c71b5c9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/client/model/RegisterAssetRequest.java
+SPDXID: SPDXRef-item14730292
+FileChecksum: SHA1: fe232d309aa3635fa0db9be07884895797de25b2
+FileChecksum: MD5: b284d396aafff60789ed768f86b548e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/client/model/RegisterAssetResponse.java
+SPDXID: SPDXRef-item14730289
+FileChecksum: SHA1: e765f7b5bc47145436a2c3e7fe96f7a047ca70a6
+FileChecksum: MD5: 144ea72f57258362cd1e95ea25738a64
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/client/model/VerifyLicenseRequest.java
+SPDXID: SPDXRef-item14730286
+FileChecksum: SHA1: 10808e43287c62977221cf3fa62b8d18fc2eb477
+FileChecksum: MD5: 6b0e40f78df4ffb7270d64ce3b47ddaf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/client/rtu/LicenseAsset.java
+SPDXID: SPDXRef-item14730279
+FileChecksum: SHA1: fc7e770b225a5550715f704d793d5e8ac63b36cd
+FileChecksum: MD5: c4c6abf1ca2e03b013fed58883850448
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: JSON
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation.
+copyright (C)2020 Tech Mahindra. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/client/rtu/LicenseRtuVerifier.java
+SPDXID: SPDXRef-item14730278
+FileChecksum: SHA1: 43c390d23e4b04b4ee8e572e96bad7621cadde94
+FileChecksum: MD5: a47b89abff73e9df96175218edadf68b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation.
+copyright (C)2020 Tech Mahindra </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/client/LicenseProfile.java
+SPDXID: SPDXRef-item14730280
+FileChecksum: SHA1: 9f4bc40122d264a974909b4b1a206bf95d6a5e52
+FileChecksum: MD5: 791adbce03ceb3483d65a90c8a6dab36
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/java/org/acumos/licensemanager/client/package-info.java
+SPDXID: SPDXRef-item14730281
+FileChecksum: SHA1: cfb0f85c36e3687c7144ec2a7d78292cb0ed24a3
+FileChecksum: MD5: 0bbaac6a0c20031f038c50dfb6146b9a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/app/license-rtu-editor/license-rtu-editor.component.scss
+SPDXID: SPDXRef-item14730014
+FileChecksum: SHA1: 80b65b6f32d96e69e60f6b2066fd633cc95c0f48
+FileChecksum: MD5: ca68c7a4d59a4585ecee88dbbfd70be8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation.
+copyright (C)2020 Tech Mahindra. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/app/license-rtu-editor/license-rtu-editor.component.ts
+SPDXID: SPDXRef-item14730012
+FileChecksum: SHA1: df854ba95e09d3288948d11c061de871ea2fc079
+FileChecksum: MD5: 997cc6ff147d7ef8acb48134aab3bb3d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation.
+copyright (C)2020 Tech Mahindra </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/app/AcumosMaterialDesignFramework.ts
+SPDXID: SPDXRef-item14730015
+FileChecksum: SHA1: 1498727a555a3d629f3ee778b9d66e9d423ef06e
+FileChecksum: MD5: 3fd81de1423ee72159a45019d64bb1dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/app/app.module.ts
+SPDXID: SPDXRef-item14730009
+FileChecksum: SHA1: 1c14abf00c4b5335aac20a675d682328dcceba60
+FileChecksum: MD5: 4dd4e58f02cf0c17b70a5227c5c93f11
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/app/license-rtu-meta.service.ts
+SPDXID: SPDXRef-item14730016
+FileChecksum: SHA1: fe88dbaa51aa53b0f27646aa4faa2917b3781297
+FileChecksum: MD5: 11dff6244c95b2ed119b141cb631dc6e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/environments/environment.prod.ts
+SPDXID: SPDXRef-item14729972
+FileChecksum: SHA1: 8f8dc83a38e1d257ba0a19296b7997a37847bc81
+FileChecksum: MD5: d7d7ad245243022e43d41031aa290ac7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/environments/environment.ts
+SPDXID: SPDXRef-item14729971
+FileChecksum: SHA1: 5221fb7bee59185d9250173a22fde5cf9a696a8e
+FileChecksum: MD5: d29db8fe676981fe0fb4ad2a562e1388
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/license/acumos/header.txt
+SPDXID: SPDXRef-item14729969
+FileChecksum: SHA1: 8ceacc6f539095e5985a2315f30adb789c835a03
+FileChecksum: MD5: bcef675755d1b1ed19c0e9b3761c0833
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/license/acumos/license.txt
+SPDXID: SPDXRef-item14729968
+FileChecksum: SHA1: 8ceacc6f539095e5985a2315f30adb789c835a03
+FileChecksum: MD5: bcef675755d1b1ed19c0e9b3761c0833
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/license/licenses.properties
+SPDXID: SPDXRef-item14729966
+FileChecksum: SHA1: 86b36db82e94071481a0363096d3add0ba50712f
+FileChecksum: MD5: 71f0dbb91c615f4ed06cfabdae94d47f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/fonts-opensans.css
+SPDXID: SPDXRef-item14730006
+FileChecksum: SHA1: ac462640fd2372b0cd0c40cfd20c62cbdfbf510c
+FileChecksum: MD5: 624b9dcb0a2c322b518143292b599133
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/.editorconfig
+SPDXID: SPDXRef-item14729957
+FileChecksum: SHA1: 17331378fe44346740bfa358785bd0f82f95a65f
+FileChecksum: MD5: 5e24d96eec6165f6e138fb9d12397afa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/tslint.json
+SPDXID: SPDXRef-item14729958
+FileChecksum: SHA1: 37ad492bf9e13cac87363706c4172a75d3032db1
+FileChecksum: MD5: 6065cc143d918b5d325cbe0e5d774f20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/.npmrc
+SPDXID: SPDXRef-item14729959
+FileChecksum: SHA1: e932f5e647dc1c59a68ff4423e570e13453f5548
+FileChecksum: MD5: 7e3b2df8608d40f2e84ff9400b7c7bd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/.maven-dockerignore
+SPDXID: SPDXRef-item14729960
+FileChecksum: SHA1: 2c0905da95d91b502e7f7178d311d5d64a517579
+FileChecksum: MD5: 4d2162258e0fbea8a561697d94decf66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/tsconfig.json
+SPDXID: SPDXRef-item14729961
+FileChecksum: SHA1: 9040c9d0f4127f69d29697128e1bc0ed09a2b20f
+FileChecksum: MD5: 21cf9f2afc052bc1eef9b8d8464c3553
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/browserslist
+SPDXID: SPDXRef-item14729963
+FileChecksum: SHA1: fe93a3b063d43a4b9b75937cc0afa45b8a391f82
+FileChecksum: MD5: a6ef658e65ea050e2d5e5770525b9082
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/assets/layouts/1.0.1/layout-rtu.json
+SPDXID: SPDXRef-item14729976
+FileChecksum: SHA1: b1b7f659ab4fdb5b1a11c03262ddbc75031dc9bd
+FileChecksum: MD5: 5ca5428e42f81454731b560402e10ed9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/assets/layouts/1.0.1/layout-restrictions.json
+SPDXID: SPDXRef-item14729977
+FileChecksum: SHA1: 03f571c8bee06960aa814ab38024282cd0405c36
+FileChecksum: MD5: 5579451fd5a4f9fae5608aaba11884c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/assets/layouts/1.0.2/layout-rtu.json
+SPDXID: SPDXRef-item14729979
+FileChecksum: SHA1: 005d581b84697fccc16e4671aa3c768e096b947a
+FileChecksum: MD5: 1f1c0a2b74acc318b5d0dc2faa0a4963
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/assets/layouts/1.0.2/layout-restrictions.json
+SPDXID: SPDXRef-item14729980
+FileChecksum: SHA1: 814f980b220f3bb235e72dabaf628fc1ef3092e2
+FileChecksum: MD5: cb05da56f9af41b39e98902bee83c659
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/assets/layouts/1.0.0/layout.json
+SPDXID: SPDXRef-item14729982
+FileChecksum: SHA1: be80fbae1d34327ea1849f5142d92741f63763aa
+FileChecksum: MD5: da4c93a5cc30252fc21ce90e92228155
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/assets/.gitkeep
+SPDXID: SPDXRef-item14729983
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/assets/schema/1.0.1/rtu-restrictions.json
+SPDXID: SPDXRef-item14729986
+FileChecksum: SHA1: 13a4e3baf87b433e71791ee5d23c61f78f386b34
+FileChecksum: MD5: 55fab5afac92ebf63d797cb1206c35f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/assets/schema/1.0.1/rtu-agreement.json
+SPDXID: SPDXRef-item14729987
+FileChecksum: SHA1: b3d13eace6a88d4ec56df90818fa793a02ca2006
+FileChecksum: MD5: 5b8f201e565ae686d9375d57b2d64dbd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/assets/schema/1.0.0/rtu-agreement.json
+SPDXID: SPDXRef-item14729989
+FileChecksum: SHA1: eb53576f54e8f4f15cd51f12b617c6ccd0df494b
+FileChecksum: MD5: c77c6acc885736a7ae0ca94d4c576d17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/assets/icons/close.svg
+SPDXID: SPDXRef-item14729991
+FileChecksum: SHA1: 3cc6bc5a1ffc5ad5ed6b23865f41fe3f252d89eb
+FileChecksum: MD5: 0f9f00b6adab212386ee071f4f98dcfe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/assets/exampledata/example007.json
+SPDXID: SPDXRef-item14729993
+FileChecksum: SHA1: 17418c9c0928c12e382acc1bb07c5f16a9c0fdc4
+FileChecksum: MD5: a01f4336de1c06fbc35401010531593f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/assets/exampledata/example006.json
+SPDXID: SPDXRef-item14729994
+FileChecksum: SHA1: 501e1c88016aeaa6293c1bcc9787de258b96d739
+FileChecksum: MD5: fdc008788d1c680c97122cdac18de1cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/assets/exampledata/example005.json
+SPDXID: SPDXRef-item14729995
+FileChecksum: SHA1: fea1b44d3652c13356335b9da93cbe0e06eed7dc
+FileChecksum: MD5: c4e3b4e67ec4f915ae0773989b513214
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/assets/exampledata/example001.json
+SPDXID: SPDXRef-item14729996
+FileChecksum: SHA1: 76491231d90b0d7f32ddc5809fbdd2bd6b446d6f
+FileChecksum: MD5: 1b0c27c885145df51b6f27e204538fa1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/assets/exampledata/example004.json
+SPDXID: SPDXRef-item14729997
+FileChecksum: SHA1: eae780bd0ef42a8954bc8d51429db46efada7004
+FileChecksum: MD5: e1468428ac8dfd859f9c739e819aea03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/assets/exampledata/example002.json
+SPDXID: SPDXRef-item14729998
+FileChecksum: SHA1: 031b494791c9fd3a66f4791f609911cc6be7ff1f
+FileChecksum: MD5: be24f18ec03ec57181cb5be951f7356e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/assets/exampledata/example003.json
+SPDXID: SPDXRef-item14729999
+FileChecksum: SHA1: 8458b4d3294f52a0aef1f4ec82ca5e4e85f53596
+FileChecksum: MD5: 87e56e58da5210925017bcfaeb8ef123
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/src/favicon.ico
+SPDXID: SPDXRef-item14730005
+FileChecksum: SHA1: 84161b857f5c547e3699ddfbffc6d8d737542e01
+FileChecksum: MD5: b9aa7c338693424aae99599bec875b5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/karma.conf.js
+SPDXID: SPDXRef-item14730020
+FileChecksum: SHA1: 2a6d1286bcd98fefa935f8084b824bf068bdfcc9
+FileChecksum: MD5: 7aa3df2989ad426ba7c210d97ae00842
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/.dockerignore
+SPDXID: SPDXRef-item14730022
+FileChecksum: SHA1: cf8b81bef5122e103cda2a951fc9d979d835a19c
+FileChecksum: MD5: e6301350824d0905f24af3adb700b232
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/e2e/tsconfig.json
+SPDXID: SPDXRef-item14730024
+FileChecksum: SHA1: 21b56c9d54736e07762d57287a03b2e011b1ab5c
+FileChecksum: MD5: e1c0f6bcb8c54f3cb270670c5291fcbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/e2e/src/app.po.ts
+SPDXID: SPDXRef-item14730026
+FileChecksum: SHA1: 7d0b5a1e3cbbf63438a099744d84dd4d5039aea6
+FileChecksum: MD5: e666007312551271a1e6ae42610b3bec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/e2e/src/app.e2e-spec.ts
+SPDXID: SPDXRef-item14730027
+FileChecksum: SHA1: 7b6aa74ecc29b1850d6732eee6d119be783f1ea1
+FileChecksum: MD5: 2784d4ef1b40c404fe74de54b7cb2e41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/e2e/protractor.conf.js
+SPDXID: SPDXRef-item14730028
+FileChecksum: SHA1: 315eaa1d32e1b11d8c059551bc61d2d2cd5b3eab
+FileChecksum: MD5: 451de9fcb7b4806f10dea51ce4cf7269
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/package.json
+SPDXID: SPDXRef-item14730029
+FileChecksum: SHA1: d75a8a59c672eb2ce1769a02c40a1daa37907e93
+FileChecksum: MD5: 5eef077553d97f11229c96709d50ded2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/container-tag.yaml
+SPDXID: SPDXRef-item14730030
+FileChecksum: SHA1: 76a5bf134d0e950f56aeabc85614ea96f2071a41
+FileChecksum: MD5: 3243a082df4f3691c90af893e37448c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/.gitignore
+SPDXID: SPDXRef-item14730031
+FileChecksum: SHA1: 7fc580c0c3892e0a4e0a133c4b4a75c35be40e2f
+FileChecksum: MD5: fb0f63510c8500db4583836c2dfc86e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/package-lock.json
+SPDXID: SPDXRef-item14730032
+FileChecksum: SHA1: 608e0ed3f26be6e3bc90dde28a6e9b3e1ac59d97
+FileChecksum: MD5: 17bf46073102624978c12f2428de9f9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/angular.json
+SPDXID: SPDXRef-item14730033
+FileChecksum: SHA1: 37aa4f5d439f91aabc5fdc7557ab9b0e12573457
+FileChecksum: MD5: a4eb7f86dafaf06aca4c78e08f25e948
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/tsconfig.app.json
+SPDXID: SPDXRef-item14730034
+FileChecksum: SHA1: 5cd74179c90a08934c2ba0296625af4d943d3888
+FileChecksum: MD5: 7f99fcad2a68fb62c950d603287bdfc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/tsconfig.spec.json
+SPDXID: SPDXRef-item14730035
+FileChecksum: SHA1: 67e4efb11eb62d98aef8e3014a01cc970a8b45aa
+FileChecksum: MD5: de44a74e62132a1f51959c44e606cbd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor/Dockerfile
+SPDXID: SPDXRef-item14730036
+FileChecksum: SHA1: ef9fbede75809cecc4810df9c69dd1fa7a0fd6c2
+FileChecksum: MD5: a4e0a3653b04671b826fc83997d0ab3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/INFO.yaml
+SPDXID: SPDXRef-item14730037
+FileChecksum: SHA1: 22a622c654a72c5d1111ac23c85de4fd751944c6
+FileChecksum: MD5: 4eb509bac24afbc9fa6f871b4fae167a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/.gitreview
+SPDXID: SPDXRef-item14730048
+FileChecksum: SHA1: 6b5fd058995d051b04aa3575b4233f71e3110e6e
+FileChecksum: MD5: 1617439b1ba487229957b486dc01657f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-manager-parent.iml
+SPDXID: SPDXRef-item14730049
+FileChecksum: SHA1: 4d65cee95230d06418e3a31988fd5c9ab15fb4a2
+FileChecksum: MD5: 441ae42223dbb1b7467cce193ad730f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor-helm-chart/.helmignore
+SPDXID: SPDXRef-item14730061
+FileChecksum: SHA1: ef7bf5df50e7e52a5ea2049a26f77aa240262db2
+FileChecksum: MD5: 9cf9eb7e2fd8ec7b4b73232d39532489
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/releases/release-profile-editor.yaml
+SPDXID: SPDXRef-item14730065
+FileChecksum: SHA1: ecb6f3d310c957ace9720942deb5214beb6ee259
+FileChecksum: MD5: 990fe4d88670f113b4df22d29fbe843e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/releases/release-library-jar.yaml
+SPDXID: SPDXRef-item14730066
+FileChecksum: SHA1: dc2dcc42410a3e5364428557c4eadbda6d25bed6
+FileChecksum: MD5: f7379d8558a9641c7e9e06fedfd5f449
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/releases/1.0.0-maven.yaml
+SPDXID: SPDXRef-item14730067
+FileChecksum: SHA1: 3911575e360f9616f08acfd08c84dafcd26b7edc
+FileChecksum: MD5: 924a8f8e55c781385f2a6217f72d2c99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/releases/0.0.3-container.yaml
+SPDXID: SPDXRef-item14730068
+FileChecksum: SHA1: abe4defa6b999d8020e0bea88161f91d1ba751f3
+FileChecksum: MD5: 2a322491e29f20b786c33839d4899ede
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/releases/release-rtu-editor.yaml
+SPDXID: SPDXRef-item14730069
+FileChecksum: SHA1: 38b1edcb8c6e5d2a5eb65fa75ebc91a512f1542a
+FileChecksum: MD5: 809fe1cbccb49dc0611d7896924f12ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-rtu-editor-helm-chart/.helmignore
+SPDXID: SPDXRef-item14730083
+FileChecksum: SHA1: ef7bf5df50e7e52a5ea2049a26f77aa240262db2
+FileChecksum: MD5: 9cf9eb7e2fd8ec7b4b73232d39532489
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/.gitattributes
+SPDXID: SPDXRef-item14730085
+FileChecksum: SHA1: bdd5d6c3ac14626a4be4de9a17c0d7ff8650d117
+FileChecksum: MD5: deb6bd2d9e114cd6a719e361c1e90c74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/.gitignore
+SPDXID: SPDXRef-item14730086
+FileChecksum: SHA1: d5ddedb21efc0eec0d50d46d18c94dda26add900
+FileChecksum: MD5: b54346e08013ba910559334152a27301
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/simple-agreement.json
+SPDXID: SPDXRef-item14730088
+FileChecksum: SHA1: eb1b543ea8bec4683e8bfaceee898399346eaf4d
+FileChecksum: MD5: 798964e3b70b3f1a6574ad2227182510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/rtu-asset-usage-agreement-square.json
+SPDXID: SPDXRef-item14730089
+FileChecksum: SHA1: 06dba091c12339f5e451609c77ecef6ed173a34e
+FileChecksum: MD5: 7abe1b3d2f11388e2e4a4477cd2d932b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/view-license-in-portal.png
+SPDXID: SPDXRef-item14730096
+FileChecksum: SHA1: 0a1389e8e9ca967fd8007c92acc384b7f2549519
+FileChecksum: MD5: 6a2bcfa44bc3afbc57e024789a439c8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/select-license-profile.png
+SPDXID: SPDXRef-item14730097
+FileChecksum: SHA1: e58761877570c88343331265f074d602d59528f5
+FileChecksum: MD5: 38498854ff27998dc1b2b2a04932a4d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/downloadSimpleSol-1.png
+SPDXID: SPDXRef-item14730098
+FileChecksum: SHA1: 6c89061bf6015ba14ba62299cce4798c809b632a
+FileChecksum: MD5: 2c78d9b269385d06a1fb7b04a0ca39c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/rtu-editor-review.png
+SPDXID: SPDXRef-item14730099
+FileChecksum: SHA1: f2931179bc88032853a7e2c15c16e750bc37ea81
+FileChecksum: MD5: 9f81289cb334624492d03ebdda276c34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/runningSimpleSol.png
+SPDXID: SPDXRef-item14730100
+FileChecksum: SHA1: 5c33913e7fc69f285e6967e734834d95b5979f4f
+FileChecksum: MD5: edd3c92563ef84540601dcf78434581e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/runningCompSol.png
+SPDXID: SPDXRef-item14730101
+FileChecksum: SHA1: 530ccd5f2db59cdcaccde5507a73fdc7a0886063
+FileChecksum: MD5: 50235c2204ca9aab12d4f8b68ea0456f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/downloadCompSol-1.png
+SPDXID: SPDXRef-item14730102
+FileChecksum: SHA1: 8703e98a5b55a03d8e9771e2e02b320018cdb322
+FileChecksum: MD5: 207bebb3bf5d7caf19225f7102a57d23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/rtu_configuration_3.png
+SPDXID: SPDXRef-item14730103
+FileChecksum: SHA1: 0e53dca1a4247586267010fb881893e724880ad0
+FileChecksum: MD5: 5a0994eb8930d3c7b3cf4492018cd32c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-1.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/visualize-Kibana-3.png
+SPDXID: SPDXRef-item14730104
+FileChecksum: SHA1: 8bd4becbe9a28fc4ce9bb7ba9c6676a320bb341d
+FileChecksum: MD5: 83aa6e006f8baf5a6e40c71208b9e924
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/acumos-license-editor-v1.gif
+SPDXID: SPDXRef-item14730105
+FileChecksum: SHA1: 7a63a2c3e841b8c9d9874cd7ae97d5a768753bef
+FileChecksum: MD5: 336b4eea3c982a3a461aaa7d97feabe5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/attach-before-publishing.gif
+SPDXID: SPDXRef-item14730106
+FileChecksum: SHA1: 03a70167008fb418f9f6915cdcf885d35ead314d
+FileChecksum: MD5: d222200837265168284cf964b0dda665
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/license-profile-editor-modify.png
+SPDXID: SPDXRef-item14730107
+FileChecksum: SHA1: d847e8879713cef6913cacd1bd187052101d8d0d
+FileChecksum: MD5: aef276602e3702ecfdcaeda4d8b66af2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/comp-model-usage-1.gif
+SPDXID: SPDXRef-item14730108
+FileChecksum: SHA1: 4cadd9e6271d5dc4c6e8f2dfbe6c652d4536ff2a
+FileChecksum: MD5: aa0631048773c45ea455621e97d533bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/attach-license.gif
+SPDXID: SPDXRef-item14730109
+FileChecksum: SHA1: 682ed00080e812f525db7a9483fd825a1287d5ba
+FileChecksum: MD5: 59a06d963f21e084c8b571cc43f4e37c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/license-profile-rtu-required-full.png
+SPDXID: SPDXRef-item14730110
+FileChecksum: SHA1: 51d2dd97e35fc612daa19840821a14c9f0622965
+FileChecksum: MD5: d372c64444a88d8ffd42191f15788223
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/rtu-editor-restrictions.png
+SPDXID: SPDXRef-item14730111
+FileChecksum: SHA1: e69208b1ff119273f1666f569bbddb6f6fffaec7
+FileChecksum: MD5: e38ebab38c62a16a326114a0a364c03d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/createKibanaDashboard-2.png
+SPDXID: SPDXRef-item14730112
+FileChecksum: SHA1: 61208fc948f030a611cd88b45cc3046f0dcf13f5
+FileChecksum: MD5: 36298f7a5aea80a04305b15203883822
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/rtu_verify_download.png
+SPDXID: SPDXRef-item14730113
+FileChecksum: SHA1: 2921d6d69126dab5ed42a5304f4e7003968cf578
+FileChecksum: MD5: 478797366e40c06e2ebddf7cdb0c94d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/rtu_configuration.png
+SPDXID: SPDXRef-item14730114
+FileChecksum: SHA1: 2b37b2d9d7ef0daf5f42efc5c1da89cbefb96fcd
+FileChecksum: MD5: c6412ec999b1155fe2a17dcd48d3e660
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/simple-model-usage-1.gif
+SPDXID: SPDXRef-item14730115
+FileChecksum: SHA1: 68f8a7de326c57b81979bf1bbf92a15375b2a112
+FileChecksum: MD5: 734645b998b1def074636b6e1344c3aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/downloadSimpleSol-2.png
+SPDXID: SPDXRef-item14730116
+FileChecksum: SHA1: 470787944ab35dc8f2917d8b4876668afbf80344
+FileChecksum: MD5: e04440f8b4b58bec7dd6563ea0eab0f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/createKibanaDashboard-1.png
+SPDXID: SPDXRef-item14730117
+FileChecksum: SHA1: 4ce04af2739d66637c9b11d0007ac937a2726038
+FileChecksum: MD5: b6b94c6d7a960bf41ff1adc89516e09b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/visualize-Kibana-2.png
+SPDXID: SPDXRef-item14730118
+FileChecksum: SHA1: e56acb60fc948cf74d0829e02e67697d40489f0c
+FileChecksum: MD5: 9d73463345f9a87600ba8a2345305f6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/simpleModelKibana-2.png
+SPDXID: SPDXRef-item14730119
+FileChecksum: SHA1: d5cd676b6980d1492def2430e439e37b4088b18e
+FileChecksum: MD5: 411a606fa5e3b081177af65a6d5125f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/acp-single-tracking.png
+SPDXID: SPDXRef-item14730120
+FileChecksum: SHA1: 575f89940ad16139a4c4a7674f3c6742d2a712e4
+FileChecksum: MD5: e4fffe4d2d93aab4060642cd22710033
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/rtu_configuration_2.png
+SPDXID: SPDXRef-item14730121
+FileChecksum: SHA1: b3d23e09bff23c0ce2f66b2418e377f1523fbd6e
+FileChecksum: MD5: ed761c0cafa724904ec26039f93229c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/license-controller-cds.png
+SPDXID: SPDXRef-item14730122
+FileChecksum: SHA1: f99b69073f32d7faed21bec9e353147027bf3bd0
+FileChecksum: MD5: 56e18da4a40746fb2165d445818fc0e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/rtu_configuration_5.png
+SPDXID: SPDXRef-item14730123
+FileChecksum: SHA1: 1bced31841b97d62b1110fe895f8234e8b56bf5a
+FileChecksum: MD5: 1a8e0fb24fa4468acce7115fda0b02e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/downloadCompSol-2.png
+SPDXID: SPDXRef-item14730124
+FileChecksum: SHA1: e9f16c3c1ea8a64fb2f1254ffd24915a7fcf0d85
+FileChecksum: MD5: ff7304d2d3350d5b60f1158b028fee99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/rtu_configuration_4.png
+SPDXID: SPDXRef-item14730125
+FileChecksum: SHA1: c7e71b5132a30ac31ae7b7ce56ed79e41f597954
+FileChecksum: MD5: 65903d8497e04884f338ecb3147ecb2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/denial-message-no-swid-tag.png
+SPDXID: SPDXRef-item14730126
+FileChecksum: SHA1: 2cf3e821b2c199463fb4abd4a112295e6e2b34d9
+FileChecksum: MD5: 6a8a65d2fdb44afd11a0fe3e0edf16c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/rtu-editor-agreement-companyb-companyz.png
+SPDXID: SPDXRef-item14730127
+FileChecksum: SHA1: dee07892a70a74188e832590959bcd9ab5205986
+FileChecksum: MD5: bdb19ff8e874574b0005ccafdba89af0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/rtu_configuration_6.png
+SPDXID: SPDXRef-item14730128
+FileChecksum: SHA1: 1f9403e16781befb1d0f38dbb5081907ba5cf746
+FileChecksum: MD5: 84e73b9d19ecf0c9e41f3a15c2170640
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/supplier-company-b-agreement-in-editor.png
+SPDXID: SPDXRef-item14730129
+FileChecksum: SHA1: fcf343026772dcbcb024198b8a468c6b44543c26
+FileChecksum: MD5: c447a2a99fb5d81388e52b7e5b8d373e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/visualize-Kibana-1.png
+SPDXID: SPDXRef-item14730130
+FileChecksum: SHA1: 3ec9ee98e82fce91f762d35697ad9c6eef5c8e67
+FileChecksum: MD5: 7cc18a4e4794ba9ae5d59f2fbfe6d94b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/company-z-new-license-profile-template.png
+SPDXID: SPDXRef-item14730131
+FileChecksum: SHA1: 38cbcd9b06e84bbbb424098c7e2ff8f855e3e4f2
+FileChecksum: MD5: e0f5f6e89444e7b3c68f4119b697fa9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/denial-message-no-agreement.png
+SPDXID: SPDXRef-item14730132
+FileChecksum: SHA1: 5de092549f6b2998b3853590bd6d08c16523d793
+FileChecksum: MD5: 16e2369ed39dee845d3a3e16f8ee00f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/license-profile-editor-new.png
+SPDXID: SPDXRef-item14730133
+FileChecksum: SHA1: 5f7bb54f11bd8f3a5843549efd787fa48e34847f
+FileChecksum: MD5: e01cb3cc4cd10abddda0d09a72f8f3c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/createKibanaIndex.png
+SPDXID: SPDXRef-item14730134
+FileChecksum: SHA1: bf38e26c3adcf183bab3dbbdf7f8287486e86682
+FileChecksum: MD5: 3c85115e2de5568c3b7bad1d08c862b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/simpleModelKibana-1.png
+SPDXID: SPDXRef-item14730135
+FileChecksum: SHA1: 52ade02f1c75bbded613d3605f9cf02a7373d87d
+FileChecksum: MD5: 6335dcf0953f4564e0ccda7f201dba6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/images/license-profile-rtu-required.png
+SPDXID: SPDXRef-item14730136
+FileChecksum: SHA1: 5ff5b9af922d4d54f7c78ccced799ce2fc3dbe18
+FileChecksum: MD5: b3441fb229ce027a4c0b191aa409b87c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/seqdiag/model-runner.png
+SPDXID: SPDXRef-item14730145
+FileChecksum: SHA1: 3ecf48b8c63db5401f5e1afb613c298e83fecc9a
+FileChecksum: MD5: ff4559efdb62944cee5981fc94953373
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/seqdiag/license-profile.seqdiag
+SPDXID: SPDXRef-item14730146
+FileChecksum: SHA1: eaac477c26bc089cccbe3fdeb289756f58f5f848
+FileChecksum: MD5: bc9a664d2b4dbee8997991bc8d16d9f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Non-commercial
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/seqdiag/model-runner.seqdiag
+SPDXID: SPDXRef-item14730147
+FileChecksum: SHA1: 159281ab085d792c8a42d56c5eab7f5f285fea6f
+FileChecksum: MD5: fa3df3c00106a795a66b931e49b21471
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/seqdiag/license-profile.png
+SPDXID: SPDXRef-item14730148
+FileChecksum: SHA1: 6ee59cbdaaeecfbbe31c339f97224bc87aeae66c
+FileChecksum: MD5: 2fb2e8a3e7817a47db83d1d5d7501e19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/seqdiag/license-profile.svg
+SPDXID: SPDXRef-item14730149
+FileChecksum: SHA1: cdcfd0d12e4ff25fdaa4d0dbe970e1ec50061939
+FileChecksum: MD5: a385d4ad77ac1d2246cfc1e11b5ac6a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/docs/seqdiag/rtu-sequence.seqdiag
+SPDXID: SPDXRef-item14730150
+FileChecksum: SHA1: 5ace993f1d45ab88883e86624e5441f2da4760bb
+FileChecksum: MD5: 63c7802ea6f0edadb1c22212804fd2b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/.editorconfig
+SPDXID: SPDXRef-item14730155
+FileChecksum: SHA1: 17331378fe44346740bfa358785bd0f82f95a65f
+FileChecksum: MD5: 5e24d96eec6165f6e138fb9d12397afa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/tslint.json
+SPDXID: SPDXRef-item14730156
+FileChecksum: SHA1: 37ad492bf9e13cac87363706c4172a75d3032db1
+FileChecksum: MD5: 6065cc143d918b5d325cbe0e5d774f20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/.npmrc
+SPDXID: SPDXRef-item14730157
+FileChecksum: SHA1: e932f5e647dc1c59a68ff4423e570e13453f5548
+FileChecksum: MD5: 7e3b2df8608d40f2e84ff9400b7c7bd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/.maven-dockerignore
+SPDXID: SPDXRef-item14730158
+FileChecksum: SHA1: 2c0905da95d91b502e7f7178d311d5d64a517579
+FileChecksum: MD5: 4d2162258e0fbea8a561697d94decf66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/tsconfig.json
+SPDXID: SPDXRef-item14730159
+FileChecksum: SHA1: 9040c9d0f4127f69d29697128e1bc0ed09a2b20f
+FileChecksum: MD5: 21cf9f2afc052bc1eef9b8d8464c3553
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/Dockerfile.testing
+SPDXID: SPDXRef-item14730162
+FileChecksum: SHA1: acf7de4786afb072c0cc232de77e3c2aaff127b4
+FileChecksum: MD5: 91537f7ae59a2315f3301f73d6975b18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/assets/layouts/1.0.0/layout.json
+SPDXID: SPDXRef-item14730175
+FileChecksum: SHA1: b34ecbd088a43726a47852211dfea8304078bf9b
+FileChecksum: MD5: 5e668389141221f366c54eb10e38a1d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/assets/layouts/boreas/layout.json
+SPDXID: SPDXRef-item14730177
+FileChecksum: SHA1: 4dffb2c4be252231c2db9d7e705886187221c023
+FileChecksum: MD5: d147e330a400add7b6c882e55acd7000
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/assets/.gitkeep
+SPDXID: SPDXRef-item14730178
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/assets/examples/company-b-proprietary.json
+SPDXID: SPDXRef-item14730180
+FileChecksum: SHA1: 8f56a68b6837094d9df3adcdb935c7737543cccb
+FileChecksum: MD5: 140de56691142377dc1550e93dc8da8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/assets/examples/vendor-a-oss.json
+SPDXID: SPDXRef-item14730181
+FileChecksum: SHA1: aa496374549288df8b7eb4e7a16d9df37a49aef7
+FileChecksum: MD5: 3a8a7903b0d49830397ccce7ef375815
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/assets/examples/apache-2.0-company-a.json
+SPDXID: SPDXRef-item14730182
+FileChecksum: SHA1: 086a686b90bc9e62d464a5000470dbe792cce7e1
+FileChecksum: MD5: 487129d15c8f16220a3a44953d7f3429
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/assets/schema/1.0.0/license-profile.json
+SPDXID: SPDXRef-item14730185
+FileChecksum: SHA1: c871b24ce10c5f51d3a99e8a44bb595e2f3ef2ae
+FileChecksum: MD5: f7c8c992b58cc8a2cedb7e1dcdec1e48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/assets/schema/boreas/license-profile.json
+SPDXID: SPDXRef-item14730187
+FileChecksum: SHA1: f2690d51949ac42ca64276986a5777e6154dfd5b
+FileChecksum: MD5: fa596e8be2a32e47fe59915a3222f24a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/assets/icons/close.svg
+SPDXID: SPDXRef-item14730189
+FileChecksum: SHA1: 3cc6bc5a1ffc5ad5ed6b23865f41fe3f252d89eb
+FileChecksum: MD5: 0f9f00b6adab212386ee071f4f98dcfe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/assets/.gitignore
+SPDXID: SPDXRef-item14730190
+FileChecksum: SHA1: 1bd3ed03e794fbf82f587ab978c262a699edb722
+FileChecksum: MD5: d6e7e4033a4e374b0dbbd05f1042c11a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/src/favicon.ico
+SPDXID: SPDXRef-item14730196
+FileChecksum: SHA1: 84161b857f5c547e3699ddfbffc6d8d737542e01
+FileChecksum: MD5: b9aa7c338693424aae99599bec875b5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/.dockerignore
+SPDXID: SPDXRef-item14730213
+FileChecksum: SHA1: cf8b81bef5122e103cda2a951fc9d979d835a19c
+FileChecksum: MD5: e6301350824d0905f24af3adb700b232
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/e2e/tsconfig.json
+SPDXID: SPDXRef-item14730215
+FileChecksum: SHA1: 21b56c9d54736e07762d57287a03b2e011b1ab5c
+FileChecksum: MD5: e1c0f6bcb8c54f3cb270670c5291fcbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/e2e/src/app.po.ts
+SPDXID: SPDXRef-item14730217
+FileChecksum: SHA1: c3e82f74aa964e0a49b60e7157e65a85f0bcfbc9
+FileChecksum: MD5: 6e157b101440584a6f984b091d32fc11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/e2e/src/app.e2e-spec.ts
+SPDXID: SPDXRef-item14730218
+FileChecksum: SHA1: efddcdf34c4b86ef32532a82cd26dfc1e1bce8b9
+FileChecksum: MD5: a6c3467e2e6b6d2d6c4f3d99d666fa37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/e2e/protractor.conf.js
+SPDXID: SPDXRef-item14730219
+FileChecksum: SHA1: 315eaa1d32e1b11d8c059551bc61d2d2cd5b3eab
+FileChecksum: MD5: 451de9fcb7b4806f10dea51ce4cf7269
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/package.json
+SPDXID: SPDXRef-item14730220
+FileChecksum: SHA1: f7a8228ce0271515325a03b61b8a8c038e212426
+FileChecksum: MD5: b06cf0f4b27688aa82ec46b677b1cbca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/container-tag.yaml
+SPDXID: SPDXRef-item14730221
+FileChecksum: SHA1: deb0401bc3a2b9713a39c344bcf4c0d77b0a8729
+FileChecksum: MD5: bb4954a98d74e645c45e6e162dd156cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/.gitignore
+SPDXID: SPDXRef-item14730222
+FileChecksum: SHA1: 6073028dcfbc48722aa22bb2c09371b2fad6276b
+FileChecksum: MD5: 91dd32768c41b0cff913e6d96c109e77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/package-lock.json
+SPDXID: SPDXRef-item14730223
+FileChecksum: SHA1: 543bbd9eeef9c1982262dcc544d67377e7045b72
+FileChecksum: MD5: 5f311c031366cee44f1c2f701bb6c2bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/angular.json
+SPDXID: SPDXRef-item14730224
+FileChecksum: SHA1: 0f9d396f318f08124775bd66604ceefb73c711e4
+FileChecksum: MD5: f6debed8a9a061c393fcc8605ff9091c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/tsconfig.app.json
+SPDXID: SPDXRef-item14730225
+FileChecksum: SHA1: 5cd74179c90a08934c2ba0296625af4d943d3888
+FileChecksum: MD5: 7f99fcad2a68fb62c950d603287bdfc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/tsconfig.spec.json
+SPDXID: SPDXRef-item14730226
+FileChecksum: SHA1: 67e4efb11eb62d98aef8e3014a01cc970a8b45aa
+FileChecksum: MD5: de44a74e62132a1f51959c44e606cbd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-profile-editor/Dockerfile
+SPDXID: SPDXRef-item14730227
+FileChecksum: SHA1: 8efbddb56e4c029acdb61d14ee5a168b0ca4337f
+FileChecksum: MD5: 735f297e17d75e67fd32f0aa3a1fd4bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/test/resources/invalid-types-license.json
+SPDXID: SPDXRef-item14730237
+FileChecksum: SHA1: fc9a2542251ce07a468e2041d267fa71ba748cf8
+FileChecksum: MD5: 48d78833ebfc8f5e0c08e2b311e594bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/test/resources/bad-license.json
+SPDXID: SPDXRef-item14730238
+FileChecksum: SHA1: 9743808bc17aeb6fffd201c1d9f048498b5efb48
+FileChecksum: MD5: 2af93071d25104fb3a2ecdc706f8e381
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/test/resources/boreas-good-license.json
+SPDXID: SPDXRef-item14730239
+FileChecksum: SHA1: 335bcdbe96a67b250f66c37b4286678966feab68
+FileChecksum: MD5: ffa69e91f18360ea81fb0c23c10a5963
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/test/resources/boreas-bad-license.json
+SPDXID: SPDXRef-item14730240
+FileChecksum: SHA1: 9f00e0e3b62923c7f39808c43a44c1e451a3db5a
+FileChecksum: MD5: 288bac9bc0850f37a5c24c8ffa45a96d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/test/resources/boreas-invalid-types-license.json
+SPDXID: SPDXRef-item14730241
+FileChecksum: SHA1: 2054e654ccec6df11da786962638b042ad21d6af
+FileChecksum: MD5: 11c2cf6a9dff7bbd7158c5f1f62268c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/test/resources/min-license.json
+SPDXID: SPDXRef-item14730242
+FileChecksum: SHA1: 8f632e9d70dd75205cdcf67c6994fa5f35a1b57d
+FileChecksum: MD5: 4e853244c755b9d9bb02a2b04be145d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/test/resources/good-license.json
+SPDXID: SPDXRef-item14730243
+FileChecksum: SHA1: 7b96f9d168822baf0115f36db86b95ed16510d04
+FileChecksum: MD5: e8111a510a691a715ebccb1312e56120
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/test/resources/license.json
+SPDXID: SPDXRef-item14730244
+FileChecksum: SHA1: cd4212a89cc483cfdd137f3351baf625bf5eb3b8
+FileChecksum: MD5: b0e9162d485429706f23610c4ce0f251
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/test/resources/partial-license.json
+SPDXID: SPDXRef-item14730246
+FileChecksum: SHA1: 427dafcb190d67ec663a22f61846c5f0987d518c
+FileChecksum: MD5: 2bdcb8b4498d258b60ec4bdd685e2ea4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/test/resources/min-missing-license.json
+SPDXID: SPDXRef-item14730247
+FileChecksum: SHA1: 19e8fa213a64b47ad5a0c0ddd0b2de724daabda4
+FileChecksum: MD5: ed0bfe644e2664459cd7a50719811b7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/resources/schema/1.0.0/license-profile.json
+SPDXID: SPDXRef-item14730269
+FileChecksum: SHA1: c871b24ce10c5f51d3a99e8a44bb595e2f3ef2ae
+FileChecksum: MD5: f7c8c992b58cc8a2cedb7e1dcdec1e48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-manager/license-manager-client-library/src/main/resources/schema/boreas/license-profile.json
+SPDXID: SPDXRef-item14730271
+FileChecksum: SHA1: f2690d51949ac42ca64276986a5777e6154dfd5b
+FileChecksum: MD5: fa596e8be2a32e47fe59915a3222f24a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-Apache-possibility
+LicenseName: Apache-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Non-commercial
+LicenseName: Non-commercial
+ExtractedText: <text> License by Nomos. </text>
+
