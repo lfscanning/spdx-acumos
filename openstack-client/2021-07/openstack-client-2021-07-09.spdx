@@ -1,0 +1,1026 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_openstack-client-2021-07-09.zip_1627583994.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-07-29T18:39:54Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: openstack-client-2021-07-09.zip
+PackageFileName: openstack-client-2021-07-09.zip
+SPDXID: SPDXRef-upload3833
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: ff46d23ddbcd406d778864765b275f5c335b1287
+PackageChecksum: SHA1: 03b2548f2ff2d3b5a239ad493863da4c5770dc7b
+PackageChecksum: MD5: acb3dd236c96a242e006d43cefe8fbb3
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3833
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: openstack-client/docs/index.rst
+SPDXID: SPDXRef-item14731497
+FileChecksum: SHA1: c8db6240e62b285157e7dec75fca470ffec94ed0
+FileChecksum: MD5: cb8e702ee5d89a07984a0d2c5d5dbe32
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/docs/user-guide.rst
+SPDXID: SPDXRef-item14731504
+FileChecksum: SHA1: aa05f69515053208a07db30383f3320f70379c33
+FileChecksum: MD5: 2ad09beb4170ea94fcfced62a0d71b0c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/docs/developer-guide.rst
+SPDXID: SPDXRef-item14731503
+FileChecksum: SHA1: 6965d9c6b219364573e88ad7b96a5414d4b7ed0a
+FileChecksum: MD5: a7045083d0457267c858352d9242fa56
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/docs/release-notes.rst
+SPDXID: SPDXRef-item14731498
+FileChecksum: SHA1: c1dcb763402a3876b8ac7120d2c66b6b2be2ef5b
+FileChecksum: MD5: a33a9f2f526d334b18ba4a29255d61c9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/LICENSE.txt
+SPDXID: SPDXRef-item14731489
+FileChecksum: SHA1: 14a09dfbaf4d175f0399c4db07cc9897aa0e1114
+FileChecksum: MD5: 6dbc473aee31d40c4347872ce856beab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/test/java/org/acumos/openstack/client/test/util/NodeTest.java
+SPDXID: SPDXRef-item14731410
+FileChecksum: SHA1: b869c819dd18cc79f94e8f4a0b1b544e4a48177f
+FileChecksum: MD5: 1eb2ec2f5b455258158a3cccefa2c368
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/test/java/org/acumos/openstack/client/test/util/SingletonClassTest.java
+SPDXID: SPDXRef-item14731409
+FileChecksum: SHA1: d1f202c4c4bd88e3610650aafb78a6152ecef85d
+FileChecksum: MD5: 05341753bb40cbf617c34c79c0dc9186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/test/java/org/acumos/openstack/client/test/transport/OpenstackCompositeDeployBeanTest.java
+SPDXID: SPDXRef-item14731417
+FileChecksum: SHA1: 2ecd2a6735729ac2616ef8e86a4671600772a8a7
+FileChecksum: MD5: 0ed8843b5ce725a36cd5a33838cc5cdb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/test/java/org/acumos/openstack/client/test/util/OperationSignatureTest.java
+SPDXID: SPDXRef-item14731406
+FileChecksum: SHA1: 01ef9cdc0c035ac337249da576cd7148263326f9
+FileChecksum: MD5: 8fb5e25733e48e2b03d1fe3e00062332
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/test/java/org/acumos/openstack/client/test/transport/OpanStackContainerBeanTest.java
+SPDXID: SPDXRef-item14731418
+FileChecksum: SHA1: 5a3b78f3956da77be7127837ca551c9145e496e0
+FileChecksum: MD5: a0a7f87b7c1a6a46a2a19a7b80c6d03a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/test/java/org/acumos/openstack/client/test/transport/CompositeDeployTest.java
+SPDXID: SPDXRef-item14731419
+FileChecksum: SHA1: 7cbd2d9cd2904fa3287fc99c1e54aaac6b4975f0
+FileChecksum: MD5: 93efc1220204f024fac81c5099e10f2e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/controller/AbstractController.java
+SPDXID: SPDXRef-item14731434
+FileChecksum: SHA1: ecfb5f3004e5e03a062d02b54c8e80cdfff6bf36
+FileChecksum: MD5: da56ffd53d7c65cf6f1e93fd9c3cc947
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/test/java/org/acumos/openstack/client/test/api/SwaggerTest.java
+SPDXID: SPDXRef-item14731424
+FileChecksum: SHA1: 5519750e3253d261d2694d2662612e13241c03e0
+FileChecksum: MD5: 73e28f17253c3de2dae517ec7d31cd77
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/OpenstackClientApplication.java
+SPDXID: SPDXRef-item14731443
+FileChecksum: SHA1: 5c230889fc9ca6063185c1df1fdc4acc1679a688
+FileChecksum: MD5: 5343c4d37985e078ee8a2985b4d5e9e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/InputField.java
+SPDXID: SPDXRef-item14731449
+FileChecksum: SHA1: e2477b40823ba008dc6daa7464a6b12d28cc1b86
+FileChecksum: MD5: af5b2f8b413d1915956a28088abe10f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/test/java/org/acumos/openstack/client/test/transport/OpenstackDeployBeanTest.java
+SPDXID: SPDXRef-item14731422
+FileChecksum: SHA1: 32ee90fbbef22e6d770ba0e967306000d8ddd95a
+FileChecksum: MD5: a25d90b63946e6b69b74f5d9ff6fd1a4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/NodeTree.java
+SPDXID: SPDXRef-item14731450
+FileChecksum: SHA1: 33cfaecbdbb1e8975f393d54e77df1bd1e8d8208
+FileChecksum: MD5: 8166b56956d4c648bd39f769b92f8e33
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/SingletonMapClass.java
+SPDXID: SPDXRef-item14731468
+FileChecksum: SHA1: 5fe139433cf3e04e763f21e7002ef19dc4d0021c
+FileChecksum: MD5: 04b5e0803f843b1a007d40e68652e3f5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/service/OpenstackService.java
+SPDXID: SPDXRef-item14731437
+FileChecksum: SHA1: f9a1418917df1734251e859c171c038e709ac110
+FileChecksum: MD5: d21e994b7a2ca065073022963ae93b22
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/transport/DeploymentBean.java
+SPDXID: SPDXRef-item14731473
+FileChecksum: SHA1: a4c14b0ff427a80ca833f5077958b8ee4425cacf
+FileChecksum: MD5: c55c779988cea41f198d676ecb7951f7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/transport/CompositeDeployBean.java
+SPDXID: SPDXRef-item14731474
+FileChecksum: SHA1: 1789435856cc5e5b541b581f4d26f85ef3e3d47b
+FileChecksum: MD5: 8030142ff6e55eff5c05afe31cd2da6a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/transport/OpenstackDeployBean.java
+SPDXID: SPDXRef-item14731477
+FileChecksum: SHA1: 9f359393f99e79c7badb2c4bc30d7f50a5f6a7fa
+FileChecksum: MD5: bfaa612b6cdb45700e87ddf45e299196
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/transport/OpanStackContainerBean.java
+SPDXID: SPDXRef-item14731479
+FileChecksum: SHA1: 04b7ea718cd222e980c155c1e0e1d3b677a07360
+FileChecksum: MD5: d37e58cea92d664cb2996959092272b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/transport/ContainerInfo.java
+SPDXID: SPDXRef-item14731480
+FileChecksum: SHA1: f509562947bc2cd62cb0b75a44d417d4cd0a90f7
+FileChecksum: MD5: 96ed78c70a296a7adee8fc87eadc1b44
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/tools/setup-docker.sh
+SPDXID: SPDXRef-item14731485
+FileChecksum: SHA1: a387a430167f08ba4f6fd8a354bbe0a0bac984c5
+FileChecksum: MD5: 218a9c760e90618dfd4b178f3fc22f4d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/test/java/org/acumos/openstack/client/test/service/impl/OpenstackCompositeSolutionTest.java
+SPDXID: SPDXRef-item14731403
+FileChecksum: SHA1: 25af40e7ca548cdff7bbd6341b089e6f8204e335
+FileChecksum: MD5: a3c77d1a2b0be7c57234daa55c80c727
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/transport/OpenstackCompositeDeployBean.java
+SPDXID: SPDXRef-item14731475
+FileChecksum: SHA1: 4d1becb91955adf104be4e21984ae64e02786fd3
+FileChecksum: MD5: ca67e57e9aef61185691d21c95050b5d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/SwaggerConfiguration.java
+SPDXID: SPDXRef-item14731442
+FileChecksum: SHA1: b494ecef54bd72f3941a608571410c3631db6729
+FileChecksum: MD5: a6b0666a9f9587797b1192710d15b0d9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/DataBrokerBean.java
+SPDXID: SPDXRef-item14731464
+FileChecksum: SHA1: 0bb506da27a1a8f11ee99434c474778297b5e7a3
+FileChecksum: MD5: 6c3557e542a9e474878b18c2e7cbc66a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/test/java/org/acumos/openstack/client/test/service/impl/OpenstackSimpleSolutionTest.java
+SPDXID: SPDXRef-item14731404
+FileChecksum: SHA1: cf311dc9da05842df6b474dbbe5034e43c13bfed
+FileChecksum: MD5: f728e22a14eb4b16390ee74777d80d2e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/transport/MLNotification.java
+SPDXID: SPDXRef-item14731478
+FileChecksum: SHA1: 3ba3f4de330a30ed32875a64e883356599cba4cf
+FileChecksum: MD5: b2ecde3fda63ca499036157d7304d877
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/OpenStackConstants.java
+SPDXID: SPDXRef-item14731469
+FileChecksum: SHA1: ce8e6d1d5f75ca42a72e6c2dfd1dfa95144c6f97
+FileChecksum: MD5: fdf1283312e2a298910d8221578e7e84
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/test/java/org/acumos/openstack/client/test/util/BluePrintTest.java
+SPDXID: SPDXRef-item14731407
+FileChecksum: SHA1: e560e8c59e90e84d43ddf1e726c7910fef67879b
+FileChecksum: MD5: 3be5f4c05cdeaf1584355c3070a9968b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/api/APINames.java
+SPDXID: SPDXRef-item14731482
+FileChecksum: SHA1: de1f6c4e4ac9744910cefd1d4fd7c2e64ef0d7e9
+FileChecksum: MD5: 312739198ecdfbeda6cd39345719c3ea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/test/java/org/acumos/openstack/client/test/util/OpenStackTestConstants.java
+SPDXID: SPDXRef-item14731413
+FileChecksum: SHA1: 670cb1806a5a5d7692348866a0ceb2806bd73f5e
+FileChecksum: MD5: c383c93d5b2ad834c8feec95e1a3b8dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/test/java/org/acumos/openstack/client/test/util/ParseJsonTest.java
+SPDXID: SPDXRef-item14731412
+FileChecksum: SHA1: e5f00ff56e3acea8e09e36b5228aedd6623c5e9a
+FileChecksum: MD5: 991a6620815ce502fb9a92daa9c0081f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/test/java/org/acumos/openstack/client/test/util/DockerinfoTest.java
+SPDXID: SPDXRef-item14731408
+FileChecksum: SHA1: 6740a7a4a331ff61cc834d28aee005aa0eae15e5
+FileChecksum: MD5: a07a14134952fc4c0679502ee57121ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/test/java/org/acumos/openstack/client/test/util/LoggerUtilTest.java
+SPDXID: SPDXRef-item14731414
+FileChecksum: SHA1: 5082ec291d98531e770d8cfc6f48306788905acd
+FileChecksum: MD5: ff2c5f0228bd1af9215008a30a87ce8c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/test/java/org/acumos/openstack/client/test/util/DockerInfoListTest.java
+SPDXID: SPDXRef-item14731415
+FileChecksum: SHA1: 6f565be1b28ba2e0a464aca679e760432fb81859
+FileChecksum: MD5: db3103f6a7e2540f147eeb7b26b1f8d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/Blueprint.java
+SPDXID: SPDXRef-item14731448
+FileChecksum: SHA1: 450d0ed3803ea6067509402817848294377b3165
+FileChecksum: MD5: 01eac4561c0f88ecfff31027511a2f75
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/OperationSignature.java
+SPDXID: SPDXRef-item14731453
+FileChecksum: SHA1: fb6c0b31465d5a5478a5a901cea194118cd84036
+FileChecksum: MD5: f277d97e82264ad4b0b2b63ad25787e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/DataBrokerMap.java
+SPDXID: SPDXRef-item14731454
+FileChecksum: SHA1: 9dea73ab94de8868cd7e9f5fa82b10d85b10fc06
+FileChecksum: MD5: 10ebbf25f2357817e8a1643334a9f23b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/SSHShell.java
+SPDXID: SPDXRef-item14731456
+FileChecksum: SHA1: 8d6fe7dff4ee2859e7d9cbe881bc691f985aa32c
+FileChecksum: MD5: c98b0228ebbd0a00745795568c2ed3fd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/InputPort.java
+SPDXID: SPDXRef-item14731451
+FileChecksum: SHA1: b734fb06dd0f3a0ffdd8431b0d138b1274ccfb2b
+FileChecksum: MD5: 85e3aafe2b3e578ddc5f81803731e889
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/DockerInfo.java
+SPDXID: SPDXRef-item14731455
+FileChecksum: SHA1: 0b32b9ccbc614ca8256c84414438e607e3434380
+FileChecksum: MD5: c13a47be8b059a0863570dced8134f27
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/OutputField.java
+SPDXID: SPDXRef-item14731457
+FileChecksum: SHA1: c8f6685a24c0e23e46220fb214b7a088dd8f4995
+FileChecksum: MD5: c8b8611fcd7ae66545ce635acbec04fc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/Component.java
+SPDXID: SPDXRef-item14731459
+FileChecksum: SHA1: acef53a10a9808ff7c07ff7b8d5e4d92c072f65a
+FileChecksum: MD5: 2f41095e76b0b5dd85fbd266232f2580
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/CommonUtil.java
+SPDXID: SPDXRef-item14731458
+FileChecksum: SHA1: 8bb5e4fc9941bfb21c8da1e76cecb451d2412833
+FileChecksum: MD5: f5a00c7e3d88391bb7c3262c17b3d22c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/ConnectedTo.java
+SPDXID: SPDXRef-item14731460
+FileChecksum: SHA1: 786500336e2a0a9dd521c6cbc7f21db2ea0e7e82
+FileChecksum: MD5: 62aa8b5aa49c81cc17d53759a157341a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/MapOutputs.java
+SPDXID: SPDXRef-item14731462
+FileChecksum: SHA1: e980609c5d26276a5cfb2cc97b64ca7150b51563
+FileChecksum: MD5: 6a0d81aa6f595ed21f2f66c7156e8918
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/ProbeIndicator.java
+SPDXID: SPDXRef-item14731465
+FileChecksum: SHA1: 873e0c67aff63d1f8b593addbca7f5673697b2ea
+FileChecksum: MD5: 80d97a304f7e2d693967810b02c40389
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/OperationSignatureList.java
+SPDXID: SPDXRef-item14731463
+FileChecksum: SHA1: 1e8390f476af07534c53cdb655880fbb1d6c9023
+FileChecksum: MD5: 6d5fba230bfd48a9b52d265d9ebf708a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/MapInputs.java
+SPDXID: SPDXRef-item14731467
+FileChecksum: SHA1: 6bb44015fcead9dd155300cabc8228414157151e
+FileChecksum: MD5: 1e39e9c136e27faaceef5103006ea3ff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/Node.java
+SPDXID: SPDXRef-item14731466
+FileChecksum: SHA1: 4e33a3deac175648966889b9b82bc3e9bec41b81
+FileChecksum: MD5: faf98a99a1a2933f81d5992a39e94b09
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/DockerInfoList.java
+SPDXID: SPDXRef-item14731470
+FileChecksum: SHA1: b9f2c139c655dc7f52ac0b76ed4891be33db152d
+FileChecksum: MD5: b64a2c486e1dc5245e46e6b1f56d4272
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/resources/logback.xml
+SPDXID: SPDXRef-item14731427
+FileChecksum: SHA1: 5e857a11230a69f0d71d349f638a71a9f2789298
+FileChecksum: MD5: 66a4a64dd4685fba9bbcf0fbaa27db39
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/test/java/org/acumos/openstack/client/test/transport/ContainerInfoTest.java
+SPDXID: SPDXRef-item14731420
+FileChecksum: SHA1: c17b17fdf68d7b56b93c8f51ad21a7bd1ede6b6a
+FileChecksum: MD5: 8d2a265dc6eb09c05301a883d148eb98
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/TypeAndRoleHierarchyList.java
+SPDXID: SPDXRef-item14731471
+FileChecksum: SHA1: 2a64535defd68751e8374214b003b60c0883a118
+FileChecksum: MD5: ed7eece96e0471cfda1400715e666226
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/transport/TransportBean.java
+SPDXID: SPDXRef-item14731476
+FileChecksum: SHA1: 6111987481d3509cfddc21ce1e239515f41c2ba4
+FileChecksum: MD5: 1d1d7b6fd850316c81d1cc93a5eb469a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/service/impl/OpenstackSimpleSolution.java
+SPDXID: SPDXRef-item14731439
+FileChecksum: SHA1: 8aa2c7255ed0c906a0cd57753ab12ab3fe43ff05
+FileChecksum: MD5: b9a7bc7bb1aa21de20105b69649fa6dc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/controller/OpenstackServiceController.java
+SPDXID: SPDXRef-item14731435
+FileChecksum: SHA1: a67eb92bcffc8ab49092d1c6b03065e28c3fe5c8
+FileChecksum: MD5: 98a709ae56b93b084b32104bec06520d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/test/java/org/acumos/openstack/client/test/util/CommonUtilTest.java
+SPDXID: SPDXRef-item14731411
+FileChecksum: SHA1: c5a5da768150091a7bb6e151200e7c16dd855b53
+FileChecksum: MD5: 546780daa4ff8c0457b74837422f31b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/service/impl/OpenstackCompositeSolution.java
+SPDXID: SPDXRef-item14731441
+FileChecksum: SHA1: 46abe98c6718d4746126b7d69e498d818249b3ca
+FileChecksum: MD5: a5f60819dc1da701ba2e9b987578d5ba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/logging/ACUMOSLogConstants.java
+SPDXID: SPDXRef-item14731445
+FileChecksum: SHA1: e39adae69f72f4ae0027085f0e2b6e77a295b477
+FileChecksum: MD5: 1853003d7c9eb3e89ebd9cf08f9990be
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/logging/LogConfig.java
+SPDXID: SPDXRef-item14731446
+FileChecksum: SHA1: c495d8c8f69a195f5b589ecbe95199517a3d6f17
+FileChecksum: MD5: c24e9d58dc544f1f91e8c09db0cc86ab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/ParseJSON.java
+SPDXID: SPDXRef-item14731452
+FileChecksum: SHA1: a905214727fdac4482af7eaeae4cee47749f49d9
+FileChecksum: MD5: 4dff8da3abbe266508fbd390c8f406cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/util/LoggerUtil.java
+SPDXID: SPDXRef-item14731461
+FileChecksum: SHA1: 4a45d80c3c651bef570f93f6d9ee727b6873741d
+FileChecksum: MD5: e70d2ed72d455adec482488a5b8a6b93
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openstack-client/mvnw
+SPDXID: SPDXRef-item14731488
+FileChecksum: SHA1: 40788d3b7a2ee2c7fd84ef9ae6dc7bf1752a9517
+FileChecksum: MD5: e8f83a7b14fab3e8878a3f5614da6a5e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-2.0-ASF-Header-1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openstack-client/mvnw.cmd
+SPDXID: SPDXRef-item14731391
+FileChecksum: SHA1: 8a70f638f6a9c02fe3eecdf0b69214be32aed1ec
+FileChecksum: MD5: 6b690e52f5699d2a10d94d77d94a9c0c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-2.0-ASF-Header-1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openstack-client/application.properties
+SPDXID: SPDXRef-item14731389
+FileChecksum: SHA1: 5c0cc9a27d9ab0f84312af8cedace1ceba09f50b
+FileChecksum: MD5: 3623827a78596be9c14ecd2b7eae8d4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openstack-client/e6e-key.pem
+SPDXID: SPDXRef-item14731390
+FileChecksum: SHA1: 6a6be720d5160a71990448219c0745f55e9824f9
+FileChecksum: MD5: f1bc08a2b76416ab758faab2032b149a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openstack-client/INFO.yaml
+SPDXID: SPDXRef-item14731392
+FileChecksum: SHA1: 3a7f42a37e674f1ccecc806d6d610267f435fe69
+FileChecksum: MD5: 9dfed0cb624094b1fd364b81679ea83e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openstack-client/src/test/java/org/acumos/openstack/client/test/transport/TransportBeanTest.java
+SPDXID: SPDXRef-item14731421
+FileChecksum: SHA1: 22f8c64800d143ee061b3af1ab107c566ca10215
+FileChecksum: MD5: 0066e7a82f638739503918b8b18b37ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openstack-client/src/main/java/org/acumos/openstack/client/service/impl/ExistingVMSolution.java
+SPDXID: SPDXRef-item14731440
+FileChecksum: SHA1: f61a35d9a2019a53c07418955aab1d55e89b1079
+FileChecksum: MD5: 102c4b6d5961f0c414f2e77d515bb62c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openstack-client/.gitreview
+SPDXID: SPDXRef-item14731483
+FileChecksum: SHA1: bb242b4f0bf8ff0c4065de275b572ca9df8bc7e1
+FileChecksum: MD5: dd85a51a51f98c3c142064d0ce1ae4b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openstack-client/e6e-serverkey.pem
+SPDXID: SPDXRef-item14731486
+FileChecksum: SHA1: 4e0d191d84f197d57fb2d83ba48e4965b029f509
+FileChecksum: MD5: a6bcdf1f9751ea50601066c955cf39ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openstack-client/blueprint.json
+SPDXID: SPDXRef-item14731487
+FileChecksum: SHA1: 0d543c37f23b96f59fa89a7000c462026fde5d9d
+FileChecksum: MD5: d4ea0c627a3b8c0a710c43b3fdbd5079
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openstack-client/releases/release-3.0.2-maven-docker.yaml
+SPDXID: SPDXRef-item14731491
+FileChecksum: SHA1: bba40d4c3c5d53b190008035dce337818be3a845
+FileChecksum: MD5: ae63ebf826e019f06e1e65ffae528a04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openstack-client/releases/release-3.0.3-maven-docker.yaml
+SPDXID: SPDXRef-item14731492
+FileChecksum: SHA1: 0d300ad71ce9850dcb0da9d2d7a8f0f960566950
+FileChecksum: MD5: b048b5fb933a6098e196a4a8e61d1f3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openstack-client/blueprint2.json
+SPDXID: SPDXRef-item14731493
+FileChecksum: SHA1: 32412ebdbb31f377e0dc6047f2ba7025bc6b5fcb
+FileChecksum: MD5: 55aa1822963975b18ac642a4b5ee8dc0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openstack-client/.gitattributes
+SPDXID: SPDXRef-item14731494
+FileChecksum: SHA1: 1fead8ae4a123d4c2526ba03777b256cb10f7a5a
+FileChecksum: MD5: 635578d7546b35d97c384e8708b86a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openstack-client/.gitignore
+SPDXID: SPDXRef-item14731495
+FileChecksum: SHA1: 1707c0c92b7294595e6d2fefd7a28698caf6bd2e
+FileChecksum: MD5: ea0c5d8bb8c2333df56fe1039f2804fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openstack-client/docs/images/openstackdetail.jpg
+SPDXID: SPDXRef-item14731500
+FileChecksum: SHA1: c4aa6110678e36b2360812737e3057fcfc599dcc
+FileChecksum: MD5: 519e40ff6cad514cec579aad24fd4cd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openstack-client/docs/images/openstack_flowchart.jpg
+SPDXID: SPDXRef-item14731501
+FileChecksum: SHA1: 593efbc7d48eec65650b3a832ae7c50563a00a7c
+FileChecksum: MD5: 9b3b1caf88e77421cc4d1ae2a659bb47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openstack-client/docs/images/ModelDetails.jpg
+SPDXID: SPDXRef-item14731502
+FileChecksum: SHA1: 265c37bb3ed2587680b41a4b2f77a994d3beff6a
+FileChecksum: MD5: cef067dddc1620d4a7c208643e9e6db0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openstack-client/pom.xml
+SPDXID: SPDXRef-item14731505
+FileChecksum: SHA1: 7d084c04faa978cdcaeaa2ebf968d6480816a169
+FileChecksum: MD5: 6186600ccc548cf980ed1b71a0401611
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Apache-2.0-ASF-Header-1
+LicenseName: Apache-2.0 (ASF Header)
+ExtractedText: <text> Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements. See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership. The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied. See the License for the
+specific language governing permissions and limitations
+under the License. </text>
+
