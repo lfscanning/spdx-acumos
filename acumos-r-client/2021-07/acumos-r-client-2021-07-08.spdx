@@ -1,0 +1,373 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_acumos-r-client-2021-07-08.zip_1627583817.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-07-29T18:36:58Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: acumos-r-client-2021-07-08.zip
+PackageFileName: acumos-r-client-2021-07-08.zip
+SPDXID: SPDXRef-upload3811
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 4f387b897fb231c473812b330f40b37073d3a1f3
+PackageChecksum: SHA1: 0ad88f90e3287f50dcf2f0ad2b82d345d738f9c8
+PackageChecksum: MD5: 4d02d66f82ba41d8a1b2338e5bd41d9a
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3811
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: acumos-r-client/acumos-package/DESCRIPTION
+SPDXID: SPDXRef-item14727577
+FileChecksum: SHA1: af248a0194fed78b5ffef76782fb1681f73b98c8
+FileChecksum: MD5: c1c8c55dcd30dd2ffc7421491df21d0b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-r-client/docs/index.rst
+SPDXID: SPDXRef-item14727594
+FileChecksum: SHA1: 0faad7a4c5d0d53fd45f53fa51f1d7637d671346
+FileChecksum: MD5: 811f88811b6467a25c2f266e73c46fbf
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-r-client/docs/developer-guide.rst
+SPDXID: SPDXRef-item14727599
+FileChecksum: SHA1: ae41dd2feff835d838f7a3297051652e76629d67
+FileChecksum: MD5: f3c8922e276eeb8bdb2fc248b9d5d847
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017 AT&T, Tech Mahindra & Orange. All rights reserved.
+Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-r-client/docs/installation-and-maintenance-guide.rst
+SPDXID: SPDXRef-item14727595
+FileChecksum: SHA1: cbb5bf5e0f1cad1612ea794cb1345578d0658f88
+FileChecksum: MD5: 3e82e4471d1913fdd4c1b0e06ce83491
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-r-client/README.md
+SPDXID: SPDXRef-item14727567
+FileChecksum: SHA1: 3deeea7a02f88cf6e20fe09f6ec0f4de8ee27594
+FileChecksum: MD5: 104dd4d400bdbf5c1c38ab93af1380e0
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-r-client/docs/release-notes.rst
+SPDXID: SPDXRef-item14727596
+FileChecksum: SHA1: bfb7328097d592bd0a09dc32917776f3b24bb061
+FileChecksum: MD5: f0386358bcbd053cc5efdcfe962a2bfe
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-r-client/docs/onboarding-r-guide.rst
+SPDXID: SPDXRef-item14727600
+FileChecksum: SHA1: aa85013865542bbf8595b85e352077903e5d749a
+FileChecksum: MD5: 576b47637ada07ec94df128841550b3b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-r-client/LICENSE.txt
+SPDXID: SPDXRef-item14727570
+FileChecksum: SHA1: bf058283a72a60e773d763c553e31f6a14508e99
+FileChecksum: MD5: 92373cf561bc52f83077f1159f7eb6e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property, Tech Mahindra & Orange. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-r-client/testing/example_iris.R
+SPDXID: SPDXRef-item14727602
+FileChecksum: SHA1: a562ca4a4b592cb970578b25995f4cfce2a957e9
+FileChecksum: MD5: 02f6069a27f614eadad8dcc9b5f83acf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Orange Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-r-client/acumos-package/inst/examples/example_0/acumos.R
+SPDXID: SPDXRef-item14727575
+FileChecksum: SHA1: bb9afed221b4aecbfc11782ded3f86d2ff28f6f4
+FileChecksum: MD5: 38cccf65b09650e0fa61886d416ff84f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Orange </text>
+ 
+
+##File
+
+FileName: acumos-r-client/acumos-package/R/swagger.R
+SPDXID: SPDXRef-item14727579
+FileChecksum: SHA1: ec627a27365b4a2396af3760db938b103bf06e23
+FileChecksum: MD5: 15af227bdba76f583bca2701b7d0e4b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Orange </text>
+ 
+
+##File
+
+FileName: acumos-r-client/acumos-package/R/fromSource.R
+SPDXID: SPDXRef-item14727581
+FileChecksum: SHA1: c19ee3d4f91b1fc02bd43c9dfa63478d3bbd6a43
+FileChecksum: MD5: 2a55108f3518bdad91878fa626d0b65f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Orange </text>
+ 
+
+##File
+
+FileName: acumos-r-client/acumos-package/R/run.R
+SPDXID: SPDXRef-item14727580
+FileChecksum: SHA1: e50c7d2e84c8d42e15499079c76a45cf62c4775f
+FileChecksum: MD5: f7a6a2f2be268fd07cead4c9cd458c69
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T </text>
+ 
+
+##File
+
+FileName: acumos-r-client/testing/R_client_and_dependencies.R
+SPDXID: SPDXRef-item14727603
+FileChecksum: SHA1: e9203bf75e8ae1fcd98c523a64ec03141ef18f93
+FileChecksum: MD5: 1ffb1836e7b23c0016bdd552c839078d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Orange Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-r-client/testing/tests_install_R_client_and_dependencies.R
+SPDXID: SPDXRef-item14727604
+FileChecksum: SHA1: c57163017e900e50b026b16d6bce65009fe40a25
+FileChecksum: MD5: 31446cffa4e6ce11ba3f2dfa909d57f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Orange Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-r-client/Dockerfile
+SPDXID: SPDXRef-item14727605
+FileChecksum: SHA1: 9554a1f96907df1bf013c63ab275709ea4fd2d9c
+FileChecksum: MD5: 480bc033399289af2cb9a5de04583f9e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Orange Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-r-client/INFO.yaml
+SPDXID: SPDXRef-item14727568
+FileChecksum: SHA1: 7b2841fc6d65f8a5d88a161df36fbe86b9acee88
+FileChecksum: MD5: b47da9e227dc8d7df0af1d22d579c1bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-r-client/.gitreview
+SPDXID: SPDXRef-item14727569
+FileChecksum: SHA1: e85204e7e6396cae4a0504cf0873c40cd34be80b
+FileChecksum: MD5: 18b5003867948b0a1a7e3f32ab784c70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-r-client/acumos-package/NAMESPACE
+SPDXID: SPDXRef-item14727576
+FileChecksum: SHA1: b0d30170fc8b8de076864a02e8d416b41f9b0eba
+FileChecksum: MD5: 8762a705d89c565d782e304be4b2d22b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-r-client/acumos-package/NEWS
+SPDXID: SPDXRef-item14727582
+FileChecksum: SHA1: a4ee0d84c119bd8ae76031c7a3986a19f905424f
+FileChecksum: MD5: d4a339d70ce9c9ec86a66db2e5eab02e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-r-client/acumos-package/tests/testthat.R
+SPDXID: SPDXRef-item14727584
+FileChecksum: SHA1: fad490783972882b4341200bbea9c624f3bb3071
+FileChecksum: MD5: 7556e0a02b2a2cc905bd2c27efc7eac4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-r-client/acumos-package/tests/testthat/test-api.R
+SPDXID: SPDXRef-item14727586
+FileChecksum: SHA1: 8c84a75bf004201072ccd2393f29fe21f4f3e7cd
+FileChecksum: MD5: 23d492bcb71daacc1ae055c8308bb35d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-r-client/acumos-package/man/compose.Rd
+SPDXID: SPDXRef-item14727588
+FileChecksum: SHA1: e0eb49315a2208d2c2b67b456909dc2a0f5f5db2
+FileChecksum: MD5: 0607054ce9a28431ebea0701f7feeedb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-r-client/acumos-package/man/composeFromSource.Rd
+SPDXID: SPDXRef-item14727589
+FileChecksum: SHA1: 95e09339c37bc32e6c5240a12d0e0448fb7b7929
+FileChecksum: MD5: 9770aff2663513d5b535861fb211c896
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-r-client/acumos-package/man/pushFromSource.Rd
+SPDXID: SPDXRef-item14727590
+FileChecksum: SHA1: 1f39039be30a149f962fb9d515ea43cdcdf80df1
+FileChecksum: MD5: ccf5a9bf193e009b6aea32ef2c96176d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-r-client/acumos-package/man/push.Rd
+SPDXID: SPDXRef-item14727591
+FileChecksum: SHA1: 83601987d77b666904fbb74f9d9ba9f364a861b6
+FileChecksum: MD5: 3b878b9e261f4306fdbf8a1c9db5fcf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-r-client/acumos-package/man/run.Rd
+SPDXID: SPDXRef-item14727592
+FileChecksum: SHA1: 9db39d735ada47a0b987baf4e25e0580a3151a36
+FileChecksum: MD5: 27d4518bb5fa0d6e8aba1b09254d63a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-r-client/docs/images/Acumos_logo_white.png
+SPDXID: SPDXRef-item14727598
+FileChecksum: SHA1: e977805e3c1eb63a214432468dc3c678bd8a165c
+FileChecksum: MD5: 1d45095d04e415302115b287f52d8b2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
