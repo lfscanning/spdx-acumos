@@ -1,0 +1,70 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_modeling-toolkit-2021-07-09.zip_1627583978.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-07-29T18:39:38Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: modeling-toolkit-2021-07-09.zip
+PackageFileName: modeling-toolkit-2021-07-09.zip
+SPDXID: SPDXRef-upload3831
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 93527a11682c7fac1cf1a06f226bc3dc1932736b
+PackageChecksum: SHA1: 170cd8a92336ec68380431d2722ad627e65b3bb9
+PackageChecksum: MD5: 315dc378cc095284f554af4df60d3794
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3831
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: modeling-toolkit/.gitreview
+SPDXID: SPDXRef-item14731100
+FileChecksum: SHA1: 4c4362645cae3dd2d968e6ea0d94781ca3fed5cd
+FileChecksum: MD5: 5c7b161ed011ab6b7b67f57718c85d5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
