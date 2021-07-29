@@ -1,0 +1,4811 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_design-studio-2021-07-08.zip_1627583841.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-07-29T18:37:21Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: design-studio-2021-07-08.zip
+PackageFileName: design-studio-2021-07-08.zip
+SPDXID: SPDXRef-upload3814
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: fd11f4c8783f2e0921da1958f0085ffbdea0b051
+PackageChecksum: SHA1: 258ee025055bd6865b6b14dab7b57cc62b51768d
+PackageChecksum: MD5: ff47a4d4841326b9e3d2aaf28c6e83ca
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3814
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: design-studio/docs/tosca-model-generator-client-developer-guide.rst
+SPDXID: SPDXRef-item14728969
+FileChecksum: SHA1: 5273a8276200f53346290247cc7840f749c3fa2d
+FileChecksum: MD5: e56f73359a1ece56e9845762b881d3d1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/docs/composition-engine-api-doc.rst
+SPDXID: SPDXRef-item14728972
+FileChecksum: SHA1: 2a987dfaebcc3adfe47a4a2c7f23dc694d8a0ac5
+FileChecksum: MD5: 79c997ff7118dac0d2ef3ce71ccad0dc
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/docs/databroker-developer-guide.rst
+SPDXID: SPDXRef-item14728970
+FileChecksum: SHA1: 9ca9855963c07002344cd7d70690fb95e1a2a0be
+FileChecksum: MD5: 76ce5808a67404cc22b25803f5677fdc
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/docs/databroker-api-doc.rst
+SPDXID: SPDXRef-item14729016
+FileChecksum: SHA1: 7620c8bd1fce6cd8e5ebe01a3f506ae146936424
+FileChecksum: MD5: 056389dd335bdfff9731e36b586bc11a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/docs/design-studio-user-guide/ds-model-composition.rst
+SPDXID: SPDXRef-item14729022
+FileChecksum: SHA1: a7451d0fb48bbc857949f68aa2c425c9a968e997
+FileChecksum: MD5: 6f5c5a7b0d77d06dbbd4f9b8ab894308
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/docs/gdmservice-developer-guide.rst
+SPDXID: SPDXRef-item14729017
+FileChecksum: SHA1: 52e5e4f203e0159b0751522ed3d68598379753f3
+FileChecksum: MD5: f1ca69e68930581616d85aff0a6baffe
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/docs/sql-data-broker-release-notes.rst
+SPDXID: SPDXRef-item14728967
+FileChecksum: SHA1: d8a77950adb0d09ae9fb971ea02875e450324996
+FileChecksum: MD5: 5bd9cac6d327686a9ade55bbf4b3d335
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/docs/composition-engine-developer-guide.rst
+SPDXID: SPDXRef-item14729027
+FileChecksum: SHA1: a8e21e0c3c8698e381d9a6ed10552ea054efa32d
+FileChecksum: MD5: e27b0d842db7d6b7fe8cba034f5089b8
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/docs/design-studio-user-guide/index.rst
+SPDXID: SPDXRef-item14729020
+FileChecksum: SHA1: ce0e42b47e0389a7c7853f4f7d59d8d9d4162564
+FileChecksum: MD5: a4d6b441255c98dfb0a9ae3eff0c57e3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/docs/index.rst
+SPDXID: SPDXRef-item14728968
+FileChecksum: SHA1: 24481d8de45a7c740b011b166926e47f5513ba52
+FileChecksum: MD5: 9d36fb09991c0339656266d3ec2e1f1f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/docs/design-studio-user-guide/design-studio-intro.rst
+SPDXID: SPDXRef-item14729023
+FileChecksum: SHA1: b2958483090730f74ca79d65317c2338bdf5d5b5
+FileChecksum: MD5: ecc8e99e78908fc85dda91d94cee5e1c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/docs/design-studio-user-guide/databroker.rst
+SPDXID: SPDXRef-item14729024
+FileChecksum: SHA1: 2a387349d230d0677554ee02cb1752d0e110a54f
+FileChecksum: MD5: faae3dca24abca786efad1ec47ddfce3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/docs/design-studio-user-guide/gdmservice.rst
+SPDXID: SPDXRef-item14729021
+FileChecksum: SHA1: e437735ab3f97afe165c8fe953d9d74e6aa1485e
+FileChecksum: MD5: c7815bdb4b434f4e83d65b021c71a376
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/docs/design-studio-user-guide/split-join.rst
+SPDXID: SPDXRef-item14729019
+FileChecksum: SHA1: af16b6b63117f4323057268bd683782c832b2034
+FileChecksum: MD5: a52a434eb62fca3f3580ab2914c87054
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/docs/design-studio-user-guide/ds-model-ingestion.rst
+SPDXID: SPDXRef-item14729025
+FileChecksum: SHA1: abe0a9b46f76e5b6749ddc17c169659c903a25f3
+FileChecksum: MD5: a4ad1a8f0a547fee154b9c1f3e8cbb8f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/docs/design-studio-user-guide/ds-ui-tour.rst
+SPDXID: SPDXRef-item14729026
+FileChecksum: SHA1: ac504676e38605d3cc69ebf91306de095a2d9460
+FileChecksum: MD5: 60b834ebc61053865ce6ed16b258450b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/docs/release-notes.rst
+SPDXID: SPDXRef-item14728971
+FileChecksum: SHA1: 42cd2fe05f2970dd61ac4884f09622d6afb64b3c
+FileChecksum: MD5: 849544e6fa1e743447958b9ee882137f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/LICENSE.txt
+SPDXID: SPDXRef-item14728815
+FileChecksum: SHA1: be41bceae5e7cb51063549a900882902ef9b2b3c
+FileChecksum: MD5: 01559fed84cd9ca90d5b76e19d73d066
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/license/licenses.properties
+SPDXID: SPDXRef-item14728451
+FileChecksum: SHA1: ff978d0a0e25388f6f9077f32aa69575461362ef
+FileChecksum: MD5: 0f104464c85295825644f486508c4f74
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/license/licenses.properties
+SPDXID: SPDXRef-item14728655
+FileChecksum: SHA1: ff978d0a0e25388f6f9077f32aa69575461362ef
+FileChecksum: MD5: 0f104464c85295825644f486508c4f74
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/docker/CommandUtils.java
+SPDXID: SPDXRef-item14728514
+FileChecksum: SHA1: 3aa15a9324dc4ceddfd5424a3ece52b756c140bd
+FileChecksum: MD5: a39d5b2b756256efa05213a96ad4235a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/service/IAcumosCatalog.java
+SPDXID: SPDXRef-item14728525
+FileChecksum: SHA1: 024acda4fe98215b2934d3d6a9140c0e23ee0caa
+FileChecksum: MD5: a68c06cc389d7e8db0a4ebef4600b120
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/java/org/acumos/designstudio/test/AppTest.java
+SPDXID: SPDXRef-item14728484
+FileChecksum: SHA1: 4972835a8cdb723ca8c688201b7e61563ac97345
+FileChecksum: MD5: d0bdb204bbca5baaa09b6cb7a5509337
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/exceptionhandler/ServiceException.java
+SPDXID: SPDXRef-item14728535
+FileChecksum: SHA1: 68da000866e273e2b0af3fa331b87bce986cc21a
+FileChecksum: MD5: 1f319f2020fca5d4735561552e7ec3c9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/exceptionhandler/DAOException.java
+SPDXID: SPDXRef-item14728537
+FileChecksum: SHA1: 8a5919b9f8d693c6af35f1e78dbb0695a1eb2c92
+FileChecksum: MD5: d032f107f3eeda9e73a68b58a90eb28d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/docker/NoImplSslConfig.java
+SPDXID: SPDXRef-item14728517
+FileChecksum: SHA1: 7573feec3ef91450a10c036cdf702518d915cd19
+FileChecksum: MD5: 3cadaf163377a3a3ce0b4bb21d3a869f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/docker/DockerClientFactory.java
+SPDXID: SPDXRef-item14728515
+FileChecksum: SHA1: 33065cfd3f611a7797ebcc38689d1771a7344fc1
+FileChecksum: MD5: 4c2c9215720ddda51c140a13a1a3ff11
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/config/SwaggerConfiguration.java
+SPDXID: SPDXRef-item14728540
+FileChecksum: SHA1: b816a74ec58887a5c368babb41e44f3ecfbc5770
+FileChecksum: MD5: 8a85f38a845b0aeba955297bdb04163b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/databroker/DBMapInput.java
+SPDXID: SPDXRef-item14728559
+FileChecksum: SHA1: 7836e80ccc565ed57c992970f7461772dc3dcc73
+FileChecksum: MD5: 6d5f471050afe55b64599137e78e0b76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/databroker/DBMapOutput.java
+SPDXID: SPDXRef-item14728560
+FileChecksum: SHA1: 7c71aaf5ea8b76460d918162db26ebbaaf7c3f62
+FileChecksum: MD5: 5796e4f68ad0d4f485aa34191bb49643
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/NodeType.java
+SPDXID: SPDXRef-item14728556
+FileChecksum: SHA1: 3ff60d581fb0b6d33bdf4fa39d123622876bf335
+FileChecksum: MD5: 182796d6fe0090c6293aefe4e4d0351b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/databroker/DBOTypeAndRoleHierarchy.java
+SPDXID: SPDXRef-item14728562
+FileChecksum: SHA1: 4cfb9686fa13c6c68aea2f656c012f74eb81ff5d
+FileChecksum: MD5: b313d095a5e8a38b211c7dd21843ce53
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/databroker/DBInputField.java
+SPDXID: SPDXRef-item14728563
+FileChecksum: SHA1: 5bf77c0756feda89d413e63790225bcb52c75c82
+FileChecksum: MD5: 1fcaa111b06b0bf0486333400e05588d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/databroker/DBOutputField.java
+SPDXID: SPDXRef-item14728561
+FileChecksum: SHA1: abd3bca6354a47a7ce18a60b24eb0232cc89ddaa
+FileChecksum: MD5: 06acb489c2d6917a5363784d101e754c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/splitter/SplitterMapOutput.java
+SPDXID: SPDXRef-item14728570
+FileChecksum: SHA1: 62fc1b678805645e714a9c887895be09db71fb3e
+FileChecksum: MD5: 33e13e52aa0519ec47737b3a9a5968c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/splitter/SplitterInputField.java
+SPDXID: SPDXRef-item14728569
+FileChecksum: SHA1: 0fd13eae718b617340b2719abdaa5abf7676aa13
+FileChecksum: MD5: 7d7f3116a5b7ab6fee279ed805d2ffaf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/splitter/SplitterMap.java
+SPDXID: SPDXRef-item14728571
+FileChecksum: SHA1: 07e4622d5c1eaa9dcf301a5bdf53cb9ea25d1b6a
+FileChecksum: MD5: 6c3bf74b74ef64f8c72aade8610e47a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/splitter/SplitterMapInput.java
+SPDXID: SPDXRef-item14728568
+FileChecksum: SHA1: 05a6b677077d1e17a4558d19e333dd7fa8fd9e5c
+FileChecksum: MD5: 3fa61643fe9f6a44a5617e15e9bdbda3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/splitter/SplitterOutputField.java
+SPDXID: SPDXRef-item14728567
+FileChecksum: SHA1: 4bac17f209af2d897b12eba711d85962cd79a008
+FileChecksum: MD5: 5b210bf0034f73f4dae7972eed4c50bf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/DataConnector.java
+SPDXID: SPDXRef-item14728565
+FileChecksum: SHA1: 89910e62029727be2c11c007d1a5902bc263bd8d
+FileChecksum: MD5: d14714c289c4bcfc5f0905941f9b0731
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/Capability.java
+SPDXID: SPDXRef-item14728575
+FileChecksum: SHA1: d715a2326fc447f269a7e353cdeb39fa30ad53d1
+FileChecksum: MD5: ddd80f3c069ae94d16e581f4ec8df720
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/ReqCapability.java
+SPDXID: SPDXRef-item14728574
+FileChecksum: SHA1: a7e8af42b501503534041bc470b85ffe79226cc2
+FileChecksum: MD5: 4968570b9eaad454a5399c872de32ba4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/Requirements.java
+SPDXID: SPDXRef-item14728572
+FileChecksum: SHA1: ae07ea4e81e2a2d460897d4e97cb9fa08b899344
+FileChecksum: MD5: d95c2109508c33fa9c0e3470e5d25cef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/collator/CollatorInputField.java
+SPDXID: SPDXRef-item14728579
+FileChecksum: SHA1: 25662a28743ddfbf531056adea73cfe0a17f128e
+FileChecksum: MD5: b7b994ef134166ad5cabcbd14c13324f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/collator/CollatorMapOutput.java
+SPDXID: SPDXRef-item14728578
+FileChecksum: SHA1: 4defcdeca54b77a7aa8921bc08413304712fec29
+FileChecksum: MD5: dd89f303f6efb12c728f3bfa8257e548
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/Relationship.java
+SPDXID: SPDXRef-item14728576
+FileChecksum: SHA1: 70122208eb0e3e7be0319d059998d0e21b42baea
+FileChecksum: MD5: 8cee25bc91e776ddecbb69b5606d47e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/collator/CollatorMapInput.java
+SPDXID: SPDXRef-item14728581
+FileChecksum: SHA1: aed2f9a9e9a6dfdc5515db2dae999853d38d6600
+FileChecksum: MD5: a5b6ebfd84963fd1966e532f46121629
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/Relations.java
+SPDXID: SPDXRef-item14728573
+FileChecksum: SHA1: f4c06e2135f535e1db1f89d36efa561d29e187e6
+FileChecksum: MD5: 234c76b9ab7040614b35cd698a4a3c3b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/collator/CollatorOutputField.java
+SPDXID: SPDXRef-item14728580
+FileChecksum: SHA1: a345ca7f928ee0c40103b38aca55772830db5038
+FileChecksum: MD5: 5ab67c70a5031fc2e1f6be1775d0af07
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/Argument.java
+SPDXID: SPDXRef-item14728585
+FileChecksum: SHA1: dec59ca1e51c538199fc5f8509c9aec37db2952c
+FileChecksum: MD5: 193b64d20261ba6ef4dd3ea84f8ea787
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/CapabilityTarget.java
+SPDXID: SPDXRef-item14728587
+FileChecksum: SHA1: b57d10241850ece8036e65c68897a67c5a36ecd1
+FileChecksum: MD5: 51a4543b31bac53cf00dc5fba54c6fdc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/Ndata.java
+SPDXID: SPDXRef-item14728586
+FileChecksum: SHA1: 0be1cff03fb088c9a1e88bcf2fe3baf4036c65cb
+FileChecksum: MD5: 9710c7b17824639a4d643716d4a0ec7d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/Message.java
+SPDXID: SPDXRef-item14728588
+FileChecksum: SHA1: 5b60e2175460d4dc8e6076d16bcbc5bb74bcb8e6
+FileChecksum: MD5: fd4842e132bbbebdc85b130ac1533497
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/Nodes.java
+SPDXID: SPDXRef-item14728583
+FileChecksum: SHA1: 7ec837416ae6980df33121cb51efd9b5272d3be7
+FileChecksum: MD5: af09dd108b6a449e24cf82c72c84713a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/collator/CollatorMap.java
+SPDXID: SPDXRef-item14728582
+FileChecksum: SHA1: 603ed324ffd211aa4287e9bc049518a08adae1f0
+FileChecksum: MD5: baca5143714bcda2805942842b45ed07
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/Typeinfo.java
+SPDXID: SPDXRef-item14728589
+FileChecksum: SHA1: 77533664a5799fcc4d5b5aa73a3fecefd674a912
+FileChecksum: MD5: fb4337644005f366e6c48f2d069dfbfe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/Target.java
+SPDXID: SPDXRef-item14728590
+FileChecksum: SHA1: 42c9b203da78e7d4109348b76b1465ee58e6bb8e
+FileChecksum: MD5: 68cbeeebf61bd2da27237d9087a3bc51
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/Type.java
+SPDXID: SPDXRef-item14728592
+FileChecksum: SHA1: 7dbaec61d4dde16c9d68ca81661d17f356361a3f
+FileChecksum: MD5: 43fe8de9dd8b73a3f5894ae676502d86
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/datamapper/DataMapInputField.java
+SPDXID: SPDXRef-item14728595
+FileChecksum: SHA1: 9242eede6800854da6d95d5b28de4f7f19f97efd
+FileChecksum: MD5: c00161674c283325b8bc8e2c32f46485
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/Capabilities.java
+SPDXID: SPDXRef-item14728591
+FileChecksum: SHA1: 38842a0fb331c37ca751cdf570986b28d6a7c84d
+FileChecksum: MD5: 1d4d10d527dcc110d0d93bba21677beb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/datamapper/DataMap.java
+SPDXID: SPDXRef-item14728597
+FileChecksum: SHA1: e6728042f10a328d570a90907248060306d9ead3
+FileChecksum: MD5: 106b6fdf3f4449cf58ec14281d12f613
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/datamapper/FieldMap.java
+SPDXID: SPDXRef-item14728598
+FileChecksum: SHA1: a7a4a8426d86e8e3bdcbc0bfb668159229c19627
+FileChecksum: MD5: 5cb77bd3ceeeaaa15a9835b8a7f09e32
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/Property.java
+SPDXID: SPDXRef-item14728593
+FileChecksum: SHA1: e92f6922aad1d019e09b0b994fbeb60f6861fddb
+FileChecksum: MD5: 5f3c43a8b68dfd997cf4600143dffef7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/datamapper/MapOutput.java
+SPDXID: SPDXRef-item14728596
+FileChecksum: SHA1: 9904ebc10ed56f1a340c43be0b00e82d89f63103
+FileChecksum: MD5: 465ac9c94eb748736c4f9168abd54453
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/datamapper/MapInputs.java
+SPDXID: SPDXRef-item14728600
+FileChecksum: SHA1: 28fb66b82c9a96a05be52f553eccdf14291ed5cb
+FileChecksum: MD5: ba26abacbee518ebb9bf277efdd51330
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/datamapper/DataMapOutputField.java
+SPDXID: SPDXRef-item14728599
+FileChecksum: SHA1: 48413a8e8b95237bfebb8209a75eeef500f315e5
+FileChecksum: MD5: 308b429e94a6c0107c7fab6f07b2917f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/Artifact.java
+SPDXID: SPDXRef-item14728601
+FileChecksum: SHA1: 29d385294a91beccc61ab3778aea8e6f33cae9b0
+FileChecksum: MD5: 4464036c1958b03d88c46112c2f63f08
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/tgif/Response.java
+SPDXID: SPDXRef-item14728604
+FileChecksum: SHA1: 3cd7a88c8cba871b87871894e6570befe3c184b5
+FileChecksum: MD5: 9ef5fb2a4f0dc79ce27b669a8f5a5660
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/SuccessErrorMessage.java
+SPDXID: SPDXRef-item14728602
+FileChecksum: SHA1: a779b4838f54e9c452685a85b0bdb217ccfe98e2
+FileChecksum: MD5: 8c44bf48c8a73939ddd121d92810c3f4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/tgif/Request.java
+SPDXID: SPDXRef-item14728605
+FileChecksum: SHA1: 2d6e9d45fbb1160e701c11ecd6b7a9c18c8a1ce4
+FileChecksum: MD5: 8d5bf229e07631f7c49170e71cfa8f35
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/tgif/Self.java
+SPDXID: SPDXRef-item14728607
+FileChecksum: SHA1: 99f641adfff58d5d8fbed125ce490412aca5e152
+FileChecksum: MD5: 3b5c5d504872c308fb94cddff436072a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/tgif/Artifact.java
+SPDXID: SPDXRef-item14728606
+FileChecksum: SHA1: c572b60484fad794296cc378e33776672a664f89
+FileChecksum: MD5: 5644786592791fb3023898f62b6e7881
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/tgif/Parameter.java
+SPDXID: SPDXRef-item14728609
+FileChecksum: SHA1: 1e7b4edec911c79326b28d2ad81430c1ac888867
+FileChecksum: MD5: 136f73d35f9b9dcf1dc800e31779d791
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/tgif/Stream.java
+SPDXID: SPDXRef-item14728608
+FileChecksum: SHA1: 373f266f37221214324e1197a88d63358ee3d890
+FileChecksum: MD5: 47fb57f01728a94c16af5d37bc2a005c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/tgif/Auxiliary.java
+SPDXID: SPDXRef-item14728614
+FileChecksum: SHA1: c2cc0da6f2abe8e4893978a24c15ab95a4ab63c3
+FileChecksum: MD5: 8cffa9fad3660fb41180da83bca350c0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/tgif/Call.java
+SPDXID: SPDXRef-item14728610
+FileChecksum: SHA1: 0080c0929eefd602b8319b8a433df71f1a9f7875
+FileChecksum: MD5: 7e4d12e43847f8bfa2b23ef4e3f35bef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/DSResult.java
+SPDXID: SPDXRef-item14728623
+FileChecksum: SHA1: c77efe32a349c6275f3f6ed8b6784e2ff26dbc49
+FileChecksum: MD5: 38285a9441242c316a0dc87360603576
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/tgif/Service.java
+SPDXID: SPDXRef-item14728612
+FileChecksum: SHA1: 2ffb87f07f223101b32506287b9b04b495d5b6ff
+FileChecksum: MD5: 2ae43d4bc70bef2ca20007379198ad0a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/tgif/Tgif.java
+SPDXID: SPDXRef-item14728611
+FileChecksum: SHA1: 86efe6dbd24271f24a1f7bd88725360bc4e68dfe
+FileChecksum: MD5: 577002aa12853efdaa04b67679562853
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/tgif/Provide.java
+SPDXID: SPDXRef-item14728613
+FileChecksum: SHA1: 0b32f528d0e43681e6c56d459b3fdbc21f552a42
+FileChecksum: MD5: 38daf732af9b6fd9ad3b6326b0775a9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/blueprint/DataSource.java
+SPDXID: SPDXRef-item14728625
+FileChecksum: SHA1: 8473218998dad6f88f30dc51782a3f4d454ceea1
+FileChecksum: MD5: acf2a1047623d8bbe243d0545ec20785
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/blueprint/BPSplitterMap.java
+SPDXID: SPDXRef-item14728627
+FileChecksum: SHA1: 4a9879e2ec5ee88b6c7e69f4f3fb6ec93d8c477c
+FileChecksum: MD5: e1ac4ff7297b6071913f799d79bfb998
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/blueprint/BPCollatorMap.java
+SPDXID: SPDXRef-item14728626
+FileChecksum: SHA1: 95e7e1bb695b8f7f753fe48f162355d204a1b352
+FileChecksum: MD5: 5e866a36b5a94788c5d4e845a7aa2e28
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/blueprint/BPDataBrokerMap.java
+SPDXID: SPDXRef-item14728628
+FileChecksum: SHA1: 17135005c592f6c5f5effa9b0c5d845a21337f38
+FileChecksum: MD5: f41183b5e38643b3135ab382bbcce0db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/blueprint/BaseOperationSignature.java
+SPDXID: SPDXRef-item14728629
+FileChecksum: SHA1: 09fb1561ab25fb4f1b89e504e0e39d2d6a98aded
+FileChecksum: MD5: 6d1ce51f0b00b4dab4b10746f373b2c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/blueprint/BluePrint.java
+SPDXID: SPDXRef-item14728630
+FileChecksum: SHA1: 4e62db40ff450b914f6d11629c66a63e69f86761
+FileChecksum: MD5: 4313761f0874f340b58a7c4c52c2f758
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/blueprint/OperationSignatureList.java
+SPDXID: SPDXRef-item14728631
+FileChecksum: SHA1: bb8f682a8c6a23c493367c8893ce3e01eaf71eda
+FileChecksum: MD5: 56c7f453f23b8b676b6525c05b63c616
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/blueprint/Container.java
+SPDXID: SPDXRef-item14728632
+FileChecksum: SHA1: b169a508dd8a2b18c48520908c82d357c10e0963
+FileChecksum: MD5: daebc729591e0b3db98eb1034b143f8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/blueprint/ProbeIndicator.java
+SPDXID: SPDXRef-item14728634
+FileChecksum: SHA1: 1347e6cdc570c92b265b4cc919a55b37e766e552
+FileChecksum: MD5: 6fe0e3a7d1d0ced9bb80f686fc84bf0c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/blueprint/NodeOperationSignature.java
+SPDXID: SPDXRef-item14728633
+FileChecksum: SHA1: d8eb312288917d3dbff257fb9d27e32bf1b7ef7a
+FileChecksum: MD5: fc63b1d72acf9742380798358fe4b199
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/blueprint/Node.java
+SPDXID: SPDXRef-item14728635
+FileChecksum: SHA1: 0dacd05fa6e05264070fde6a2ea197837af679c5
+FileChecksum: MD5: 763b470a7f6a1b685113a508eaddd442
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/MatchingModel.java
+SPDXID: SPDXRef-item14728644
+FileChecksum: SHA1: 90f9a8218214e415a37de263d776c18348847fc8
+FileChecksum: MD5: 4beb931c5044171ec487cb84456be6cb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/protobuf/MessageBody.java
+SPDXID: SPDXRef-item14728643
+FileChecksum: SHA1: 91bb4d4c1e6ac0aa71b8bc6538fc309a9c1e0fdf
+FileChecksum: MD5: 49b1fc289a13854247c98b66629ce753
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/protobuf/ProtoBufClass.java
+SPDXID: SPDXRef-item14728642
+FileChecksum: SHA1: a94f5ba0cf84ccc919b2ace66b0444b6b5942065
+FileChecksum: MD5: 984c7d2e8411b26bdfd6fc060957b08c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/test/java/org/acumos/designstudio/toscagenerator/test/ToscaGeneratorServiceTest.java
+SPDXID: SPDXRef-item14728675
+FileChecksum: SHA1: 2b1290bba2e133c05d7364d4374386f024c84d18
+FileChecksum: MD5: c7f5646b22a7ef8c6680816711677692
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/test/java/org/acumos/designstudio/toscagenerator/test/TgifGeneratorServiceTest.java
+SPDXID: SPDXRef-item14728670
+FileChecksum: SHA1: 2069de16ed344996bd05299e650ad4090c31731b
+FileChecksum: MD5: 1273d376b181fdf8717c082a85b2427a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/exceptionhandler/ServiceException.java
+SPDXID: SPDXRef-item14728695
+FileChecksum: SHA1: 944e63c7c6e53a6c7a9fa6557c6d8d7f8d2a64cd
+FileChecksum: MD5: 55359de08c7bfb4a3e23b880f0739ad4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/exceptionhandler/ControllerException.java
+SPDXID: SPDXRef-item14728696
+FileChecksum: SHA1: de56edbfb94f4178ab7f0b188804c60a5ce4985e
+FileChecksum: MD5: 356a0504eb1f52cd42f500162eadb569
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/resources/logback.xml
+SPDXID: SPDXRef-item14728683
+FileChecksum: SHA1: 894ba776fbbe506b1fbf1adc814020913315cf5a
+FileChecksum: MD5: fb43d7a15c7e256b5a933c38ec7bcd24
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/test/java/org/acumos/designstudio/toscagenerator/test/AppTest.java
+SPDXID: SPDXRef-item14728673
+FileChecksum: SHA1: f258f386bb3c0aea73567a18f0b06d6055512cd4
+FileChecksum: MD5: a52136f0527762418fa958f75b138526
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/exceptionhandler/CustomException.java
+SPDXID: SPDXRef-item14728697
+FileChecksum: SHA1: c37049d21b08dbb7c59612c921efe3d7210e6c2e
+FileChecksum: MD5: 51e0b54eace53a0b144cd888b61507e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/exceptionhandler/AcumosException.java
+SPDXID: SPDXRef-item14728698
+FileChecksum: SHA1: 90a0ee2e559e147e606ceafffd5aebc3665fef07
+FileChecksum: MD5: 458ed46e7d69fe372297e7be087ddc96
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/exceptionhandler/DAOException.java
+SPDXID: SPDXRef-item14728699
+FileChecksum: SHA1: 182e3f2591a6782f5b0484ddcc8846359d210800
+FileChecksum: MD5: 23b9d320f093d649a3cab8d39160f3b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/util/ToscaUtil.java
+SPDXID: SPDXRef-item14728702
+FileChecksum: SHA1: 85ac80d3011a2fdb1f04f827c3d48ce93d47ef74
+FileChecksum: MD5: 3c80d63acffad1021ecdfc9d67663730
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/tgif/Artifact.java
+SPDXID: SPDXRef-item14728711
+FileChecksum: SHA1: 25814fc7355e12325623c0feff2d00ffa73aec27
+FileChecksum: MD5: a438c9bd539c7c0fa9c6eb6e0214156f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/test/java/org/acumos/csvdatabroker/controller/CSVDatabrokerControllerTest.java
+SPDXID: SPDXRef-item14728756
+FileChecksum: SHA1: 7f296cc7aaa2806fef1c4ea6e90a7d70057990d7
+FileChecksum: MD5: ebd7be5f77dd5ef4e6473f91937ff197
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/test/java/org/acumos/csvdatabroker/controller/VerifyCsvDatabrokerControllerTest.java
+SPDXID: SPDXRef-item14728755
+FileChecksum: SHA1: ac2485668afe1a3eab688c3099754dfd2e346cfe
+FileChecksum: MD5: 6b8dc4367a30fa62be6aafbccb5d1abc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/license/licenses.properties
+SPDXID: SPDXRef-item14728745
+FileChecksum: SHA1: 9ea2b0bcd818d746ff1acd7901c6a4e60ead515c
+FileChecksum: MD5: aded684bd38dd533155d190d0145c10f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/license/licenses.properties
+SPDXID: SPDXRef-item14728823
+FileChecksum: SHA1: 9ea2b0bcd818d746ff1acd7901c6a4e60ead515c
+FileChecksum: MD5: aded684bd38dd533155d190d0145c10f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/controller/VerifyCsvDatabrokerController.java
+SPDXID: SPDXRef-item14728771
+FileChecksum: SHA1: 5037fbf84dcab240000f96d09cdb2248097bad61
+FileChecksum: MD5: 5175a0b344f394a4099eb9a613baba47
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/test/java/org/acumos/csvdatabroker/service/ProtobufServiceTest.java
+SPDXID: SPDXRef-item14728758
+FileChecksum: SHA1: ec9b66e95cd8fc8d1713dbc6a647099d07473ba7
+FileChecksum: MD5: 00376691f4eb06d86c81082b2e15aa67
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/controller/CSVDatabrokerController.java
+SPDXID: SPDXRef-item14728773
+FileChecksum: SHA1: d093cadfd569ce212c9e60005cb1e464348ad551
+FileChecksum: MD5: 0317fd3c0f07f6528033c9821f0f0656
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/service/ProtobufService.java
+SPDXID: SPDXRef-item14728777
+FileChecksum: SHA1: 52e51a949ad174c3c284c2537ac319597ac14312
+FileChecksum: MD5: 7faec5176c9df73e1d91a5a1fd8a9487
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/service/CSVDatabrokerService.java
+SPDXID: SPDXRef-item14728779
+FileChecksum: SHA1: ef3710bc4f3ac7c1392df1aaef5b4a958b6c1432
+FileChecksum: MD5: 8ef8be8a258d6f888e9950bc1358cf36
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/service/ConfigurationService.java
+SPDXID: SPDXRef-item14728780
+FileChecksum: SHA1: 2b18aca4eb60c05e8595f179ac90de1c0919ffa7
+FileChecksum: MD5: 33c77bd6026ef1d8598078bf84836182
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/exceptionhandler/AcumosException.java
+SPDXID: SPDXRef-item14728783
+FileChecksum: SHA1: c5e9c2dcbe13febe9488ed7fa83a69b4f9963140
+FileChecksum: MD5: a4c6fe255c107faa2eb87e440bacca61
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/Application.java
+SPDXID: SPDXRef-item14728784
+FileChecksum: SHA1: e9a8c51bca08c4d0d33a984694c23a540529d69a
+FileChecksum: MD5: a58fc97d5322f6ec04a0393bd5eceacd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/exceptionhandler/ServiceException.java
+SPDXID: SPDXRef-item14728782
+FileChecksum: SHA1: 1203fca89a4e3205f5650f8dd0391e2b0cca0e44
+FileChecksum: MD5: e7442cba03086c218849b45c67605329
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/util/Constants.java
+SPDXID: SPDXRef-item14728788
+FileChecksum: SHA1: 4d77e3e3e26938c057d0e06112575f1b3ebcda31
+FileChecksum: MD5: e64fadddb523b081879b9e59d5282d07
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/vo/ProtobufOption.java
+SPDXID: SPDXRef-item14728795
+FileChecksum: SHA1: 782be46acdf9e7a22f74f30ede78cd4c90202554
+FileChecksum: MD5: aeea3511cec3ba2f83c8b71052f3470c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/util/ProtobufUtil.java
+SPDXID: SPDXRef-item14728792
+FileChecksum: SHA1: e9d63813439a818631da56e2d3eb298e1e1f3831
+FileChecksum: MD5: 774d0911c42d32008a8629ab17cd2c28
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/util/EELFLoggerDelegator.java
+SPDXID: SPDXRef-item14728790
+FileChecksum: SHA1: 4fc2bf507f00ea020001de43425e2ac5e5854a92
+FileChecksum: MD5: 40c68271961a17daa3a32dbc91ca76c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/vo/DBMapInput.java
+SPDXID: SPDXRef-item14728800
+FileChecksum: SHA1: 721f54476c956632801395c6bcd893af4385fc96
+FileChecksum: MD5: 095dc42a66784bc12e584ff94da39580
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/vo/Protobuf.java
+SPDXID: SPDXRef-item14728796
+FileChecksum: SHA1: b9fca48121be017b4976e4b713aeb0420844c495
+FileChecksum: MD5: c756c4c73d34fe674061c120c674759c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/vo/DBMapOutput.java
+SPDXID: SPDXRef-item14728801
+FileChecksum: SHA1: 22c6a29ac64545c2701872071c6affb52203c0b2
+FileChecksum: MD5: 7ece17604518b6a8fea8a7f02c930ea6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/vo/DataBrokerMap.java
+SPDXID: SPDXRef-item14728799
+FileChecksum: SHA1: f670110f441ece35b83aea7296e6902d480da8e9
+FileChecksum: MD5: d208b2fe82a9fd3a92834cca0d8a23f0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/vo/ProtobufService.java
+SPDXID: SPDXRef-item14728798
+FileChecksum: SHA1: dcde4e79f8609009f372c8a455029d493753bd3c
+FileChecksum: MD5: 39d5c912a84a49211a52e4c30ead2b75
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/vo/DBOutputField.java
+SPDXID: SPDXRef-item14728805
+FileChecksum: SHA1: f1354a12240dbd909fe7f58a115d904b43ad8507
+FileChecksum: MD5: e17b173e01fc033634e1383f78c09ff7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/vo/Result.java
+SPDXID: SPDXRef-item14728803
+FileChecksum: SHA1: 7955cee4d7ea5dc36f03bc9b2173de34df1890bc
+FileChecksum: MD5: f792eb05ce559fbda3f7014295c94185
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/vo/ProtobufMessageField.java
+SPDXID: SPDXRef-item14728802
+FileChecksum: SHA1: 14b006e734d67f005b0577ab8a4005fd837e4062
+FileChecksum: MD5: cdf953b59cb4f6bcaa0d3e22970890dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/vo/ProtobufServiceOperation.java
+SPDXID: SPDXRef-item14728804
+FileChecksum: SHA1: 1ff19cf32f8f69af90c0f10dfdea37dabee10079
+FileChecksum: MD5: 6567525e2f5b5bde613f3e52b3f42df8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/vo/DBOTypeAndRoleHierarchy.java
+SPDXID: SPDXRef-item14728806
+FileChecksum: SHA1: b0063fcb5037a5a308ab0d6bf365c5d21108e603
+FileChecksum: MD5: 390676772caac5217739ad509cfe4a8c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/test/java/org/acumos/gdm/controller/GDMControllerTest.java
+SPDXID: SPDXRef-item14728835
+FileChecksum: SHA1: 94bb99d3df13c44d11cd687b0b25b3c2617d2bdb
+FileChecksum: MD5: f01841f13ab6d2291aa1a9837f09017a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/vo/ProtobufMessage.java
+SPDXID: SPDXRef-item14728808
+FileChecksum: SHA1: 95ab5ee0124134779bf228730e35a37c73ee71d5
+FileChecksum: MD5: ef56229de086c38ad94baf47a3721c73
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/vo/DBInputField.java
+SPDXID: SPDXRef-item14728807
+FileChecksum: SHA1: 233177f20eca6385c89dafbe3b57b63118d16730
+FileChecksum: MD5: 80e906f682c97714a4ceb80f65c0cf54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/test/java/org/acumos/gdm/service/GDMServiceImplTest.java
+SPDXID: SPDXRef-item14728837
+FileChecksum: SHA1: 404f4644b6c835b4dbc8339b8e9c7197faeb616c
+FileChecksum: MD5: 79ff24d55b1d5011becd9446878e9422
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/test/java/org/acumos/gdm/gdmservice/AppTest.java
+SPDXID: SPDXRef-item14728839
+FileChecksum: SHA1: 5955b785e32e63df289f297eb0d38cefdbd038e5
+FileChecksum: MD5: e0667d443383d347cd86513a20e14290
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/resources/application.properties
+SPDXID: SPDXRef-item14728843
+FileChecksum: SHA1: 4f44d92708fdfdc5904837150753ecac1a8788ba
+FileChecksum: MD5: 519e11cf95b04c8e977aeb0511b5d839
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/resources/logback.xml
+SPDXID: SPDXRef-item14728845
+FileChecksum: SHA1: c8e0cb7045c4ec8b54d3113cfccb5a560f2b1861
+FileChecksum: MD5: 85c0c2c52149f6c4be38f28908d4b9be
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/BooleanToInt.java
+SPDXID: SPDXRef-item14728850
+FileChecksum: SHA1: e80d154c51e1907fe1abc70c96638b603ee2dd0b
+FileChecksum: MD5: a651a652b9428e02ec88433de7fdc932
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/Converter.java
+SPDXID: SPDXRef-item14728851
+FileChecksum: SHA1: e574386f2561b3ea0f5e7fc8b4399a4c3c307b9c
+FileChecksum: MD5: 368a230efe6af840c35745f32a63f08a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/FloatToBoolean.java
+SPDXID: SPDXRef-item14728852
+FileChecksum: SHA1: 76db6c05ab6e6923014d39b81ac9231aeafc4952
+FileChecksum: MD5: 59b4c778077051ac46815963d4acd7c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/IntToBoolean.java
+SPDXID: SPDXRef-item14728854
+FileChecksum: SHA1: c5292fa3330033f88eb0a96f0efb6e1a2dfc6f45
+FileChecksum: MD5: beb164b5d843bfc8018346079fa8beb4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/IntToLong.java
+SPDXID: SPDXRef-item14728853
+FileChecksum: SHA1: 606f710f851295c82f59d721ea7c651fe4c02b82
+FileChecksum: MD5: 1dfb6a1cba20d85ad0273da482a43da7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/ConversionEnum.java
+SPDXID: SPDXRef-item14728856
+FileChecksum: SHA1: b2afbce82559d1e2dbb4061a83967237addfe652
+FileChecksum: MD5: af18b31dec1e92b7f6a0d973a4b1da45
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/LongToInt.java
+SPDXID: SPDXRef-item14728855
+FileChecksum: SHA1: b4897d42fb5d52c870d054ace96313a008d2f3d7
+FileChecksum: MD5: 49dc42800882afbc8defdf6e0c63fba9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/LongToFloat.java
+SPDXID: SPDXRef-item14728857
+FileChecksum: SHA1: dbe8286cfdfd6087d1e60504674e9860f8ad1df7
+FileChecksum: MD5: b6a78c4b31e3d6a20c823531d47c3eec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/BooleanToString.java
+SPDXID: SPDXRef-item14728859
+FileChecksum: SHA1: eb18a72d6d5f248ba2088cae727428c026456934
+FileChecksum: MD5: 9caa2848b2140299b4e92e9e63883541
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/ConverterEnum.java
+SPDXID: SPDXRef-item14728858
+FileChecksum: SHA1: f27678d3e54276d5c687f6b17017975942e9e362
+FileChecksum: MD5: fe915f54f9180ce28ae1ca36c76e8a9b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/FloatToFloat.java
+SPDXID: SPDXRef-item14728862
+FileChecksum: SHA1: 57ae4dd4468642316fa63126ae5cb0e4fb904b0a
+FileChecksum: MD5: 60f10905622c354e9c50b9c7779a9ab9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/StringToLong.java
+SPDXID: SPDXRef-item14728860
+FileChecksum: SHA1: 349066a67d832eacacf8b8a7d40212269e967351
+FileChecksum: MD5: 07f2b4c7dd65845a7919b4568e88a7a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/Conversion.java
+SPDXID: SPDXRef-item14728865
+FileChecksum: SHA1: 3d8f8d6f5c24a4d0aeca12063d14db953cf5c69d
+FileChecksum: MD5: da3ee4d1d1d1848e2592e31002d3b4ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/StringToInt.java
+SPDXID: SPDXRef-item14728863
+FileChecksum: SHA1: 124e29da3e4cff0434e35b121b0f8cd28e642f3b
+FileChecksum: MD5: 9c0192361a883200d093b73be9d8492c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/TestClient.java
+SPDXID: SPDXRef-item14728864
+FileChecksum: SHA1: 1e1c625c282ec5c3b0d44e40acc9339bd2d2daf5
+FileChecksum: MD5: dd6d3fd49490ba06c4ec4bb00bc27fc8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/StringToFloat.java
+SPDXID: SPDXRef-item14728861
+FileChecksum: SHA1: 94f8f5252200062bfb238a6d9099c599f90dbd6e
+FileChecksum: MD5: 43d8dc8a2c1980354cba9a18346f1357
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/BooleanToBoolean.java
+SPDXID: SPDXRef-item14728866
+FileChecksum: SHA1: 2fdbd48cbbad5ac4be8e14f65a468b42e7fdf4d1
+FileChecksum: MD5: bb78658dd477d2c3d6ac3b9ae29bf62e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/IntToFloat.java
+SPDXID: SPDXRef-item14728869
+FileChecksum: SHA1: 48f83db5a78e1c57c62904f1e5f5cab65c20fa9e
+FileChecksum: MD5: f77feb7de25910c17bfbafef24fcea12
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/ConversionException.java
+SPDXID: SPDXRef-item14728868
+FileChecksum: SHA1: b02558b1a8592779bfe6b4b1770a6f2bc1588a00
+FileChecksum: MD5: 5658796aad481790e2da7fd3d21f4e1d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/ToString.java
+SPDXID: SPDXRef-item14728870
+FileChecksum: SHA1: aca526e174fc9583a0abdbd3a4f55ae0355b287a
+FileChecksum: MD5: 4fdf3ebe3e5e23d040c4fa38bc75983d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/FloatToLong.java
+SPDXID: SPDXRef-item14728872
+FileChecksum: SHA1: 87690d8bf8d4a25cc0b5e2921cdf364fb83ae864
+FileChecksum: MD5: b849958dffbb954e442b05e544bbe85e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/FloatToInt.java
+SPDXID: SPDXRef-item14728871
+FileChecksum: SHA1: 51b6ce7247583ca894e026344062b1a02508c1f9
+FileChecksum: MD5: a6d9481b226a7e6656e2357d8257851a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/IntToInt.java
+SPDXID: SPDXRef-item14728867
+FileChecksum: SHA1: 539e483300921cfe7dde7d8018fef3da7d2ed021
+FileChecksum: MD5: 4b80bdb96c25cddd3b183ca0924cae73
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/converter/BooleanToFloat.java
+SPDXID: SPDXRef-item14728873
+FileChecksum: SHA1: 1d9ef42036d88f52abdb2e30ee6ddccc9575f8be
+FileChecksum: MD5: 21e24c8f477a4971469d534392925cc8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/gdm/controller/GDMController.java
+SPDXID: SPDXRef-item14728876
+FileChecksum: SHA1: 87a7427de61a74db6d1be8d966e0f61cc2c1fd1b
+FileChecksum: MD5: 8a06937ee24aefbd21093dc3c94ec9c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/gdm/service/IGDMService.java
+SPDXID: SPDXRef-item14728878
+FileChecksum: SHA1: bf8d57640414c61d8b6cc7a72d33783c339127b8
+FileChecksum: MD5: 9932b04ec20a5dc7ed4e8b0b212783a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/gdm/Application.java
+SPDXID: SPDXRef-item14728880
+FileChecksum: SHA1: d84785aeb8fa29322464e48dea24a760b5f6d492
+FileChecksum: MD5: 35ae0b892507d399bd1cc8ed3726b13f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/gdm/util/Properties.java
+SPDXID: SPDXRef-item14728886
+FileChecksum: SHA1: d58bec21a81404ba6021a641840ac3553bcdd2f3
+FileChecksum: MD5: 07864354f586e84f8d5be61c59d4fd96
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/gdm/config/SwggerConfiguration.java
+SPDXID: SPDXRef-item14728883
+FileChecksum: SHA1: b00ddc06c66646a6b2485942c982775dabda9663
+FileChecksum: MD5: 97c5a2d3d5f43a558f134ec0e8d80116
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/gdm/service/GDMServiceImpl.java
+SPDXID: SPDXRef-item14728879
+FileChecksum: SHA1: 0f2f85db31faa796c3e26025a489d009b32c5f41
+FileChecksum: MD5: fc88044a09a423d773a2b3109cb52ed6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/gdm/config/AppConfig.java
+SPDXID: SPDXRef-item14728882
+FileChecksum: SHA1: 856a9ead2d8d0eaf0687c148bf0c3c863b0e4465
+FileChecksum: MD5: 39e6bebb59d39d9c1f73c57c5b334eb9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/gdm/util/EELFLoggerDelegator.java
+SPDXID: SPDXRef-item14728885
+FileChecksum: SHA1: ddea9138e3b480b1784eb3fe4be39c2c3b549b98
+FileChecksum: MD5: 9cfd57984144ed854aa21f0426fbec3b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/vo/mapping/OutputField.java
+SPDXID: SPDXRef-item14728890
+FileChecksum: SHA1: 3e7437c263e88d4e96010b4cf70a51462302e244
+FileChecksum: MD5: 85e51f7c622e78c3d2cc0154a92d7dd1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/vo/mapping/DataMap.java
+SPDXID: SPDXRef-item14728892
+FileChecksum: SHA1: ebbb66c410e6dcc4ebc064fd572a3b6ca1ed3a7b
+FileChecksum: MD5: 4535f4bb27a771d1ef3dfba7c230b32c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/vo/mapping/InputField.java
+SPDXID: SPDXRef-item14728889
+FileChecksum: SHA1: 4ec7f4e921419e09a85ee14b56419781645cb99e
+FileChecksum: MD5: 67b13dd037ff1da3646520aa56a11dd3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/vo/mapping/MapOutput.java
+SPDXID: SPDXRef-item14728891
+FileChecksum: SHA1: e648b0c54a6736420433a773e9bebe82692c424b
+FileChecksum: MD5: a0747b83c85b04a7073e3b29108d33c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/vo/mapping/MapInput.java
+SPDXID: SPDXRef-item14728893
+FileChecksum: SHA1: 72c8e184d967785d48d94d6058ae406b1494a41f
+FileChecksum: MD5: b1646fb288929721d3b86e91322c39c0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/license/acumos/header.txt
+SPDXID: SPDXRef-item14728747
+FileChecksum: SHA1: eb78f221a7c0d75275833b06d9de109f129be106
+FileChecksum: MD5: ac1f803a9453eba90ac89af92b4f09f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/license/acumos/header.txt
+SPDXID: SPDXRef-item14728454
+FileChecksum: SHA1: eb78f221a7c0d75275833b06d9de109f129be106
+FileChecksum: MD5: ac1f803a9453eba90ac89af92b4f09f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/license/acumos/header.txt
+SPDXID: SPDXRef-item14728826
+FileChecksum: SHA1: eb78f221a7c0d75275833b06d9de109f129be106
+FileChecksum: MD5: ac1f803a9453eba90ac89af92b4f09f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/license/acumos/header.txt
+SPDXID: SPDXRef-item14728658
+FileChecksum: SHA1: eb78f221a7c0d75275833b06d9de109f129be106
+FileChecksum: MD5: ac1f803a9453eba90ac89af92b4f09f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/resources/Protobuf_Template.txt
+SPDXID: SPDXRef-item14728497
+FileChecksum: SHA1: 21e4b8e28f2aa9f916f7296025b34d2155233cc1
+FileChecksum: MD5: b46e7ae7e197e9c0af3cebf2d491787b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/application.properties
+SPDXID: SPDXRef-item14728447
+FileChecksum: SHA1: 298b95c275a3b4db7b557a18925be2ad5fcc1e8f
+FileChecksum: MD5: f60b68b4141df9d111ea310d131e483d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/service/IDataBrokerService.java
+SPDXID: SPDXRef-item14728521
+FileChecksum: SHA1: 4e36067ecb23dac994c4a898efad2aa88649db4a
+FileChecksum: MD5: e7c532cc3b9f7590ad1812ed8027234f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/resources/Dockerfile_Template.txt
+SPDXID: SPDXRef-item14728499
+FileChecksum: SHA1: 01bd7cb0c896f71eb5c2b8510a78b7650ee85e8c
+FileChecksum: MD5: e77f704ff2ab1fc61c2040dcac3bac96
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/service/IGenericDataMapperService.java
+SPDXID: SPDXRef-item14728524
+FileChecksum: SHA1: 17e1f37244c6ef8a77ea2b5fde3ed57b5a4ca959
+FileChecksum: MD5: 9d9fcdc66b034a5587b9b9fb03687429
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/DSPayloadDto.java
+SPDXID: SPDXRef-item14728554
+FileChecksum: SHA1: 8df7e236eebfd418b3d581914a4925ad935b7407
+FileChecksum: MD5: 33209626a390088c1476610773b7c4ab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/predictor-proto.proto
+SPDXID: SPDXRef-item14728650
+FileChecksum: SHA1: a40a5b38067e3d38ae79d914ff7769c6836116ba
+FileChecksum: MD5: 128f42d786480d3d7aa36db2fbcb30a1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/aggregator-proto.proto
+SPDXID: SPDXRef-item14728651
+FileChecksum: SHA1: a4b1657034376999edec63e223d29ad35e742667
+FileChecksum: MD5: 2b0ddbff6bc04d61878af12fa5bc809d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/alarm-generator-proto.proto
+SPDXID: SPDXRef-item14728734
+FileChecksum: SHA1: 5d9bb450621c1a1cf162ad563f6c730a7eb6db33
+FileChecksum: MD5: 4aff00a1e68efd696c309ce725e95558
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/test/java/org/acumos/designstudio/toscagenerator/test/ProtobufToJsonConversionTest.java
+SPDXID: SPDXRef-item14728679
+FileChecksum: SHA1: 80a137fd1aab94becfd6de24c6ff4a457c30ab26
+FileChecksum: MD5: 81b9c4ae393860b7788892321b052fef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/test-models/python/gen_demo_models.py
+SPDXID: SPDXRef-item14728814
+FileChecksum: SHA1: eb97637c5f56ab0e1351fd2a19257d88346b59de
+FileChecksum: MD5: cdf6647522dd2c8844df8e4959e2e83b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/config/SwaggerConfiguration.java
+SPDXID: SPDXRef-item14728786
+FileChecksum: SHA1: 0ec77daf2df9cc85cb06918c393576b484d91db3
+FileChecksum: MD5: 6f1f1d24cc934cddffca75ff9c52dab9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/classifier-proto.proto
+SPDXID: SPDXRef-item14728736
+FileChecksum: SHA1: cf1f67572fddd837aa09b71eccb5ddc10b3c89e6
+FileChecksum: MD5: 805521e8772be4fb2cef2185e1ad780a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/TOSCAApplication_prod.properties
+SPDXID: SPDXRef-item14728739
+FileChecksum: SHA1: 7c5f4637095843d0b8c4e5e39690a6c7ae31caec
+FileChecksum: MD5: 1c683ffc372de552543dd99a44ed79cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/service/IMatchingModelService.java
+SPDXID: SPDXRef-item14728522
+FileChecksum: SHA1: 5b956207484f1c6e4be9ff3ce07ec4fc99f0dd7c
+FileChecksum: MD5: 3a1b3297a4d21fd8ac44175b6b729aca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/databroker/DataBrokerMap.java
+SPDXID: SPDXRef-item14728558
+FileChecksum: SHA1: 9dfd1173a64827fc703a58892578ccc86b265947
+FileChecksum: MD5: 22040d6a7721baea285a95cae62c3b8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/service/ISolutionService.java
+SPDXID: SPDXRef-item14728526
+FileChecksum: SHA1: 8476fe007b89106c49cc769bd45c19bdaf72e7a2
+FileChecksum: MD5: 19fdd4d2937b0693ec591ae322ecead2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/util/ModelCacheForMatching.java
+SPDXID: SPDXRef-item14728548
+FileChecksum: SHA1: 05f2ec8bd115bec20fbccae5b5cf798eecfac1b5
+FileChecksum: MD5: 453b910425acff7044268751add4685b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/matchingmodel/ModelDetailVO.java
+SPDXID: SPDXRef-item14728637
+FileChecksum: SHA1: 11eae9ba4510f024b14b1eb975c15a5be7aa7ee5
+FileChecksum: MD5: 60a9fa86fcafd32bb66267646e61743c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/ComplexType.java
+SPDXID: SPDXRef-item14728584
+FileChecksum: SHA1: 903cc6b8466126aa2aa21004964b82f281579885
+FileChecksum: MD5: 55cef89a741d02afa86c8c3d2ed7595c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/matchingmodel/KeyVO.java
+SPDXID: SPDXRef-item14728639
+FileChecksum: SHA1: abb50777a70174bd04e988a848283df443e51f8c
+FileChecksum: MD5: 0bc02b7cbf41d94e17c3f4efbbff8f8b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/matchingmodel/DSModelVO.java
+SPDXID: SPDXRef-item14728638
+FileChecksum: SHA1: cf99113a2d6a9383d3368c3f530444f4de4d3c97
+FileChecksum: MD5: 47e138f68f85fc0f93e55664302a3b5c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/protobuf/MessageargumentList.java
+SPDXID: SPDXRef-item14728641
+FileChecksum: SHA1: bf25a7a97cc176abc1177c1ee6ca22377f5def44
+FileChecksum: MD5: b1176a1b58e1e27804e63e70564f60ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/test/java/org/acumos/csvdatabroker/controller/AdminCsvDatabrokerControllerTest.java
+SPDXID: SPDXRef-item14728754
+FileChecksum: SHA1: 244b6ecba95535414e78015b36f1cb35475138fb
+FileChecksum: MD5: 4cd5a1970ce87eb91ddb6205edd5112d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/test/java/org/acumos/csvdatabroker/service/CSVDatabrokerServiceTest.java
+SPDXID: SPDXRef-item14728759
+FileChecksum: SHA1: 36f8d19d39cc7039ad0a06af880729c11c47bfda
+FileChecksum: MD5: 838c46e6e6d37ac9e13caeac21011771
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/controller/AdminCsvDatabrokerController.java
+SPDXID: SPDXRef-item14728772
+FileChecksum: SHA1: de5c57d847e5d7f4d8f85c8d0f9b7bd06a7ef85f
+FileChecksum: MD5: c36dda83e0aa377e8113c15b1d0efceb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/test/java/org/acumos/csvdatabroker/service/ConfigurationServiceTest.java
+SPDXID: SPDXRef-item14728760
+FileChecksum: SHA1: c162b31832cc1658c4e1ef5f0b853ef96ef4f40f
+FileChecksum: MD5: 3ddfa52c92d21ddb26c4885d1dff6936
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/service/ConfigurationServiceImpl.java
+SPDXID: SPDXRef-item14728778
+FileChecksum: SHA1: 48109c43e5d9a9dd42d3fd996848556f466e2a6d
+FileChecksum: MD5: 52b74101cea7d12bcef6bbd354738285
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/service/ProtobufServiceImpl.java
+SPDXID: SPDXRef-item14728775
+FileChecksum: SHA1: 3bc43ee0c97242814a35bdd67bf62d137e822b0d
+FileChecksum: MD5: e072ab4bc9884b38c964d008b8f0a249
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/service/CSVDatabrokerServiceImpl.java
+SPDXID: SPDXRef-item14728776
+FileChecksum: SHA1: b63a62397df1ca3e4d6838bec41092ca650a7287
+FileChecksum: MD5: 35bc4739733d78ce6c012fb19d1c17e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/util/DSUtil.java
+SPDXID: SPDXRef-item14728789
+FileChecksum: SHA1: 451788ea1e27c960d6d1ba78e4ee6f2e8174ed8d
+FileChecksum: MD5: a225f914617386cb00b3c507cd779631
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/vo/Configuration.java
+SPDXID: SPDXRef-item14728797
+FileChecksum: SHA1: b7f7a870e31355a7892fbd2d7a14aff8ba4e0f92
+FileChecksum: MD5: 5a4267f95292cd66dcf0d3790da711d4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/test/java/org/acumos/sqldatabroker/service/ProtobufServiceTest.java
+SPDXID: SPDXRef-item14728910
+FileChecksum: SHA1: 0da66c1b6fb2bff4867e1668b21a220b9c1faebc
+FileChecksum: MD5: fa2484f2590c52a5498e46044ef6714b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/test/java/org/acumos/sqldatabroker/controller/SQLDatabrokerControllerTest.java
+SPDXID: SPDXRef-item14728908
+FileChecksum: SHA1: 024b5f66132b9c057c558e4fce53c677d58cf04c
+FileChecksum: MD5: 6732946f6c656cf5ef8800cc1d743ff3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/test/java/org/acumos/sqldatabroker/service/ConfigurationServiceTest.java
+SPDXID: SPDXRef-item14728911
+FileChecksum: SHA1: 1a60851ae7bf7b68dfebaf73fc8d6754d228df44
+FileChecksum: MD5: 349f26ea341ea4f7a772f944e96a2920
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/test/resources/testInput.txt
+SPDXID: SPDXRef-item14728902
+FileChecksum: SHA1: 666bd76cab07506a2a2d3e4f36cd590d6c78638b
+FileChecksum: MD5: 6f0cab09af3fe10a6105fce1e7db0ec8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/test/java/org/acumos/sqldatabroker/service/SQLDatabrokerServiceImplTest.java
+SPDXID: SPDXRef-item14728912
+FileChecksum: SHA1: 9aafab373fd86ecafbe8bba6d6a0b4e80102ff61
+FileChecksum: MD5: 9a83c1a5101a882a1e83c59d7aa96965
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/test/java/org/acumos/sqldatabroker/jdbc/datasource/DataSourceFactoryTest.java
+SPDXID: SPDXRef-item14728915
+FileChecksum: SHA1: c8ac809519bf8f1ccf89da3989421fe9722c2108
+FileChecksum: MD5: 80c53efe806c7019b352b4c0d2b02ee3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/service/ProtobufServiceImpl.java
+SPDXID: SPDXRef-item14728929
+FileChecksum: SHA1: f0cb7e7663b04f202a4055c72beec2199834a6b1
+FileChecksum: MD5: 1840a45dfc1f4800684dc417a917dd51
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/controller/SQLDatabrokerController.java
+SPDXID: SPDXRef-item14728927
+FileChecksum: SHA1: 091bb5db7cb4d8d39ac030cd1458ca6e33ffc717
+FileChecksum: MD5: 7587f596484b6fbe26143ccf862b592a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/service/ProtobufService.java
+SPDXID: SPDXRef-item14728930
+FileChecksum: SHA1: 20e7cf0fec4b69f4c86a8db9eea5ec9d73ce4043
+FileChecksum: MD5: 3e7b68229364f3ac77741c56a656fcd2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/service/ConfigurationServiceImpl.java
+SPDXID: SPDXRef-item14728931
+FileChecksum: SHA1: 6c3effcbaf9e9220cf46f54c12e263a3dcb35693
+FileChecksum: MD5: b9bc86ffd8acf80d96efeee1051c2556
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/exceptionhandler/ServiceException.java
+SPDXID: SPDXRef-item14728936
+FileChecksum: SHA1: a5e06385bcb9c4dfc67bf933d6f0a52355b82f1f
+FileChecksum: MD5: b6ad5304476305cdc91d78fc5f6f1a09
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/service/ConfigurationService.java
+SPDXID: SPDXRef-item14728932
+FileChecksum: SHA1: bf49db1c6f67a88ba3068e03f493802ab268f747
+FileChecksum: MD5: 87fffa099b13c4c00c8d969ed7dffe3e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/util/DatabrokerConstants.java
+SPDXID: SPDXRef-item14728944
+FileChecksum: SHA1: 1d23c24a01b480ebaa2444ca8846adcb92aa155d
+FileChecksum: MD5: c29b8848e5d8972511f18dd7e1f6f971
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/config/SwaggerConfiguration.java
+SPDXID: SPDXRef-item14728939
+FileChecksum: SHA1: 1e91c3ed1de7a2276d794cc365000f71e00954d1
+FileChecksum: MD5: dfd01492f06a142e366f89300f8b3868
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/util/EELFLoggerDelegator.java
+SPDXID: SPDXRef-item14728945
+FileChecksum: SHA1: fef6af4e099a44e0e484a36a2ee606b2afa6a08c
+FileChecksum: MD5: 935af244f7d204f5c1bb6abe630a0df5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/SQLDatabrokerApplication.java
+SPDXID: SPDXRef-item14728947
+FileChecksum: SHA1: 9a409ee2faa440191db57e85fae0365e2d034e40
+FileChecksum: MD5: a5c982be1651e5761c1b5f5c4319969b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/vo/ProtobufOption.java
+SPDXID: SPDXRef-item14728949
+FileChecksum: SHA1: b9cdb85c3fb4fe18b1dc6b7881804797ca5e2d4b
+FileChecksum: MD5: b1b58ee0dff60573af66cc278e1762c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/util/ProtobufUtil.java
+SPDXID: SPDXRef-item14728946
+FileChecksum: SHA1: ec2f01cb8f35dceb67ccedd767726d78e18bba91
+FileChecksum: MD5: e2c37428f1fa4e358a401268ddab00d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/vo/Protobuf.java
+SPDXID: SPDXRef-item14728950
+FileChecksum: SHA1: a4afabfe2d6621295dca34b04c7f9f3c99f6c40b
+FileChecksum: MD5: 61d554a1ee8949a5478bf6e0ad96bf33
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/vo/DBMapInput.java
+SPDXID: SPDXRef-item14728954
+FileChecksum: SHA1: da5633fdf7c12bf3c2497ea5913e1ccd97d142c0
+FileChecksum: MD5: 48d69df4f665f76683b4194e96fb32db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/vo/Configuration.java
+SPDXID: SPDXRef-item14728951
+FileChecksum: SHA1: 1cb64fa614a97b175899d805063f3c7f5c6a280e
+FileChecksum: MD5: ac63cbce8425faeb6293bb5991d74320
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/vo/ProtobufService.java
+SPDXID: SPDXRef-item14728952
+FileChecksum: SHA1: 1d5aa445e97013953adfe36686ddfe24fbf3eaad
+FileChecksum: MD5: 45c609fee449c4628ff90c089792a76c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/vo/DataBrokerMap.java
+SPDXID: SPDXRef-item14728953
+FileChecksum: SHA1: b5e877f59d6d7654240fd1400f68ea0deb73744e
+FileChecksum: MD5: 3830783aaa69c2b5271ef797b5c6b9f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/vo/Result.java
+SPDXID: SPDXRef-item14728957
+FileChecksum: SHA1: e2e07de736cf049b9fb04373fa2a3b488ed87b22
+FileChecksum: MD5: 6d27f411da53e78dc95b1038ac39c35e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/vo/DBMapOutput.java
+SPDXID: SPDXRef-item14728955
+FileChecksum: SHA1: 2c8530ddef470edb270396605097b06b624bae96
+FileChecksum: MD5: 810fdad180d0fcdf76c6ee1ecc542f93
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/vo/ProtobufServiceOperation.java
+SPDXID: SPDXRef-item14728958
+FileChecksum: SHA1: 50967ba8371c6f44715a88a99a81614cf7f02a63
+FileChecksum: MD5: 867e3412be8b48f3f31f14c8805a35a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/vo/ProtobufMessageField.java
+SPDXID: SPDXRef-item14728956
+FileChecksum: SHA1: 711ba3df642c88e60d0db3d408d3339ec3dab68d
+FileChecksum: MD5: 66fcf4c7565b4f83529c9624720a3ba2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/vo/DBOTypeAndRoleHierarchy.java
+SPDXID: SPDXRef-item14728960
+FileChecksum: SHA1: 75c08f1599991bf578b82cb8a2fd81460af7a26a
+FileChecksum: MD5: 8482bc6e3ad696a95c0a55e6b57d8caa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/vo/DBOutputField.java
+SPDXID: SPDXRef-item14728959
+FileChecksum: SHA1: 92748f87c153dd3d587d4fb5c6b7f131919b6acb
+FileChecksum: MD5: ccff8b5f04f6babab385bb1a1c38b882
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/vo/ProtobufMessage.java
+SPDXID: SPDXRef-item14728962
+FileChecksum: SHA1: 236d9ed6b561a87452c067796cc4ae5b2afcdf76
+FileChecksum: MD5: 711b681b33c8ffb2dd4b9d0ded4a1747
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/vo/DBInputField.java
+SPDXID: SPDXRef-item14728961
+FileChecksum: SHA1: 1f93f964dd144e797de6005fad19fea9350c2b05
+FileChecksum: MD5: c4b4a3f06abbee0a215b4dfdceec0910
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/util/SanitizeUtils.java
+SPDXID: SPDXRef-item14728546
+FileChecksum: SHA1: 65030a3d847b0150db40b7f64ec4b82a87360cba
+FileChecksum: MD5: eb2d3172aafc8cad116e1dc703800404
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/resources/TOSCAApplication.properties
+SPDXID: SPDXRef-item14728684
+FileChecksum: SHA1: 50833873e42a84627124031bb9b0c369ac925055
+FileChecksum: MD5: 45c3d4db7b4385dd5368efea53d97a2f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/service/ICompositeSolutionProtoFileGeneratorService.java
+SPDXID: SPDXRef-item14728528
+FileChecksum: SHA1: 3966466c3ae905125587fec7cce783fef46a6039
+FileChecksum: MD5: 8bde5351982f56dd091a8ddd8d4b28b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/compositeproto/ProtobufOption.java
+SPDXID: SPDXRef-item14728617
+FileChecksum: SHA1: 0d77f1d447f1362edfe5803528cf0fa2f6726354
+FileChecksum: MD5: b6fe98e1ac61030f0662fee4c9b4d44d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/service/ICompositeSolutionService.java
+SPDXID: SPDXRef-item14728530
+FileChecksum: SHA1: 2e937216daf458bdbf9e501a24780c6fea4cc088
+FileChecksum: MD5: e689b0f9246e637a2e089bab3c33b226
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/compositeproto/ProtobufMessageField.java
+SPDXID: SPDXRef-item14728620
+FileChecksum: SHA1: e9efd2eb7dfc33f7970ce643f7c52ab7b0266bfb
+FileChecksum: MD5: 7b9a07c0fd7837dfca9bafa953a05447
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/util/Properties.java
+SPDXID: SPDXRef-item14728549
+FileChecksum: SHA1: 2c4e8fba01809a162949c77077a040438c14955e
+FileChecksum: MD5: 136455cad7c5c92a315fb77b37c26ff7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/compositeproto/ProtobufServiceOperation.java
+SPDXID: SPDXRef-item14728621
+FileChecksum: SHA1: bace72c00ec973b64dcdfa8d98942c195a7fb086
+FileChecksum: MD5: ac6702b95555b8db4b074892c6e22496
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/compositeproto/ProtobufMessage.java
+SPDXID: SPDXRef-item14728622
+FileChecksum: SHA1: bb06b10636ae2719a2935ad3f7d0082c7e1a9347
+FileChecksum: MD5: d9c4ffefeb5391b2860ac0b47423e605
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/compositeproto/ProtobufService.java
+SPDXID: SPDXRef-item14728619
+FileChecksum: SHA1: 5c869c2a00a802b94edca14b6b3b870347d7c59b
+FileChecksum: MD5: bcfdcec3faaed20e724d9a8518beda11
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/java/org/acumos/designstudio/test/TGIFTest.java
+SPDXID: SPDXRef-item14728482
+FileChecksum: SHA1: fd6ee7288e5281f5f97f43fc3194e5603477c634
+FileChecksum: MD5: af4f6ec1e43295e4f2fa2df864456f3d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/service/ToscaGeneratorService.java
+SPDXID: SPDXRef-item14728693
+FileChecksum: SHA1: 9b305876cab3433af41098e60e18b76a49c8eafa
+FileChecksum: MD5: d069d08b31ff9558f54d3f06da6b6855
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/java/org/acumos/designstudio/test/GetMatchingModelTest.java
+SPDXID: SPDXRef-item14728486
+FileChecksum: SHA1: a6cb6e9d8689594971202129618d107a44792aa6
+FileChecksum: MD5: 49384b7ad1dce222d9fa57dbee9d7bb8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/docker/PushImageCommand.java
+SPDXID: SPDXRef-item14728510
+FileChecksum: SHA1: 18662b4e25c3ee1ea67280ef06b5c32bf49a71c4
+FileChecksum: MD5: 8930fd200f112361cbd8011637bc1045
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/java/org/acumos/designstudio/test/DSCompositionEngineTest.java
+SPDXID: SPDXRef-item14728485
+FileChecksum: SHA1: 7105d718b547010ba9c1a35d4eef96930314cf88
+FileChecksum: MD5: 4cd1741684cace2f52d5b965489b68a4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/controller/AdminController.java
+SPDXID: SPDXRef-item14728507
+FileChecksum: SHA1: 9e29f438fccc93c550f9b0f51e73d1e42b5e1507
+FileChecksum: MD5: c00184482e06cf0288095610caa78b94
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/java/org/acumos/designstudio/test/ConfigTest.java
+SPDXID: SPDXRef-item14728488
+FileChecksum: SHA1: 0d08a6b1252b4b0c948dc1455ad4bae4924d158d
+FileChecksum: MD5: 9cad828bc9018a7552e7b46bd0b59397
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/docker/CreateImageCommand.java
+SPDXID: SPDXRef-item14728512
+FileChecksum: SHA1: e7a8fddd7b97406f5ab79db95028ae73fdc07089
+FileChecksum: MD5: ee7213441cef4f24ae8292daa23187b3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/controller/SolutionController.java
+SPDXID: SPDXRef-item14728506
+FileChecksum: SHA1: 4da0334eec6f2672ba6abc868318dce2ce062a7e
+FileChecksum: MD5: 63b25e6725ee312abdfa68c788f6b1c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/controller/ArtfactDetailsController.java
+SPDXID: SPDXRef-item14728508
+FileChecksum: SHA1: 31cebe63854c05580fb85e9b4e394fa13bdadc60
+FileChecksum: MD5: d26ec537ae1eb8620424519128e724a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/docker/TagImageCommand.java
+SPDXID: SPDXRef-item14728513
+FileChecksum: SHA1: c11f5580f91e4fb8c3e4629836ecbe33b25f22bf
+FileChecksum: MD5: 57e64b85c35837a9b43b04f9595da0a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/docker/DockerCommand.java
+SPDXID: SPDXRef-item14728516
+FileChecksum: SHA1: e12d3b68f261fc5edb21cf5d2dc6d7d421cc0407
+FileChecksum: MD5: 922804ab98009a5eb6273ca72fec2d25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/service/DataBrokerServiceImpl.java
+SPDXID: SPDXRef-item14728520
+FileChecksum: SHA1: e6f6d1555b5b556f7c84c9a5925310e23cf2fd0e
+FileChecksum: MD5: ad492a84280d04ea389c3e041ff2c4e2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/service/AcumosCatalogServiceImpl.java
+SPDXID: SPDXRef-item14728531
+FileChecksum: SHA1: f030e6f930dbea46cf73069bebe742b90b93a8cc
+FileChecksum: MD5: fb72d6735d02058c767616c679e5e1c9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/service/CompositeSolutionProtoFileGeneratorServiceImpl.java
+SPDXID: SPDXRef-item14728519
+FileChecksum: SHA1: 520ccd0ed67a431d4b675d3865d9ab030cdb12e8
+FileChecksum: MD5: e0c7f7f563dc24af7b4463776515a4e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/exceptionhandler/AcumosException.java
+SPDXID: SPDXRef-item14728536
+FileChecksum: SHA1: b95c76ff26ef1be1258a4ae01b57439d61ff0ea8
+FileChecksum: MD5: ee7c607c85a5b6a2938f99a9dbd8deac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/service/GenericDataMapperServiceImpl.java
+SPDXID: SPDXRef-item14728523
+FileChecksum: SHA1: 259f3af65bb9ef54a887b6f1ed5f39f84c317e2e
+FileChecksum: MD5: ba05ffbd90f5e0848430fd1c2717ef4a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/config/AppConfig.java
+SPDXID: SPDXRef-item14728541
+FileChecksum: SHA1: 5eddaab1060e76b661fb66d14d0dc39536944867
+FileChecksum: MD5: c5afc5ca84c503465f17468b31b24f78
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/config/HandlerInterceptorConfiguration.java
+SPDXID: SPDXRef-item14728542
+FileChecksum: SHA1: 30fc75354e547531395b959dd33209486d6ceefb
+FileChecksum: MD5: b9e4c05e4f4cc2e994a79c2a03863e49
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/config/LoggingHandlerInterceptor.java
+SPDXID: SPDXRef-item14728543
+FileChecksum: SHA1: 67e69c399b0dacffb184fbd743fd57001ff33139
+FileChecksum: MD5: ce0bb5614422c476ebb70872c4077352
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/service/MatchingModelServiceComponent.java
+SPDXID: SPDXRef-item14728527
+FileChecksum: SHA1: 57cc11bd4fb92ed7ca8f068ba51b8967c74d18b8
+FileChecksum: MD5: 2d35c34f3e179f5770d8dace7ea23aaa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/util/DSUtil.java
+SPDXID: SPDXRef-item14728545
+FileChecksum: SHA1: ec6ba1491feafa3a6775513673bc4e412274cfbf
+FileChecksum: MD5: a3719a85e1142b247c68083ae47af055
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/cdump/Cdump.java
+SPDXID: SPDXRef-item14728564
+FileChecksum: SHA1: f1a2bf7dfe936c704cc3c594b3cb4734adf82564
+FileChecksum: MD5: 583da6d3e71b3296edd6ee4e69183bea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/resources/logback.xml
+SPDXID: SPDXRef-item14728498
+FileChecksum: SHA1: c7c65a21ce1bb3f830e1213565461e8ed4ed1141
+FileChecksum: MD5: 11560225174835c072dbbc0764a38b7b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/java/org/acumos/designstudio/test/ArtifactDetailsControllerTest.java
+SPDXID: SPDXRef-item14728479
+FileChecksum: SHA1: dd584abc985ffae52b2ff0957f6712a5f1ccc893
+FileChecksum: MD5: 4121ba25288d997f1f4682e4470118e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/java/org/acumos/designstudio/test/CompositeSolutionProtoFileGeneratorServiceImplTest.java
+SPDXID: SPDXRef-item14728480
+FileChecksum: SHA1: c0c5acf28c59466641c458a4293ec306cbc46484
+FileChecksum: MD5: b637298d3fa5ebe346a3855c26e51cb1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/Application.java
+SPDXID: SPDXRef-item14728538
+FileChecksum: SHA1: 9399e9354d24ee9bc444fb40c12dbf7cf3f85bd7
+FileChecksum: MD5: 2c0f863cdb7352ff3346f73eaf1cf90a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/java/org/acumos/designstudio/docker/test/DockerConfigurationTest.java
+SPDXID: SPDXRef-item14728472
+FileChecksum: SHA1: dcec1e084e3fb3133fef26bc32692c40aca748f2
+FileChecksum: MD5: 8e3ab9153dc43a62b9aeb5ea109d8251
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/java/org/acumos/designstudio/docker/test/CommandUtilsTest.java
+SPDXID: SPDXRef-item14728473
+FileChecksum: SHA1: cdef871cd386a07b64072250925ca57e7709f672
+FileChecksum: MD5: 4850336ce1f431ecc29f8e4b6ae53d7b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/java/org/acumos/designstudio/test/MatchingModelServiceImplTest.java
+SPDXID: SPDXRef-item14728493
+FileChecksum: SHA1: a5cc9f14b655538ace003409d46c9d2e9cf00e47
+FileChecksum: MD5: 1b58be36c032184a612fc3832da0d7e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/service/MatchingModelServiceImpl.java
+SPDXID: SPDXRef-item14728533
+FileChecksum: SHA1: 10c4a2278cb535f44943649a334c55eebe837131
+FileChecksum: MD5: b8f9d87e794bf704f3fc0be222b07619
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/java/org/acumos/designstudio/docker/test/PushImageCommandTest.java
+SPDXID: SPDXRef-item14728474
+FileChecksum: SHA1: 21fb170e1fdd0b1adca69d1dfb3967bf78102c56
+FileChecksum: MD5: 734136f41562a7f7f95265221af37948
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/java/org/acumos/designstudio/docker/test/TagImageCommandTest.java
+SPDXID: SPDXRef-item14728475
+FileChecksum: SHA1: 9ddecfdf5bda7292aaa90d52f50445a3a81187f2
+FileChecksum: MD5: d6aeed7bde265b954bda4ee286cbb57d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/java/org/acumos/designstudio/docker/test/CreateImageCommandTest.java
+SPDXID: SPDXRef-item14728476
+FileChecksum: SHA1: 6ffb74e4cffeb1182225fde749ac5677b74c0d41
+FileChecksum: MD5: 65038f6601fa008f0cc39e5a023b1a06
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/java/org/acumos/designstudio/test/vo/VOProtobufTest.java
+SPDXID: SPDXRef-item14728490
+FileChecksum: SHA1: e46b25a7a392aec88f8ec9a5256d74c50c6ec501
+FileChecksum: MD5: 2f6bf59cef4dfc476cca4e3b617686cf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/java/org/acumos/designstudio/test/VOTest.java
+SPDXID: SPDXRef-item14728487
+FileChecksum: SHA1: 7d12cf4b992a0f65957640af7b5291019787f310
+FileChecksum: MD5: 12c49c76a4ce285f1ed90c4f96942652
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/java/org/acumos/designstudio/test/ControllersTest.java
+SPDXID: SPDXRef-item14728483
+FileChecksum: SHA1: 949da87e5652f492273198285cddae79b855065e
+FileChecksum: MD5: 92f15b5d232da988cd8d84aa97be5e50
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/java/org/acumos/designstudio/test/GenericDataMapperServiceImplTest.java
+SPDXID: SPDXRef-item14728492
+FileChecksum: SHA1: afd834e5a25ff4ec1c8aaf0f77b7a97dd08cfe36
+FileChecksum: MD5: 0b541eea8c924ddf4e86a8fae1045d0b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/docker/DockerConfiguration.java
+SPDXID: SPDXRef-item14728511
+FileChecksum: SHA1: d2b5a2242af9643ff74b2115c964ff8760b91aee
+FileChecksum: MD5: 7ea48b4e2a55a9184fb080cdeda5073e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/DSSolution.java
+SPDXID: SPDXRef-item14728615
+FileChecksum: SHA1: bf05e12070754d3eeba66efeaa5d63b5e359a8e5
+FileChecksum: MD5: 10596cd1ed829e45b2946f92a07053a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/test/java/org/acumos/designstudio/toscagenerator/test/TGIFTest.java
+SPDXID: SPDXRef-item14728672
+FileChecksum: SHA1: 17f92e828237d1aebd3f6a023d71b11d777c5691
+FileChecksum: MD5: 7506bc8cf6ec3d27be8f1ddd6afafbd2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/test/java/org/acumos/designstudio/toscagenerator/test/ToscaUtilTest.java
+SPDXID: SPDXRef-item14728671
+FileChecksum: SHA1: 3d2521306a94d7435f65c49524522844c29a68f4
+FileChecksum: MD5: 8f94d09bd6ea1119338880e596bc09d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/DSCompositeSolution.java
+SPDXID: SPDXRef-item14728553
+FileChecksum: SHA1: 97fa495aa3741ce59752d3bb23ec090c40c1e799
+FileChecksum: MD5: c42dd6ca690a461091bc264d4d209d75
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/test/java/org/acumos/designstudio/toscagenerator/test/ProtobufTest.java
+SPDXID: SPDXRef-item14728674
+FileChecksum: SHA1: 09b7249064f1b557f1dbbf611c007e5eadf90a7a
+FileChecksum: MD5: d7f42ce42c21ca15983dd9de4bf1cb04
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/test/java/org/acumos/designstudio/toscagenerator/test/exceptions/ToscaExceptionTest.java
+SPDXID: SPDXRef-item14728677
+FileChecksum: SHA1: 0ef55c49f0545f4e4100244d300bfb43f3892e9e
+FileChecksum: MD5: 6c4c9e47725b5e02e8bb59ccc1d29c2f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/util/EELFLoggerDelegator.java
+SPDXID: SPDXRef-item14728703
+FileChecksum: SHA1: 390ac2109c12ea61731d2b6cb04f5b32690a928c
+FileChecksum: MD5: 8582827a164b86805d59e9546998c284
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/util/Properties.java
+SPDXID: SPDXRef-item14728704
+FileChecksum: SHA1: 20ca61215f5b1df992a5a095f552303e270972fa
+FileChecksum: MD5: 52bcf1b3e2f96d9ac0309f99ea54e60a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/util/ConfigurationProperties.java
+SPDXID: SPDXRef-item14728701
+FileChecksum: SHA1: 2c38b3ea9060c0fc471691b7520ef5d5e426b315
+FileChecksum: MD5: d2f6fc88d03be4f23cb271ab1ee7689a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/Artifact.java
+SPDXID: SPDXRef-item14728707
+FileChecksum: SHA1: 9661b9444c1059289abf0ed4dd046b5bc72cc486
+FileChecksum: MD5: 46f5438efe7de38cc9edc69b6121c123
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/tgif/Response.java
+SPDXID: SPDXRef-item14728709
+FileChecksum: SHA1: 7cc7858e5b1c1db76ef98457937c1b08c7a46d20
+FileChecksum: MD5: 7d63b5ca630c946b0e97d2c78e5fed04
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/tgif/Request.java
+SPDXID: SPDXRef-item14728710
+FileChecksum: SHA1: 9e5253c6045b2090c3ce06d559e5d034ce2668d9
+FileChecksum: MD5: 7a2aefc69ce085b2c927c740ca8c9c33
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/tgif/Parameter.java
+SPDXID: SPDXRef-item14728714
+FileChecksum: SHA1: c4fc99a109d402e2d37383b90d93fd32a1491e01
+FileChecksum: MD5: e9d1fa4668f27c1031c95b739f834c90
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/tgif/Call.java
+SPDXID: SPDXRef-item14728715
+FileChecksum: SHA1: d96e2e572e8b9466a3b87d2fc2613d7386f81334
+FileChecksum: MD5: e1d744dcd2ec8e8710884a06b61d23a4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/tgif/Self.java
+SPDXID: SPDXRef-item14728712
+FileChecksum: SHA1: 988694105559c0cdd5649c07d9371635384e7156
+FileChecksum: MD5: 9b2f952c6b45806ed70622bb591f9cb9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/tgif/Stream.java
+SPDXID: SPDXRef-item14728713
+FileChecksum: SHA1: fdbcb0c0103313b38d3dd99cc70a031f161b66fb
+FileChecksum: MD5: 0b3ae3d4907382e7775fa4ce30619139
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/tgif/Service.java
+SPDXID: SPDXRef-item14728717
+FileChecksum: SHA1: 55b20dc7f7b1f63773af624f937838e230b11c04
+FileChecksum: MD5: 7dacfdef3faca9606a5dc82c9c567efa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/tgif/Provide.java
+SPDXID: SPDXRef-item14728718
+FileChecksum: SHA1: 65b809004a9b3a003446379625baaaeb375d3d4a
+FileChecksum: MD5: f6fdab6774a53f0b9e2371347ffaabdf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/tgif/Tgif.java
+SPDXID: SPDXRef-item14728716
+FileChecksum: SHA1: 8000b5a3ed536338c06a2278cc4c893c76a56587
+FileChecksum: MD5: ad6e2e680baf70b6c39664503db2bd05
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/tgif/Auxiliary.java
+SPDXID: SPDXRef-item14728719
+FileChecksum: SHA1: b055ffb1d98360d5069bcf26fc71045c45a43dde
+FileChecksum: MD5: 5555e6d9d609cd9a9b9fd5c548c33228
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/protobuf/InputMessage.java
+SPDXID: SPDXRef-item14728721
+FileChecksum: SHA1: 89f48d8abb3d4894b0c597ad93171d3a565d5cce
+FileChecksum: MD5: 6892494223f1782b5fd99f1695ab7d2d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/protobuf/MessageargumentList.java
+SPDXID: SPDXRef-item14728722
+FileChecksum: SHA1: 861cb2dd0e17a98d3f53a88d24b879f12e52fb94
+FileChecksum: MD5: cb38f2f315414d89922188383cb067dc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/protobuf/OutputMessage.java
+SPDXID: SPDXRef-item14728723
+FileChecksum: SHA1: 88985869a68a2c346a3724ce6ffacde168693672
+FileChecksum: MD5: 58eb5999a3eaf4f3bc0565f207ff0d7c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/protobuf/ComplexType.java
+SPDXID: SPDXRef-item14728725
+FileChecksum: SHA1: f9a98b332ad4922ad209597fb5e83df3c5d59584
+FileChecksum: MD5: b17a4db58c6974a3d1bab0f0b40d35f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/protobuf/MessageSortByTag.java
+SPDXID: SPDXRef-item14728724
+FileChecksum: SHA1: 18e0d69090c0a6fd3407f20e745a61a0123bc242
+FileChecksum: MD5: 107a3e8cc1f36b84171611bc23f2d323
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/protobuf/SortComparator.java
+SPDXID: SPDXRef-item14728726
+FileChecksum: SHA1: 5776721c44c057a3fda7c819c90141a082e17554
+FileChecksum: MD5: 7245a59866dfeb3bfc480b95d8e4f510
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/protobuf/MessageBody.java
+SPDXID: SPDXRef-item14728729
+FileChecksum: SHA1: 82c449db4e4a207d4f3c22fcac5386551a028907
+FileChecksum: MD5: 2511866b19a21de5bb410c6e83b0caa1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/protobuf/Option.java
+SPDXID: SPDXRef-item14728727
+FileChecksum: SHA1: 40afe21b7b615b502a068fc5d26c7d598b5326b3
+FileChecksum: MD5: b28dccc33ece0a225443819b1b8a147d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/protobuf/Operation.java
+SPDXID: SPDXRef-item14728730
+FileChecksum: SHA1: 86ff07b879313d59c4ae6327725d162b44ce80cc
+FileChecksum: MD5: 9f0f8e2b8a5a8a2703783426626cd5c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/protobuf/ProtoBufClass.java
+SPDXID: SPDXRef-item14728728
+FileChecksum: SHA1: 0ae4401a21dad8bd891f246c2f04d52f00f84fbe
+FileChecksum: MD5: c5590617da7f6e3e5e50390f809e93e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/protobuf/Service.java
+SPDXID: SPDXRef-item14728731
+FileChecksum: SHA1: f805cfb3ac5cd1b7dd4db0d5241b624c169e768f
+FileChecksum: MD5: 763f95539c661d5c22c8384208be785e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/test/java/org/acumos/converter/ConverterTest.java
+SPDXID: SPDXRef-item14728832
+FileChecksum: SHA1: 2c98e9e65708cea6448d7ccefb42f3a4d61409c2
+FileChecksum: MD5: 17eee40d56a9c51fc32faf5156565e5a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/vo/protobuf/SortFactory.java
+SPDXID: SPDXRef-item14728732
+FileChecksum: SHA1: e9e414877de6e1458c6e53c494db15d5a7f60f58
+FileChecksum: MD5: 0409d1144623585e6c3c202521f6182d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/test/java/org/acumos/sqldatabroker/vo/DataBrokerMapVOTest.java
+SPDXID: SPDXRef-item14728920
+FileChecksum: SHA1: 7c2c62c585ec34e3aeffa1f8939138e262ce015e
+FileChecksum: MD5: db466b2a629def7bb33d99eff87e1434
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/test/java/org/acumos/sqldatabroker/vo/ExceptionTest.java
+SPDXID: SPDXRef-item14728919
+FileChecksum: SHA1: 45bfa45bd5ef8ca1f5bf1b9083e4867b25584580
+FileChecksum: MD5: 3a5b28ec0723acb2395b96a2f60884fc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/test/java/org/acumos/sqldatabroker/vo/SqlDataBrokerVoTest.java
+SPDXID: SPDXRef-item14728918
+FileChecksum: SHA1: cb87a07c5c2c05010f127ba11d30dbfe89c49766
+FileChecksum: MD5: fa9a4fe60cc2860b798666f9e8958e77
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/java/org/acumos/designstudio/test/SolutionControllerTest.java
+SPDXID: SPDXRef-item14728481
+FileChecksum: SHA1: ad80a44373709b0d7b64c70c6f3d172e75afe5fb
+FileChecksum: MD5: dfd4d131c96e27fdd9d9a4b0e1d8aa76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/exceptionhandler/AcumosException.java
+SPDXID: SPDXRef-item14728937
+FileChecksum: SHA1: 28683279af560a4f5fda369d7dc96118d06a5e58
+FileChecksum: MD5: 264d4ead3cd7c94cb43c31bc4828846e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/java/org/acumos/designstudio/test/VOProtobufTest.java
+SPDXID: SPDXRef-item14728478
+FileChecksum: SHA1: 5df9f8d53e04b66eee9381c2c45b0c5546cb1a67
+FileChecksum: MD5: 7556a551a744fd9436ad960a1e02e9fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/test/java/org/acumos/designstudio/toscagenerator/test/exceptions/CustomExceptionTest.java
+SPDXID: SPDXRef-item14728678
+FileChecksum: SHA1: dc172b0212ce5c066ffaec7c5481a3f31b1a9b88
+FileChecksum: MD5: 46228105d510e281f520efa693ea7b9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/java/org/acumos/designstudio/test/DesignStudioTest.java
+SPDXID: SPDXRef-item14728491
+FileChecksum: SHA1: 3c073a502abd445e1efef5e9aa12252acf801be1
+FileChecksum: MD5: ace1021281210d85387a3d964368fc4e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/service/CompositeSolutionServiceImpl.java
+SPDXID: SPDXRef-item14728529
+FileChecksum: SHA1: 5c50d6e43b7cbe322c0c52e5e056f293fbe6e603
+FileChecksum: MD5: 55e0fc5560423619af134219ad9f320e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/test/java/org/acumos/designstudio/toscagenerator/test/ToscageneratorTest.java
+SPDXID: SPDXRef-item14728680
+FileChecksum: SHA1: 1b726d5ff7d2f43c595c74d687de5127fcfb5874
+FileChecksum: MD5: 734737acc89b322f488aa8a822ccedda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/test/java/org/acumos/csvdatabroker/vo/UtilTest.java
+SPDXID: SPDXRef-item14728762
+FileChecksum: SHA1: 6e275e6e74a9afe8500d36601a3b3d5910b8ef31
+FileChecksum: MD5: f5c7c924dfaab5acfdc525ce178b08a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/test/java/org/acumos/csvdatabroker/vo/CSVDataBrokerVOTest.java
+SPDXID: SPDXRef-item14728763
+FileChecksum: SHA1: aedf13399a8ea439e8764b8a9e291bdd42455ff5
+FileChecksum: MD5: cd2d475b52db850a04ab3c7952b984b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/util/DSLogConstants.java
+SPDXID: SPDXRef-item14728551
+FileChecksum: SHA1: 792bdb0557a154756ac29b12283587c36ddfd180
+FileChecksum: MD5: 738816d721bbab5e80a20f5935595c61
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/util/DSLogAdapter.java
+SPDXID: SPDXRef-item14728550
+FileChecksum: SHA1: 44a308e53e8c4a13cd4896144b1bedf56e830d43
+FileChecksum: MD5: c0d44d91ee8fe9a765a88ee1087dac2a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/service/ProtobufGeneratorService.java
+SPDXID: SPDXRef-item14728691
+FileChecksum: SHA1: 1214c0d3efff6ceef530334f99fad1af39cda3c1
+FileChecksum: MD5: e3e851b2a6c2778bc0e91a99f18a62f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/vo/compositeproto/Protobuf.java
+SPDXID: SPDXRef-item14728618
+FileChecksum: SHA1: 5b6401eae1329ccf13d3cbf3314209c746888212
+FileChecksum: MD5: 620c1f6470a07b55d4db3eb92a7dc2de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/test/java/org/acumos/csvdatabroker/ApplicationTest.java
+SPDXID: SPDXRef-item14728764
+FileChecksum: SHA1: 5ac4f840df9accb7688c973c32f01534690049e2
+FileChecksum: MD5: 279c9d68d0120b6e26009ed3de4efc59
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/test/java/org/acumos/gdm/ApplicationTest.java
+SPDXID: SPDXRef-item14728840
+FileChecksum: SHA1: 4a6b5d240b7ffef50ca2ac0a096e7ff1670d6963
+FileChecksum: MD5: 2176529bedf6c43ccf0f34583060e7f7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/test/java/org/acumos/sqldatabroker/SQLDatabrokerApplicationTest.java
+SPDXID: SPDXRef-item14728916
+FileChecksum: SHA1: 70cf70982b47dc54abbbaa50c53a05c9e7b48ba8
+FileChecksum: MD5: 47a2811fb0f8e2bc9dac88fd1ef4900d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/util/LocalScriptExecutor.java
+SPDXID: SPDXRef-item14728793
+FileChecksum: SHA1: ef1992725fe9cdd8cce9e8bc335c4483bd4363ba
+FileChecksum: MD5: f4f366c48f7e9d15eb589003225d5c3d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/src/main/java/org/acumos/csvdatabroker/util/RemoteScriptExecutor.java
+SPDXID: SPDXRef-item14728791
+FileChecksum: SHA1: ccbc0ae66733e951d4312fdbc5d09af1f79f0c9d
+FileChecksum: MD5: cd8c26b182fb9deb89e648cf9a585ac2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/pom.xml
+SPDXID: SPDXRef-item14728896
+FileChecksum: SHA1: d9290acc3f85770a8da6916189072b1065227fc9
+FileChecksum: MD5: 1b0f2d738d7f5c13c85ed5c8e9377ae8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/jdbc/datasource/DataSourceFactory.java
+SPDXID: SPDXRef-item14728942
+FileChecksum: SHA1: c28992f257f61fde57ca22b3fb74a23401776bb3
+FileChecksum: MD5: bb7400127dbf49a7533b6bf3241fe03b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/java/org/acumos/vo/DataVO.java
+SPDXID: SPDXRef-item14728894
+FileChecksum: SHA1: cbbd394f2038b111a2809ea74cdeda20eaea8dc8
+FileChecksum: MD5: 3da75dbdeedae6ae9e353e06be1f72cf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/pom.xml
+SPDXID: SPDXRef-item14728810
+FileChecksum: SHA1: 38d6ee5875b56978a4bccce15b00e2dfad90d876
+FileChecksum: MD5: 0c4de264841b2d39e8e9c54c9fdf3ce6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/pom.xml
+SPDXID: SPDXRef-item14728964
+FileChecksum: SHA1: 7d7af83e1d11d132071bbd925e561de2390c9f21
+FileChecksum: MD5: 432198376d747bd81e95e2e09a394b70
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/resources/application.properties
+SPDXID: SPDXRef-item14728496
+FileChecksum: SHA1: 2da3e0895f31293b2b4246bfb1d96069a5784b4b
+FileChecksum: MD5: 8fb0bfd02513c335643a05e51d0991d9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/service/SolutionServiceImpl.java
+SPDXID: SPDXRef-item14728532
+FileChecksum: SHA1: 03488eb0b4e692c9c96217ec34d3fd63e2c36b55
+FileChecksum: MD5: 5aadddf1b76e99d4961f1482c4b49a14
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/main/java/org/acumos/designstudio/ce/util/ConfigurationProperties.java
+SPDXID: SPDXRef-item14728547
+FileChecksum: SHA1: 003044aa048c4dac48db2bfaffc00dec7e5fbe18
+FileChecksum: MD5: 716682f8f08434ec4bd946948cb7c74e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/pom.xml
+SPDXID: SPDXRef-item14728646
+FileChecksum: SHA1: 1a11d9f6a6937ea92c2285615a5495e0363e75d8
+FileChecksum: MD5: 538e6b6dbadc514ad263e0581021b49a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/ToscaGeneratorClient.java
+SPDXID: SPDXRef-item14728705
+FileChecksum: SHA1: dfa9f9af2efd7d1da94da5fb80e4c9d9f6f84723
+FileChecksum: MD5: bc7e4daa3a43f5b28baed37b574cc0d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/main/java/org/acumos/designstudio/toscagenerator/service/TgifGeneratorService.java
+SPDXID: SPDXRef-item14728692
+FileChecksum: SHA1: 5988429676a4b550b54ac23dd0e9eb207d295d13
+FileChecksum: MD5: 8046879b8874e09fac78ac86b5a2b806
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/pom.xml
+SPDXID: SPDXRef-item14728738
+FileChecksum: SHA1: 867ced3944687d211b33660a87d740dc3b41375f
+FileChecksum: MD5: 01eb034563f4532accbdccf4359ea64a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/license/acumos/license.txt
+SPDXID: SPDXRef-item14728453
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/license/acumos/license.txt
+SPDXID: SPDXRef-item14728825
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/license/acumos/license.txt
+SPDXID: SPDXRef-item14728657
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/README.md
+SPDXID: SPDXRef-item14728742
+FileChecksum: SHA1: a63547576c412cc43d0f747559d185da089dd669
+FileChecksum: MD5: 6995cec19fb043e7e3e1ce555e006411
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/README.md
+SPDXID: SPDXRef-item14728448
+FileChecksum: SHA1: db64062323f2a0a6e8ce63642c037faf4d37b652
+FileChecksum: MD5: 992b50d789601758a8e0f75b9a973b3b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/gdmservice/README.md
+SPDXID: SPDXRef-item14728820
+FileChecksum: SHA1: e76745c5188f424a84e9e85990cfca7012aecd1c
+FileChecksum: MD5: 521f9429e005cddce250a5e00d6961a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/README.md
+SPDXID: SPDXRef-item14728898
+FileChecksum: SHA1: 1537f7fcbfdfff53aee328de4fc3c51985821861
+FileChecksum: MD5: 5c66ebded3302e5312ac8b9792ebc51c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/README.md
+SPDXID: SPDXRef-item14728652
+FileChecksum: SHA1: c1ff28b32e0b3e5fad59ccbf63bfa289c570ef48
+FileChecksum: MD5: dfd7e1e61419fabba255b1bc2685ba94
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/README.md
+SPDXID: SPDXRef-item14728647
+FileChecksum: SHA1: ed6f3b5f7bb31963bc25e4961294d2d21080573b
+FileChecksum: MD5: 07d28d12ec6493c41de1f7d6299664fc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/resources/C2ImportFamRelSample.csv
+SPDXID: SPDXRef-item14728457
+FileChecksum: SHA1: 2c81bb63cd517d2ba44b6f7a54b49ccc5a887ed4
+FileChecksum: MD5: 19906a781af95b5daa57ff690a476680
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/resources/12345678-abcd-90ab-cdef-1234567890ab/acumos-cdump-444.json
+SPDXID: SPDXRef-item14728459
+FileChecksum: SHA1: 3347266dac42d96044344a3f6266c7167100aba4
+FileChecksum: MD5: 8d9438c3661c1fefe0510f7da9e7bd68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/resources/12345678-abcd-90ab-cdef-1234567890ab/acumos-cdump-333.json
+SPDXID: SPDXRef-item14728460
+FileChecksum: SHA1: e2101a548f17ad2c337d6b4b90ff6e49af9e9de8
+FileChecksum: MD5: 0b3987e4c7379036a167a561c679e752
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/resources/12345678-abcd-90ab-cdef-1234567890ab/acumos-cdump-222.json
+SPDXID: SPDXRef-item14728461
+FileChecksum: SHA1: 0467126d9ae2f0cdb839c13f84c6fddbd7a90455
+FileChecksum: MD5: af36b8d4f41422f6d171fc81f87ff8d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/resources/12345678-abcd-90ab-cdef-1234567890ab/acumos-cdump-111.json
+SPDXID: SPDXRef-item14728462
+FileChecksum: SHA1: f801409b0d033a22a03a29216645c15c24551ee0
+FileChecksum: MD5: 1cec1abd6905e1530ed2c8b6a0fd4e71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/src/test/resources/demo/12345678-abcd-90ab-cdef-1234567890ab/acumos-cdump-111.json
+SPDXID: SPDXRef-item14728465
+FileChecksum: SHA1: 640ab2bae07bedc4c163f679a746f7ab7fb5d1fa
+FileChecksum: MD5: 0cbc6611f5540bd0809a388dc95a615b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/ds-compositionengine/.gitignore
+SPDXID: SPDXRef-item14728645
+FileChecksum: SHA1: 9de2cb1b8d1c32b857335590d40f9da853e85a8a
+FileChecksum: MD5: 51c6ed82294a850d92cc5f8a925eda9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/INFO.yaml
+SPDXID: SPDXRef-item14728648
+FileChecksum: SHA1: 09099a5a620272dcc55291064649d208f7d04078
+FileChecksum: MD5: 3dcbfde7e845e215f341eb863b4ee040
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/test/resources/testmodel.proto
+SPDXID: SPDXRef-item14728661
+FileChecksum: SHA1: 622506fcfcd700fa316b90bfa5a35e51bdecddfe
+FileChecksum: MD5: bb6b8fd367b2db477d8dc849db2d5238
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/test/resources/PROTOBUF.proto
+SPDXID: SPDXRef-item14728662
+FileChecksum: SHA1: a5dc552abe60ad5819464fa609cc204620499ff6
+FileChecksum: MD5: 5f69775d450b0516265f13c029ccc7a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/src/test/resources/Tgif.json
+SPDXID: SPDXRef-item14728663
+FileChecksum: SHA1: 98c4335c6c0dc6d0f68bc04cb60c2ed1343a242f
+FileChecksum: MD5: 2df16351a77fdeab52c95a1e8c572937
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/test-demo.proto
+SPDXID: SPDXRef-item14728733
+FileChecksum: SHA1: a4f103b40fce7bf9c5d68bdf46ddcd393b105dd5
+FileChecksum: MD5: 2f659c7eb8eb0d57d73f481b7f4cb383
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/.gitignore
+SPDXID: SPDXRef-item14728735
+FileChecksum: SHA1: 2034687fa37f60d3c39bef9933398e6b1aad226e
+FileChecksum: MD5: 37bcb394357a62a9262c34e32096e8d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/TOSCAGeneratorClient/metadata.json
+SPDXID: SPDXRef-item14728737
+FileChecksum: SHA1: 3d87f07928bb98b44818fb90f08bddb16b58cd6f
+FileChecksum: MD5: 7d8ec3469573b89ece3f624d3a971186
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/.gitreview
+SPDXID: SPDXRef-item14728740
+FileChecksum: SHA1: d5147308e89bb0a161e7ca422ccc1d1f5378385c
+FileChecksum: MD5: 04b92dbe6498f4cceb5b4960fbafbd6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/csvdatabroker/.gitignore
+SPDXID: SPDXRef-item14728809
+FileChecksum: SHA1: 7153d491cfd28a39aededbf83bbed58927e778ce
+FileChecksum: MD5: b4b82a0237189227edeeecf87a6f1b42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/test-models/python/.gitignore
+SPDXID: SPDXRef-item14728813
+FileChecksum: SHA1: a538288fc62668bc75b5611c216e6b808f6c6f0f
+FileChecksum: MD5: c75c18e9edcfac7ece172ae1082691e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/releases/tosca-2.0.8-maven.yaml
+SPDXID: SPDXRef-item14728817
+FileChecksum: SHA1: 4d7437ba8dfdcc9db74ffaac4882085546fd17a5
+FileChecksum: MD5: 7f719d5f4a026dc9586b1e253d32cc3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/releases/ds-3.0.6-container.yaml
+SPDXID: SPDXRef-item14728818
+FileChecksum: SHA1: 5078fd87128d658cea93bc195e706991e6c6a936
+FileChecksum: MD5: 534f17f16d64450fb755048d87e232e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/gdmservice/src/main/resources/FieldMapping.json
+SPDXID: SPDXRef-item14728844
+FileChecksum: SHA1: e335d1aebd3e27b39467af1d3b722aac8cb9de16
+FileChecksum: MD5: 2fde6ca4a2966bbba18bd247399335b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/gdmservice/.gitignore
+SPDXID: SPDXRef-item14728895
+FileChecksum: SHA1: 9de2cb1b8d1c32b857335590d40f9da853e85a8a
+FileChecksum: MD5: 51c6ed82294a850d92cc5f8a925eda9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/service/SQLDatabrokerServiceImpl.java
+SPDXID: SPDXRef-item14728933
+FileChecksum: SHA1: 512edc2376da7c3349bb70ab945acb0e9a7e92d5
+FileChecksum: MD5: fcedc629d425e0ad2b4aee57cb41ea5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/src/main/java/org/acumos/sqldatabroker/service/SQLDatabrokerService.java
+SPDXID: SPDXRef-item14728934
+FileChecksum: SHA1: 061e88e3bcfb54e74421c5800612e5e8c6ae799f
+FileChecksum: MD5: c64068646a7baf7d46f32e5cd51c9b4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/sqldatabroker/.gitignore
+SPDXID: SPDXRef-item14728963
+FileChecksum: SHA1: deca8b979c4147a1d8af858e15b32fb47ae0ef8d
+FileChecksum: MD5: 6c9e1dbc8f0c28c599845c81f6b224f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/.gitignore
+SPDXID: SPDXRef-item14728965
+FileChecksum: SHA1: d00821acab7fc36fe75f12ff89bec875c956f3ac
+FileChecksum: MD5: 5cb8f7a6291c48743fea2031a85729c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/Eclipse_ds-compositionengine.jpg
+SPDXID: SPDXRef-item14728974
+FileChecksum: SHA1: c5fa96b110ea5476592ce8706dedbb7f56a25e26
+FileChecksum: MD5: cdba4d4221f64b9f6174d57962dafbb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio_gerritRepo.jpg
+SPDXID: SPDXRef-item14728975
+FileChecksum: SHA1: 50c3da75eac97eb97339a4ee6cfb8fef5d167b95
+FileChecksum: MD5: 1a4befb53f717369d1779ed283a20b61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio_swaggerUI.jpg
+SPDXID: SPDXRef-item14728976
+FileChecksum: SHA1: 9655c7a5ba0a4dde41cf6762a9b3f0e797ecda06
+FileChecksum: MD5: afaafd7fe3662771f00336c658c86376
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/DesignStudioUserInterface.jpg
+SPDXID: SPDXRef-item14728977
+FileChecksum: SHA1: 01f6bbdb2f9ab466f5278ac8f9a881b4836c55e2
+FileChecksum: MD5: 0f3e562826f6923db8ada579b38685ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/Eclipse_gdmservice.jpg
+SPDXID: SPDXRef-item14728978
+FileChecksum: SHA1: aa681fef33e0488e0921a40e02c7ddd7ae74d205
+FileChecksum: MD5: 8c73894e7e3b8d8a10fbfe42c301a59f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/BackendArchitecture.jpg
+SPDXID: SPDXRef-item14728979
+FileChecksum: SHA1: e3b9411930c9637ec036abc1925743c66dc9001c
+FileChecksum: MD5: ad44f09035bbc6414eeeae58662ad0da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/Eclipse_TOSCAModelGeneratorClient.jpg
+SPDXID: SPDXRef-item14728980
+FileChecksum: SHA1: 10227c994836cd0f33a38deaa2f1bfc003f1755d
+FileChecksum: MD5: 527c671e7679adb2a51917677e44e378
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/compositeDesignStudioJourney.png
+SPDXID: SPDXRef-item14728982
+FileChecksum: SHA1: 1e4881aca54a35cf22d0fb71964527edfd1d70e1
+FileChecksum: MD5: 536b5b175405c8d0f5a166769e5765bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/DesignStudioUserInterface.png
+SPDXID: SPDXRef-item14728983
+FileChecksum: SHA1: 8a4aa09e7aa08596c9a06e02a480f2fd3a16919c
+FileChecksum: MD5: 380ce4537facc10281868794d50496c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/split-join/ParameterBasedCOWithModels.jpg
+SPDXID: SPDXRef-item14728985
+FileChecksum: SHA1: dfcd53f8b815a61d9050bb95ace5842560317296
+FileChecksum: MD5: d8ee64123461d117ad128bcf2f58f121
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/split-join/ArrayBasedCollatorWithModels.jpg
+SPDXID: SPDXRef-item14728986
+FileChecksum: SHA1: d91c05dcf1d1baad3d3f6cde8fe5abedb2825f60
+FileChecksum: MD5: f9305848c05fbec130f9d40bafab38ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/split-join/CopyBasedSPLwithModels.jpg
+SPDXID: SPDXRef-item14728987
+FileChecksum: SHA1: 1c1daeb699775fda0cdaf3742e63adc51680b6f2
+FileChecksum: MD5: 06fe1fe0b14146f82eec643124b3ea15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/split-join/CollatorSelectionSchema.jpg
+SPDXID: SPDXRef-item14728988
+FileChecksum: SHA1: fca4dd0045dd84fb53ef32e7c101cdf5378f0ef0
+FileChecksum: MD5: b1fd9a5031722443f2957fdeda5a1a24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/split-join/SplitterMappingDetailsValid.jpg
+SPDXID: SPDXRef-item14728989
+FileChecksum: SHA1: d7ef0f2912b255f16a379f57da16ee23b8cfd525
+FileChecksum: MD5: 8c75231fd0d310d5ba823017a74a0360
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/split-join/SplitterMappingDetailsError.jpg
+SPDXID: SPDXRef-item14728990
+FileChecksum: SHA1: 8a0e39f421b6e7953a6d765be59821273e00fd00
+FileChecksum: MD5: e21e754c56899ce5e4a71bad6a978de2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/split-join/COandSPL.jpg
+SPDXID: SPDXRef-item14728991
+FileChecksum: SHA1: 4d6ed00b43426a455b944d974626a0375c7c146e
+FileChecksum: MD5: e575d5192c271c6e5c8d699706a97801
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/split-join/ParameterBasedSPLWithModel.jpg
+SPDXID: SPDXRef-item14728992
+FileChecksum: SHA1: 02bbea9ef3158f442289267763b7671b7a7d6337
+FileChecksum: MD5: 37f7339bb0cc45a3d40d8b3492176366
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/split-join/CollatorAfterDrag.jpg
+SPDXID: SPDXRef-item14728993
+FileChecksum: SHA1: ddfd3aca79829bbeffaeceb9c547910ecbdd4796
+FileChecksum: MD5: f77792aa26a84760fbafbb26ec01d0df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/split-join/CollatorMappingDetailsError.jpg
+SPDXID: SPDXRef-item14728994
+FileChecksum: SHA1: 6201a7430b3deba907e71a24b6f2ee0c766951ca
+FileChecksum: MD5: 5ef0a25888cc428cc31ec59c3a291a3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/split-join/SplitterSelection.jpg
+SPDXID: SPDXRef-item14728995
+FileChecksum: SHA1: ecd3a8448c279dac98ea9266ba7d4be389591de6
+FileChecksum: MD5: 4ebd5eca836102747d9670a7c166c7e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/split-join/CollatorMappingDetailsValid.jpg
+SPDXID: SPDXRef-item14728996
+FileChecksum: SHA1: 0c59c022171c30fe17381b8f0df5d6973fe2f4d4
+FileChecksum: MD5: 70a9223ceecfa3c2c55e79794f4e83bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/split-join/SplitterAfterDrag.jpg
+SPDXID: SPDXRef-item14728997
+FileChecksum: SHA1: fd06ac842dd5ae052444499034eb54460ef7b1e2
+FileChecksum: MD5: 578110ed29417505b2c311bd9f45e2f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/sql-csv/SQLDBwithFile.jpg
+SPDXID: SPDXRef-item14728999
+FileChecksum: SHA1: 569b14e4a4ce5d95f545c09ef54e32cdcbbbb038
+FileChecksum: MD5: 683f2b528f25ba2800d2f0ded387ab16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/sql-csv/DBSourceTargetTableMappingDetails.jpg
+SPDXID: SPDXRef-item14729000
+FileChecksum: SHA1: ce9ee2b9993f543262fbef9bc1455b50f5be09f3
+FileChecksum: MD5: c010e4997eca9af4b3b9252e4d05c104
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/sql-csv/Eclipse_sqldatabroker.jpg
+SPDXID: SPDXRef-item14729001
+FileChecksum: SHA1: 7d4491c9d69fe718d098d0ddeb754b2fe992be08
+FileChecksum: MD5: 634055fcd5908cf4f5c667267f0435f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/sql-csv/Eclipse_csvdatabroker.jpg
+SPDXID: SPDXRef-item14729002
+FileChecksum: SHA1: fc5b3f80674268cb3819ca0d37a5d95f0ce13569
+FileChecksum: MD5: 6c42a0b9391226e97fd673566d0061e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/sql-csv/SQLDBScriptPort.jpg
+SPDXID: SPDXRef-item14729003
+FileChecksum: SHA1: 38c3c3f421421937cd4657073972ac548aee73a3
+FileChecksum: MD5: 0396a89f6c43e75c296f2ed599c1405b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/sql-csv/MP-PortalDeployer.jpg
+SPDXID: SPDXRef-item14729004
+FileChecksum: SHA1: 08de669a943cbe639dd65b0357af817b46df1a00
+FileChecksum: MD5: 0ffd4875abcea613697d33dd63c03f72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/sql-csv/CompositeSolWithDataBroker.jpg
+SPDXID: SPDXRef-item14729005
+FileChecksum: SHA1: 5e1b4199e4a69c8bb1afc4ea0b87afeb891de193
+FileChecksum: MD5: 77636123e1937cecca5753446d1d3f1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/sql-csv/SourceTableSelection.jpg
+SPDXID: SPDXRef-item14729006
+FileChecksum: SHA1: 9fc9645bff53b9b386c014bfe2d77d9010da0d41
+FileChecksum: MD5: 9eeb49feb67a42ea278a9c1d4af9606c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/sql-csv/DataBrokerScriptPort.jpg
+SPDXID: SPDXRef-item14729007
+FileChecksum: SHA1: 86558b236ab68880b37cd8e45d22de0b85f1b915
+FileChecksum: MD5: 8a3461e894391c22d58f7992f568d5f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/sql-csv/GenericDataBroker.jpg
+SPDXID: SPDXRef-item14729008
+FileChecksum: SHA1: f4e2c631b30f2b63a51bc5d59753058cc02daae9
+FileChecksum: MD5: d56c75da742c58cadef790d6e6f0a857
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/sql-csv/DBNestedProtobufMsgFormat.jpg
+SPDXID: SPDXRef-item14729009
+FileChecksum: SHA1: eb9c32c2f44450a5c0ee7103e12b2062f149e9e7
+FileChecksum: MD5: 0c8ae1da571d8c3fd682a1c568d08f46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/sql-csv/CSVDBScriptPort.jpg
+SPDXID: SPDXRef-item14729010
+FileChecksum: SHA1: 75f1cdf96770091b37b6dee9f7f9a5897b31aae3
+FileChecksum: MD5: 811d44fbe7f0bf43f4d90a495753a52a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/sql-csv/CompositeSolWithoutDataBroker.jpg
+SPDXID: SPDXRef-item14729011
+FileChecksum: SHA1: 7a0c8018da0aed6f7ecfdc74d2a3979f64f07cb5
+FileChecksum: MD5: 471946080525433c0e8dc4dd7355c518
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/sql-csv/PropertiesPanel.jpg
+SPDXID: SPDXRef-item14729012
+FileChecksum: SHA1: b1ef097d6c8e01974df6e164535d77979814c26b
+FileChecksum: MD5: 30db5043710c74ef1ed3cb6fff6c5da7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/sql-csv/DataBrokeronCanvas.jpg
+SPDXID: SPDXRef-item14729013
+FileChecksum: SHA1: 85f18a40ce12b67444a1e711b9395a07765bdc70
+FileChecksum: MD5: 84ba7c276d7787bfbb5493fa9e5daccf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/sql-csv/DataBrokerNestedProtobufMsgStructure.jpg
+SPDXID: SPDXRef-item14729014
+FileChecksum: SHA1: 33ad07adfa9fb11677bbec9c36b86e5d6660267b
+FileChecksum: MD5: cedf42d227e2f66b10cc46081c4d7c9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/docs/images/design-studio-user-guide/sql-csv/DBMappingTable.jpg
+SPDXID: SPDXRef-item14729015
+FileChecksum: SHA1: d6265469b53e28716435f36893ec770882866ae6
+FileChecksum: MD5: db3430ad696a316fb6756a45b98f001d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: design-studio/pom.xml
+SPDXID: SPDXRef-item14729028
+FileChecksum: SHA1: 1fc0932d633859c6a67b786f4060d3d2638919e7
+FileChecksum: MD5: a34b81f386b8b29728fcb619fb5de517
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
