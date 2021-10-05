@@ -1,0 +1,1049 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_model-runner-2021-09-28.zip_1633229070.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-10-03T02:44:31Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: model-runner-2021-09-28.zip
+PackageFileName: model-runner-2021-09-28.zip
+SPDXID: SPDXRef-upload4136
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 7c98c700f651574983f11eef0db8ff5683edc736
+PackageChecksum: SHA1: 75b03291639255fb29f9b5389fdf9620ceb1f344
+PackageChecksum: MD5: d3b7853e0fd03399b34469a3df6f1915
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload4136
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: model-runner-h2o-model-runner/acumoscommon/services/__init__.py
+SPDXID: SPDXRef-item15931178
+FileChecksum: SHA1: 086883d949f77e72c2b228fe3008a1ed2fd2aa0e
+FileChecksum: MD5: 32cd90dd301ed0facd1aa4868edfe6ce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/acumoscommon/services/model_manager_service.py
+SPDXID: SPDXRef-item15931177
+FileChecksum: SHA1: 084537fa006c09921b5f9594a070feefe4ae9f27
+FileChecksum: MD5: 63d2a36e4e9e1d2252b281c8a267b74d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/acumoscommon/config_util.py
+SPDXID: SPDXRef-item15931179
+FileChecksum: SHA1: 3c68742543f478876b8dce94cb6f219df51d34bc
+FileChecksum: MD5: 32e1c53aefa89200a95f115dda944763
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/acumoscommon/responses.py
+SPDXID: SPDXRef-item15931174
+FileChecksum: SHA1: 5c275dc230ca83f66ed036fad1451f6b216add87
+FileChecksum: MD5: cdce6a7c9cd08b65deac552aa1fb964e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/docs/developer-guide.rst
+SPDXID: SPDXRef-item15931185
+FileChecksum: SHA1: c560d302c2f9183c5b2ac33b0529ec0f8be0c1fa
+FileChecksum: MD5: 061abe0e5097fc0b1aba62a381faf5ac
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/docs/index.rst
+SPDXID: SPDXRef-item15931182
+FileChecksum: SHA1: 98a8eb08ae6c5486e7d3c21b852d785d5f2f8211
+FileChecksum: MD5: d962751982f4eddf5affe1221cd2ba7c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/docs/overview.rst
+SPDXID: SPDXRef-item15931184
+FileChecksum: SHA1: 645b5f9549891b31d1ba98e88c23a89b88bfe47a
+FileChecksum: MD5: e9b471db1b22fab68b2bb07b352d4aef
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/docs/release-notes.rst
+SPDXID: SPDXRef-item15931183
+FileChecksum: SHA1: 0aa108d3e122cc46c22e4599791f70cc4a4d3254
+FileChecksum: MD5: f71d0bb339980cd5397ffabc250d01ba
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/predictor/api/endpoints/predictor.py
+SPDXID: SPDXRef-item15931142
+FileChecksum: SHA1: 0e56ec45487fa31fa283cefba3d92124572225ea
+FileChecksum: MD5: 6fcb3ce247cb86edddc3f1fdb9ae87e8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/predictor/api/business.py
+SPDXID: SPDXRef-item15931136
+FileChecksum: SHA1: ded595ebdc0029b409038b3b80211bc5bc70a210
+FileChecksum: MD5: 58df176b5616571ef402cdfe36c49e7d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/predictor/api/custom_api.py
+SPDXID: SPDXRef-item15931135
+FileChecksum: SHA1: 580a7fe8cc725973368ddf244601fe2d918eafe2
+FileChecksum: MD5: 2c7a60f159e95307c67e9ac7c601ef55
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/predictor/api/namespaces.py
+SPDXID: SPDXRef-item15931139
+FileChecksum: SHA1: 22140423ca61286d83676f298504625f14ccfada
+FileChecksum: MD5: c85f8651d3ac17a86c4bbe7efa30741a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/predictor/api/parser.py
+SPDXID: SPDXRef-item15931137
+FileChecksum: SHA1: 8f0af8402583998990f0432b90c83b9a29186c87
+FileChecksum: MD5: 2177a8295da6a7c5ea45166e83a05dad
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/predictor/h2o_ml/wrapper.py
+SPDXID: SPDXRef-item15931144
+FileChecksum: SHA1: c4915bddb3b2f2029ab6ddbc61b866105595f88c
+FileChecksum: MD5: 3cc80b7098a48d2b5b0137b714ad3d24
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/predictor/util/logging_config.py
+SPDXID: SPDXRef-item15931132
+FileChecksum: SHA1: 865615764c04cbefe9c66c3f8a21ff849a1fd517
+FileChecksum: MD5: 30e2c05a6b0c60414796d2b269be1d59
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/predictor/__init__.py
+SPDXID: SPDXRef-item15931130
+FileChecksum: SHA1: a050fd1921d71255bc2233d9fc87d21614cddcc8
+FileChecksum: MD5: 4669774d25da0181229333af047cb5a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/predictor/_version.py
+SPDXID: SPDXRef-item15931129
+FileChecksum: SHA1: aef1d465ae8528ebf0a7f1ffba694077e5805e22
+FileChecksum: MD5: fe4be80fec17cf91632caa0c73dc0f1e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/test/unit_test/test_flask_pytest.py
+SPDXID: SPDXRef-item15931153
+FileChecksum: SHA1: bb61b485caa3f3036cdbdcac9c5cad919326e54b
+FileChecksum: MD5: f70ba748084fc1c4e6525e01d6ab40b1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/Dockerfile
+SPDXID: SPDXRef-item15931188
+FileChecksum: SHA1: 625ee83ef45f76be6624fb63e4356dd966cb8c58
+FileChecksum: MD5: da38dfda16ef86cdd1956ed317412b25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/LICENSE.txt
+SPDXID: SPDXRef-item15931163
+FileChecksum: SHA1: 486b64fe548ea1e8a1e5ab5fc56b2499c2bec9b2
+FileChecksum: MD5: 97313023eb1d33758d8be2da1c0cc232
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/microservice_flask.py
+SPDXID: SPDXRef-item15931166
+FileChecksum: SHA1: 20d7615eb68a79fc0ef3b3a73942a8986efcc66c
+FileChecksum: MD5: 2af133f6e068e4db8ab4f8d843cbc176
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/README.md
+SPDXID: SPDXRef-item15931148
+FileChecksum: SHA1: 03698794e0ca79e7358c5615a6248b64913e324e
+FileChecksum: MD5: c9dd3d8298772173088e9e956b0db97e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/setup.py
+SPDXID: SPDXRef-item15931162
+FileChecksum: SHA1: 14410af4e63fd059d1a14d97b73b19cde733741b
+FileChecksum: MD5: a13d2d4da12fc0025da09f55d0f472f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/start-server.sh
+SPDXID: SPDXRef-item15931147
+FileChecksum: SHA1: fe474437a94f40604daf561532032ee439b75c06
+FileChecksum: MD5: 439ba259ec83b4f0559173040a098c4f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/wsgi.py
+SPDXID: SPDXRef-item15931146
+FileChecksum: SHA1: 1d698d367e8a158c55f5e3023eac4737c60a825a
+FileChecksum: MD5: 43322baa67f52c9b7bf197b907384f72
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/acumoscommon/services/__init__.py
+SPDXID: SPDXRef-item15931237
+FileChecksum: SHA1: b12dc09690d63853d26f89e213f76b34bdfdf46e
+FileChecksum: MD5: fdadec5041237eb08d513f138a000e19
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/acumoscommon/services/model_manager_service.py
+SPDXID: SPDXRef-item15931236
+FileChecksum: SHA1: d106fa9c5b60ec41bc6a6d215ff368a41b20c045
+FileChecksum: MD5: 2eb7e0d599e2b653895bbf179680d189
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/acumoscommon/config_util.py
+SPDXID: SPDXRef-item15931238
+FileChecksum: SHA1: 9f09415d0d626f70d298711012993dd1e8d1d62b
+FileChecksum: MD5: acf5875d6196d5792e5c139659be4303
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/acumoscommon/responses.py
+SPDXID: SPDXRef-item15931233
+FileChecksum: SHA1: badb6a0c0605793ce38fa9cb11c500e836206b21
+FileChecksum: MD5: 6aba8d717deacd163b31da5c76045fd6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/docs/developer-guide.rst
+SPDXID: SPDXRef-item15931244
+FileChecksum: SHA1: 2a22f923bce96515738fbb619f764e0d945eb7ad
+FileChecksum: MD5: 120a2d15f74a00cce84b6f5bcce92117
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/docs/index.rst
+SPDXID: SPDXRef-item15931241
+FileChecksum: SHA1: 3754f78f569d4cc5de8952e35163f1245fc4562d
+FileChecksum: MD5: 13d7c509727c4ab73eda84a859403580
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/docs/overview.rst
+SPDXID: SPDXRef-item15931243
+FileChecksum: SHA1: c910faeb5f99a5cad5e38d48ef9198c6be2bd4d0
+FileChecksum: MD5: ff30e4e331da74f243ae53400d078ede
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/docs/release-notes.rst
+SPDXID: SPDXRef-item15931242
+FileChecksum: SHA1: 07cadd5f82aa790b2a275c020f544345afd93586
+FileChecksum: MD5: b06b6ee62405f0e370375eb01dfc74d4
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/predictor/api/endpoints/predictor.py
+SPDXID: SPDXRef-item15931204
+FileChecksum: SHA1: 22657e7745dadca459d3088a76d3fc5f51b89ce9
+FileChecksum: MD5: 4fa5d12ccaaae9de9aafaf3dd2851c66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/predictor/api/business.py
+SPDXID: SPDXRef-item15931198
+FileChecksum: SHA1: fdfedb9c7df93351ccd339b7e26b47299b447341
+FileChecksum: MD5: a762bf1b301e560c4c00d12cef9068ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/predictor/api/custom_api.py
+SPDXID: SPDXRef-item15931197
+FileChecksum: SHA1: 7fa7d358060d86b402b21ea91eab46f157ac273c
+FileChecksum: MD5: 4589171b5d757a555919198f8ce860a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/predictor/api/namespaces.py
+SPDXID: SPDXRef-item15931201
+FileChecksum: SHA1: 026d26bdee33dc2f17e94aeb73595d8a0abc004d
+FileChecksum: MD5: 2dbab28e1f9581cefaec7dc4d3bfffc3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/predictor/api/parser.py
+SPDXID: SPDXRef-item15931199
+FileChecksum: SHA1: 4e62776fb5dd9623b40481005559409523057f74
+FileChecksum: MD5: 44750fc4a070b41db782a8d64cfde061
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/predictor/rds/wrapper.py
+SPDXID: SPDXRef-item15931194
+FileChecksum: SHA1: 72ad6bf1bd9ab10427cfcc7c466ae36115cac244
+FileChecksum: MD5: 59f2e9cf77491847e0ba6684b9eb1a7e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/predictor/__init__.py
+SPDXID: SPDXRef-item15931192
+FileChecksum: SHA1: a050fd1921d71255bc2233d9fc87d21614cddcc8
+FileChecksum: MD5: 4669774d25da0181229333af047cb5a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/predictor/_version.py
+SPDXID: SPDXRef-item15931191
+FileChecksum: SHA1: aef1d465ae8528ebf0a7f1ffba694077e5805e22
+FileChecksum: MD5: fe4be80fec17cf91632caa0c73dc0f1e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/properties/predictor.R
+SPDXID: SPDXRef-item15931229
+FileChecksum: SHA1: 86bbddb39b30f52f20941cbffc1fe95f700d6e7b
+FileChecksum: MD5: c176a80976077f9ad4c7badf1ca52e21
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/test/unit_test/test_flask_pytest.py
+SPDXID: SPDXRef-item15931212
+FileChecksum: SHA1: 086823dd519be23e0c25882d20e0b3b7534b441e
+FileChecksum: MD5: 50602a6e7bc87603bf207e8bde36416f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/Dockerfile
+SPDXID: SPDXRef-item15931247
+FileChecksum: SHA1: 625ee83ef45f76be6624fb63e4356dd966cb8c58
+FileChecksum: MD5: da38dfda16ef86cdd1956ed317412b25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/LICENSE.txt
+SPDXID: SPDXRef-item15931223
+FileChecksum: SHA1: 486b64fe548ea1e8a1e5ab5fc56b2499c2bec9b2
+FileChecksum: MD5: 97313023eb1d33758d8be2da1c0cc232
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/microservice_flask.py
+SPDXID: SPDXRef-item15931225
+FileChecksum: SHA1: 3340852edf43a98a51d1a9904f728f9c95a2ac7f
+FileChecksum: MD5: 9a099b9e5bb9c6ba3424264ae4ebb369
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/README.md
+SPDXID: SPDXRef-item15931207
+FileChecksum: SHA1: fcfde7f6c0c5eb198ae9f33e1108f32e6936635a
+FileChecksum: MD5: d61621e7bc3cca39400faf1e41d479b3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/setup.py
+SPDXID: SPDXRef-item15931222
+FileChecksum: SHA1: 1051dc3e138e90df77093fef7fff4890ad7ff11f
+FileChecksum: MD5: b59d4aad9ed1ab29d7fb67e712593d80
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/start-server.sh
+SPDXID: SPDXRef-item15931206
+FileChecksum: SHA1: 74b04822233aba5f0d1b17fff0ed262c354f4bec
+FileChecksum: MD5: 1b8aac45a09b55b49e05b96a405f7b34
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/wsgi.py
+SPDXID: SPDXRef-item15931205
+FileChecksum: SHA1: f9bfdd13d72fa666326a13f98c33386c3c701b9f
+FileChecksum: MD5: 7cd4eefc09bb7b47476616a81590c21a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/predictor/util/__init__.py
+SPDXID: SPDXRef-item15931133
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/predictor/api/__init__.py
+SPDXID: SPDXRef-item15931138
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/predictor/api/endpoints/__init__.py
+SPDXID: SPDXRef-item15931141
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/predictor/h2o_ml/__init__.py
+SPDXID: SPDXRef-item15931145
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/INFO.yaml
+SPDXID: SPDXRef-item15931149
+FileChecksum: SHA1: 4e2d2624071be7a13635e5aab51e7808cafd9960
+FileChecksum: MD5: cf4cf63c597f240febc60d964eeb8c09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/.gitreview
+SPDXID: SPDXRef-item15931150
+FileChecksum: SHA1: 6a194471ff6fb3a64e98036f34625919ae474238
+FileChecksum: MD5: 1f1e3b2ec20962af17b1a63507b06efd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/test/unit_test/__init__.py
+SPDXID: SPDXRef-item15931154
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/test/unit_test/properties/settings.cfg
+SPDXID: SPDXRef-item15931156
+FileChecksum: SHA1: 3b07a55ba961f3419e7850469fc7e5e1f9557e62
+FileChecksum: MD5: 8b9298332b6fa0f34bde0e5cab0e6fdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/test/unit_test/model_cache_dir_test/iris.csv
+SPDXID: SPDXRef-item15931158
+FileChecksum: SHA1: 6127ef424c1e3e9c3a1f5ee477094622e00e2721
+FileChecksum: MD5: 57fce90c81521889c736445f058c4838
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/test/unit_test/model_cache_dir_test/1_0/placeholder.txt
+SPDXID: SPDXRef-item15931160
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/test/__init__.py
+SPDXID: SPDXRef-item15931161
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/tox.ini
+SPDXID: SPDXRef-item15931164
+FileChecksum: SHA1: a30eadaeb6ecee7b77bf130b54fd9bdfbb73a689
+FileChecksum: MD5: 42c7a4228da9748cb7f6c66761d251c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/tox-requirements.txt
+SPDXID: SPDXRef-item15931165
+FileChecksum: SHA1: c7fe337f775b40a1d9b56d6b84e6fdeb11a46cd4
+FileChecksum: MD5: 2e5b9a4573c650964b0d5d3d2040d2bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/properties/settings.cfg.sample
+SPDXID: SPDXRef-item15931168
+FileChecksum: SHA1: d132d8a9a2fe1a4434346237f9c15b95c39b4e3d
+FileChecksum: MD5: eef3e767afefaa05a24d91b3b9423639
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/properties/logging.json
+SPDXID: SPDXRef-item15931169
+FileChecksum: SHA1: feb054bcadcdec605d214976f536d8f6dc707cfa
+FileChecksum: MD5: b0cbfa8ac4072f0ded311e972c00dd9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/properties/settings.cfg
+SPDXID: SPDXRef-item15931170
+FileChecksum: SHA1: d132d8a9a2fe1a4434346237f9c15b95c39b4e3d
+FileChecksum: MD5: eef3e767afefaa05a24d91b3b9423639
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/properties/config.ini
+SPDXID: SPDXRef-item15931171
+FileChecksum: SHA1: e4955427f227e2a337aa5519011cac74e22c3070
+FileChecksum: MD5: b5b2fe7078e4f7703734d873c5f7a5cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/.gitattributes
+SPDXID: SPDXRef-item15931172
+FileChecksum: SHA1: 1fead8ae4a123d4c2526ba03777b256cb10f7a5a
+FileChecksum: MD5: 635578d7546b35d97c384e8708b86a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/acumoscommon/__init__.py
+SPDXID: SPDXRef-item15931175
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/.gitignore
+SPDXID: SPDXRef-item15931180
+FileChecksum: SHA1: 54d59f3b85e648f56f43842c979b16608b3ee3eb
+FileChecksum: MD5: 5dba698e3a568096ed133071ff84e286
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/pom.xml
+SPDXID: SPDXRef-item15931186
+FileChecksum: SHA1: c5240515a7712893585858795f875a87f9242e7a
+FileChecksum: MD5: c54ea9ef6a019d6ba0ca1a65bec2d243
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-h2o-model-runner/setup.cfg
+SPDXID: SPDXRef-item15931187
+FileChecksum: SHA1: c49e3ee68044f3030956c16ae3abbdae9e0725ef
+FileChecksum: MD5: ac24c232af33108ef0b249b46f85247f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/predictor/rds/__init__.py
+SPDXID: SPDXRef-item15931195
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/predictor/api/__init__.py
+SPDXID: SPDXRef-item15931200
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/predictor/api/endpoints/__init__.py
+SPDXID: SPDXRef-item15931203
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/INFO.yaml
+SPDXID: SPDXRef-item15931208
+FileChecksum: SHA1: 8c6f60bc5f46a9c5b472cf15477e89481672a274
+FileChecksum: MD5: cc8af1e19220d4ead84f96d46f5923f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/.gitreview
+SPDXID: SPDXRef-item15931209
+FileChecksum: SHA1: d86787952a8c554788c540b0dac499c43c0b37ca
+FileChecksum: MD5: f233d5f195f70d2bb2fc4341b0fef186
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/test/unit_test/__init__.py
+SPDXID: SPDXRef-item15931213
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/test/unit_test/properties/settings.cfg
+SPDXID: SPDXRef-item15931215
+FileChecksum: SHA1: 7b86eabe892e9f090bc9d269190de5c9ee018bfa
+FileChecksum: MD5: 4f63ea7f58a9f7e4b2cce50679836872
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/test/unit_test/model_cache_dir_test/1_0/rdsmodel/rdsmodel
+SPDXID: SPDXRef-item15931220
+FileChecksum: SHA1: cc929a64b68d818a36b63241270e65c5917ff72d
+FileChecksum: MD5: ed9b814e9fa40426daa140326773fa6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/test/__init__.py
+SPDXID: SPDXRef-item15931221
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/tox.ini
+SPDXID: SPDXRef-item15931224
+FileChecksum: SHA1: 278df0722c3b26b46e4cf7fa2d208406aa553bb2
+FileChecksum: MD5: 70c999b55a068001fd7e086bbdaf03e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/properties/logging.json
+SPDXID: SPDXRef-item15931227
+FileChecksum: SHA1: feb054bcadcdec605d214976f536d8f6dc707cfa
+FileChecksum: MD5: b0cbfa8ac4072f0ded311e972c00dd9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/properties/settings.cfg
+SPDXID: SPDXRef-item15931228
+FileChecksum: SHA1: 7b86eabe892e9f090bc9d269190de5c9ee018bfa
+FileChecksum: MD5: 4f63ea7f58a9f7e4b2cce50679836872
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/properties/config.ini
+SPDXID: SPDXRef-item15931230
+FileChecksum: SHA1: e4955427f227e2a337aa5519011cac74e22c3070
+FileChecksum: MD5: b5b2fe7078e4f7703734d873c5f7a5cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/.gitattributes
+SPDXID: SPDXRef-item15931231
+FileChecksum: SHA1: 1fead8ae4a123d4c2526ba03777b256cb10f7a5a
+FileChecksum: MD5: 635578d7546b35d97c384e8708b86a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/acumoscommon/__init__.py
+SPDXID: SPDXRef-item15931234
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/.gitignore
+SPDXID: SPDXRef-item15931239
+FileChecksum: SHA1: 0841ceeab5bd02e045cefd783588fcf69f8da0f4
+FileChecksum: MD5: 5bf0e908e573e88eb16adeef0e831172
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/pom.xml
+SPDXID: SPDXRef-item15931245
+FileChecksum: SHA1: 81bada800b405d23e178c3de9eb7f5e308996775
+FileChecksum: MD5: cc38c3de873b16282771e93eff0181e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-runner-rds-model-runner/setup.cfg
+SPDXID: SPDXRef-item15931246
+FileChecksum: SHA1: c49e3ee68044f3030956c16ae3abbdae9e0725ef
+FileChecksum: MD5: ac24c232af33108ef0b249b46f85247f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
