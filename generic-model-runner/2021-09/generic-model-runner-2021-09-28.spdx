@@ -1,0 +1,620 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_generic-model-runner-2021-09-28.zip_1633228981.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-10-03T02:43:01Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: generic-model-runner-2021-09-28.zip
+PackageFileName: generic-model-runner-2021-09-28.zip
+SPDXID: SPDXRef-upload4126
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 5d38f2c10b31d552eabd10f6989610daf827ecf4
+PackageChecksum: SHA1: 186b6424761b2759cda7535b18e9ec63ad471346
+PackageChecksum: MD5: 3f95ffc63148586d6af6df65a9173be7
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload4126
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: generic-model-runner/docs/tutorials/index.rst
+SPDXID: SPDXRef-item15929847
+FileChecksum: SHA1: d8ea679002e9e67bd219d76225d164380d350f67
+FileChecksum: MD5: 725a76d3582382ff4843570e92ea534f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: generic-model-runner/docs/developer-guide.rst
+SPDXID: SPDXRef-item15929848
+FileChecksum: SHA1: 421b7dd0235c47d4bfd9c0e1e4a8eb73383a689e
+FileChecksum: MD5: 374796ee18fe8631783661ea9a2bb680
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: generic-model-runner/docs/index.rst
+SPDXID: SPDXRef-item15929843
+FileChecksum: SHA1: e76c096de9fa84cb1fac39fb03ec6cb77600918a
+FileChecksum: MD5: c949a9b4d9e35c76db8bfb1bbe326f4b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: generic-model-runner/docs/release-notes.rst
+SPDXID: SPDXRef-item15929845
+FileChecksum: SHA1: b8eb729619618de1a76acb6b368d8e1559c376fc
+FileChecksum: MD5: 5ff0916c4ef49c6c29b6c8422b499489
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: generic-model-runner/src/license/acumos/header.txt
+SPDXID: SPDXRef-item15929788
+FileChecksum: SHA1: df09ece0d24c1d95a278905bff78c4a1c686ccec
+FileChecksum: MD5: fd976600fafe010d9febbabd6d6c9749
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/license/acumos/license.txt
+SPDXID: SPDXRef-item15929787
+FileChecksum: SHA1: df09ece0d24c1d95a278905bff78c4a1c686ccec
+FileChecksum: MD5: fd976600fafe010d9febbabd6d6c9749
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/license/licenses.properties
+SPDXID: SPDXRef-item15929785
+FileChecksum: SHA1: 47bb0996dcff53a0339cd6451b412f556b678809
+FileChecksum: MD5: c893e560fa77793cff828361839c19db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: generic-model-runner/src/main/java/org/acumos/modelrunner/config/SwaggerConfig.java
+SPDXID: SPDXRef-item15929837
+FileChecksum: SHA1: a21bd49e74ca3c4e870cca0fe754757292e4dfb5
+FileChecksum: MD5: 0691a61373ca6b53b80e7b9e2673a2ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: generic-model-runner/src/main/java/org/acumos/modelrunner/controller/RunnerController.java
+SPDXID: SPDXRef-item15929828
+FileChecksum: SHA1: 24478025190eda438d4c45a738d432df91eea030
+FileChecksum: MD5: 75129b8d5c36f3212762ccc80df3d1fd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: generic-model-runner/src/main/java/org/acumos/modelrunner/domain/MessageObject.java
+SPDXID: SPDXRef-item15929832
+FileChecksum: SHA1: d07c81a003558969209fb5e224faad1091854003
+FileChecksum: MD5: ef42bc316b0616c98203b59db443541e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: generic-model-runner/src/main/java/org/acumos/modelrunner/domain/ServiceObject.java
+SPDXID: SPDXRef-item15929831
+FileChecksum: SHA1: 0823e9d8841719944738a0a0a1f963d8f5c8f59f
+FileChecksum: MD5: 13d95e6c634b7de18ebeca8743b3a570
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: generic-model-runner/src/main/java/org/acumos/modelrunner/utils/AddUrlUtil.java
+SPDXID: SPDXRef-item15929834
+FileChecksum: SHA1: 9505f9ac2ffc1cac381c630bbd668e552c5a31ee
+FileChecksum: MD5: 8e7d408a0c68f6002636b7a9efd58898
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: generic-model-runner/src/main/java/org/acumos/modelrunner/utils/ExecCmdUtil.java
+SPDXID: SPDXRef-item15929835
+FileChecksum: SHA1: 90c6daa2e6b925f368ea37a60466ff921d4d61e1
+FileChecksum: MD5: 67c2669e0dd67d7f1769c3d6f22b301d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: generic-model-runner/src/main/java/org/acumos/modelrunner/Application.java
+SPDXID: SPDXRef-item15929829
+FileChecksum: SHA1: 6ffefc775c4bd789bb561384785893bd42e8d390
+FileChecksum: MD5: 881ed9f180339c140ffd37bd4f985b1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: generic-model-runner/src/main/resources/application.properties
+SPDXID: SPDXRef-item15929822
+FileChecksum: SHA1: aed50bcb670b2823e75cc9bd1de2527497e8602f
+FileChecksum: MD5: 80098dbff363f161d53df178f6581036
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/java/org/acumos/modelrunner/controller/ModelRunnerControllerTest.java
+SPDXID: SPDXRef-item15929817
+FileChecksum: SHA1: 6471a8fa865170dd1793284e821a0f13db6923dd
+FileChecksum: MD5: d532f4692ddde3bf2377308e2e9ee66f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/java/org/acumos/modelrunner/controller/ModelRunnerTestApp.java
+SPDXID: SPDXRef-item15929818
+FileChecksum: SHA1: 427a491bbe59efec0b57e8656a3b7e493abe0f5a
+FileChecksum: MD5: 35f4e5cdaf546630961e5d86edd1dd99
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: generic-model-runner/LICENSE.txt
+SPDXID: SPDXRef-item15929839
+FileChecksum: SHA1: 2543917fd247255a50887d5684885ae600d7f952
+FileChecksum: MD5: ea5c305a661e59f58b47e29c50d042e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: generic-model-runner/models/model.template
+SPDXID: SPDXRef-item15929778
+FileChecksum: SHA1: fe97055ae8af84c9d45ca891d94c75cbd032a50d
+FileChecksum: MD5: 73f03eadd4aaf1a8576c5e2a78eb86f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/models/default.proto
+SPDXID: SPDXRef-item15929779
+FileChecksum: SHA1: 9e01254cbea582f60a82b75729144b075bee2524
+FileChecksum: MD5: 6b084a36b62c5cb19938757148246481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/models/modelConfig.properties
+SPDXID: SPDXRef-item15929780
+FileChecksum: SHA1: 33800f05a799a87727e666ddb8969d3d8b263c31
+FileChecksum: MD5: 05921cae12698ee897ad23c620318efe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/README.md
+SPDXID: SPDXRef-item15929781
+FileChecksum: SHA1: f88ebe06e04c07b1a293582b0cdfa57d882c826e
+FileChecksum: MD5: 2f498fe938c089920cb31069c6a2e4dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/INFO.yaml
+SPDXID: SPDXRef-item15929782
+FileChecksum: SHA1: b262628720af64395cdc64ed01287bc533c3e96b
+FileChecksum: MD5: 0ee33899fc5bd9293582662d463f2789
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/resources/sampleConfig4.properties
+SPDXID: SPDXRef-item15929791
+FileChecksum: SHA1: 33800f05a799a87727e666ddb8969d3d8b263c31
+FileChecksum: MD5: 05921cae12698ee897ad23c620318efe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/resources/sample3_2.csv
+SPDXID: SPDXRef-item15929792
+FileChecksum: SHA1: 9abf9e3c798fad72b4d2aba5ac4f8bdf43f6e499
+FileChecksum: MD5: a35a1396dde00438a3fc15faba835152
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/resources/sampleConfigJson1.properties
+SPDXID: SPDXRef-item15929793
+FileChecksum: SHA1: a38473dd311f675ee8f60b039c565a9621d7d62d
+FileChecksum: MD5: b326bd92cee45583eed4153a40c0a76a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/resources/sampleJson0.proto
+SPDXID: SPDXRef-item15929794
+FileChecksum: SHA1: b65da1bb6a757023feab7c8c41ec758e08da5dc6
+FileChecksum: MD5: 2b46b0215b0efeea9b69893d9260e17e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/resources/sampleConfig1.properties
+SPDXID: SPDXRef-item15929795
+FileChecksum: SHA1: 1caa37fc651506a28fd9c09a4d9756d0f68b8123
+FileChecksum: MD5: 4c16e0475f9db6eeb8e7b9cc8c843d13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/resources/sampleJson1.proto
+SPDXID: SPDXRef-item15929796
+FileChecksum: SHA1: 8cefef6c00cb317a5dac6b57a3953c22ed39556d
+FileChecksum: MD5: 1e990c0e49461ccecde3169832437096
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/resources/sample1.csv
+SPDXID: SPDXRef-item15929797
+FileChecksum: SHA1: ff740328fce3512ad9b53e386cc5f786f2e6a5dc
+FileChecksum: MD5: 1edc3ad6520d0f99a2ba143a68f29b72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/resources/sampleConfigJson.properties
+SPDXID: SPDXRef-item15929798
+FileChecksum: SHA1: db58e5fa370e688bc288ca0de5907972379fe258
+FileChecksum: MD5: bfbca27979245c4b7c1277c0317d16ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/resources/simplemodel.proto
+SPDXID: SPDXRef-item15929799
+FileChecksum: SHA1: 7f7f393065044c8f3e2757e4b52248d1f5d3847e
+FileChecksum: MD5: 319c9d105035c189d1ced7bce3fe659c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/resources/sample3.csv
+SPDXID: SPDXRef-item15929800
+FileChecksum: SHA1: dc5e0670fa5c2b6acf06d1863e12ae7786a740a2
+FileChecksum: MD5: ed99954c16823f3efe8dc46171c2ec1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/resources/sample1.proto
+SPDXID: SPDXRef-item15929801
+FileChecksum: SHA1: 9bfcc0c4e246dd8d214f016871b3503bd42905f4
+FileChecksum: MD5: daf73046487438cb8bd4d40f941ff555
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/resources/default.proto
+SPDXID: SPDXRef-item15929802
+FileChecksum: SHA1: 44623e8d2b92e9346bec3e1e631208089d712ea6
+FileChecksum: MD5: 71267e90ca41f0db4b9babce7786dea2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/resources/sampleConfig2.properties
+SPDXID: SPDXRef-item15929803
+FileChecksum: SHA1: c6e441604e8b8769a5559aaa918e9ccf862c825d
+FileChecksum: MD5: 85cf05e19fb04c84a8dd08fd4570a5cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/resources/sample3.proto
+SPDXID: SPDXRef-item15929804
+FileChecksum: SHA1: e390136e66c13f21db1d879333cb34fa7eb54cbd
+FileChecksum: MD5: 6367f667cdd9290cb73777a02d1c658a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/resources/sample2.csv
+SPDXID: SPDXRef-item15929805
+FileChecksum: SHA1: 30eaefa121c81f412881d11241cb0b562ea56e8a
+FileChecksum: MD5: fb37753f417f0494f7f21d3d71a8f7d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/resources/sample4.proto
+SPDXID: SPDXRef-item15929806
+FileChecksum: SHA1: 9e01254cbea582f60a82b75729144b075bee2524
+FileChecksum: MD5: 6b084a36b62c5cb19938757148246481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/resources/sample2.proto
+SPDXID: SPDXRef-item15929807
+FileChecksum: SHA1: b87922d756f384c28301e079b0f302e29ebcbee0
+FileChecksum: MD5: c63449430b46b1647e82f71c5bde41df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/resources/testConfig.properties
+SPDXID: SPDXRef-item15929808
+FileChecksum: SHA1: 286555d8d5bcefad2d5626e6cf02fa6dcaa46d44
+FileChecksum: MD5: 78cb2cb544eeb04c07ef952f02056a69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/resources/sample4.csv
+SPDXID: SPDXRef-item15929809
+FileChecksum: SHA1: 1be64c3b53bf39658cb9050033ab3145ccfabe98
+FileChecksum: MD5: 580dbb15935422e741b860f60e4f4f9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/resources/sampleConfig3.properties
+SPDXID: SPDXRef-item15929810
+FileChecksum: SHA1: c3e53c26c98ec28f3040bae0db1cff900e88a78c
+FileChecksum: MD5: 768e0ac259a313d6cb3af81b7b778a5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/test/resources/sampleConfig3_2.properties
+SPDXID: SPDXRef-item15929811
+FileChecksum: SHA1: f50d447cf86e9f1e169c0a6103d142d5eaabb843
+FileChecksum: MD5: 5856c95321af71840474e832a31a3be5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/src/main/resources/application.template
+SPDXID: SPDXRef-item15929821
+FileChecksum: SHA1: f7b18b7dd07b9f34d6fb595e38cd05ed7a956f2b
+FileChecksum: MD5: 92d599810650eead48c376e31178bb1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/.gitreview
+SPDXID: SPDXRef-item15929838
+FileChecksum: SHA1: c4fa06c6762fbdbb1f722f1ae498dd0b2bb5f57e
+FileChecksum: MD5: f5d9d73fb6ebd54655844cf27d4d7672
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/.gitattributes
+SPDXID: SPDXRef-item15929840
+FileChecksum: SHA1: fc76bc565eabebec977407c78ec2021395b9b5f8
+FileChecksum: MD5: c678ee5f8a4293db433f925a23d704ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/.gitignore
+SPDXID: SPDXRef-item15929841
+FileChecksum: SHA1: ed06008acd9520a7bf3459a887c1c319cc3747c9
+FileChecksum: MD5: 131061a6d55b843f942aa60455223ff8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/docs/conf.py.sphinx
+SPDXID: SPDXRef-item15929844
+FileChecksum: SHA1: 7ccd6aa1ccf2072a7f99361ea007976c79d49c41
+FileChecksum: MD5: ace36cabf1ac525ca0f12b48db9c6c15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright 2017, Acumos </text>
+ 
+
+##File
+
+FileName: generic-model-runner/docs/.gitignore
+SPDXID: SPDXRef-item15929849
+FileChecksum: SHA1: 0caf5132929a99f7c1dbea76c7db0cf0511ea7d4
+FileChecksum: MD5: 08240e1ae606479c3179e34231055a7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: generic-model-runner/pom.xml
+SPDXID: SPDXRef-item15929850
+FileChecksum: SHA1: 9a67e9ab290905d6f7508cf5204819e7759c537b
+FileChecksum: MD5: cfbc55cbc2ce9a63b21123aa1b22593b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
