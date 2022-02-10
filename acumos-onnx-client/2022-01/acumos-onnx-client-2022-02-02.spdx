@@ -1,0 +1,899 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_acumos-onnx-client-2022-02-02.zip_1644480846.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-02-10T08:14:06Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: acumos-onnx-client-2022-02-02.zip
+PackageFileName: acumos-onnx-client-2022-02-02.zip
+SPDXID: SPDXRef-upload335
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 446d83f6c9ea73e954f2dd7520cd5387c0602c8d
+PackageChecksum: SHA1: 067122ae35e60023e298e13ee9c6a61408da5eb2
+PackageChecksum: SHA256: de9c8f0f06a8ff1bc237fe810f517692544da8d8bf6837de1cbef21cfaa1ad6f
+PackageChecksum: MD5: 3c92d8f157d98812552fe791584d0ed8
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload335
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/docs/release-notes.rst
+SPDXID: SPDXRef-item1183002
+FileChecksum: SHA1: c506775eec5c00452b67fc674bf94831c14e60fa
+FileChecksum: SHA256: 12cb872c3128d5c63581f38a067acfb08488852fbbb7571b3a1a993fe26ef7e7
+FileChecksum: MD5: 9597c31f9c5435e1cc26b08fdc7ce872
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 Orange Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/__init__.py
+SPDXID: SPDXRef-item1183042
+FileChecksum: SHA1: e74559ca159346edf900f2c045e28b4c1cba318c
+FileChecksum: SHA256: c5dc165a118685ed06e4301b97a078c376dfda235663cf1654e6f2a47a2fd8b3
+FileChecksum: MD5: 2cda90ad3b1cdcb755fe7c89ee830d54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/Templates/onnxModelOnBoardingTemplate.py
+SPDXID: SPDXRef-item1183033
+FileChecksum: SHA1: a54f0e9dbe6a0fabe600889375597f0562d90a56
+FileChecksum: SHA256: c7440f8916a48eb765e48002ae60f1d4e78e62f6aa38b3b81a35ae080c7054b5
+FileChecksum: MD5: 6d5496e09ba0d4168226f16ef1445e44
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 Orange Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/_version.py
+SPDXID: SPDXRef-item1183031
+FileChecksum: SHA1: 643614d3d3ac803efea051bda158194c11f43421
+FileChecksum: SHA256: 966f40b0b3bfe8464a38be7dd3f0b9b7d27983c1cf2262a565b353c2bcc11ca2
+FileChecksum: MD5: 34d38fade6e36a26e3e67c3913a3a72f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Orange Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/acumos_onnx_onboarding.py
+SPDXID: SPDXRef-item1183048
+FileChecksum: SHA1: 561e0d402ff1b42db072ec6e884b5a4eb3999b54
+FileChecksum: SHA256: df24f6aaaa32003e995039a9b963eeb834b431346f3ceb6e047123a078c409a1
+FileChecksum: MD5: a04d9abb59e50d3bfebd87cec20ecf6b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 Orange Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/setup.py
+SPDXID: SPDXRef-item1183051
+FileChecksum: SHA1: f3026d5cf6fad5b48b251094c12fc75ac3274927
+FileChecksum: SHA256: e84c2447d3307a29e1ea19307dd478695a27983ab6c0a744aaba14a7a20f79e9
+FileChecksum: MD5: d6f9b4faa98ea81500a356fee96a1b82
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Orange Intellectual property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/docs/tutorial/index.rst
+SPDXID: SPDXRef-item1183001
+FileChecksum: SHA1: c7fb3224820a323f102382e5836b3f48b26758fe
+FileChecksum: SHA256: 771b746675d413dd64010c6d4e98d34df1c0ad5e9a3150f28b07a41033522ea4
+FileChecksum: MD5: eb083fe689a676e9873f9f9afb326c90
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 Orange Intellectual Property. All rights reserved.
+copyright. This parameter is optional. Please refers to the licence management project in the Acumos wiki. You can find a license template in the doc folder of the acumos4onnx repo in github. </text>
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/docs/Apache_2.json
+SPDXID: SPDXRef-item1183003
+FileChecksum: SHA1: 04d5b8e917ab7def6436ddcd8fc4c790834a8024
+FileChecksum: SHA256: 7ac9d6c7ae8ec18670af4ee19d3e6ec5123a430925c4800468818af04d5c23e2
+FileChecksum: MD5: 237b0029fbe771810556cfcec5071237
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright": { year": 2019, company": "Company A", suffix": "All Rights Reserved" </text>
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/docs/developper-guide.rst
+SPDXID: SPDXRef-item1182988
+FileChecksum: SHA1: 135b8f0efcd06c755f9f1dd988509890ce700e97
+FileChecksum: SHA256: 1008ef813fa89aee0e687b4097cfaf6bfc21b38e414d8bc71941cbcb3ba70d02
+FileChecksum: MD5: 0016497ef13aa832149bbdc68700d5a1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 Orange Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/docs/index.rst
+SPDXID: SPDXRef-item1182999
+FileChecksum: SHA1: f10913cefee64dc73993e9a98a1406c869ebfd8b
+FileChecksum: SHA256: 969ed90600728cd8914ec7a315d427b408e39570215780f21f07d8c1d4a4e6b2
+FileChecksum: MD5: 75151552508cd7bc5c75be333f5959d3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 Orange Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/docs/user-guide.rst
+SPDXID: SPDXRef-item1182987
+FileChecksum: SHA1: ba10663ec44989ecca4035ea663e4f624cfa25f2
+FileChecksum: SHA256: 3719089be54618c39c870247a753549381a3c9b4c70653001550d5cb540bc5c8
+FileChecksum: MD5: 6086d93ff00bdc6181920f0ae32b4296
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 Orange Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/LICENSE.txt
+SPDXID: SPDXRef-item1183005
+FileChecksum: SHA1: 5cd7e4b2ff3012c0c95a949e09875b0f1c9e0b36
+FileChecksum: SHA256: 3373694e9b6af0f152ab69996798fa77c26b6c51903389a8dd7486a4fd7faba1
+FileChecksum: MD5: a38f1b820cceb69a18d17c478f0b7cac
+LicenseConcluded: Apache-2.0 OR CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2020 Orange Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/README.rst
+SPDXID: SPDXRef-item1183006
+FileChecksum: SHA1: 7cb71e3e2f48fd55ffedeb1cca1c23dd6516797d
+FileChecksum: SHA256: 1578a4a98ece7c1396e1d478afface014191090c3d9adf3056bca83529d2d7c4
+FileChecksum: MD5: c3d093d563b25b0bc0b5ca47e320fa69
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 Orange Intellectual property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/docs/images/Capture3.png
+SPDXID: SPDXRef-item1182990
+FileChecksum: SHA1: fcd3d3b61228622e1895b92cb122cec76580a60c
+FileChecksum: SHA256: 65d377c180217e37b6dea74216fe1c4e8d630d90e3135b6ab28cc80dabfbca09
+FileChecksum: MD5: c873ff0dfbd5f309a0e72a7f317b7b62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/docs/images/superResoZoo.png
+SPDXID: SPDXRef-item1182991
+FileChecksum: SHA1: 9313eb194cfc76eddfa436fd8ec13fbfa5907e62
+FileChecksum: SHA256: 5135e428c6b6d838d8d61e8e1da4d7038c9e8dda315e07fc477ecd74b849c46d
+FileChecksum: MD5: 53e111a88141c10ebaa5181bf56d18d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/docs/images/bvlc.png
+SPDXID: SPDXRef-item1182992
+FileChecksum: SHA1: 9133064722324681b26b0bb83df8d30c60775ece
+FileChecksum: SHA256: bdb1c73ed5dfaf0cbe4a25cc0f2ba30b42fdf8c6f825a0f0455f1194dd6559a5
+FileChecksum: MD5: 83da5c15f143ebf23c73b9db24a542a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	Dâ%aMC­k ½¦¥nkǇNþõèr8`±Xµ¤iÊÑÑ?©ÕL3?ôÞúӗâRҚѺ¾>Å ]ȥ&l<7ýëÁâþ'È|õ/Ì])?°y=s?ôe Tò4ã3´ÃÉjvùôB ޱf·]??Y=°U¥¿muê?n8ÖêÕü¤?4uÁPD·F Ê:ù^»\b­Aփ| Ý:¶`˙ä?iEV`Ó4'SL«1ø°týÖz߭ªƯOYѴ5ٔ¦nY´5Ãá?eY楫«+N </text>
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/docs/images/emotionFerPlus.png
+SPDXID: SPDXRef-item1182993
+FileChecksum: SHA1: 520e9a2560f95fb259bf80d4d6a2a1b9486239d6
+FileChecksum: SHA256: 4cc575b487f2fe1a51d428ca5e670b109d9becc6b83c7a811d4d0930efa62620
+FileChecksum: MD5: 38e788fcd93a412b7c3fdb75fa5b70ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/docs/images/Capture5.png
+SPDXID: SPDXRef-item1182994
+FileChecksum: SHA1: a0835aedbd45e1be6515996a77ea6e17c29f2877
+FileChecksum: SHA256: f9cc0cde7181163942365465f67ea4014ac374e2bf1b0b26a0d2e9710bc0614f
+FileChecksum: MD5: 93a77a1cd1fdda8fea982b6f7f90c6b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/docs/images/Commandes.png
+SPDXID: SPDXRef-item1182995
+FileChecksum: SHA1: 667d75ecd14d4ba31e4e175a056e847a8a3a528b
+FileChecksum: SHA256: d28b28d572aa9a64a85fcca66d9a155e2b7f4ee295cb0f071c4c0647b6eeaf92
+FileChecksum: MD5: 86a7d08553936f867061694652fbabd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/docs/images/Capture4.png
+SPDXID: SPDXRef-item1182996
+FileChecksum: SHA1: 9b4024d8df2a205db4fea3ff425f21d201dcf06b
+FileChecksum: SHA256: b235186da45ead108a7dcba83df8a0618829d517bb8823ebc18ac435136eb272
+FileChecksum: MD5: 62da7a24be33b8566f0e6b75965c94af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/docs/images/Acumos_logo_white.png
+SPDXID: SPDXRef-item1182997
+FileChecksum: SHA1: e977805e3c1eb63a214432468dc3c678bd8a165c
+FileChecksum: SHA256: bba4d5457c021a288ba4d7a5f291abe713eec96384751a87219c8697d85edf8c
+FileChecksum: MD5: 1d45095d04e415302115b287f52d8b2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/docs/images/Capture2.png
+SPDXID: SPDXRef-item1182998
+FileChecksum: SHA1: 01fc15c1360a3efbf32b8a6b0d2f646d03425e90
+FileChecksum: SHA256: ea53d9cc812cffbd563f5524a01e10cf4893c0cc9c21e1f349aecb6eae467d98
+FileChecksum: MD5: 5601df316643c08b9d26153ea12e358b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/INFO.yaml
+SPDXID: SPDXRef-item1183004
+FileChecksum: SHA1: 3caa76c4a79381767ba91f301d8a8027a371ec88
+FileChecksum: SHA256: 77d15e73e4bc92c29389494fd61be1a53e8ede49c963186b985bbf760e2b199d
+FileChecksum: MD5: c5e904f5148159fd3db7c22d592976d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/InputData/espresso.jpeg
+SPDXID: SPDXRef-item1183010
+FileChecksum: SHA1: f5ec017d4da2562f37309831927f2c078d323d0e
+FileChecksum: SHA256: 3a28d49e1ee8fc3929d0de030669927bb38ea683cc650d9b11c35447da82e5e7
+FileChecksum: MD5: d8c77f4e606b634c4061427f4287eea0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/InputData/cat.jpg
+SPDXID: SPDXRef-item1183011
+FileChecksum: SHA1: 3445e8fd6ff332b0e0e02e60e9cb20eb264449aa
+FileChecksum: SHA256: 14d6c57e7ce0e02dc106ba13878a2522cec673aad21f2eb3ae98121e58503fe8
+FileChecksum: MD5: ebf8b720a3f4ee5bbda2834923bf2317
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/InputData/accordionPerson.png
+SPDXID: SPDXRef-item1183012
+FileChecksum: SHA1: c7223f2d3ebc7c161cffd6236a1b59a378bf006b
+FileChecksum: SHA256: 895178dfa853df0f0bc9b79420f369c59db138c9095dbd2f10b86834b6a399fb
+FileChecksum: MD5: 75a8b4cddc9c1899e920394def9f3917
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/InputData/airplane1.png
+SPDXID: SPDXRef-item1183013
+FileChecksum: SHA1: 92e4c52896f737fc5fc0e68df2b137fd0f73bcb5
+FileChecksum: SHA256: 269af55a8026d900b0b788ed0bbd1abe624ecb142b4a595bd2632503826a4bf1
+FileChecksum: MD5: 87aab1cdd076b7cb2855766c65863006
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/InputData/espresso.png
+SPDXID: SPDXRef-item1183014
+FileChecksum: SHA1: d987f7dedbaf8cf2dc1cd3f4c964cdb5353a56e7
+FileChecksum: SHA256: 387f1054209743039ca4a562a16a49851515748cd8549a1295b4fff45afd5636
+FileChecksum: MD5: 57817a40e5513dfa1460700402865d2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/InputData/Iris.data
+SPDXID: SPDXRef-item1183015
+FileChecksum: SHA1: 5ae003aeee8a69e32c15fd9080ae0e52aa0601da
+FileChecksum: SHA256: 1886c6e1bafcb2b1078dc1f8179ab79644cd5b76c1bf7a4a8f4ea1acf8511810
+FileChecksum: MD5: 2a128319151d84bc8d2e548672f76d41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/InputData/joker.jpg
+SPDXID: SPDXRef-item1183016
+FileChecksum: SHA1: b2fbe5a8277759ff15812a44bb1da6469f2fceeb
+FileChecksum: SHA256: 0d58878c2eb766555e21949e3ebdf60bdcaa6a583d82750d862adbb049841a0b
+FileChecksum: MD5: b1a4916dde25879844045d49e440fcc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/InputData/angryMan.png
+SPDXID: SPDXRef-item1183017
+FileChecksum: SHA1: 87f7708983e17950f46154477e30d868b0393083
+FileChecksum: SHA256: e09308a5463dd81fcee85018a1b081278284e8c55cdbea8d64d533f50a149563
+FileChecksum: MD5: 294573f95f4ec59fad8d3b2aeac8f3d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/InputData/dog3.png
+SPDXID: SPDXRef-item1183018
+FileChecksum: SHA1: ad7b2d2a9994ce586872ee5cc17fc6adce6e36b6
+FileChecksum: SHA256: c5d233982ea09cf8d089b6301dfda0e4bb34fd2ba1e18f1db03ccf52587f470c
+FileChecksum: MD5: 45092c1ba55edd0be5b30954638c7d0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/InputData/cat1.png
+SPDXID: SPDXRef-item1183019
+FileChecksum: SHA1: 69ae0099efdec5ac75cbe25a367e287ad627cc85
+FileChecksum: SHA256: 1257b373d9faf2a2e25d9bb895f50ce48e5ea2742b88551e10189a636e94463d
+FileChecksum: MD5: 45f9b5bc5efb8d689190699f1602d7a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/InputData/imagenet1000_clsidx_to_labels.py
+SPDXID: SPDXRef-item1183020
+FileChecksum: SHA1: d25c42dab8cac3c4e9ec0de1552bb459b3310672
+FileChecksum: SHA256: 5a43cdbe5c3f5e0c7a5e71ed886818c5f3ea6df4e9d925a91804097fb6e81ac1
+FileChecksum: MD5: e56c7a2737ff3c0a367384137a0f52b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/InputData/coffee.jpeg
+SPDXID: SPDXRef-item1183021
+FileChecksum: SHA1: 7f2cfe8f056679fda218bacdf8687b7d16428734
+FileChecksum: SHA256: 84bcb313a74a469ba7aa4a849d7c6dc3b2c9a5a4b76fcce0c1386ef1b03f662a
+FileChecksum: MD5: db1a3a93e42e05f8668c8ce41a3365cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/InputData/BMGSA.jpeg
+SPDXID: SPDXRef-item1183022
+FileChecksum: SHA1: 5d6bf963cebceb90785092f0709204b7566d1fe9
+FileChecksum: SHA256: b69885877889b9704ab6a09c383efb62860b08735e07c7ddd369b1751ab6372a
+FileChecksum: MD5: 31cf09cdcae2f498b0298613b4af6460
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/InputData/dog1.jpg
+SPDXID: SPDXRef-item1183023
+FileChecksum: SHA1: cec849467bf5701d3f79311c7b564586b57d75bd
+FileChecksum: SHA256: f3f87bb8ab3c26c7ecfd3ac60421d7f32b0503d1d6c5baf8bac42ed93d86351a
+FileChecksum: MD5: dd0a675c5a0fc3f562510567e48f40f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Companydesc?sRGB IEC61966-2.1?sRGB IEC61966-2.1XYZ óQ ÌXYZ XYZ o¢8õ?XYZ b·?ÚXYZ $ ?¶Ïdesc?IEC http://www.iec.ch?IEC http://www.iec.chdesc.IEC 61966-2.1 Default RGB colour space - sRGB.IEC 61966-2.1 Default RGB colour space - sRGBdesc,Reference Viewing Condition in IEC61966-2.1,Reference Viewing Condition in IEC61966-2.1view?¤þ?_.?Ï íÌ \?XYZ L	VPW?çmeas ?sig CRT curv </text>
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/InputData/persan.jpg
+SPDXID: SPDXRef-item1183024
+FileChecksum: SHA1: 114ea85a2cf05063eecf3f5daaef6693286ca05c
+FileChecksum: SHA256: 4a313f6280a5e3b50a39d52414a3bea7e534dfb4701fd7358a3c065cd0394fe8
+FileChecksum: MD5: 6392ea611c8ba47df3e7ab0c8435f78d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Companydesc?sRGB IEC61966-2.1?sRGB IEC61966-2.1XYZ óQ ÌXYZ XYZ o¢8õ?XYZ b·?ÚXYZ $ ?¶Ïdesc?IEC http://www.iec.ch?IEC http://www.iec.chdesc.IEC 61966-2.1 Default RGB colour space - sRGB.IEC 61966-2.1 Default RGB colour space - sRGBdesc,Reference Viewing Condition in IEC61966-2.1,Reference Viewing Condition in IEC61966-2.1view?¤þ?_.?Ï íÌ \?XYZ L	VPW?çmeas ?sig CRT curv </text>
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/InputData/dog5.png
+SPDXID: SPDXRef-item1183025
+FileChecksum: SHA1: c45f6c47c86026592c038b89e6e9f014e06ab2a7
+FileChecksum: SHA256: db3e2abfcee29eb253f8d73d60634e6df6d62ede829c283031c2b973cf5da216
+FileChecksum: MD5: 4bf3dc17c94452de0d0195816160dbaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	m?A5XÒ0{?z?Ù?¡ î?ÒÎ </text>
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/InputData/dog2.png
+SPDXID: SPDXRef-item1183026
+FileChecksum: SHA1: 581fc258aecaece8a06fc67b6665e929e942125a
+FileChecksum: SHA256: 3adba7d910f75bfb3a62cdca6f6e790912086d7002c8a8189c0e714f60d612f4
+FileChecksum: MD5: 75145a77aa7437a92e69d447eca45afe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/InputData/car.png
+SPDXID: SPDXRef-item1183027
+FileChecksum: SHA1: eab93fd9d1e441ec062af75b06d8fba3967c1521
+FileChecksum: SHA256: f2b74e1b59ae6cf8c6daf3510fbe5f54f80bc9c0c75b61d0013f01d8fbf9058a
+FileChecksum: MD5: 6409482934d9679e47d29907a1de058c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © M1J1¹ÌVQåv»ȝnky?K:»9U%2;FðÜ	&_ü?ÿÿß,yÄðiËgI_>Gfì?¥ø?¹Ø,nxÕL?£!èÙ)®?tv?+E¼ËQ½ÊQ·Ǖ½ ½þ>ø??üwÞýþÌÍ;?9ڽÊöæ?ýþ.ýÍ=vvèoìÒí֧^ïP­4©V)?êò5l+w\Ϝ殝ÃurÇ >ӑet:ΐ?Ò(²®)؆kj8m*蚌$¦3iätL2" ºa?hº5Ø?4±tKSý?5͟$?!Ë8ÿëϺ°¬#ëåÈfó?ì¡ûÙ`éTx4A< O!I ¦n JÅòq(¢k{¸¶m:ئ®êH?D,N$?&?\anf¹YVVÂ$bI¤&ɨ¢D*îÓÐh4J2ð}ai	GV0%ùöº1 ®?Ú sJ%]õu#ÓòK×}Jªû wlÊ?ÕJõZn£ÆF³Nw­N§Y£;ÐÏö6{?lmpõ`[?\ÙÝe«¿I§Ýb­î?謵Øên²ÕÙd§»C§ѡUm±Þhq°½ϟ?=âO>æï?û¿ÿø?ÿýÓOüã§?ùÇO?òó÷ßóÝ_¿âÃwÞãöõ?lõ6¨?Kh??º(£K?ښá;ÜU?SֱT?]VÐe?u@?-Åà¹Ìè?#§I'1r?yzx`!ðÕä2µä2¹Ð?V`ôÌ(!?Î0uây?§þpñe´¡W°ÇÏ`M^ ?£?C]?C?F?Ƙ½?¢?§?ÓU|:µe	ÔSKTâTãKXã¤gC@?#==27Fbü?§X:ÿ ³g_büç9õû?çÌ?ýK/ü??Çè??Ë҉çI]xÂÂ?­è4ò2ëYZ)ÖbóԢs´RK´Ä?êÂ2^p </text>
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/InputData/happy.jpg
+SPDXID: SPDXRef-item1183028
+FileChecksum: SHA1: 0a126b08a74c6ac9ad94b6529f58b471e0df22ea
+FileChecksum: SHA256: b158bfdd0e4e6ded8c3020e524201329a985dee95e31a12fc155326c0743a83b
+FileChecksum: MD5: 7847d390e72e911627c6d68460a44c04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/InputData/redfoxes.jpg
+SPDXID: SPDXRef-item1183029
+FileChecksum: SHA1: e90178ef37df6100b1819aa20088fa4c197c546a
+FileChecksum: SHA256: a2801d0f5b7b3eade8edcc73e3ccff36d2cf453160ed056e77109652f087e7d2
+FileChecksum: MD5: dfb8711351779364a5929b64d969312e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/InputData/sadness.png
+SPDXID: SPDXRef-item1183030
+FileChecksum: SHA1: fa23ed00aa1fd1b9a22ed9be08d8c2ca14268c9b
+FileChecksum: SHA256: 087092fc4bdcab79288332449c86dee7afa89ccb69a57140d21cf94ffbe853b6
+FileChecksum: MD5: 7a17bc9ac8ee443d51dc5be85634012d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/Templates/onnx4acumos.ini
+SPDXID: SPDXRef-item1183034
+FileChecksum: SHA1: 92d5d50d126a1960f31c6460f5db6823da148768
+FileChecksum: SHA256: 7e73143cc24e41768cf311bfe5e2aa64f83787d217597d81f42c5abcbc29ce0e
+FileChecksum: MD5: c7ce0e26a9d79336bd3570ea7ce261fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/Templates/onnxClientTemplate.py
+SPDXID: SPDXRef-item1183035
+FileChecksum: SHA1: a4adf8b371e86b2c08bc9d8f8d33de0ca42077de
+FileChecksum: SHA256: 8a405821791e8031a42473eae5232d224646fe4b7636269f2c4925556e6b8738
+FileChecksum: MD5: 08611561aa2327a9b4834c97bf4d1661
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/FilledClientSkeletonsExamples/Iris_Model_OnnxClient.py
+SPDXID: SPDXRef-item1183037
+FileChecksum: SHA1: db079fa8bdc6c49acf1037db52cc9d4f2f287cad
+FileChecksum: SHA256: e875a2c96a44d1fcf1a8d2b562eac6878276af13d3912c9cd36a15b41916290e
+FileChecksum: MD5: 67daf2cb0a86ed930384eb5070017de3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/FilledClientSkeletonsExamples/emotion_ferplus_model_OnnxClient.py
+SPDXID: SPDXRef-item1183038
+FileChecksum: SHA1: 717f2d2a8f6632310929b70aa15c070a580c79f6
+FileChecksum: SHA256: 8c4a356eff94d636c7b67aa8a51a9f8e9c887cc2e81331496f06272e49c76475
+FileChecksum: MD5: af04e757dd8949bfc951039b29ad1fb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/FilledClientSkeletonsExamples/bvlcGoogleNet_Model_OnnxClient.py
+SPDXID: SPDXRef-item1183039
+FileChecksum: SHA1: 0b2fa2ca1309516b216933f4caaad2393d6d993c
+FileChecksum: SHA256: ddf490f4df2399d3fd924c5cb9920b5e9c5c59879f4f4aa25bd181cb988ebedc
+FileChecksum: MD5: 14d4320aee570abe63c35ee267d3bc4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/FilledClientSkeletonsExamples/imagenet1000_clsidx_to_labels.py
+SPDXID: SPDXRef-item1183040
+FileChecksum: SHA1: d25c42dab8cac3c4e9ec0de1552bb459b3310672
+FileChecksum: SHA256: 5a43cdbe5c3f5e0c7a5e71ed886818c5f3ea6df4e9d925a91804097fb6e81ac1
+FileChecksum: MD5: e56c7a2737ff3c0a367384137a0f52b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/FilledClientSkeletonsExamples/super_resolution_zoo_OnnxClient.py
+SPDXID: SPDXRef-item1183041
+FileChecksum: SHA1: 2d70a03bb36bbb61537993b2b13712e8d9b03c7a
+FileChecksum: SHA256: 01782bec7f85f2b7d46ac1edfb9077ed2e2ada01041feef78825395a7d08ec78
+FileChecksum: MD5: b73c7404cd83994912b535353d1dd356
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/OnnxModels/super_resolution_zoo.onnx
+SPDXID: SPDXRef-item1183044
+FileChecksum: SHA1: 2dc76d2810fe949c2887320bf13bd98483cee3d6
+FileChecksum: SHA256: 85f36ff88cc504a24af5e0602148bc56a8aa09a58eca8c0da2756f3e8186035e
+FileChecksum: MD5: 10fc171a6a54f2744ba08640832fa1dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/OnnxModels/Iris_Model.onnx
+SPDXID: SPDXRef-item1183045
+FileChecksum: SHA1: 262cb1172e583a476551348015f4cc17fc95c5c9
+FileChecksum: SHA256: 62d5cc5160030b9c1ffff9bb39fcf79290084c62584e274790fa63101024ef6e
+FileChecksum: MD5: fca70a68afce20b4bf9af58eec67ebc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/OnnxModels/badModel.onnx
+SPDXID: SPDXRef-item1183046
+FileChecksum: SHA1: 358fe4ad7086490fd1f51f0affe253c348b39395
+FileChecksum: SHA256: 52079e852359288820cff0a0d23c32ab111123b8fd5ec73bd5dede25ecf55d54
+FileChecksum: MD5: 7348c879d16c42bc77e24e270f663524
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/onnx4acumos/OnnxModels/notModel.onnx
+SPDXID: SPDXRef-item1183047
+FileChecksum: SHA1: 5cce438beca10738e7962ff8c26f3492a22b8ba8
+FileChecksum: SHA256: 0498045fc6703aa684512e148ea824b49ea386ef6bb04c77338633ff068b7c2b
+FileChecksum: MD5: e3ea3d02da7bc71e4ae6a344d4b68dab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/MANIFEST.in
+SPDXID: SPDXRef-item1183049
+FileChecksum: SHA1: 9f2088490294b4750aeb73511c13bae2620796be
+FileChecksum: SHA256: 4f9329ea77dfeb81be7f1f93fa02b8dcaf71f6644dcf67c20bb88a6642251526
+FileChecksum: MD5: 28cc677828b0c8ab367d73c58b914c17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/setup.cfg
+SPDXID: SPDXRef-item1183050
+FileChecksum: SHA1: c49e3ee68044f3030956c16ae3abbdae9e0725ef
+FileChecksum: SHA256: 8c32db94a2b57791af35b027e110b43684780e5962ecfd1ce3e1dffb4f8b8a2a
+FileChecksum: MD5: ac24c232af33108ef0b249b46f85247f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/tox.ini
+SPDXID: SPDXRef-item1183052
+FileChecksum: SHA1: f4e2bc9a42d7143f4b611ca818381af579f03f96
+FileChecksum: SHA256: a960b0773ce3311510f829703131186cf6327404a1f0045b9ecbfdb85978e1b7
+FileChecksum: MD5: e998c8035966ed54b6a5d2e26cf07aea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/acumos-package/testing/tox-requirements.txt
+SPDXID: SPDXRef-item1183054
+FileChecksum: SHA1: 0eaa389e1fdb3a1917c0f987514bd561be5718ee
+FileChecksum: SHA256: 2b01214d32c382dbc73bf6b493bedb7926324af27bad3ee888f66774b9b114c8
+FileChecksum: MD5: 5a748c120135eca0627c0c3b4985e917
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/releases/pypi-1.0.5.yaml
+SPDXID: SPDXRef-item1183056
+FileChecksum: SHA1: 0804ca8df2c75670fff4fa3676f63442372022dd
+FileChecksum: SHA256: d84887282cc2dc2482bbad966f8f06e5766342a93f2dc3b4b131dad7345ffd17
+FileChecksum: MD5: 28ffddc4377b5dd80be443971de4e38e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/releases/pypi-1.0.0.yaml
+SPDXID: SPDXRef-item1183057
+FileChecksum: SHA1: f5bf01f7d4e40113e64e40650d65485c0a3b3180
+FileChecksum: SHA256: abd2247ece385b92da4b20968f4b0f84373bafa291f1df2a0021e5c9f92aa333
+FileChecksum: MD5: 94ef8d100bb47100cde1e3c03f52ea9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/.idea/acumos-onnx-client.iml
+SPDXID: SPDXRef-item1183059
+FileChecksum: SHA1: ce472d854376b17a877635ca90c5bb988b545fa5
+FileChecksum: SHA256: 3c2cd6effdeb9a2848cc579029f6ad688af31e4ae3ae849967adf90d07c7aa19
+FileChecksum: MD5: d5d12fec32f215dfe31f9702e4513c61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/.idea/vcs.xml
+SPDXID: SPDXRef-item1183060
+FileChecksum: SHA1: c92f3eb0ad1c70371e177a4d7d741f90af3f902c
+FileChecksum: SHA256: 55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972
+FileChecksum: MD5: 166acef3d301bd241d0d6da15bc5ad3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/.idea/misc.xml
+SPDXID: SPDXRef-item1183061
+FileChecksum: SHA1: 6906d2c1cf505f12816a8f24f7c9555420ffd5ed
+FileChecksum: SHA256: 473096d4507a41e01441edeed8ba180d32b4bd2341ced01ac77a9c69041da969
+FileChecksum: MD5: 5105f7d72faab5ff87d35a0fe9576395
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/.idea/.gitignore
+SPDXID: SPDXRef-item1183062
+FileChecksum: SHA1: b0808552c40b30c337734f4b1cfb434c2ce873b2
+FileChecksum: SHA256: a9e54fc4f08bc97d82c04bd86ff37d3af84ba9ef4ad87fcfcb438dab622e8aaa
+FileChecksum: MD5: bd588a782a4fe62c25b44342c8dbb173
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/.idea/libraries/R_User_Library.xml
+SPDXID: SPDXRef-item1183064
+FileChecksum: SHA1: 93197d9d1971a6a2f2893098126cb9d9a758c68d
+FileChecksum: SHA256: 70cce81c336dcb6bb55097a419d862f492743fae7dd04dfa4b83862797fcec46
+FileChecksum: MD5: 983214873ab83c37c94436181bbf5b78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/.idea/modules.xml
+SPDXID: SPDXRef-item1183065
+FileChecksum: SHA1: 5e3c9de6433a0959a9022f7dbc50baec787dc1fa
+FileChecksum: SHA256: 261036e96879bf952f95cf82ae92ba1e7d70c519e8fbc1333172c2784342dd01
+FileChecksum: MD5: da4723fc4e244cf13c99740a4ee31967
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/.idea/inspectionProfiles/profiles_settings.xml
+SPDXID: SPDXRef-item1183067
+FileChecksum: SHA1: 123097fe0d1ca811d1a355725d7066386ed490ec
+FileChecksum: SHA256: 6172c5997eeb3cd19c9ca2b5b97d6e2983cdd1fa60b2460d7bbb74055edcaa46
+FileChecksum: MD5: 05dbe611f5bdb7a801adb3f064d4bfa9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-onnx-client-2022-02-02.zip/acumos-onnx-client/.gitreview
+SPDXID: SPDXRef-item1183068
+FileChecksum: SHA1: cfaf736dd99054c02c50cec8d7237037164a0a15
+FileChecksum: SHA256: c2dd4273ee95a872b928b8f75830ed6b7cb5c4276d75ea65ef5250939cde6ab8
+FileChecksum: MD5: e1beb90f3e4bd27bba9489ce2d9f77a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
