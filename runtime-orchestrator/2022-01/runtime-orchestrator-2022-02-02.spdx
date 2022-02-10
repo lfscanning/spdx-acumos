@@ -1,0 +1,1020 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_runtime-orchestrator-2022-02-02.zip_1644480766.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-02-10T08:12:46Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: runtime-orchestrator-2022-02-02.zip
+PackageFileName: runtime-orchestrator-2022-02-02.zip
+SPDXID: SPDXRef-upload325
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 86cd41aace2bff48e7128777b6ed0382e707d9c1
+PackageChecksum: SHA1: f5e57116de03971154ea3c770d2b8a71985a7bf6
+PackageChecksum: SHA256: 720420815c5e0bd056b1c2539f08b9b5e5d5df6d46cdb2f6d2feb261c8e1033a
+PackageChecksum: MD5: 5b58099846958879ef5705c8bc59c845
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload325
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/docs/user-guide.rst
+SPDXID: SPDXRef-item1178042
+FileChecksum: SHA1: c86ba038eb0560953dd48b2f8b7db5810234ae91
+FileChecksum: SHA256: 6d489a59592220e6f4dcfcd3e282fda26d1aa5195a48100464dd711cb565429f
+FileChecksum: MD5: d1807f15aa4987ce4ce2356716568563
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/docs/index.rst
+SPDXID: SPDXRef-item1178046
+FileChecksum: SHA1: d53b72f55ae6f43cf794d158d78e57bd410661fb
+FileChecksum: SHA256: 8ca2c4192a09b8c62c42c2598607ef7af1909572e4675e2c0f922809068a0aca
+FileChecksum: MD5: c7042c58aa36a910524b53e60cf69ba3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/docs/developer-guide.rst
+SPDXID: SPDXRef-item1178048
+FileChecksum: SHA1: 8fc5b4005eee4be5c21ba50e40280f4c9a6be0a2
+FileChecksum: SHA256: 087e263f575d1112da4a6932ec54ddda2ff6e9826e20662c6bc7058b341c23bd
+FileChecksum: MD5: 11b436a961f02059e26ef1a4b532aa7e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/docs/api.rst
+SPDXID: SPDXRef-item1178049
+FileChecksum: SHA1: f2dd36b63efb93c12c20f079ea5eb76b09f45cc4
+FileChecksum: SHA256: 641527ad99dde2f1089aebfa14868c0a5f04fb48f873840657883e9cde6481eb
+FileChecksum: MD5: d2713a324d74a87ad9259460100b0a04
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/README.md
+SPDXID: SPDXRef-item1178143
+FileChecksum: SHA1: 9b8d31b352fe9876f9e3b6f430a15c793f8672f0
+FileChecksum: SHA256: 50cbdfb87bc03ccf6a8875045386dfed2cea7112969607249d663207a3005c56
+FileChecksum: MD5: 6985728227045f98a0fdf052e8777854
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/license/acumos/header.txt
+SPDXID: SPDXRef-item1178055
+FileChecksum: SHA1: ff8150d30cf88e36830b621e18fe657acd0b34df
+FileChecksum: SHA256: 0d8a5f452d978268f40f6fdca364a26d65d534e55662585c9bb3f4ca30205f1f
+FileChecksum: MD5: b236014cbcb9f7e1ed6861da6cfb2abd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/license/acumos/license.txt
+SPDXID: SPDXRef-item1178054
+FileChecksum: SHA1: ff8150d30cf88e36830b621e18fe657acd0b34df
+FileChecksum: SHA256: 0d8a5f452d978268f40f6fdca364a26d65d534e55662585c9bb3f4ca30205f1f
+FileChecksum: MD5: b236014cbcb9f7e1ed6861da6cfb2abd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/resources/application.properties
+SPDXID: SPDXRef-item1178058
+FileChecksum: SHA1: f5603f0fdc56a370fded1b7ff7282bf503b53a82
+FileChecksum: SHA256: 573057cbee7492cb31399046ddad3d28f64b6f7b83a8cf0dbf787bd779ebbb99
+FileChecksum: MD5: 95fed08ccfd2baa4626ddc9cef3673d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/BlueprintOrchestratorApplication.java
+SPDXID: SPDXRef-item1178063
+FileChecksum: SHA1: e480e4a5be11c4469b11b6d642144502754d3b1b
+FileChecksum: SHA256: 1e66e3134bc6397ce53a6f4165abc9d5b5293c663a309fe10dfc9dc06b5820e3
+FileChecksum: MD5: 01ac8165331fceb6f10cc61d4af0bed8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/util/Constants.java
+SPDXID: SPDXRef-item1178066
+FileChecksum: SHA1: 54a28552e7e5f78d2f0599b3516502f9f93f9f91
+FileChecksum: SHA256: 658fdf3eabcb5e5492bfaf62c56a19786db224dace3aeb3f6d56d3ca2402aa16
+FileChecksum: MD5: b54026f6001fcf43aa60df89c94a498a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/SplitterOutputField.java
+SPDXID: SPDXRef-item1178069
+FileChecksum: SHA1: a3cb687ad1a2e18e82fbda390b1aefe0afc343ad
+FileChecksum: SHA256: 18a5e342a3bb0d711df9ae685c68018e7e6e00badeb36ec9c9df99a8dee19e93
+FileChecksum: MD5: b41550adc992fc2320cb89827f7574a1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/util/ProtobufUtil.java
+SPDXID: SPDXRef-item1178067
+FileChecksum: SHA1: d7da10836935cdd1b4541df7bf396441d37933ed
+FileChecksum: SHA256: 7036fed566fedc16bd89d83baa2d7e988330fa78fc74074dbc628d49aa959e81
+FileChecksum: MD5: 7100c74329953fc2c9483866d81371d9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/CollatorMapInput.java
+SPDXID: SPDXRef-item1178070
+FileChecksum: SHA1: 743efad2464b9474e55432c41bfc5f198c507d98
+FileChecksum: SHA256: 574e607b3b48b6edb3ce5473f00706def9e378c19682b544f6172c02b0fb9d62
+FileChecksum: MD5: ed3290cb8c41a6f2b131fe8780cb2bf7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/CollatorOutputField.java
+SPDXID: SPDXRef-item1178071
+FileChecksum: SHA1: 1f8ad77d97a794b897d90c808566704f3026fa5b
+FileChecksum: SHA256: 4337609253962addabeeb406af916daef42f5af54f2f86f9c58ea10df9f47416
+FileChecksum: MD5: a9e9863e634d4dd498146b837fc01e11
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/CollatorMap.java
+SPDXID: SPDXRef-item1178072
+FileChecksum: SHA1: c5ac43e620179d5a0298b2093051d95d37f777c0
+FileChecksum: SHA256: a47cb71dfba7c1b7c43b33bbc9eafb81a48c4a7d5a8e19040c1910f91f8d93dd
+FileChecksum: MD5: 8e57a1a01cf270dc238624d780f77a0b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/ComplexType.java
+SPDXID: SPDXRef-item1178073
+FileChecksum: SHA1: 2f4439dcf1ec4aa1b5c8b72253977d5a4df74c51
+FileChecksum: SHA256: e45d6cb4bedca38312ef6c595bbc446cfb79051822116b4e8041f333583897f5
+FileChecksum: MD5: 73b09f568350373306bb6b8acacc60c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/ProtobufService.java
+SPDXID: SPDXRef-item1178074
+FileChecksum: SHA1: c722d45b3dddc518fe2c84d5464caab89b82301a
+FileChecksum: SHA256: 1fcf9d198319d1e4352960ef58dd262b3811849ed23e099e0f0375dfaa69c250
+FileChecksum: MD5: 0c97293c72ff8397b5f5a7579924eff4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/CollatorMapOutput.java
+SPDXID: SPDXRef-item1178077
+FileChecksum: SHA1: 05f09015b5640548dd90c23a0586fca369b2fab9
+FileChecksum: SHA256: 7f86a805adaeb4a7c52475e3fb5135e6c929884e7297644aa56abcd14111cc8f
+FileChecksum: MD5: 9e1f3e9437cd789bd7460a260d2dea6a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/Configuration.java
+SPDXID: SPDXRef-item1178076
+FileChecksum: SHA1: 18bf4d6346171f9eddde5cc72f8592e833257c5e
+FileChecksum: SHA256: b8107bf39432e544a89f0437e66a85511a254d2d3eea3f4d485bc3e30fe576e0
+FileChecksum: MD5: 788e684218d3aaa42b31d0f55f422e1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/ProtobufServiceOperation.java
+SPDXID: SPDXRef-item1178075
+FileChecksum: SHA1: f94e9d97dfb9a9e0355114d0c82eeb51a4b52fdd
+FileChecksum: SHA256: c190674eea9a9996876c67a107bb0952b5e9685111b42373c754e4c26ec0bd27
+FileChecksum: MD5: 15138fd53952d429f30686069b39bd3c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/SplitterMapOutput.java
+SPDXID: SPDXRef-item1178079
+FileChecksum: SHA1: b4d64228d1595472b49dd00f3d4eae2c98ade329
+FileChecksum: SHA256: 73762160fb03b19b99b6a42766f9530611e7736576b562fe65f32324d7444ee1
+FileChecksum: MD5: fe8243fad129bd6e48e76e9b415e2069
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/ProtobufMessage.java
+SPDXID: SPDXRef-item1178078
+FileChecksum: SHA1: e618c022910c4c756b140b32f92b93ff7a2d17cd
+FileChecksum: SHA256: 5c8b5f9a5677cb65d6c8b490d04f70a540ac9c651efe854305481ce2b594f355
+FileChecksum: MD5: a8a221899ca82407e5fff14a6c8a2be2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/SplitterMap.java
+SPDXID: SPDXRef-item1178080
+FileChecksum: SHA1: ed45f4cc001e494726a9cd3b718a05483bd4765b
+FileChecksum: SHA256: 864e8a4a5af81bb4336eceaac1598fce38b7a15dd164591efad93a1980bf930f
+FileChecksum: MD5: 42ab5d207ac2a475b02b84ffc7c29743
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/ProtobufMessageField.java
+SPDXID: SPDXRef-item1178082
+FileChecksum: SHA1: 8816912e316d92fb73a42d99ad0dae6bd8ba0218
+FileChecksum: SHA256: 1b6eb59e5576ff04961481d02d394d65885a2fabdfefb707b7469367cd9364d1
+FileChecksum: MD5: eedb05544ab82d3e0e3a281743f19bf4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/SplitterMapInput.java
+SPDXID: SPDXRef-item1178084
+FileChecksum: SHA1: 0faec71ae1c97909c9f8c53bbed409d2f046ae33
+FileChecksum: SHA256: 5f5f34a3acbbf85a786455ce6604d262c29680329d88ad9f76ff39f109ff7f40
+FileChecksum: MD5: 5d669bbd3b7dd1fb1051d28ae5392634
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/SplitterInputField.java
+SPDXID: SPDXRef-item1178083
+FileChecksum: SHA1: 8895a9771b4bc5e8954c27a43a5849127358b07f
+FileChecksum: SHA256: aa003a1d341659b8709e52c6cbb69117e47256c9568c6dd060cdc625b2d9cc4a
+FileChecksum: MD5: 164f26978fee92db535c75e4f745ecfc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/ProtobufOption.java
+SPDXID: SPDXRef-item1178081
+FileChecksum: SHA1: 5859c970425a948af2ff321a1b52c45939dc2a93
+FileChecksum: SHA256: 40e1faccc3b331e1d338cca46e5c2108e439ee9d060b6505eaf5384c80355709
+FileChecksum: MD5: 6b156781994be0c63ef285677a7a1fd2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/Result.java
+SPDXID: SPDXRef-item1178085
+FileChecksum: SHA1: e80a8007cea8098f7e25946d055ae2cdd9bc4bd0
+FileChecksum: SHA256: f589e51a3fdd2f96ccd7e13a4b52acbf5aa7b8e44389e08bdd758174c4871a79
+FileChecksum: MD5: 5a3e9f460f61570124abf29b9f89827d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/Protobuf.java
+SPDXID: SPDXRef-item1178086
+FileChecksum: SHA1: e4a4e07753a8fe5f6601b7f58b979b534319c36d
+FileChecksum: SHA256: 36445b36ee06c49e2bdfcf57319075105ad9811576c82a96dbb7856074042e59
+FileChecksum: MD5: 19747f56eecce2d0dfc3d83f469ad4f1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/CollatorInputField.java
+SPDXID: SPDXRef-item1178088
+FileChecksum: SHA1: 992d2b82d95707030dff776072fb7d86be1c23d8
+FileChecksum: SHA256: 09b6ec94145c91156a8481f93857f554fc75a2364865259f09d483a29ea0c411
+FileChecksum: MD5: 8e4ffe3f13d1110592d07c29d9910b0d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/Message.java
+SPDXID: SPDXRef-item1178087
+FileChecksum: SHA1: 3652165d3877a24bb6443b7cb1a0ccbd10d8b829
+FileChecksum: SHA256: 92566bee49777a12f439ef25a83dae1a38187417b181db66507817e80850a2f9
+FileChecksum: MD5: fa853cbaba8ed383c78a1c53d730e110
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/service/SplitterProtobufService.java
+SPDXID: SPDXRef-item1178092
+FileChecksum: SHA1: 1c5e4e45c85f903beda5b6391d97145a0864d395
+FileChecksum: SHA256: c3bf6ae5fbe122baa90dea97837b1b7a5b265a1b4643363e49385d2022ba0475
+FileChecksum: MD5: 5080da26590d17dafdf888ab210969ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/Argument.java
+SPDXID: SPDXRef-item1178090
+FileChecksum: SHA1: b6303c2d59533da9a080ffa250b2f26e1bb25b0f
+FileChecksum: SHA256: dc1eb5f35deb8ce37e1b6ef3965ad32e9ea52b3535e958e9ea3a546bff4e5a74
+FileChecksum: MD5: b9332c786099231cfb19875606e606a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/vo/MessageargumentList.java
+SPDXID: SPDXRef-item1178089
+FileChecksum: SHA1: 2d3942b2a6960e7eb51a229f10782d7dbb2db707
+FileChecksum: SHA256: da9bd814d417f378bed64eda4907d4975d009eb82be9c13cced0f6ed5ae5d819
+FileChecksum: MD5: e475b1b401ced135df8381cb5d843e17
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/service/ProtobufService.java
+SPDXID: SPDXRef-item1178093
+FileChecksum: SHA1: 0f5d3d6cc68f557ad09aac29a3f4132bb693b4b6
+FileChecksum: SHA256: 8678975a351f296a1af24600b4d38a46f97ed9e855e8d22aaa8a751d898cb2e5
+FileChecksum: MD5: 7eab18e893d9f9f27a1e2784a7d83c54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/service/SplitterProtobufServiceImpl.java
+SPDXID: SPDXRef-item1178094
+FileChecksum: SHA1: b93310adf1d60cbbedd7802135142ac4e946139e
+FileChecksum: SHA256: 8467ab66e878c73dbef26f5ba6728bfb388ac83e721dd7a2a6bd530e7c2dbcd0
+FileChecksum: MD5: 1867a24cbd815bc8513b69ad2d21f0bf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/util/TaskManager.java
+SPDXID: SPDXRef-item1178098
+FileChecksum: SHA1: a9defa09be559bebfa2bf73913a9396da9975e78
+FileChecksum: SHA256: 5d69110d770b5789342edd850e0ca05a0c6ea08bdbe7b220128bbb34282da551
+FileChecksum: MD5: 36b8b186201cc3a03a15aee2703a9ec4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/util/NewThreadAttributes.java
+SPDXID: SPDXRef-item1178097
+FileChecksum: SHA1: 80a2fda50d3085ccb519a60e0c344fb9b6252d35
+FileChecksum: SHA256: 738c18b8ed25b50eb7eb7056f6b83954460061150f649a0334a294a3c843dfa6
+FileChecksum: MD5: d82d1c97cdf7417f6443c1fe3d91217f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/splittercollator/service/ProtobufServiceImpl.java
+SPDXID: SPDXRef-item1178095
+FileChecksum: SHA1: 3154c0d1f12b12790249f2d21e344eee2d48a9fa
+FileChecksum: SHA256: 28b7209a181498dd4e487d0fd02cb9b8ac48d721e20cb084c9aa7f42417199ba
+FileChecksum: MD5: e3eb53f4bdae60b5975d28bcfbdfe973
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/controller/BlueprintOrchestratorController.java
+SPDXID: SPDXRef-item1178101
+FileChecksum: SHA1: 193c39ba9240e8faea46c4910980eb7bac0cb04b
+FileChecksum: SHA256: 5c1384ad2753adc91a3bf68d3a2a11aeae9c1643d1e6c889dc6490ad22f1ca60
+FileChecksum: MD5: f84db09ee709dd7b6ce3007c41816a11
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/controller/DBResponseRunnable.java
+SPDXID: SPDXRef-item1178102
+FileChecksum: SHA1: 97ac1491a6ec8cc7d3beebb90d4e450814a8180e
+FileChecksum: SHA256: d93c21676ea0cfebf146f1409b94da9e98c7dd20eeef196cd35e8d4aaae7f3a1
+FileChecksum: MD5: 8fdc8f36e07f8bfb2cb58c609e13af48
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/InputField.java
+SPDXID: SPDXRef-item1178105
+FileChecksum: SHA1: 0b8b4cd2bf77f37268e0879cd95af7eec548d75f
+FileChecksum: SHA256: 4166a9b9d15c3cc71dacef43972c46ba59d9dc249dc23e2f482b68f0dadb48e4
+FileChecksum: MD5: 9e203e256528676ab3ea27052c5af989
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/controller/NewModelCaller.java
+SPDXID: SPDXRef-item1178103
+FileChecksum: SHA1: 830e2943061f81ec022f3a201e8ada6f15b9e768
+FileChecksum: SHA256: b1a7157bf4e1b5e4ab0e8ba2890dea3e4d08147d46c3ba3365e5cbc617b2f53e
+FileChecksum: MD5: 263ee8257eab4e39330da0d6ae0309c3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/CollatorMap.java
+SPDXID: SPDXRef-item1178107
+FileChecksum: SHA1: 55745427d9ff43d05e81fefa7bdcaf72ad301657
+FileChecksum: SHA256: eead7c1d3638f043f8bf5e0d213ca35451fabd7acf279c2096a06929662044e9
+FileChecksum: MD5: 5ebc8f63d80f9743dab31bbd5009d27c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/MappingTable.java
+SPDXID: SPDXRef-item1178106
+FileChecksum: SHA1: 715e7aaee350b61ce2b4cfa2fe1850e0ebd2f414
+FileChecksum: SHA256: 3821812a3e5a3ed33fdcb64b857b1063544f98afbfef85aa88ca42caa8b3d0a9
+FileChecksum: MD5: 3d3038c6e9eec16ac12f4cfb24793c1d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/DataSource.java
+SPDXID: SPDXRef-item1178108
+FileChecksum: SHA1: d5b78d8706796e03ac25d7a452178a6561b0d919
+FileChecksum: SHA256: 69ce2fedc5392df431417e82a1463c4648686258d6a3db08ac6b11af98136e94
+FileChecksum: MD5: c58965e530ca13f5c77dbc00dea66b80
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/DockerInfo.java
+SPDXID: SPDXRef-item1178110
+FileChecksum: SHA1: 3452bd46569337b4332a6b4beac1facf5e752ea8
+FileChecksum: SHA256: 4d8bee8bc67d16897d84a234a28dba3c4ddb4a4037c10be953bbddbc21e103a2
+FileChecksum: MD5: 2533fb661e3e3be4b2dfd342682daada
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/OperationSignatureList.java
+SPDXID: SPDXRef-item1178109
+FileChecksum: SHA1: b6204560a7be767e79f73222752c8889331f5b4a
+FileChecksum: SHA256: 2443292bd7f9aef376dea942cb61675a5646b2259bc9e5366382cf41149e08a8
+FileChecksum: MD5: a124ffcb40ddf9d24455fac508d9bafc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/SplitterMap.java
+SPDXID: SPDXRef-item1178112
+FileChecksum: SHA1: a5be5c9c7f54cc6f039892f01e79032d6696c461
+FileChecksum: SHA256: 008b286fedb178a5711262f75a6c154f517eee48129581cc6f11d330bf87edc6
+FileChecksum: MD5: 84e1bb2e4eb24f45db16fc45ff181a74
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/MlModel.java
+SPDXID: SPDXRef-item1178111
+FileChecksum: SHA1: fee7210fa8d039dbcaf31eeee33435a431c37d3c
+FileChecksum: SHA256: ccd23cc330a08c53e4126ff8da1a18bfe61a17f8bdfe68f73aaf0061713fc67d
+FileChecksum: MD5: a630792c18a54670bfd87716cc1beb11
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/OutputField.java
+SPDXID: SPDXRef-item1178113
+FileChecksum: SHA1: a0747c52c625c3afa4732d12d26144cb077dbafb
+FileChecksum: SHA256: cff38720b304dfc00273cdeb749705d4fb816b5f937cf66f7e04528df425c1f8
+FileChecksum: MD5: eb71f216cbf61447fd1ac21500ad61e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/Node.java
+SPDXID: SPDXRef-item1178115
+FileChecksum: SHA1: 9cb223226d711f02519ea75212b7886485aee854
+FileChecksum: SHA256: 1fbca837cccefbdee1320efc12d86c2f9902a49025588793b95f726a89a1f920
+FileChecksum: MD5: 3e3091d7f49acfb7c7f9673daa521248
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/Orchestrator.java
+SPDXID: SPDXRef-item1178114
+FileChecksum: SHA1: 1627a9f36443ef76fcdbefa309a1e79220541d2b
+FileChecksum: SHA256: a737695ed9e14a265a3b7a8b8daa058ca8ccd0f08156dc0d373ed3fa90dfe592
+FileChecksum: MD5: ca2f77c65adaad4f0a876763ce1fca90
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/TypeAndRoleHierarchyList.java
+SPDXID: SPDXRef-item1178116
+FileChecksum: SHA1: 6c81f6fa3f13559f855fc18cfcc0a73629868bbb
+FileChecksum: SHA256: 1fe48eb9899b91047451e6d05399d074640a4339030b571b5241f9d08e5796b6
+FileChecksum: MD5: b8f73e185f8e4c1b1c0abcabd5f77aef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/OperationSignature.java
+SPDXID: SPDXRef-item1178117
+FileChecksum: SHA1: 7e232fdb471b7de5337bb5c167ecfdba88c987dd
+FileChecksum: SHA256: 38c5770daa7d7a05bf634a90e7e29e21c204ec662906be3321fdd4db85fe2e7e
+FileChecksum: MD5: 0c0bb70565e021bce9ae3b3bd84aa480
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/DockerInfoList.java
+SPDXID: SPDXRef-item1178118
+FileChecksum: SHA1: 87839ef21187d622524ac5fd5e72988479d03067
+FileChecksum: SHA256: 8dff61a1dff2893848ad9b273e9244c8283cf87226456a3d70f0b6e66c0ad958
+FileChecksum: MD5: 0f1d32f592b959366b63af2a578290d0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/MapOutputs.java
+SPDXID: SPDXRef-item1178119
+FileChecksum: SHA1: 17de75ddf47d17b6ecce0d75b4f11a9b8bbfd6fd
+FileChecksum: SHA256: 1077214bd69cd62aa572dcd48542ac458cfd25d03a24339c3affd7549c49b440
+FileChecksum: MD5: 7d44fc9470e4c4a9673952a503177f0c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/TrainingClient.java
+SPDXID: SPDXRef-item1178120
+FileChecksum: SHA1: dbfea1f29724096176b5fdda5c130ae43801399c
+FileChecksum: SHA256: d15c65aab712eeb5498b2dc47c19ccfae6ec440cf08f3b24d2002128de7a3644
+FileChecksum: MD5: b67021278173610fddc2ae177d5ec836
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/ConnectedTo.java
+SPDXID: SPDXRef-item1178121
+FileChecksum: SHA1: a8b80dad232177e7ba0b5b3d07460e7c20c6c3d2
+FileChecksum: SHA256: 1c5ccee17c87a1d13d8fc800b970154b21a010f1c2e12788c327e3c81271f7d0
+FileChecksum: MD5: 337032c2a8be5f73107c9b505e53aa56
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/ProbeIndicator.java
+SPDXID: SPDXRef-item1178123
+FileChecksum: SHA1: 8c49e9f4a178661cbd197d65a7a9b0ef9778523d
+FileChecksum: SHA256: 842c043617c5a295f45682e1801028a108131377e9e9cdf7786bf63d792c42d3
+FileChecksum: MD5: 95923bfdae4407b37469b8957e5b831b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/InputPort.java
+SPDXID: SPDXRef-item1178122
+FileChecksum: SHA1: 4c9023812d0ed33aae07728e3babdf8da4065d6a
+FileChecksum: SHA256: a57ab5a51edad2d0dc44b5d2ad66a9313a61bb3ed57f824f0092e38e8a4c6509
+FileChecksum: MD5: 0e086ac3110f95d610c1b828b538aeb2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/DataBrokerMap.java
+SPDXID: SPDXRef-item1178125
+FileChecksum: SHA1: 96d9ed609249a1be72b9efd78acd86e9149d251a
+FileChecksum: SHA256: 126e15193decebefcf93bdd6d0b7a8ca3df6bc53bf78a4de067fe77a55dee53e
+FileChecksum: MD5: 71af36565c6a940cdd327f057f9775a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/DataBroker.java
+SPDXID: SPDXRef-item1178126
+FileChecksum: SHA1: a4df17c5fcd5e5b68d647e95c57725d4fe7aab54
+FileChecksum: SHA256: ea93aa4c470c8123cf2bf282afb71276d1dcc75f72d07e0357fd852a3114f1a6
+FileChecksum: MD5: edb038725f9cb5f31a65b0ac1f8fa9b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/Blueprint.java
+SPDXID: SPDXRef-item1178124
+FileChecksum: SHA1: fe14400326f066b0e93b783c2188ea90f55defc1
+FileChecksum: SHA256: a41e6b73ebe3306d71c7a02dd07b66b0a2a8a4d8a3e14053dba96371a57ec166
+FileChecksum: MD5: d999824f0755bec6d94506a9b6d093df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/model/MapInputs.java
+SPDXID: SPDXRef-item1178127
+FileChecksum: SHA1: 1f768e5fb192ca515c4821ac4fba2bf6f57b64d4
+FileChecksum: SHA256: 745fef650a29b9259a4e210236f039f8dc041c96e5d573836031b8bca05318d2
+FileChecksum: MD5: d7a7745234c59e8c31bd1b7f9c70a206
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/config/SwaggerConfig.java
+SPDXID: SPDXRef-item1178129
+FileChecksum: SHA1: 7d9d5b91a9e574328269ee599054e988805b9d5b
+FileChecksum: SHA256: 78b50c074644b3e330ebac7670ff7e99f83d98f56003869a4714c3db0451a51e
+FileChecksum: MD5: 539c9519fcef6443da8d94b25d0fa5f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/test/java/org/acumos/bporchestrator/PojoTest.java
+SPDXID: SPDXRef-item1178135
+FileChecksum: SHA1: dca1dacd09013d906bbf1997fdc029e2ef053088
+FileChecksum: SHA256: b00e8e52bee03c11b1de7e941ca01fa151e22c665bfa71746a8617f6ea20483b
+FileChecksum: MD5: a711aa125ec39171bad0e14ccc2eef7d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/test/java/org/acumos/bporchestrator/AbstractControllerTest.java
+SPDXID: SPDXRef-item1178136
+FileChecksum: SHA1: 67b30372df4b93b9790b7a0d86e4e34a254c9c90
+FileChecksum: SHA256: e7772a7423505fc0769d9d4f08d1f83a5b030f64d626840c4e23bdb1fc6e0791
+FileChecksum: MD5: 7cfb54a9d4462d85151e15a9cd9860ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/test/java/org/acumos/bporchestrator/BpControllerTest.java
+SPDXID: SPDXRef-item1178137
+FileChecksum: SHA1: d83b69a1fc1de264dfbf69d8c143f43c1888d7df
+FileChecksum: SHA256: f1fd53c389091693118a16cb416e26a5b59ce6d110c310347c119bd26661c229
+FileChecksum: MD5: ed00eb04a5e957ef938e76f132e0e0a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/LICENSE.txt
+SPDXID: SPDXRef-item1178140
+FileChecksum: SHA1: 3aef554244e22380e8a085cdaeec7e83503acd40
+FileChecksum: SHA256: e821a896b64cd292227b114fe1296cff13ef894a5f362bb31cafc9f1194f2175
+FileChecksum: MD5: 23c1b06be16a3a870f2dc3e6b871a13e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/docs/release-notes.rst
+SPDXID: SPDXRef-item1178047
+FileChecksum: SHA1: dbd52aed40919f2370beae3476ee2fcde1a959f4
+FileChecksum: SHA256: 231b424c1cb2533b3e50ce53718df11ba8af44553b75b5f3d83dcbd014f346ab
+FileChecksum: MD5: 92bfeac8b9c0a374a868099053e7687c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/docs/images/withoutDB.PNG
+SPDXID: SPDXRef-item1178044
+FileChecksum: SHA1: bdff778d37544a4d9a7d9ef4917d905642d7b242
+FileChecksum: SHA256: 5778c04f050835192480a1c5625bc925c9c79494b8959265a27983887d6a2400
+FileChecksum: MD5: bf6155d33141cd51da70aee90de7ff86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/docs/images/withDB.PNG
+SPDXID: SPDXRef-item1178045
+FileChecksum: SHA1: a90fc6d710c5ee24705b44ac824196550ba031f6
+FileChecksum: SHA256: 3851819faf54c8c55ae9c2491fdd591af408c415354ece736b561e83c4389619
+FileChecksum: MD5: 87246acdb7552cc29cc099fd31f49177
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/license/licenses.properties
+SPDXID: SPDXRef-item1178052
+FileChecksum: SHA1: a9de97e0fcf9c8fa2655278cda10a363db095829
+FileChecksum: SHA256: 999cfa33ba8d99cdb292651bcf2354e745e116545c68eba7161f2a8537958378
+FileChecksum: MD5: 9ac32da8413047ef9690a70828d0d35d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/src/main/java/org/acumos/bporchestrator/util/DBThreadAttributes.java
+SPDXID: SPDXRef-item1178099
+FileChecksum: SHA1: 586901a762e1a6056f03dc2d3c8aeb7793a3a7a3
+FileChecksum: SHA256: 0c91bdb97d395caf63b2ec879a2f6cbaadc244533d89ca5d145040ee002abc0a
+FileChecksum: MD5: 394c399de3bcb2a33ae5153b5d9b7e1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/INFO.yaml
+SPDXID: SPDXRef-item1178138
+FileChecksum: SHA1: fe104ffb418d5903831bfe6e001f951ad7958d8f
+FileChecksum: SHA256: becdd512f5713edd12e35087f452b9b895aeb83428e1515bb5031b20c8cfe18e
+FileChecksum: MD5: 208d738aaf965a077d5b2a853c8505ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/.gitignore
+SPDXID: SPDXRef-item1178139
+FileChecksum: SHA1: 11da4312e56c54b809147a5b0f03ae7e678914fd
+FileChecksum: SHA256: d98ce8db2fa8621485ce345679eadbd2ff866b6bfdf12f9459c6f7684f5838fc
+FileChecksum: MD5: 3cec106efdef352d346943552989ab04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/.gitattributes
+SPDXID: SPDXRef-item1178141
+FileChecksum: SHA1: fc76bc565eabebec977407c78ec2021395b9b5f8
+FileChecksum: SHA256: 2cf7f4c26472c7cbd535cbeec98c5b58a1e9b1f7cbca14e3ee0b72edccac78cd
+FileChecksum: MD5: c678ee5f8a4293db433f925a23d704ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/pom.xml
+SPDXID: SPDXRef-item1178142
+FileChecksum: SHA1: 2ee877a5f6b3b4fdafa1244439632e285d848848
+FileChecksum: SHA256: a5336a0df32cf350c4cab040c272d168a9a66a73f7b245ccf471bfa6b54b54b9
+FileChecksum: MD5: c5dbff6b7bb6c1fc56de224a3410c6f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright>true</canUpdateCopyright> canUpdateDescription>true</canUpdateDescription> canUpdateLicense>true</canUpdateLicense> emptyLineAfterHeader>true</emptyLineAfterHeader> configuration> plugin> Require Java 1.8 --> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-compiler-plugin</artifactId> Spring sets the <version></version> --> configuration> source>1.8</source> target>1.8</target> configuration> plugin> Add the build number to the manifest. Spring-Boot uses a complex packaging process that makes access to the original Manifest.MF very difficult. However, Java provides access to the implementation version for a package, so cram the build number into there. --> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-jar-plugin</artifactId> Spring sets the <version>2.5</version> --> configuration> archive> </text>
+ 
+
+##File
+
+FileName: runtime-orchestrator-2022-02-02.zip/runtime-orchestrator/.gitreview
+SPDXID: SPDXRef-item1178144
+FileChecksum: SHA1: fd73ed17ce6783195c592336c8fa9f8b47a180fc
+FileChecksum: SHA256: 3dd2a835c413b37290cdee5f471ca9574ef7aa03f15c3f7b6743f94a29cdce86
+FileChecksum: MD5: 2ab469329fec3344bcec42da37fc326b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
