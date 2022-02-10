@@ -1,0 +1,1660 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_license-usage-manager-2022-02-01.zip_1644480641.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-02-10T08:10:41Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: license-usage-manager-2022-02-01.zip
+PackageFileName: license-usage-manager-2022-02-01.zip
+SPDXID: SPDXRef-upload309
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 58f33a91181bb16c6dc288b3a4b55d1d7d0e7079
+PackageChecksum: SHA1: b4b1debfe3aa162992da0ec3148006477f00c659
+PackageChecksum: SHA256: d530a04ad0412fd8bc4b3fd6bda59a574ab6ff91d17d360185c4bf3141f86f29
+PackageChecksum: MD5: 443a1736ffb71cc279da0b7133d57b02
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload309
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/config.js
+SPDXID: SPDXRef-item1174694
+FileChecksum: SHA1: dec55447a75ea4d08cea4b39b267052de66e2bd8
+FileChecksum: SHA256: 440ebfc4d73278a9ae69f4145f768a7ef8d20277d2e127b7c406a0ccc87de516
+FileChecksum: MD5: c149d6aad7777e23d434dbe1119550db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/logger-acumos.js
+SPDXID: SPDXRef-item1174693
+FileChecksum: SHA1: 8c10eb377cefd79f0ee356d4599d1efd36dac745
+FileChecksum: SHA256: 35e9c8eb6a8fb01f89429cf5fb3d47f41d8f70d5c20b6791abc602d7a15a8ad7
+FileChecksum: MD5: d7f962bb743e1524fe0688f0824126cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/db/pgclient.js
+SPDXID: SPDXRef-item1174696
+FileChecksum: SHA1: 86d199e29d183b7108528d46d01abdf4b47aca5c
+FileChecksum: SHA256: 8e0f12861ad9d3463d64250337f529a8afe6ff94ffc61b03fde4fa700fa2825c
+FileChecksum: MD5: 509a5201666e42067630728723220737
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/db/asset-usage.js
+SPDXID: SPDXRef-item1174697
+FileChecksum: SHA1: f242cf0cca0f4ad22795f43c03f77748e83ae311
+FileChecksum: SHA256: d968746d1e33c3810433a4a644501bb46681ec0fa8cc5f03ae08c87dc4d8ee9a
+FileChecksum: MD5: 5a3c030b74eb4944b426967fd5409a17
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/db/swid-tag.js
+SPDXID: SPDXRef-item1174698
+FileChecksum: SHA1: fdfa7d243e8b4da8eed8023d630b6be4e3051237
+FileChecksum: SHA256: 418ee64804d3ccb411168a88f39bbded4294ebdc288ebb3df0c1785848fde23e
+FileChecksum: MD5: b77bfd074a3fbcc976d6a828f0cc36e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/db/odrl.js
+SPDXID: SPDXRef-item1174699
+FileChecksum: SHA1: 451b820e94a7c9e6a30b87bc87e992ba8e40c308
+FileChecksum: SHA256: c2e5513906a9a7694382bf40c78625bf72e9fe9a3f1b7b12d2f7107053e8d32d
+FileChecksum: MD5: 310977595e44e87e128e8774de83eff5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/db/asset-usage-agreement.js
+SPDXID: SPDXRef-item1174700
+FileChecksum: SHA1: c6b04933362b67d79ab4dd3e1a8e1cf6145a70f4
+FileChecksum: SHA256: 30f8e293a62b7b63a00c792dcbee899f4a5dd07cfb08b2dad68f0ced37d3fe7c
+FileChecksum: MD5: 97269839bab0462dde8dcbcdf80ba49a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/db/asset-usage-req.js
+SPDXID: SPDXRef-item1174701
+FileChecksum: SHA1: 566f8b53553ed39ca0cfae9ddb8b99764a13acac
+FileChecksum: SHA256: ea67abe471c3dcb5f9573fc14f4b72adecf73d07596a9a55256f7b007ec9b7ff
+FileChecksum: MD5: 4106e70795198044af902c77201b896b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/db/sql-params.js
+SPDXID: SPDXRef-item1174704
+FileChecksum: SHA1: fb30f3d587a052fb39ce015eef779763ab8f7a99
+FileChecksum: SHA256: 8d30cb6209afdbf85e83a217f92d5a19a1416e9712df9c5a1c3912100c373847
+FileChecksum: MD5: 34575a14f3f59469e3dc354e353ace1f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/db/license-profile.js
+SPDXID: SPDXRef-item1174702
+FileChecksum: SHA1: db6a856b189528abf7c568d6b06f2b371f5a7d79
+FileChecksum: SHA256: 74fdaf946ccbbf1b405b702547e23a1b17afdfa2dd00d09f72263593d23479c3
+FileChecksum: MD5: 8b70cfb36b5e59a7f500eee6ce99d079
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/db/snapshot.js
+SPDXID: SPDXRef-item1174703
+FileChecksum: SHA1: 6896393cd77fe9ef09e95c88a991bd55faa1234b
+FileChecksum: SHA256: b2c5a7d75326699ce84247271d50dcf7f5ef730e8db7902315a72943943c5aa8
+FileChecksum: MD5: 4f13c14c89f7e22e89b13e42617794dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/utils.js
+SPDXID: SPDXRef-item1174705
+FileChecksum: SHA1: 42c7074ae1e2efe76057131ea18338ec823b3b82
+FileChecksum: SHA256: 2eea65b5ec83c7e32dad60453b3503bd48c6edad359a1f8b8d1239cb7b64119f
+FileChecksum: MD5: bbf997741f5fa5e47730c65170f683d0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/api/index.js
+SPDXID: SPDXRef-item1174710
+FileChecksum: SHA1: 3c7a60eebcad00ff849d485c9c8e9139bf7aa462
+FileChecksum: SHA256: b0da3ddc215843f966616855a6c4249dc6f183b6dd6cf60ef0e03a0aac9a7ae2
+FileChecksum: MD5: 9c07a4af6cb63516b63e238fafd7f441
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/logger.js
+SPDXID: SPDXRef-item1174706
+FileChecksum: SHA1: 12689e491893ad5ac7c6971325c01bf77f503fdd
+FileChecksum: SHA256: eb390105f8064598609ff89dfde2320020b6ceea6c527a2d8b2bd5f9cbe30c7c
+FileChecksum: MD5: dad9f87cfadb7dd5f2e3f0d034e013e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/api/healthcheck.js
+SPDXID: SPDXRef-item1174712
+FileChecksum: SHA1: e9b191f944edc8e21d4a657d82022c7f1b8f6822
+FileChecksum: SHA256: e41ed80df70b5fe024badea2147424a4dcb1cb1c2a3c13cea6a7b26d85e9130b
+FileChecksum: MD5: 25b2033947dece07810480ec48c7dbad
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/ui/openapi-ui.js
+SPDXID: SPDXRef-item1174708
+FileChecksum: SHA1: 8aaf4f3bf3c248463efb880dbec2742484509b08
+FileChecksum: SHA256: 66295842b67d20f73090224f622cc6fc01df46123f419bd51beb6235e5970953
+FileChecksum: MD5: 675576f340af285eeec7dffeafbaf78d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/api/response.js
+SPDXID: SPDXRef-item1174711
+FileChecksum: SHA1: be00f9e6d911adf02e6d21b2675bb2b070ca8cc9
+FileChecksum: SHA256: 328c48ebfac4bff674aabf1edffab31bdd7f2bc71d02d6fc34e0f0936ff26d35
+FileChecksum: MD5: 1db65e53247d40061cdbcf50724ce539
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/api/v1/asset-usage-agreement-restriction.js
+SPDXID: SPDXRef-item1174714
+FileChecksum: SHA1: df744e87cf8b69411f8827a0a697ae1eb71e1a37
+FileChecksum: SHA256: c67214793cc16ebf87a0515814324133a340fa8bf9a6b4d91c76736e2722982d
+FileChecksum: MD5: 148b551bf8d722ad9f98d7e7775bffb7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/api/v1/index.js
+SPDXID: SPDXRef-item1174715
+FileChecksum: SHA1: 2f79de23e00fc43db5570bda4d4c0cc0d584d0b7
+FileChecksum: SHA256: 6f798763e09327fbc8fc94b4b53e5dd0fd992135e5994dacf9246a89e700342d
+FileChecksum: MD5: 30cf358922e3ce5365151c23aaa379ce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/api/v1/swid-tag.js
+SPDXID: SPDXRef-item1174717
+FileChecksum: SHA1: 322fd441408dccc2be388d16b1a40ec088163368
+FileChecksum: SHA256: 291ffbfa822af26fd67c1ee85d424aff400173d831ad5d261f41bdf5882e5a99
+FileChecksum: MD5: ac7ffddc6c170b56fa07103573d4b4a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/api/v1/asset-usage.js
+SPDXID: SPDXRef-item1174716
+FileChecksum: SHA1: 1a11777754e266a62e973362426d4cbe154c084f
+FileChecksum: SHA256: e1a08255ed61e5e7dc0f7d5df8058880cb0c359fc82652ea6f8d51d3092a286a
+FileChecksum: MD5: e134018eea926884e78a2d1176cc20ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/api/v1/swid-tags.js
+SPDXID: SPDXRef-item1174718
+FileChecksum: SHA1: d3bea85859f765dcc6e15f8a2728bd345ddee4d0
+FileChecksum: SHA256: e3d5f0677d01bb982a50e54c406d5dbd16d53b69f9375d817e1f63e25bf6a7f0
+FileChecksum: MD5: 766d11c497136f85973cb448c1698c72
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/api/v1/asset-usage-event.js
+SPDXID: SPDXRef-item1174719
+FileChecksum: SHA1: b1f65022b14a3905f97e8f697a998263f6defad1
+FileChecksum: SHA256: 610a1fd646ab963bf7de89d870b9fabce8f68adcc1625cf7d94f27e4297ac852
+FileChecksum: MD5: b292a2bfd0fe6ccf3736e188d189a16f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/api/v1/swid-tag-creators.js
+SPDXID: SPDXRef-item1174720
+FileChecksum: SHA1: 8419d4262c4654ca0cd965db951abf4844c78ebf
+FileChecksum: SHA256: fb64f3b73ff7b6d53d57684a769da271d6b79c413c1184253d5b1e74dac82040
+FileChecksum: MD5: 934578bcbcbd6de6b621d0ff654363db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/api/v1/asset-usage-agreement.js
+SPDXID: SPDXRef-item1174721
+FileChecksum: SHA1: 65a8f59b96ec79dd7691725935f286cd5c0729aa
+FileChecksum: SHA256: 292130c2c43edeae70fefb38084189d0fbe921c2d5c5b55479b16c2c1b09a926
+FileChecksum: MD5: 5db66143230e25db0a6b12296b9a9080
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/admin/index.js
+SPDXID: SPDXRef-item1174724
+FileChecksum: SHA1: 238b5413cd74bc706ef8bf75d3f7174ff1f3142a
+FileChecksum: SHA256: fa5c235f4f9d6290a47856d6ea5c416e056d5e4d01f0e1ba17da447d9ad7c70c
+FileChecksum: MD5: 2d0661594ba2d801c62f3d12c2e24e2f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/api/v1/asset-usage-tracking.js
+SPDXID: SPDXRef-item1174722
+FileChecksum: SHA1: 3365e955c4704c110ee423b20a55837ad9efa0cf
+FileChecksum: SHA256: 3c5cde337196b8f6c7474ecd4eeae620ea7cb20de2e1fcc71d86b53be9b04b3b
+FileChecksum: MD5: 92836c2d186811419f4d9cbb043230e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/src/error.js
+SPDXID: SPDXRef-item1174725
+FileChecksum: SHA1: d8c25f381590476fc97e99fc87ec4663f4fee4e8
+FileChecksum: SHA256: efd2168ed0d1c3fd246e4e39a882af2852330a34061ab7dae127d4d470e67889
+FileChecksum: MD5: 139bd875dacae7f086156fc3e8cf39aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/tox.ini
+SPDXID: SPDXRef-item1174726
+FileChecksum: SHA1: b24cdfe8267fdf9291358357e3eabd4a2a585238
+FileChecksum: SHA256: b197393382ebb7eefa3ab3003acbdfae2922db5bba47998b547bd947faeba31e
+FileChecksum: MD5: b430842a5f7e564fb9f4a3dd66b02def
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/mock-pg.js
+SPDXID: SPDXRef-item1174730
+FileChecksum: SHA1: 81fd5fbcaf0941a47253f0dd5bd60952221b930a
+FileChecksum: SHA256: aac1165fb7a590cb1ad093c7eb06fc604b43999566400fd3d557d7c6bc810da2
+FileChecksum: MD5: 45b4f56dea5422e4b3633ed315cfed1b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/mock-utils.js
+SPDXID: SPDXRef-item1174731
+FileChecksum: SHA1: 7e3bb93bdb6921aaa80034de372a9cf0ee691c12
+FileChecksum: SHA256: 07c038aafd0eb46924823efc896f8df9fdc33f45b5be064f20c7f881984cf2af
+FileChecksum: MD5: 2bb061386e2f69b9d3a8e8079de45cf9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/test-utils.js
+SPDXID: SPDXRef-item1174776
+FileChecksum: SHA1: e2c46e1eb284f8eb551a8412d48435c936749154
+FileChecksum: SHA256: d4c42f2133e4d894de6f266e3b8934b852737e692bcf38601466b21c3bb06c8e
+FileChecksum: MD5: f4dc1f0143d2a5c44790c3c182da56e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/lum-server.js
+SPDXID: SPDXRef-item1174778
+FileChecksum: SHA1: f38626134b30666b7ab9f5302a0386b75280f67f
+FileChecksum: SHA256: 9acd593416f6a40b25d136dc9f3f67cbe9749ed0dcad33496df0e57174d6acc8
+FileChecksum: MD5: 774eafa34606190bac762058cadb18db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/test-lum-server.js
+SPDXID: SPDXRef-item1174777
+FileChecksum: SHA1: 325bdbd4d5791b33d8cf734b2a5f95a0bce1f1f9
+FileChecksum: SHA256: e000f6b5ef68c50829b8275c80ed60798d155c55697d8a982b58e6e249820ab1
+FileChecksum: MD5: edd9b84c6bed9f9f527114d4fe99d3e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/.nycrc.yaml
+SPDXID: SPDXRef-item1174785
+FileChecksum: SHA1: 4074f7cebe530fb9382cf498174c066ba3e37f11
+FileChecksum: SHA256: fa187f6c47ee98b9a7327fd58907d520e610772d473d81336b590c19a919ff29
+FileChecksum: MD5: 83b8fa827e080b1afaceb1549fc37f2c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/docs/diagrams/lum-architecture.puml
+SPDXID: SPDXRef-item1174677
+FileChecksum: SHA1: a5facc3316bd17195ff1eebc909ead48647b529e
+FileChecksum: SHA256: 38fa75676cd2057419122c1681f05021f9d791439348a24b166b2680a7966790
+FileChecksum: MD5: e91a91d78840419bbc82f41ae024f5be
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019-2020 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019-2020 AT&T Intellectual Property. All rights reserved. endfooter </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/docs/api-docs.rst
+SPDXID: SPDXRef-item1174685
+FileChecksum: SHA1: 21bef94ef9f1b7101f8b6db98504cde000235541
+FileChecksum: SHA256: e36581c9460c649bd6e40012a60e0f1356a4e5dc36d10baddbe04d97c3a57468
+FileChecksum: MD5: dee3f4fd5a0f82bcbd7570f163658ba0
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/docs/asset-usage-denials.rst
+SPDXID: SPDXRef-item1174684
+FileChecksum: SHA1: 5402146c060d0e6a4199fef72f9f97c1938c9443
+FileChecksum: SHA256: 756fc0c53db29022cc3ab9261214535ccb0d0bf154f081537fccc6e05220f744
+FileChecksum: MD5: f7c29ee9e0763bd4a51df2f26cf8bd2c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/docs/developer-guide.rst
+SPDXID: SPDXRef-item1174687
+FileChecksum: SHA1: cf89aaf0bdcc96662e0755f721f214a4496ef332
+FileChecksum: SHA256: de3424a07724c4075a9d41723653f42d3462056f5dde7db45b204656457ea8c5
+FileChecksum: MD5: ce4a15f6787f4154527106998a25d78f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/docs/index.rst
+SPDXID: SPDXRef-item1174682
+FileChecksum: SHA1: 7ffe7f6c4f337091aa0e9a04cd5010a090cb7b70
+FileChecksum: SHA256: da70e4c9fda4320888692073f0641e695d9391bcf08e280fbf4a2505cb186137
+FileChecksum: MD5: 0a2c06ad9f64be382b4fef57745dfe5d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/docs/install-guide.rst
+SPDXID: SPDXRef-item1174675
+FileChecksum: SHA1: 21f16c5d5f4c11e36823fb77740c584cab540ea4
+FileChecksum: SHA256: f65911ca9b1eabe495785463152bb27a84c40be61650ddcca993795ba6dd9b71
+FileChecksum: MD5: 37394333c62de2d1fb0ab8d3eb63cfc7
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/docs/overview.rst
+SPDXID: SPDXRef-item1174683
+FileChecksum: SHA1: df180005a4cd2de263e541e9430068578c9dbbf5
+FileChecksum: SHA256: 88f461df31cf3662481684f8705da3e94f0fa741a081290d305c0d37f9128678
+FileChecksum: MD5: 829dbc23b8ff0baa7b13faf02fe7bbd7
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/docs/release-notes.rst
+SPDXID: SPDXRef-item1174686
+FileChecksum: SHA1: da37941f06883574c62e6cec73621e6fb1aa68e9
+FileChecksum: SHA256: a1ce3a71c5c9d3a2f9f572cc750ad49781b55c8b3e5b6661dc3cc5a5bfed6dfb
+FileChecksum: MD5: 6060f6b090e8d28a20689020dba85c37
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-db/initdb/00_initdb_lumdb.sql
+SPDXID: SPDXRef-item1174788
+FileChecksum: SHA1: 0a508ce37d2385cf80bcac1521836421a73b9547
+FileChecksum: SHA256: d522e5ac95a7ab811bebd6a0184403605ae19072434cf2680e3ec57fef7b1de2
+FileChecksum: MD5: f5265d74811ad75c5163fbc55d4495ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-db/initdb/01_create_tables.sql
+SPDXID: SPDXRef-item1174789
+FileChecksum: SHA1: 3523aa582faecf8ab81d3db6b8f8b332c5d75f32
+FileChecksum: SHA256: 212fdad0871a6fcda057cad03d341ddbf2dc9b49be81a1822fe8b21cf3891813
+FileChecksum: MD5: 9a04accf2bbdb0d4dda5676f1bda11fd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-db/initdb/10_insert_data.sql
+SPDXID: SPDXRef-item1174790
+FileChecksum: SHA1: 2ce09f84aad8f25300fa2a714280785acf633824
+FileChecksum: SHA256: 1e773639164569aece57a2e37831f4b7ca53df2bf188d4db340e9d95e18a3f3b
+FileChecksum: MD5: b154d4ebd46ff3bfd890e8c8b2a6be78
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-db/Dockerfile
+SPDXID: SPDXRef-item1174793
+FileChecksum: SHA1: 81a7eceab8dc883547057ef1083a63031e449174
+FileChecksum: SHA256: e5f071b2bd91d6e1bf6f05fab619ca68a469053aaacd017b7c9bd9a5a2894316
+FileChecksum: MD5: 5010116e7eb59c87415e962b382c06c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-db/LICENSE.txt
+SPDXID: SPDXRef-item1174792
+FileChecksum: SHA1: 419155fa89a7d092519417db44cb717b2f85197a
+FileChecksum: SHA256: bc5423acb5732abff9ecd13df3071a96e331357cae16e9e611c9cc91e5ea35d9
+FileChecksum: MD5: 235de2b421570cccf81079994746acd7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-db/run-lumdb.sh
+SPDXID: SPDXRef-item1174794
+FileChecksum: SHA1: 27e24dfe7b7f05dacfb60647f633b784b6cdadc9
+FileChecksum: SHA256: 29802853ea379e444b2d8b8fd0f28c4e31fe7d418b33e07046da414acbea986c
+FileChecksum: MD5: 99a2c16afcaa4892cb01968ec9f251d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-helm/templates/_helpers.tpl
+SPDXID: SPDXRef-item1174811
+FileChecksum: SHA1: 64b96d844d6dad7b8422c86b88573eff0a7db298
+FileChecksum: SHA256: 9235f680b5a110f84ef12f68cb5e57161d0f1660ab5fa4b5697d62c3ab938abf
+FileChecksum: MD5: 1596d9f8aefa4725fcbbde0a9ea7aff1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-helm/templates/db-config-map.yaml
+SPDXID: SPDXRef-item1174809
+FileChecksum: SHA1: a13d61967920fcb06ac248c26f3d1ba6bd2735fe
+FileChecksum: SHA256: ebbaae1ebe4a0305a1e0243800a09c21f90aaa193266df597bfe8adb4c6f0be5
+FileChecksum: MD5: 9c15fe8cefc05aa7960ccdaea9535a51
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-helm/templates/deployment.yaml
+SPDXID: SPDXRef-item1174805
+FileChecksum: SHA1: b91bd000159bdf6c2738c3d06bc19ea45f03d51c
+FileChecksum: SHA256: 5c58c130f999157343df3a2ba3d193bed84d2e0e31a22bc781ea4ab8e1ebdca5
+FileChecksum: MD5: c827801d46f05be6c7219ac72bd24377
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation
+Copyright (C) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-helm/templates/ingress.yaml
+SPDXID: SPDXRef-item1174810
+FileChecksum: SHA1: d2a5e20d8eb4cc5241d7dae79570709f1bd9f5ec
+FileChecksum: SHA256: e97b2ae8ccca88f21a5e65676f9bbee2101d66c3cf071a7924db53a0f0955c43
+FileChecksum: MD5: a19690f2f8e77a15cad86ba954f04751
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-helm/templates/node-config-map.yaml
+SPDXID: SPDXRef-item1174808
+FileChecksum: SHA1: 77c28eea19d6fb1b70cd056aad5af32140a9a866
+FileChecksum: SHA256: 49900e43bd93cf935b5da3f9e9d922b7d511e79ab2a2fb04ea32342a46608487
+FileChecksum: MD5: 5e127c83a9a8e8c486216ccf8aff2372
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-helm/templates/service.yaml
+SPDXID: SPDXRef-item1174807
+FileChecksum: SHA1: 5e7a1b61716dc8dea777fb13a2d418d9c49c5990
+FileChecksum: SHA256: 28961c4bfaf2dcf38c802b673b5703063f087624ab933f346bc2b2c566315258
+FileChecksum: MD5: 2d7bdfbae48915e8f8d9fe777acf0325
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-helm/Chart.yaml
+SPDXID: SPDXRef-item1174812
+FileChecksum: SHA1: bca01e1ee1301df09e47ccf449cdb4d901f76bc0
+FileChecksum: SHA256: 18e36be4d2a1fdcb200e27941ba481fdd2cb71518d1589468044335cd4915860
+FileChecksum: MD5: 4f426978b7f8c2a1e19008227bb8c2c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-helm/requirements.yaml
+SPDXID: SPDXRef-item1174801
+FileChecksum: SHA1: 703e2d85e18e5bc8aa5acc0ed2a3a02119d3f0ec
+FileChecksum: SHA256: 93a2920e34d6c707717d0aeef90525f4d5d4104e3b8f7e82d003cf2ecd8e97e6
+FileChecksum: MD5: aba795ec2db6ac77b7b6baa94cdf627d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-helm/values.yaml
+SPDXID: SPDXRef-item1174800
+FileChecksum: SHA1: eb26772f606ccb2896bf59fd6ee3e086857483f9
+FileChecksum: SHA256: 0675640c52f6e5c55ae4b5e298a9344d29fff79042e4756cc9baae1cfb86061b
+FileChecksum: MD5: 9833849dd7482aed8ea26ca57bf78510
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation.
+Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-helm-test/helm-simple-deploy.sh
+SPDXID: SPDXRef-item1174827
+FileChecksum: SHA1: 19de92a84ce2078dde0edd7a71f8b46a09d4e4ae
+FileChecksum: SHA256: 2fce8fcdf15f12b1fbe2378485f0f595eb55aa523c4f7c9c8b3d362474cdaf42
+FileChecksum: MD5: 99183e0ccc9ae722bb3e0232bc1759fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-helm-test/helm-simple.values.yaml
+SPDXID: SPDXRef-item1174825
+FileChecksum: SHA1: cfa217db91cd6979c9ea69c8b8023752ec26f4dc
+FileChecksum: SHA256: 3b7b3af08d0e57aba60f97a5d5e3f3a5ba0f779e45a1e3f97f6102a18f095aa1
+FileChecksum: MD5: 0ccb9a398450dfc1cf4b4d861484ee41
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation.
+Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-helm-test/minikube-setup-localbuild.sh
+SPDXID: SPDXRef-item1174826
+FileChecksum: SHA1: 3ad3c088aa36835cc1629af13567bb49098641a7
+FileChecksum: SHA256: 833dce40ec5b123bd5468f7d6f0850e3ea661d4544eec6f6df6470f6c1c1b29f
+FileChecksum: MD5: 3884dec44ceb594b8e486641e0ca858a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation.
+Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-java-rest-client/pom.xml
+SPDXID: SPDXRef-item1174820
+FileChecksum: SHA1: a30d88caf8781ab7c31442c1e94617b48adb9568
+FileChecksum: SHA256: bf3a6e3c4a8b239934cef37e45e1903c20383dd9cb07a88c8c5edf8ef0a547ec
+FileChecksum: MD5: 700ec02764bb10c0b64b8fab8026835f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation
+Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/lum-server-api/lum-server-API.yaml
+SPDXID: SPDXRef-item1174691
+FileChecksum: SHA1: 6cb621595edaa70e265c1ba60add4f4298a6a906
+FileChecksum: SHA256: 8a45130eec2dee738e8560ce1c749cae0c084829fc5312e7dea01880c6ab9696
+FileChecksum: MD5: 7ad854452600da950aabfb3be6f48dfe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/Dockerfile
+SPDXID: SPDXRef-item1174779
+FileChecksum: SHA1: c9ec87907afab873aa0026f6c87558c90dbd8ebf
+FileChecksum: SHA256: 763a2e5b0f2ecf35a1854e7f00e958ef727df521584a2e751be3d241f2f94a6f
+FileChecksum: MD5: d73bba335212b10bd5b2924cd09224dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/LICENSE.txt
+SPDXID: SPDXRef-item1174728
+FileChecksum: SHA1: 419155fa89a7d092519417db44cb717b2f85197a
+FileChecksum: SHA256: bc5423acb5732abff9ecd13df3071a96e331357cae16e9e611c9cc91e5ea35d9
+FileChecksum: MD5: 235de2b421570cccf81079994746acd7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/package.json
+SPDXID: SPDXRef-item1174781
+FileChecksum: SHA1: ab0d6411401b01bd953600badc56a9b115973f8b
+FileChecksum: SHA256: 503ab4a9fac72aa9fb7c1de9943badb9695d2b162f9c83257f712336d854a288
+FileChecksum: MD5: 89073e02b54c6e44679e242302a8fecd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/docker-compose.yaml
+SPDXID: SPDXRef-item1174822
+FileChecksum: SHA1: 8ae4ff7c5b8d055204d81f84b25b1d3339c9955f
+FileChecksum: SHA256: 828c6351b6c1576079f272377d6867bc7dff1148187e48d85825bf8f3832ce82
+FileChecksum: MD5: 71006491ba93c5eff1c089d466278201
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation.
+Copyright (c) 2019-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/pom.xml
+SPDXID: SPDXRef-item1174818
+FileChecksum: SHA1: 9415de8866f8781eb8a59445d1f74ce936eb45c9
+FileChecksum: SHA256: e598c76e0e659bbffbbebb17c645140574bd7c5ccf7d52cc7c9126d6cb47685d
+FileChecksum: MD5: 3e82b9e0e00297c18155d680ab2a9377
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) Nordix Foundation </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/docs/diagrams/lum-in-acumos.drawio
+SPDXID: SPDXRef-item1174678
+FileChecksum: SHA1: 8466820ae98338fff5f952e32a24c2ea34b42439
+FileChecksum: SHA256: 65d01dcbc9cef2b63599324a40c9e588cb4011227a4692f1d9552440bec41ee3
+FileChecksum: MD5: ceb0b3aeae2ac08dc158899f7554f2b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/docs/images/lum-architecture.svg
+SPDXID: SPDXRef-item1174680
+FileChecksum: SHA1: 26c7d6d934ba185ad02e6a0c18b7d98e67d8ceae
+FileChecksum: SHA256: c3d57cd43fc242868a696115494b29ef933489d9a8f0425ab860f6ebda0e4ed3
+FileChecksum: MD5: 67a6bb23ea3c642c60fffeaca29066fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: <text> Copyright (C) 2019-2020 AT&amp;T Intellectual Property. All rights reserved.&lt;/text&gt;<!-- startuml lum-architecture allowmixing
+Copyright (C) 2019-2020 AT&T Intellectual Property. All rights reserved. endfooter </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/docs/images/lum-in-acumos.svg
+SPDXID: SPDXRef-item1174681
+FileChecksum: SHA1: 6abae235de80e58200e4d1f99c94bdb03b53089c
+FileChecksum: SHA256: fbd109e9435a5230bb8000339a52a0b22604c68d972cb5fccb78cf9ba3300801
+FileChecksum: MD5: ff96f845964f7cf2942060a7b0591de0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright © 2020 AT&amp;T Intellectual Property. All rights reserved.&lt;/text&gt;</g><path d="M 1598.57 631 L 1598.57 491.43 Q 1598.57 481.43 1597.86 481.43 L 1597.5 481.43 Q 1597.14 481.43 1597.18 471.43 L 1597.72 339.24" fill="none" stroke="#cc00cc" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/><path d="M 1597.74 333.24 L 1601.71 341.25 L 1597.72 339.24 L 1593.71 341.22 Z" fill="#cc00cc" stroke="#cc00cc" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/><g transform="translate(-0.5 -0.5)rotate(-90 1597.1446276050037 485.9798232181922)"><switch><foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 486px; margin-left: 1597px;"><div style="box-sizing: border-box; font-si </text>
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/package-lock.json
+SPDXID: SPDXRef-item1174689
+FileChecksum: SHA1: 61d711cda3df6711ca2eff20f1c09c9b7e6465ba
+FileChecksum: SHA256: 8364c76cbce2511b617d63963aba040924e46f57a9dcd114e4423e6596f0f580
+FileChecksum: MD5: 4f1a5a692fe8007b0fc1401d7c8cd7c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/.gitignore
+SPDXID: SPDXRef-item1174727
+FileChecksum: SHA1: 5c82cb364ccc42139031fc6519c138ef81f2df26
+FileChecksum: SHA256: ca06e7ce01ccdd1f477910e1cd1339c23119ecf2386350b8ad876983e1da92ea
+FileChecksum: MD5: 9a4ba99dbf12657551de9883da82fc57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/13_put-200_asset-usage.json
+SPDXID: SPDXRef-item1174733
+FileChecksum: SHA1: 9e12eee189baf63e9780e176ae57a6ec86f52798
+FileChecksum: SHA256: eaf9ad3bcedc6de49a683b2e9c1d64a35ddf479dc1c4d70089dc7411a1239105
+FileChecksum: MD5: f84a25a9ef011f95183a01122a6ebe4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/14_put-402_asset-usage_restriction_user.json
+SPDXID: SPDXRef-item1174734
+FileChecksum: SHA1: 480416ebca0af10fa3c0f13f8ee717c02cfd14f5
+FileChecksum: SHA256: 9b3811b08ccec5000504e9155d4efa6a47597f5a15a4425732830b86ccda3157
+FileChecksum: MD5: 5f100c10b3493cf5c0f6a9f57301cc6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/17_put-200_asset-usage-event.json
+SPDXID: SPDXRef-item1174735
+FileChecksum: SHA1: dca820b6286e8edc53448962901de69c8ec1251d
+FileChecksum: SHA256: 55b27ba3f6f3244e73892142aee9cdbac7e088a3e7353695443d7137a62dac69
+FileChecksum: MD5: 0deeeb8c1fc2aa4c6e14bb5645dcf7a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/10_del-200_asset-usage-agreement-restriction.json
+SPDXID: SPDXRef-item1174736
+FileChecksum: SHA1: 701119a37ab1061d29eeacf9477ee15a4fe5b4b0
+FileChecksum: SHA256: 9e79652452f2df5c1065767c8d75f37178c13e49862630301fa299209920b755
+FileChecksum: MD5: fac122cd2d1020fc81651a95191d3555
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/25_put-200_admin-config_debug.json
+SPDXID: SPDXRef-item1174737
+FileChecksum: SHA1: 7ea2dced39824cb5702eba9873c6ae3a2ed04ff4
+FileChecksum: SHA256: c983ae6b9bffdb6916fce4bc5995a9bb9d5f1e127f2b8cddb301b30fd7e434ab
+FileChecksum: MD5: 0429ec8d85739d826d9ffaa89c14075f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/24_put-200_admin-config_info.json
+SPDXID: SPDXRef-item1174738
+FileChecksum: SHA1: 79d0d51ad3c708306d06bf9549ecb47742b64f81
+FileChecksum: SHA256: 33bf63f444e385d3a59c21ab2eff410469d0158d504a4baa23f888a77718807e
+FileChecksum: MD5: 65ede1e6f1b3e790e5a2c2b8f59f0f80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/18_get-200_asset-usage-event.json
+SPDXID: SPDXRef-item1174739
+FileChecksum: SHA1: 84a31dd1b498276465ad302845de8d0b745ceeb6
+FileChecksum: SHA256: 84f1de6e42224bb869c9490d9cc571c0609dfa05d8343841940fc576d7b997c0
+FileChecksum: MD5: a3b7f21b366d80a95742c8b61f22b660
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/15_put-200_asset-usage_user-creator.json
+SPDXID: SPDXRef-item1174740
+FileChecksum: SHA1: 8b2a8d740d5d55d14ead0a57210362c113864d0b
+FileChecksum: SHA256: c08837c349a53768c181b9dacfc618b1db0281acfa3cb724ba712ace77d1b6ce
+FileChecksum: MD5: 303f75b6b99f806778b75adc52f011b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/37_put-402_asset-usage_lic-revoked.json
+SPDXID: SPDXRef-item1174741
+FileChecksum: SHA1: 0d9a107fddc8b63a5e7c9c392125f89bbb340e30
+FileChecksum: SHA256: c3f855f4b48d5ffb023bb9045eb209aefe1186f1a535fccd2c1f4e9a0c205488
+FileChecksum: MD5: 610e7384b9d406a221af3a2f03417e23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/20_put-200_asset-usage-agreement-restriction-odrl.json
+SPDXID: SPDXRef-item1174742
+FileChecksum: SHA1: 1ab87d69c01e84d8071e843943db3f1902a91a83
+FileChecksum: SHA256: 60d675c3786dbf6c7d6d7b4612d717465f753e8dc6183df39eb1fb4a07181aae
+FileChecksum: MD5: fe44a55b24baf95600ffedcf34a525ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/39_put-402_asset-usage_rtu-revoked.json
+SPDXID: SPDXRef-item1174743
+FileChecksum: SHA1: ff0cae267cc61aca885ce22a23eca8452310168e
+FileChecksum: SHA256: ad9200ee45e2f3ef4d3e2b70b0d0b977175d43799d5e85bd0684308b87187308
+FileChecksum: MD5: d9b29f7e5c278240e4417b0a12715430
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/40_put-402_asset-usage_users.json
+SPDXID: SPDXRef-item1174744
+FileChecksum: SHA1: 78f5d955831caffe621e34ee7fdce63f5f35961a
+FileChecksum: SHA256: d975d960b97a0b174aa62f7dae9ee40c31c84fd5dcdcbb416b182e8ffadc104a
+FileChecksum: MD5: f87198afb1946dc3fdf700280ce79cbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/00_healthcheck.json
+SPDXID: SPDXRef-item1174745
+FileChecksum: SHA1: 9aeb269ba4e7e9aa51f954cd428b619c3f0496f3
+FileChecksum: SHA256: 3c7416952197c4ed1e5eb41365f47fdf6e0c5091aba742bca0cc9a8f89ed30d8
+FileChecksum: MD5: 85a12e829c65f9e64212ade381270506
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/26_get-200_asset-usage-tracking_by_date.json
+SPDXID: SPDXRef-item1174746
+FileChecksum: SHA1: 8023ee3db335ae1680e1707bc32e099e5c1497e9
+FileChecksum: SHA256: 61d01ec7b28f2ae8345cfe8d88dcfc373ba7c74deed1cc4f47e7446949b45e19
+FileChecksum: MD5: 250c3076bb3c2caf9e17bc88d792bdb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/01_get-200_swid-tag.json
+SPDXID: SPDXRef-item1174747
+FileChecksum: SHA1: 29fe753691b4d4ac98f1858b9496544502eb5bca
+FileChecksum: SHA256: 4dcf67e05c7c93866f12b039d86d17cbb061734f432b5462d39ab405c72dc770
+FileChecksum: MD5: c7122dc0e9b93bb9762cc6f356acdb17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/32_put-200_asset-usage-agreement_invalid_constraints.json
+SPDXID: SPDXRef-item1174748
+FileChecksum: SHA1: a653b5ef6a9ce623ecc468c05545a38d6da086b8
+FileChecksum: SHA256: 8ff18f9af7bc394967188db708e4f0ce110be4db32900118107575e5a2a77c2e
+FileChecksum: MD5: 9165987ce6bdfb7b06c827239fa457b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/16_get-200_asset-usage.json
+SPDXID: SPDXRef-item1174749
+FileChecksum: SHA1: e0c03c6a162fbc43caa42ccdd27563e62fa4b0b6
+FileChecksum: SHA256: 0ab5e867292924e6bada8848fa3675e8cad243576c1663c5e72df92c5c8a333d
+FileChecksum: MD5: 09a17a8042e7113c8aff6dc77b10aa25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/41_put-402_asset-usage_not-on-target.json
+SPDXID: SPDXRef-item1174750
+FileChecksum: SHA1: a9d952be81ec240c6fedd942c8e23529e33def8d
+FileChecksum: SHA256: cf39d54b3294b6eb16fac448fb0e0cbe67c96d82bb530a035cfaa472f1469aaa
+FileChecksum: MD5: 20966be4fae22593aadf6015b72f9541
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/35_put-402_asset-usage_swid-tag-not-found.json
+SPDXID: SPDXRef-item1174751
+FileChecksum: SHA1: e1ef879b54d97fd344d1e80f4b4775197408e32d
+FileChecksum: SHA256: bc3c3b82b8da1641fef23892d4b8298bf32fa11a4b46104a12580d6313d84dd6
+FileChecksum: MD5: 60c9570bc43561359f498da7565eda9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/31_put-200_asset-usage_goodFor_P10D25H.json
+SPDXID: SPDXRef-item1174752
+FileChecksum: SHA1: 808d61a629f9aa8329ce633b89fc56f78e6fd1ed
+FileChecksum: SHA256: bf203acb244a17d87bed4f1da053a2a01c80be14bc6f7ebf0a2e5351bae48f8c
+FileChecksum: MD5: e0fd79dcaf877f08e9d8a57edc92ebce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/42_put-402_asset-usage-too-soon.json
+SPDXID: SPDXRef-item1174753
+FileChecksum: SHA1: e06f6e12bedb214f4711fcfe096a50c18a215d45
+FileChecksum: SHA256: 5560f714fac40ac9dde7c2c721753984b150660012c8d5f44b85d97d0262ca60
+FileChecksum: MD5: 209884a8df932a28ff7618b0e86fa1ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/29_put-200_asset-usage-agreement-restriction_goodFor_P10D25H.json
+SPDXID: SPDXRef-item1174754
+FileChecksum: SHA1: 42738f3b5b2f87e3b9c040da3a275fad3881acba
+FileChecksum: SHA256: de8fce73b86697fc22d8f49023b5bf0a1d02d4ed4f26a03fd5938fadaae989fc
+FileChecksum: MD5: 7263d5254d3af977a1dc3915a178c3c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/09_put-200_asset-usage-agreement-restriction.json
+SPDXID: SPDXRef-item1174755
+FileChecksum: SHA1: aadb81f327c785b1b35526d01a5ec9e72b1520c6
+FileChecksum: SHA256: de6f79142be03c379cdd71483a8871baf78b8ebbfcabaaeaf759753a361a469c
+FileChecksum: MD5: 43ed017e78f7e7cc64436e05cf2950de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/05_get-200_asset-usage-agreement.json
+SPDXID: SPDXRef-item1174756
+FileChecksum: SHA1: 670559069779f9cc4c45000f418d57ba6397a969
+FileChecksum: SHA256: 43740ada2e0e47e7b63b0a0605c3ed49d2a0160d5303072a6b3ab9ed96e86956
+FileChecksum: MD5: 2878f5987353e5a083b0af8a78efec3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/11_put-402_asset-usage_prohibited.json
+SPDXID: SPDXRef-item1174757
+FileChecksum: SHA1: 49bbd368942c6bd1b1f67af1c8570319344d10a1
+FileChecksum: SHA256: cb19625822797b6f713aaf3196c327a75314baa421dc78a668d61be6868e0dc9
+FileChecksum: MD5: 130434e0514b4928691db4ab59f06087
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/27_put-200_asset-usage-agreement_good-for.json
+SPDXID: SPDXRef-item1174758
+FileChecksum: SHA1: ab0ec862d5764a75b8cb9749d7b581423dfc5fe1
+FileChecksum: SHA256: 500f5ef7585ad4b6082f14d5776cc0ffc1e7d9f76e4df3c6a98c8d69cfcb709b
+FileChecksum: MD5: 565eacb0ffa2c6ebda476dae9304b061
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/19_get-200_asset-usage-tracking.json
+SPDXID: SPDXRef-item1174759
+FileChecksum: SHA1: 0c2d48f7ecbc0338115d7dfc64d48221cab3e08f
+FileChecksum: SHA256: 5495ec30e9519672a82362192cf2bf32951e5118c5f52da40e9dd360150dcd37
+FileChecksum: MD5: ed401f111dcb1b2e8e4381240bd685db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/06_put-200_asset-usage-agreement.json
+SPDXID: SPDXRef-item1174760
+FileChecksum: SHA1: 12092e8f36e624893c18b4dcc397e784830ac9d2
+FileChecksum: SHA256: a3f74e2e26b0c5ef1d1b6940220540423d7d91ac5dca3a59f48b4f42597cf754
+FileChecksum: MD5: ee089cc62224d1481ad78cc63b0ef874
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/33_put-402_asset-usage_invalid_constraints.json
+SPDXID: SPDXRef-item1174761
+FileChecksum: SHA1: b298701e5bb7bc03bf0671ab333f6500a819922e
+FileChecksum: SHA256: 4daa5a68f9f0694339c9eb27002ba520bc14c9b220e995649e1b9c1abd5268c3
+FileChecksum: MD5: 1b181d9909b83e21027c67642cf242c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/02_put-200_swid-tag.json
+SPDXID: SPDXRef-item1174762
+FileChecksum: SHA1: 51f30a87b4d98c7a8f8dbb75ea0863f966b1ab46
+FileChecksum: SHA256: 3aa119a782b585c504c07d36eec34a3679539a44d555484e1048d512cb1627e7
+FileChecksum: MD5: 36013f5764cedc54a394bb0e16308754
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/22_get-200_swid-tags_available-entitlement.json
+SPDXID: SPDXRef-item1174763
+FileChecksum: SHA1: 7b6e2483278e8a3e23a0363f915afd33a7cb65ff
+FileChecksum: SHA256: 846d361bc16e78f87d812165e56deb40f7f10dbe253818ab6a4664962b8977b8
+FileChecksum: MD5: a9371d76b0e678aac8204882a46f644a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/04_put-200_swid-tag-creators.json
+SPDXID: SPDXRef-item1174764
+FileChecksum: SHA1: 21fb4bd2d106a0188d4e2536b89e81fc29c68afc
+FileChecksum: SHA256: 24520cdcb792b848c8e2b71c57264935564074b61fcbc117c63f9f7d8e964a57
+FileChecksum: MD5: 5d6d99ad627897bf79fcbb4f4576da87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/23_get-200_admin-config.json
+SPDXID: SPDXRef-item1174765
+FileChecksum: SHA1: de3ca0866b48c21b0a7ca8e870b11945bf45e0ad
+FileChecksum: SHA256: 03606b77a59a25409b9be5abd52391467922ba9cbb1141a8fbbfa0f651dd9a59
+FileChecksum: MD5: d11bbde4a3e64cba3ffacdf3cb3f76ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/08_put-224_asset-usage-agreement-restriction.json
+SPDXID: SPDXRef-item1174766
+FileChecksum: SHA1: b035b1b3ad51e47c91b7308a9449e93e3b4ae037
+FileChecksum: SHA256: 7309be9eb0432096fcc28a25f725811dffb07197bf622b28143472313af902dd
+FileChecksum: MD5: d746b1c4e02ebab133de3d9d777f56ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/21_get-200_swid-tags.json
+SPDXID: SPDXRef-item1174767
+FileChecksum: SHA1: 01893f33479f80100ce8231d8271e3579ef521f7
+FileChecksum: SHA256: 08e4d97836f2569617debc1a167218abcd56fb11303dd9a8e4b75b4ff89dabe8
+FileChecksum: MD5: 7d60ac9ed772f9e1a2bdde26cff40cfa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/34_put-200_asset-usage-agreement_valid_constraints.json
+SPDXID: SPDXRef-item1174768
+FileChecksum: SHA1: b9e5f6d7200cd27290b0debf170a972e9c2b0b09
+FileChecksum: SHA256: e1693ca24128b6b1cfc84e445c3bc02e61fcee79aca50c83f090d849b47ba423
+FileChecksum: MD5: a75974526187aae8756c05acf63f7afd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/38_put-402_asset-usage_agr-not-found.json
+SPDXID: SPDXRef-item1174769
+FileChecksum: SHA1: 5e19ade43b2938f38c81d863fe8215014801ea08
+FileChecksum: SHA256: 752ae624cb0a679c05224c547cbb8ae4194174bc7d11bb4acf0d4b29fd5489ee
+FileChecksum: MD5: d557e4333e6053594013b72022226ef8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/07_del-224_asset-usage-agreement.json
+SPDXID: SPDXRef-item1174770
+FileChecksum: SHA1: b5afc42fed02ad59b9410f8a4834605e7402dc06
+FileChecksum: SHA256: 93bceff6d65c4c00b0fda8f38eb6c36ee3ee1806a5be6190b371c6b597a7c902
+FileChecksum: MD5: da095597b72ac2847fdef9954bf87cc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/03_del-224_swid-tag.json
+SPDXID: SPDXRef-item1174771
+FileChecksum: SHA1: 5f5d9c039143b86b1fb420ca3e6eead77e99d4af
+FileChecksum: SHA256: c341342143dc546d50f8cff823053728022cdbfccbaaae5016f966f53b9855a4
+FileChecksum: MD5: ed32078f617f77e417aa315ebf5b4567
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/36_put-402_asset-usage_swid-tag-revoked.json
+SPDXID: SPDXRef-item1174772
+FileChecksum: SHA1: a021fb38690f79fd6b253ecbcab5b69a89226eee
+FileChecksum: SHA256: ea677245d1c72b9e70494ab76477d9e2d7c2c9ab8f7365fc555b731c9c65f0b6
+FileChecksum: MD5: cdbefe250a5f603ab5d7e451d7ddb827
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/12_put-402_asset-usage_denial.json
+SPDXID: SPDXRef-item1174773
+FileChecksum: SHA1: 5f985d86160de534f77a859d2a86304d44de4d6d
+FileChecksum: SHA256: 3d756f311fecc1c3a5ba0f5274a8cd427433a09e9eb4f529fa8f75304ae56a00
+FileChecksum: MD5: bb4b17ce027699aabecbe57abfcb052d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/28_put-402_asset-usage_denied_due_goodFor.json
+SPDXID: SPDXRef-item1174774
+FileChecksum: SHA1: 2987550e61b09ab7231294a9c4849122805deae6
+FileChecksum: SHA256: 82c8644dc30011f14f7555699f7ba4f5b3872d885f3b554f2b1806be5ef7c2f6
+FileChecksum: MD5: 781dbf64af8b69d46c7d314d73304068
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/test/expectations/30_put-402_asset-usage_goodFor_P10D25H.json
+SPDXID: SPDXRef-item1174775
+FileChecksum: SHA1: a3d02a07002c95a2c5871ac70ad794fccdee0b2f
+FileChecksum: SHA256: 40b03844db5c52b2c84c1eaf63a6dcc38dbba600c6eaa413b8211daafa175b9f
+FileChecksum: MD5: 7bcd31c65932c327da0035fd56458459
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/.eslintrc.json
+SPDXID: SPDXRef-item1174780
+FileChecksum: SHA1: e2125a35dfac9379d83a38830ea5683e45f4a33b
+FileChecksum: SHA256: e34e18e8ebdc6b2bd0166765b779469009fbb1b2d3b5b7510da2d5b1e12d3eab
+FileChecksum: MD5: 38fc60ce2c33196d297ad8d05c87ba91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/etc/config.json
+SPDXID: SPDXRef-item1174783
+FileChecksum: SHA1: 4276379fb6b3f51c3490a337c71819688a3af9e8
+FileChecksum: SHA256: bc2c4e49d548101683adbc104de087a542933d98a8c320eb9fa2c8a769404f24
+FileChecksum: MD5: a2f041a128750d70acb935760743031f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-server/.dockerignore
+SPDXID: SPDXRef-item1174784
+FileChecksum: SHA1: be7b5a7f055d5b307c20b205cfff1e055e1f1e84
+FileChecksum: SHA256: 17804b89dfef883cd855bd2d258f5936fd564077b754b2e895eb3cefb96b9343
+FileChecksum: MD5: cb749a30d37371f5f364eb596c083646
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-db/.gitignore
+SPDXID: SPDXRef-item1174791
+FileChecksum: SHA1: c24462d4dc8bf5eafcf2e3ec39746a93c9d190aa
+FileChecksum: SHA256: 40311123579ad9d83547b1e2871893b6d6cb6ac6d489b295b63a4e33a632e776
+FileChecksum: MD5: 1027c34f1f533bd19bda1099d488fda5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/INFO.yaml
+SPDXID: SPDXRef-item1174795
+FileChecksum: SHA1: 8efebb0d16a0f8df22d8df97ffb703e9825d8008
+FileChecksum: SHA256: 8ee7ea9705d61ab7dc0c6e7c8acba70c432c8b875b6a67ee44d11771aaa0035d
+FileChecksum: MD5: d297ad8d4973286acbfc90652f2f587e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/.gitignore
+SPDXID: SPDXRef-item1174796
+FileChecksum: SHA1: f7812bb8eabca6b39593a2afd357a7bc12fc805b
+FileChecksum: SHA256: 42ed6af2d26699cb07a6cbd0a2d62d84dc5fad3ddba000264c2c109588b0441e
+FileChecksum: MD5: 4e9cd59b11035b4f3ebb0810ac40a151
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-helm/.helmignore
+SPDXID: SPDXRef-item1174798
+FileChecksum: SHA1: 36fbf7fb9cf040f3bb7807f74108ce51c6eb9004
+FileChecksum: SHA256: 0a1e8ed08a372234d8af441442044a88c27dc4409e039dbd3e113fec1ee91024
+FileChecksum: MD5: a38fb31dd5924d02c0a949a678cbf6a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-helm/requirements.lock
+SPDXID: SPDXRef-item1174799
+FileChecksum: SHA1: a6213dfac5d0a0327f66cad9c85cc06b063a46ad
+FileChecksum: SHA256: 18b93193b42c32c924bc08f6dcff13720e4f3e5fc9e8bd75e14ab7ff18344196
+FileChecksum: MD5: 644ce4f6439ae618087609a408b7120d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-helm/charts/.gitignore
+SPDXID: SPDXRef-item1174803
+FileChecksum: SHA1: 4a20fc0d093943ff3d18ac80e5474049c1943c30
+FileChecksum: SHA256: 1dfeacee4a05d93e0631e8048452e017850cd7ae0197086538286a09dc990404
+FileChecksum: MD5: 08af9cb4bb3f985849894cfeafd3be7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/lum-helm/templates/NOTES.txt
+SPDXID: SPDXRef-item1174806
+FileChecksum: SHA1: a772a5f156ca0381ce043e479850442cd34d0e17
+FileChecksum: SHA256: 9614b332ca795bb70deb0e565d951222c782f7c93050ba3e7657b1b7fd4f3d83
+FileChecksum: MD5: ae48cf545d2156089a0617268184f4ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/releases/0.25.2-maven.yaml
+SPDXID: SPDXRef-item1174814
+FileChecksum: SHA1: bdf206d811c0d2b24b838f032602e01ab858fa8e
+FileChecksum: SHA256: 451e24c5c13fb66258772b34e73f1ca8324aa4e63da48d8cab5fdbbaf294b726
+FileChecksum: MD5: 59292b66d969c1b5e531735ae21b7e38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/releases/release-maven-jar.yaml
+SPDXID: SPDXRef-item1174815
+FileChecksum: SHA1: 6b229125ea7fecfe5cb0b31990a0ea3b2e921e7e
+FileChecksum: SHA256: 89e6c11191fbf6972149ab1f71b969aca59d9f2a709eda8d989a6750da3e71a7
+FileChecksum: MD5: 104cd8e149a607a6c50b21075acb6c67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/releases/0.25.2-container.yaml
+SPDXID: SPDXRef-item1174816
+FileChecksum: SHA1: 46acf720853ff136835a7e18d610794bf65c1fab
+FileChecksum: SHA256: 58f320b4eee1a7316815873a0524693945e16e2929305aa7909ceacae4936654
+FileChecksum: MD5: 339433f6f018968a885bb0876364852c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/releases/release-docker.yaml
+SPDXID: SPDXRef-item1174817
+FileChecksum: SHA1: 7d1f9038a6890fa68c430df72f9081f3a6f84046
+FileChecksum: SHA256: 504f38a81543dd0acd7aaf8fdb7d8163c74a48b2299ed2e2e494c87089a5a956
+FileChecksum: MD5: ccd0391c9fb2c4e6b5100f5dc9fecdfe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/.gitreview
+SPDXID: SPDXRef-item1174821
+FileChecksum: SHA1: 13278ca97afa4fefe93379c76366c4535665fc34
+FileChecksum: SHA256: 303fe4fa4cc39d0f3250aa68237f5dc5bea438200a7cefd569e1beadf90c16e0
+FileChecksum: MD5: 8555b22edbe5f3f89d7a8077738e8a1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: license-usage-manager-2022-02-01.zip/license-usage-manager/.dockerignore
+SPDXID: SPDXRef-item1174823
+FileChecksum: SHA1: cdb0ccdb40bb79885a6b853e545a85c96bf20340
+FileChecksum: SHA256: 22ed3c64c401b728465ba632a6e36e0b749777d445a0f764637255d6c3fc4ac4
+FileChecksum: MD5: 9ba3ddc6cf066d59377afe4876c6a6ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
