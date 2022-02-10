@@ -1,0 +1,216 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_model-schema-2022-02-02.zip_1644480687.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-02-10T08:11:28Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: model-schema-2022-02-02.zip
+PackageFileName: model-schema-2022-02-02.zip
+SPDXID: SPDXRef-upload315
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: ff0d8c886bcfd289fc72ee62632caac4ae6edb8f
+PackageChecksum: SHA1: d9bbdf5580f9eeaaec169b8ce8d93ae7ebe326bd
+PackageChecksum: SHA256: 7b692c93711905a96d4a0ee5009c2f1ebb61fa3eaf228357921096bbe39d8e17
+PackageChecksum: MD5: a78e9d522a5122515130d156cfdcdc89
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload315
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: model-schema-2022-02-02.zip/model-schema/docs/index.rst
+SPDXID: SPDXRef-item1175441
+FileChecksum: SHA1: 9b6e1ff73efe1b7cd05bd9ccc2f1e0381fa5a5d8
+FileChecksum: SHA256: 521b88ae216acd6fe35287482cae880cd082573b1c1c51dd9ba8d16aaf7048fd
+FileChecksum: MD5: fde633b8c7e59d016043dddccbf18e57
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-schema-2022-02-02.zip/model-schema/docs/developer-guide.rst
+SPDXID: SPDXRef-item1175443
+FileChecksum: SHA1: 82aa541b77587a2f6776a90030b6fb422aa9c2d5
+FileChecksum: SHA256: 1ee11c4645f4cde9ea21730c4d7940019d0c87fb1857fc2a869ca4f6e7175322
+FileChecksum: MD5: f55211f91a10e91d18fea6f9ac3b1815
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-schema-2022-02-02.zip/model-schema/docs/release-notes.rst
+SPDXID: SPDXRef-item1175442
+FileChecksum: SHA1: 2656b07307d0d5578b2107783e3f415181b0f594
+FileChecksum: SHA256: 5051af7c05cf1ad5ce3c562a6b57fe10c6cdee282f0d6ff04337d534fde0915e
+FileChecksum: MD5: 97286f1c62ee1e26f50000835347237f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: model-schema-2022-02-02.zip/model-schema/LICENSE.txt
+SPDXID: SPDXRef-item1175447
+FileChecksum: SHA1: df09ece0d24c1d95a278905bff78c4a1c686ccec
+FileChecksum: SHA256: 644341f2388f1c9d5551786882cb41c15aff64adc90bae400d94240b4055266e
+FileChecksum: MD5: fd976600fafe010d9febbabd6d6c9749
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-schema-2022-02-02.zip/model-schema/schema-0.1.0.json
+SPDXID: SPDXRef-item1175444
+FileChecksum: SHA1: b382427896a0048d47a817232f5e67cbd23b6484
+FileChecksum: SHA256: 9d8fc54944413fb0919fcf5e45142afc3ecd1d8ebecb3114d5871b7fd0d3778a
+FileChecksum: MD5: e35308e6662d172e95b21599bf18352c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-schema-2022-02-02.zip/model-schema/schema-0.3.0.json
+SPDXID: SPDXRef-item1175445
+FileChecksum: SHA1: 81237dc8a6e15417a4be63ed96a3f77ba3a4bac1
+FileChecksum: SHA256: 0ac9f760cb2a158c70295becff03d082d04abc252f048c572320f97c3687eb9c
+FileChecksum: MD5: aecdc249df3fdfc528a172ecbeba2e35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-schema-2022-02-02.zip/model-schema/INFO.yaml
+SPDXID: SPDXRef-item1175446
+FileChecksum: SHA1: 6d36cf2a87e58f0e83ae3e578eadab9f021e5bf1
+FileChecksum: SHA256: 9c499fa0f22af0fe66da0f9af37a0fabbe15c84894e69da9e6f99a96cbd540dd
+FileChecksum: MD5: 362d33a7e0817989dc74dbd55a8a25d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-schema-2022-02-02.zip/model-schema/schema-0.5.0.json
+SPDXID: SPDXRef-item1175448
+FileChecksum: SHA1: 6464923ac7ce763683ce33f4b0087d92103812d7
+FileChecksum: SHA256: 6a80f4ea79e6e6e7312aeaec84a5f746453e2fdf4be4ce76df7c7994bee70e3f
+FileChecksum: MD5: 67ccdd70736b61f19f6758ed000c41cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-schema-2022-02-02.zip/model-schema/schema-0.4.0.json
+SPDXID: SPDXRef-item1175449
+FileChecksum: SHA1: 393bab61e9d42278476ea2b0630d31635a69fc90
+FileChecksum: SHA256: 0f68d870fd725c8f956b4edd1ecb60882d64cfad4ebd86999026e7893176a52a
+FileChecksum: MD5: c8259aaa544d360c14fe2fe1a71efa9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-schema-2022-02-02.zip/model-schema/README.md
+SPDXID: SPDXRef-item1175450
+FileChecksum: SHA1: afd98988c7a9a87e2f0abbdceed0503013543bf5
+FileChecksum: SHA256: 989ee5e075a6c091cb801b8c3b8af45d3e1f1f1dc8c1b853069dfaedbc5170c8
+FileChecksum: MD5: f3c7047b311040a2dfeab628f56cf1ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-schema-2022-02-02.zip/model-schema/schema-0.6.0.json
+SPDXID: SPDXRef-item1175451
+FileChecksum: SHA1: 35e8563369805b950732ed1865c8d42fb6ef0a95
+FileChecksum: SHA256: b47c45f614fc8a131d1371e3ab91554244b6889eff3aa94c63857407696d0216
+FileChecksum: MD5: aa5c86ee8249118159c2ec3552346104
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-schema-2022-02-02.zip/model-schema/.gitreview
+SPDXID: SPDXRef-item1175452
+FileChecksum: SHA1: af16ebe418863fb75faeeca5cb6dc97584fca963
+FileChecksum: SHA256: 1523ee410b735dc13171ec13fd1ace9c2559e6af7a5e30886e754866bc048bca
+FileChecksum: MD5: 28cde16d886224124bcf097cee2d95c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: model-schema-2022-02-02.zip/model-schema/schema-0.2.0.json
+SPDXID: SPDXRef-item1175453
+FileChecksum: SHA1: bc79c950a28dc965d3c47f309a55ff64d8ba08b0
+FileChecksum: SHA256: 9eca6dd5b75a1ef2f1170a0596110a4505be9dcbb15d5e697c43c6bf3c75f699
+FileChecksum: MD5: 44ee5615d4c9d09ea22142541435ae32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
