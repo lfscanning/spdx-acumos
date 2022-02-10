@@ -1,0 +1,3157 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_databroker-2022-02-01.zip_1644480554.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-02-10T08:09:14Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: databroker-2022-02-01.zip
+PackageFileName: databroker-2022-02-01.zip
+SPDXID: SPDXRef-upload298
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 424843707a907308721ccacfccd5dd7e5b50799d
+PackageChecksum: SHA1: 17eff3dff51a909c1f3fbb433d7b418153bfe264
+PackageChecksum: SHA256: c84b9125a30353751b6d1e8bda9eaa7d7fb9bf7c6e4a37172d04afe141bde566
+PackageChecksum: MD5: e1964ecfa31f47dc0d733f4ab5c6147f
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload298
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/docs/index.rst
+SPDXID: SPDXRef-item1172713
+FileChecksum: SHA1: 26b781db2d18e2f1b00a75fa1e174cf1591a6930
+FileChecksum: SHA256: 8cfc7ece5b4adc28bb6b5d0373ac060e0ee06c422dea76202166e3900dd773f4
+FileChecksum: MD5: a092a6b16b27061345526eccd29e30b3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/docs/release-notes.rst
+SPDXID: SPDXRef-item1172714
+FileChecksum: SHA1: f9869ca037bdab7bb51928b3fa69c7d88d4f2a48
+FileChecksum: SHA256: db00caef9e2c9a7b07612b44f6b9b08eade0c6ce235338cab545eeefb0916d40
+FileChecksum: MD5: 3ddd3bcc97ad159dc490ffe8a59dbf57
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/docs/developer-guide.rst
+SPDXID: SPDXRef-item1172715
+FileChecksum: SHA1: a8842ac5c1c8ccf1dddf3eac92c8317bc24ade2e
+FileChecksum: SHA256: c4d126bc20df0aa037e42ba001cbddb1044b3be9896857b66a0a4c775771c3f0
+FileChecksum: MD5: 01a6bae78cb382a3ebfb7bde39f0c5ec
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/src/main/resources/logback.xml
+SPDXID: SPDXRef-item1172446
+FileChecksum: SHA1: bd29ab48eb2022f04e653377ddfc77e65398ad62
+FileChecksum: SHA256: ac566938120acca09fe753ac3f9142bec22f0127297fcf1e2fbcd380b0550e49
+FileChecksum: MD5: 4b719d8c1bfb339ee5865160a4ba13b6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/resources/logback.xml
+SPDXID: SPDXRef-item1172397
+FileChecksum: SHA1: bd29ab48eb2022f04e653377ddfc77e65398ad62
+FileChecksum: SHA256: ac566938120acca09fe753ac3f9142bec22f0127297fcf1e2fbcd380b0550e49
+FileChecksum: MD5: 4b719d8c1bfb339ee5865160a4ba13b6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/test/org/acumos/streamer/test/controller/RestConsumerControllerTest.java
+SPDXID: SPDXRef-item1172404
+FileChecksum: SHA1: 4f962cf8524eec34b00be8334e9bb0843335cfdc
+FileChecksum: SHA256: b132d86e7a3cdd2317da64ddbe734d8c74cf584ad1ef302cc18225946f8b2d60
+FileChecksum: MD5: 4282910f43a65412813384dc21e6ddbc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/resources/application.properties.template
+SPDXID: SPDXRef-item1172396
+FileChecksum: SHA1: 52667624378fb5e012bc453573efd53212ae7aca
+FileChecksum: SHA256: d84d5380b1566dcb60f5796e8f5821be0d81e04bf9ad1fa085c69888ec3c2b8b
+FileChecksum: MD5: dab8a43b53b232021cdfe1fc59a68427
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/java/org/acumos/streamer/common/DataStreamerUtil.java
+SPDXID: SPDXRef-item1172410
+FileChecksum: SHA1: 2234e96ff2800aa31ae1959c51a89e8889753e96
+FileChecksum: SHA256: 07eed72b65c6c217547ae86a7c8f9e1f684759e53a97994766f40d03007c9067
+FileChecksum: MD5: 1992194a3745f899b374958d796f158d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/java/org/acumos/streamer/controller/RestConsumerService.java
+SPDXID: SPDXRef-item1172413
+FileChecksum: SHA1: 6456b08d8ddd5977ad63d46b1ba8b0ddfa44c2a4
+FileChecksum: SHA256: 20bc4a61073101758c7f252cbed78e1ad2f5a1cbabca8cc5d6b5a188c573d3a9
+FileChecksum: MD5: f26a78c06ff712b8f24515c595a52370
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/java/org/acumos/streamer/controller/RestConsumerController.java
+SPDXID: SPDXRef-item1172414
+FileChecksum: SHA1: 7dc88cf55a024b108e780813f40199004606a8ed
+FileChecksum: SHA256: 3043830ca98b936c838c63c3abb938980db5dd8a782b769fc96feac55033f5c4
+FileChecksum: MD5: 1dc39fda6611407fc34844158ff06a8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/java/org/acumos/streamer/controller/RestConsumerServiceImpl.java
+SPDXID: SPDXRef-item1172415
+FileChecksum: SHA1: 066347b0aaf17a8c210a97e1474544e406de422a
+FileChecksum: SHA256: 6d91495204d45b4bab8af1436b327f62a8326d93e53f1a29f6dfe0968ec22bd3
+FileChecksum: MD5: cb97ba2a48da67f28e65a10f8c5d4a14
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/java/org/acumos/streamer/model/ResponseMessage.java
+SPDXID: SPDXRef-item1172417
+FileChecksum: SHA1: d7b61f47849d3f8a60360d52c9ad1218af1d69dc
+FileChecksum: SHA256: 1479c3295ec479c84bce6b6af678f902be3eb73f3634770ddf8e567812d730f5
+FileChecksum: MD5: 3db691ed99de32514f7b380358c490f8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/java/org/acumos/streamer/WebConfig.java
+SPDXID: SPDXRef-item1172421
+FileChecksum: SHA1: 99f30fef53d9271e4836d8c27449168aded7c064
+FileChecksum: SHA256: a813ac2fe36dd1791d04db96523cd3422976c3fbe1f7d728fdcda7efd92dfb08
+FileChecksum: MD5: c7b186cecb1c3ab9115fb4e0f0a8985c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/java/org/acumos/streamer/exception/DataStreamerException.java
+SPDXID: SPDXRef-item1172420
+FileChecksum: SHA1: 8aeaad343e9e3b402a6d23f8948d2156955854df
+FileChecksum: SHA256: 0e6299b335c7715a4252a0f1f1956fb3eb4b411089ad4c6ada645fa22a0c0a00
+FileChecksum: MD5: 09ebb6a047f1df22c057faaba6ce3233
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/java/org/acumos/streamer/model/ErrorModel.java
+SPDXID: SPDXRef-item1172418
+FileChecksum: SHA1: 7d4db9109cdbf3c248c8219e90fe84338e55d845
+FileChecksum: SHA256: 0ac7653bb4c950820c4089943cf462a7e7da114e44b9f31ff558b925fa8cdd12
+FileChecksum: MD5: 868e75c68c9f1aba0dd3b26e0d941700
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/java/org/acumos/streamer/SchedulerJob.java
+SPDXID: SPDXRef-item1172422
+FileChecksum: SHA1: 551f83345beb411b6c31d648bc92f967f6cd3ef0
+FileChecksum: SHA256: 91dbdb1c35ec8562ef2aeab36cdf0a6390b95b8ec37c781ed9f82c840fd6a127
+FileChecksum: MD5: b8895de5e83633395f3d303d864f58e2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/java/org/acumos/streamer/DataStreamerApplication.java
+SPDXID: SPDXRef-item1172423
+FileChecksum: SHA1: 4edc8ea94d0b7f56cb6a46aa225d29191479f6f1
+FileChecksum: SHA256: 3f0d26cf7a4c82dc8784309fde7371e2bdcc7e8f07c9361be1e6cd0a089df91b
+FileChecksum: MD5: d43e2428ecdc7a8172cbdd90551403a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/java/org/acumos/streamer/config/SwaggerConfiguration.java
+SPDXID: SPDXRef-item1172425
+FileChecksum: SHA1: c1f20111d96d21bb0d12e6b920a6955254a648ee
+FileChecksum: SHA256: eb98c339c22e57a9621fd449bdc97c43df57b1ed57eb37070245231b932ef90a
+FileChecksum: MD5: 504ad72f50bf3878f4c735be86e2d605
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/java/org/acumos/streamer/config/CustomWebSecurityConfigurerAdapter.java
+SPDXID: SPDXRef-item1172427
+FileChecksum: SHA1: e205213c52c6ef27cae00af96ba7050932eba631
+FileChecksum: SHA256: 133cfd0b4b64c551cad8498dfd335475c60b6f0f39bdc7d51c8ef7045284fc01
+FileChecksum: MD5: 92a307bf6d7fc295b2b736b93c513f29
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/java/org/acumos/streamer/service/MessageRouterTask.java
+SPDXID: SPDXRef-item1172429
+FileChecksum: SHA1: 715fc6f8e3b10cfcb38d6b19acd874885aa94f34
+FileChecksum: SHA256: b0a3bf3afb9391214569ce7e0bef4f4eaedd2b0183c6cfd04a12e916086c8d50
+FileChecksum: MD5: 1860f6186b57b2358e1a1b8ece78b2c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/java/org/acumos/streamer/config/CustomBasicAuthenticationEntryPoint.java
+SPDXID: SPDXRef-item1172426
+FileChecksum: SHA1: b4de2b4b2a2dd870376f58f3e8b95d990ea7897e
+FileChecksum: SHA256: ff5310193dc8aee690e9c14d4f75d26ad13f5b3b6e15138ecc3b7f1d1ad60d95
+FileChecksum: MD5: 68e66f2e5bbbe529e475ccc000875116
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/java/org/acumos/streamer/service/ConsumerImpl.java
+SPDXID: SPDXRef-item1172430
+FileChecksum: SHA1: 2fef79a2970488a4109f2e871453047ab3bf9585
+FileChecksum: SHA256: 39f5e64aaca024a983b8eb29250cc541cb0e672130e21a5820aa83d1ad2c5b6f
+FileChecksum: MD5: 4bdd3f07ffc724393a0eac80ffc76eac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/java/org/acumos/streamer/service/ConsumerService.java
+SPDXID: SPDXRef-item1172431
+FileChecksum: SHA1: 2c6ce598d7fd2292155456bc6eedf56649594e95
+FileChecksum: SHA256: 44410aa67bae0450517c340dbb95e846a82a1507486bcb21ef20854e78cf0cf9
+FileChecksum: MD5: 6fb21defafb43c31a851f233d11e1c49
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/java/org/acumos/streamer/service/PublisherServiceImpl.java
+SPDXID: SPDXRef-item1172432
+FileChecksum: SHA1: ab49939773e59618a22570e0833ed372b9e1e6c2
+FileChecksum: SHA256: d902f6e68578f76e6c23604877b03ebe6d7d6697726efcce945677bcf248646b
+FileChecksum: MD5: 7b8c13a3ac15960d776af3c73df98227
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/java/org/acumos/streamer/service/PublisherService.java
+SPDXID: SPDXRef-item1172433
+FileChecksum: SHA1: fe885330cc4f35675c0b5cf6c3c2b67590b43bc5
+FileChecksum: SHA256: d7acc7427f964c0fb1c42f818e8118230acec961ea8f65a4fa2e96cf88906956
+FileChecksum: MD5: 857b532aa1fc4f50d0059b76a33faf92
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/java/org/acumos/streamer/service/ConsumerServiceImpl.java
+SPDXID: SPDXRef-item1172434
+FileChecksum: SHA1: cc241c3bd9c1027d1124f47ba58ed339c9786512
+FileChecksum: SHA256: 4f63bb0a07172f0d4a2380a89df915c2b1008b66410b2f56a30dd3ecbd955058
+FileChecksum: MD5: a509275cdb65f6e2870f845e0e914004
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/pom.xml
+SPDXID: SPDXRef-item1172437
+FileChecksum: SHA1: 9166ba0808506515b7e8d05edafa8708ca1a4532
+FileChecksum: SHA256: 8dd89c52548ac9bf25dbedaa0a54964b4564227ddfe0bba966af0b0fce1ff67b
+FileChecksum: MD5: 84bab02461a759f2761d75ca6108fcab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. =================================================================================== This Acumos software file is distributed by AT&T under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. ===============LICENSE_END========================================================= --> modelVersion>4.0.0</modelVersion> groupId>org.acumos.databroker.data-streamer</groupId> artifactId>streamer-service</artifactId> This version number is used to tag the Docker image. --> version>1.0.0-SNAPSHOT</version> name>Acumos Streamer Service Server
+Copyright>true</canUpdateCopyright> canUpdateDescription>true</canUpdateDescription> canUpdateLicense>true</canUpdateLicense> emptyLineAfterHeader>true</emptyLineAfterHeader> includes> include>**/*.java</include> include>**/*.js</include> --> include>**/*.ts</include> --> includes> configuration> plugin> Generate javadoc jar; see profile for Java 8 --> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-javadoc-plugin</artifactId> spring chooses the <version>x</version> --> executions> execution> id>attach-javadocs</id> goals> goal>jar</goal> goals> execution> executions> plugin> Generate source jar --> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-source-plugin</artifactId> version>3.0.0</version> executions> execution> id>attach-sources</id </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/java/org/acumos/streamer/service/PublisherImpl.java
+SPDXID: SPDXRef-item1172435
+FileChecksum: SHA1: 8678efb5422b8a1d078deabaf21f7b9bf87e9049
+FileChecksum: SHA256: 9f6e9c00234107cf29679c722f2d47ca7907289715a94d5ef3d7034b5d38aa6e
+FileChecksum: MD5: 8135db1e4aac03851a160106c3f2a5de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/LICENSE.txt
+SPDXID: SPDXRef-item1172440
+FileChecksum: SHA1: 53d77e1617732d6a02183e02fc4a9b8d06003c07
+FileChecksum: SHA256: a1716b0a7250e09d56f9b94e3e329b1e00ab3c82bfdec48a2401a19ebb2e651b
+FileChecksum: MD5: ce426f9d0b5978329337a3ffa12f2df9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/LICENSE.txt
+SPDXID: SPDXRef-item1172707
+FileChecksum: SHA1: 53d77e1617732d6a02183e02fc4a9b8d06003c07
+FileChecksum: SHA256: a1716b0a7250e09d56f9b94e3e329b1e00ab3c82bfdec48a2401a19ebb2e651b
+FileChecksum: MD5: ce426f9d0b5978329337a3ffa12f2df9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/src/main/java/org/acumos/streamercatalog/controller/RestCatalogController.java
+SPDXID: SPDXRef-item1172461
+FileChecksum: SHA1: 2024fd1365c3dfa5702b46339ba4e481f9aedbe4
+FileChecksum: SHA256: e08b4fccb0b618dd5b643f8e2d70434305cb3ac3c9c95b37e07eaa4217f4cde0
+FileChecksum: MD5: 6b6629d595b74871596d6714fd76bfd2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/src/main/test/org/acumos/streamercatalog/test/controller/RestCatalogControllerTest.java
+SPDXID: SPDXRef-item1172453
+FileChecksum: SHA1: 24db2d6111a54b553091d6dfa8e191dfe2c8ab6a
+FileChecksum: SHA256: ac79038a3a6c6cafedf6d6aec84884e154cfa298391cdcf51d6773a8f98c0802
+FileChecksum: MD5: b8731c484074030e2ea6258913ba819a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/src/main/java/org/acumos/streamercatalog/common/DataStreamerCatalogUtil.java
+SPDXID: SPDXRef-item1172459
+FileChecksum: SHA1: 8083ec975a5c81d12a8ed77a7aa3a75d6076529a
+FileChecksum: SHA256: 0d180d7e4236315c34326e748ea6247104ea9d8b3f480474ba79b75165bae836
+FileChecksum: MD5: ab33655ffbd1bba35e145a5d63d4f5e8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/src/main/resources/application.properties.template
+SPDXID: SPDXRef-item1172445
+FileChecksum: SHA1: 64f9df68f5f962f68e4c18373da9e18ab6a25bdc
+FileChecksum: SHA256: ed75f104d4adbbd59940a600e53235a6e5435ad5d993ad9b9cb93e06c250f105
+FileChecksum: MD5: 5f28594c84a11e3b4ab8b23631c9ce51
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/src/main/java/org/acumos/streamercatalog/controller/RestCatalogServiceImpl.java
+SPDXID: SPDXRef-item1172462
+FileChecksum: SHA1: 618246abfe02d893065c0748075c6b334b8cb6b4
+FileChecksum: SHA256: f2a2e53d7ddc911ed0cc640c331d881732dedc839935e22180149ff070824271
+FileChecksum: MD5: 6a3fb42cb9db804479b7dccbef9be4f5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/src/main/java/org/acumos/streamercatalog/controller/RestCatalogService.java
+SPDXID: SPDXRef-item1172463
+FileChecksum: SHA1: 90d2585aac5a5d73f96697c912d7e60c58d7b6d6
+FileChecksum: SHA256: 2cb21eb8e4e1c7fe8bf81291417335a3e32f45852be222b16dd08b3ed00ad6b7
+FileChecksum: MD5: da9cc974c392200ef05047617d212a02
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/src/main/java/org/acumos/streamercatalog/connection/DbUtilities.java
+SPDXID: SPDXRef-item1172465
+FileChecksum: SHA1: 72e9b32160c1c59daedc1ce2ae88873589bb5ea0
+FileChecksum: SHA256: 0d167a6420d4b5a32fc35030e7ab9fe1b4f710ab93121181db85351f3f255f99
+FileChecksum: MD5: a38c2e1bf65291eae5f3dbbf518005fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/src/main/java/org/acumos/streamercatalog/model/ResponseMessage.java
+SPDXID: SPDXRef-item1172467
+FileChecksum: SHA1: 011425adb5cf8dc04fd69619ed95163bbd263bf1
+FileChecksum: SHA256: a5765c27959d6c5fd134cabc3decf6abce8c524eecae33877c99a7171f9cd513
+FileChecksum: MD5: 8617c8029f1aaf4975ef0b1d56944e83
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/src/main/java/org/acumos/streamercatalog/model/RelativeModel.java
+SPDXID: SPDXRef-item1172468
+FileChecksum: SHA1: f4a20bfd4b7a137f7739ba2dccd43d7ee5448c7a
+FileChecksum: SHA256: 8c71d7004af8dea0abfaa38c442ab0e114e06938057cb00f9cdd89e3e61f50cf
+FileChecksum: MD5: 9dd14eb7dcb8f401048acc574afeb726
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/src/main/java/org/acumos/streamercatalog/model/ErrorModel.java
+SPDXID: SPDXRef-item1172471
+FileChecksum: SHA1: 2c5e62f10c5f1da5b9e0e95fb54f395c7ebb1af6
+FileChecksum: SHA256: 9f4500aa3f60bc8c7cb492f1e937cc7f2adbf1e4e6e181a9ac5d7e7626811c1d
+FileChecksum: MD5: 21c63fb6e4f81f49561dcc8585c270ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/src/main/java/org/acumos/streamercatalog/model/MessageRouterDetails.java
+SPDXID: SPDXRef-item1172470
+FileChecksum: SHA1: 3a596bfba34029893b4b1df85ee37aa213eceb06
+FileChecksum: SHA256: b4670754b3a4f263c440ee9ddbcff54aeddac610231b47ea5a25706b21f4af24
+FileChecksum: MD5: 44720137b2155587e8edca821ff8dbd0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/src/main/java/org/acumos/streamercatalog/exception/DataStreamerException.java
+SPDXID: SPDXRef-item1172473
+FileChecksum: SHA1: 2c9371a34df98e668dd5e29b61ad3fa2491a4df6
+FileChecksum: SHA256: 6ecc38af776b37e69b3083929cbcab0ff66fff019e5a3865891416d892646303
+FileChecksum: MD5: a3d9fc854fe7d39b974d8b0fd0a12dad
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/src/main/java/org/acumos/streamercatalog/model/CatalogObject.java
+SPDXID: SPDXRef-item1172469
+FileChecksum: SHA1: 51ffc5f0e31d1e75cd1172b319d418d47c9b0011
+FileChecksum: SHA256: 4e1a328400802070868c0df372fcfc40d57bf57081efd0c318604a95168e80c2
+FileChecksum: MD5: f2d5161d4c24398f121493c30feeb001
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/src/main/java/org/acumos/streamercatalog/DataStreamerCatalogApplication.java
+SPDXID: SPDXRef-item1172474
+FileChecksum: SHA1: b53efa8ed0b607c76c7618f7b1809b76a52fcc85
+FileChecksum: SHA256: 217d65d509c6e62c57d5370050ca1a31e67776593d1ecc4a9683ec4baa1ec6cf
+FileChecksum: MD5: ef3b0743f55eb61db7655ff58053cb23
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/src/main/java/org/acumos/streamercatalog/config/SwaggerConfiguration.java
+SPDXID: SPDXRef-item1172476
+FileChecksum: SHA1: dde17cea39c83fc9a6c78172df617762183a23d3
+FileChecksum: SHA256: ccb7d7c72ec654960dc90dbcbf8c326cc2f5c8a305857b35d4f3fc6f1544dc67
+FileChecksum: MD5: c9be641be4f33973e963518fbc1306ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/src/main/java/org/acumos/streamercatalog/config/CustomBasicAuthenticationEntryPoint.java
+SPDXID: SPDXRef-item1172477
+FileChecksum: SHA1: 9168276d63055191ab133b416cdf78a0d2a60a5d
+FileChecksum: SHA256: e78e310d2b4bd2756fbf7de211e1eeda7d75fe2dbf7e9d3181f982f9fcfb6550
+FileChecksum: MD5: 9c331c22c4d337bfbe405faf0a186601
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/src/main/java/org/acumos/streamercatalog/config/CustomWebSecurityConfigurerAdapter.java
+SPDXID: SPDXRef-item1172478
+FileChecksum: SHA1: d2994268ad527b7eae5be2dbbdcf6c88eae3ef02
+FileChecksum: SHA256: 2f0412e5b749d93f8e9b6d0ac65d9dc8974f358335c23bd96ed8963281939041
+FileChecksum: MD5: 9d1985ceb0ec72b0d782355cbbca0e37
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/src/main/java/org/acumos/streamercatalog/service/CatalogService.java
+SPDXID: SPDXRef-item1172480
+FileChecksum: SHA1: 15209cd84cd59c510019efbeb9ef5be500cc5eaf
+FileChecksum: SHA256: d048057f8769cfd8b32565aa3cea6465e9b632d7cee583a5a119a6c93fa9569b
+FileChecksum: MD5: 2b04a2c7ce9893346d4daad0e93284cb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/src/main/java/org/acumos/streamercatalog/service/ConsumerService.java
+SPDXID: SPDXRef-item1172481
+FileChecksum: SHA1: e710fad1d387f02dcb1991607c006464026749f0
+FileChecksum: SHA256: b2230e4cd65cabac203264fd15ae817e1beb09c5b817a8d9aaf670412ba6c21e
+FileChecksum: MD5: cad761c0e6a32dac0d460f502d9a52e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/pom.xml
+SPDXID: SPDXRef-item1172484
+FileChecksum: SHA1: 27e8db48e886861c3db9c67b6e3f9cb8b8b78d90
+FileChecksum: SHA256: 64097b0c26e20975cdd7101c5f4b214f55aafe92dd20f5eed35ebae078eedd60
+FileChecksum: MD5: 0cdc45a7ba77abd47f2d9e0d45d0f0b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. =================================================================================== This Acumos software file is distributed by AT&T under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. ===============LICENSE_END========================================================= --> modelVersion>4.0.0</modelVersion> groupId>org.acumos.databroker.data-streamer</groupId> artifactId>streamer-catalog-service</artifactId> This version number is used to tag the Docker image. --> version>1.0.0-SNAPSHOT</version> name>Acumos Streamer Catalo
+Copyright>true</canUpdateCopyright> canUpdateDescription>true</canUpdateDescription> canUpdateLicense>true</canUpdateLicense> emptyLineAfterHeader>true</emptyLineAfterHeader> includes> include>**/*.java</include> include>**/*.js</include> --> include>**/*.ts</include> --> includes> configuration> plugin> Generate javadoc jar; see profile for Java 8 --> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-javadoc-plugin</artifactId> spring chooses the <version>x</version> --> executions> execution> id>attach-javadocs</id> goals> goal>jar</goal> goals> execution> executions> plugin> Generate source jar --> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-source-plugin</artifactId> version>3.0.0</version> executions> execution> id>attach-sources</id </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/pom.xml
+SPDXID: SPDXRef-item1172486
+FileChecksum: SHA1: 06aae5d1748893b8ba81a2d5517a39524d4a50b4
+FileChecksum: SHA256: 431525fc92c740326092f2ff22f1b4a309b55f241b74f949efa3605db278ab75
+FileChecksum: MD5: 7f46c7123566a7bd071b36b5b906bf56
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/src/main/java/org/acumos/streamercatalog/service/CatalogServiceImpl.java
+SPDXID: SPDXRef-item1172482
+FileChecksum: SHA1: cda153b79c168d6037fbdb3853349fce2c5baa33
+FileChecksum: SHA256: b84f3be724995759b7bfb1c5cf96160b71ad5e77442e8aec4e54cc6b54a58f0d
+FileChecksum: MD5: b025ae6eb9e2947ceeabd35579cc8f25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-restproxy-service/src/main/resources/application.properties
+SPDXID: SPDXRef-item1172494
+FileChecksum: SHA1: 1f93b03226f7ab06485656b3e3eab9e61fffa2cf
+FileChecksum: SHA256: 44a01a7f629e354c80b055f8a43c46a9e13bed0be54c3f0604f344b7df5cef6f
+FileChecksum: MD5: daf2cb5dfe3ab70152ee03e6516aa742
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-restproxy-service/src/main/resources/application.properties.template
+SPDXID: SPDXRef-item1172493
+FileChecksum: SHA1: 1f93b03226f7ab06485656b3e3eab9e61fffa2cf
+FileChecksum: SHA256: 44a01a7f629e354c80b055f8a43c46a9e13bed0be54c3f0604f344b7df5cef6f
+FileChecksum: MD5: daf2cb5dfe3ab70152ee03e6516aa742
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-restproxy-service/src/main/java/org/acumos/streamer/restproxy/controller/PublisherSubscriberServiceImpl.java
+SPDXID: SPDXRef-item1172501
+FileChecksum: SHA1: 7731dba2c94c6681e11d1dbfea8cf17ef40b8616
+FileChecksum: SHA256: fbb58b727cb39d7d0dafe5c1677525d430737644e7c19650028f2048bbb2bf90
+FileChecksum: MD5: 5e35744470a0deccef71fbe17b972367
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-restproxy-service/src/main/java/org/acumos/streamer/restproxy/controller/PublisherSubscriberController.java
+SPDXID: SPDXRef-item1172502
+FileChecksum: SHA1: a32ede83edb5e95df5fb6955e2dd62f48bcdb181
+FileChecksum: SHA256: 9972b5ab77e62191b6e546fa677d4a6d4d81ad33948c49901a5d4923a77599bc
+FileChecksum: MD5: f399c186db8ffffc4a20bee83f57c2d9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-restproxy-service/src/main/java/org/acumos/streamer/restproxy/controller/PublisherSubscriberService.java
+SPDXID: SPDXRef-item1172503
+FileChecksum: SHA1: 10f90de2ec791b9cf2c1bf499f8e1c604f085048
+FileChecksum: SHA256: b0dc9dd0d20a1b7c964c8a35cf7677ff10c5176df624ef4db620dbc69286b49d
+FileChecksum: MD5: 7b84afaacea0b5d992257f5fe6602864
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-restproxy-service/src/main/java/org/acumos/streamer/restproxy/DataStreamerRestProxyApplication.java
+SPDXID: SPDXRef-item1172504
+FileChecksum: SHA1: 6af86b7e185ccdb1983e32b5d6a812aafc2a4fb4
+FileChecksum: SHA256: 94176b91a4e95cb813863b71619b4dd223f359c3a613e4f4b59ce6adc7db4e2a
+FileChecksum: MD5: 9f931a03f06ba66faaf7de44e12177f0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-restproxy-service/src/main/java/org/acumos/streamer/restproxy/model/ResponseMessage.java
+SPDXID: SPDXRef-item1172506
+FileChecksum: SHA1: 1b40f97f419228a73d928601cf853faa524e5789
+FileChecksum: SHA256: 4defaa7069bde4669e93e23bc0a22b57da0276e3175d67480c4456678250fe80
+FileChecksum: MD5: d5e01f5ba356a3cd4796f940345fe4b5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-restproxy-service/src/main/java/org/acumos/streamer/restproxy/config/CustomBasicAuthenticationEntryPoint.java
+SPDXID: SPDXRef-item1172509
+FileChecksum: SHA1: 50fb4082b1b300437d8b4d1e8875f13599262b0e
+FileChecksum: SHA256: cede66463f816cbb8600aec51ca005be564f5f73a0f989f083c031099982e338
+FileChecksum: MD5: 206a1bfe2998913ea0f0cc1d404634e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-restproxy-service/src/main/java/org/acumos/streamer/restproxy/config/CustomWebSecurityConfigurerAdapter.java
+SPDXID: SPDXRef-item1172510
+FileChecksum: SHA1: 75b4affec7720f31153779e0bce494b4478c0476
+FileChecksum: SHA256: f6237e017c5a75a7797efebc159d1cb97148bd7ddf33202d948718316f87a3c1
+FileChecksum: MD5: cbda6badf652e51c39a7a5486b76212b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-restproxy-service/src/test/java/org/acumos/streamer/restproxy/demo/DemoApplicationTests.java
+SPDXID: SPDXRef-item1172518
+FileChecksum: SHA1: 98a1d3ef88260e2209ad10a17867c5676895b376
+FileChecksum: SHA256: d14b0d451965fa256cf8788fba4af402fdf79c907d301016f364d1f3e3f46a30
+FileChecksum: MD5: 8b69afd3c66d6b42edfcc82f3c243399
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-restproxy-service/src/main/java/org/acumos/streamer/restproxy/config/SwaggerConfiguration.java
+SPDXID: SPDXRef-item1172508
+FileChecksum: SHA1: 2c50ec09e4331ad95ab04e0690e19eeba441c87b
+FileChecksum: SHA256: 830a50275b3bab8ccb9e7ba1b2ffe945af75f779c9bc6ef082f2804495cefdf5
+FileChecksum: MD5: 230470645a77250b11700705081907cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-restproxy-service/pom.xml
+SPDXID: SPDXRef-item1172520
+FileChecksum: SHA1: 5a08fd736525715a492824645c7291cf2b2588bf
+FileChecksum: SHA256: 3768db480a230a5eb080843fa468a6c08a7d4061e92efc4aecdf52692eff2928
+FileChecksum: MD5: ca45ecdc722fa1ce967fac9b3470f234
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. =================================================================================== This Acumos software file is distributed by AT&T under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. ===============LICENSE_END========================================================= --> modelVersion>4.0.0</modelVersion> groupId>org.acumos.databroker.data-streamer</groupId> artifactId>streamer-restproxy-service</artifactId> This version number is used to tag the Docker image. --> version>1.0.0-SNAPSHOT</version> name>Acumos Streamer Rest
+Copyright>true</canUpdateCopyright> canUpdateDescription>true</canUpdateDescription> canUpdateLicense>true</canUpdateLicense> emptyLineAfterHeader>true</emptyLineAfterHeader> includes> include>**/*.java</include> include>**/*.js</include> --> include>**/*.ts</include> --> includes> configuration> plugin> Generate javadoc jar; see profile for Java 8 --> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-javadoc-plugin</artifactId> spring chooses the <version>x</version> --> executions> execution> id>attach-javadocs</id> goals> goal>jar</goal> goals> execution> executions> plugin> Generate source jar --> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-source-plugin</artifactId> version>3.0.0</version> executions> execution> id>attach-sources</id </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/resources/logback.xml
+SPDXID: SPDXRef-item1172533
+FileChecksum: SHA1: 9957469907c084e6d1683cbdfff599a8a21f31e5
+FileChecksum: SHA256: ac06f364e6db828b342f02af4d8f1790a16e6b31752794dcc4fc002744cde9ed
+FileChecksum: MD5: cff7061d982de23a4231d164757fa6d9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/resources/application.properties.template
+SPDXID: SPDXRef-item1172532
+FileChecksum: SHA1: 5e92808bcb448c537c140b12c529dd5028ad4468
+FileChecksum: SHA256: 45a7cc4b740af4c4f934d8bfcd2b179646e35888d47dea03d6ab9a4deb26a28c
+FileChecksum: MD5: 1169a3d976a28a08cb663353a2742c52
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/common/ErrorListEnum.java
+SPDXID: SPDXRef-item1172542
+FileChecksum: SHA1: d03c397bd606358d181ba7360f68e34eb751ef82
+FileChecksum: SHA256: 33c431baa35dea243e1f5ea9e2566c5b58a214d2a204f6b87c6df8643559d966
+FileChecksum: MD5: 6899c94445bccc2133e9a78680b7bfc6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/utils/ApplicationUtilities.java
+SPDXID: SPDXRef-item1172539
+FileChecksum: SHA1: ffa163cb56641f406789e7c847236cf3d97cb197
+FileChecksum: SHA256: df2396827711a2164332231b763e5a91349b500bdee41e3edf64bad9a761094f
+FileChecksum: MD5: c61478de7492818e7fbab297abcf120a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/common/CMLPCipherSuite.java
+SPDXID: SPDXRef-item1172543
+FileChecksum: SHA1: 36d853c0ee87ead8975c0283bd4644e782b77112
+FileChecksum: SHA256: 852eb7131806a7713541c342038b2436047302959e45238413cc32b6cf24f01e
+FileChecksum: MD5: 06a747f8a42f064e243f76a98df805e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/common/ProxyAuthenticator.java
+SPDXID: SPDXRef-item1172545
+FileChecksum: SHA1: 582e8df1db40ee117c643c045704472c399e25c8
+FileChecksum: SHA256: 59cc16b41000795546174c7cf235c7408382670c41915017b2c1833a8a8d2b17
+FileChecksum: MD5: 10138f55674288961cfb4afceaefb6f5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/common/DataSrcErrorList.java
+SPDXID: SPDXRef-item1172544
+FileChecksum: SHA1: cda4b76e9b63a80655cf6a2ac9864da1774c986b
+FileChecksum: SHA256: 921c40977328736730cf28f27e95d15dba0979efd7e34ac5db65a07eecb8f5cb
+FileChecksum: MD5: 8b2a54ca952d2a18debdfa06b60e733c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/common/HelperTool.java
+SPDXID: SPDXRef-item1172546
+FileChecksum: SHA1: 4796e07d30e0980692d317998b3e8747a51d5af6
+FileChecksum: SHA256: 01f643b0d912bf82ac8ab8e4290c52c3c95ab3eb91aecf4b33fae03590a1cc00
+FileChecksum: MD5: 4ef89bc58d64e631416036f4ffa8bdc1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/common/ProxyManager.java
+SPDXID: SPDXRef-item1172547
+FileChecksum: SHA1: ed559b5f9191562309307b44ce4f2b95f2ce7364
+FileChecksum: SHA256: 6e2bdb3bb25594e3a50bf24aa3e2a52fe6c51b92e44c30593197925806aed02c
+FileChecksum: MD5: 8f9daf4c9a96be281afcefd9d9f9534b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/common/KerberosConfigInfo.java
+SPDXID: SPDXRef-item1172548
+FileChecksum: SHA1: f241207f38f61e53b49130fb7959dd48dd81c499
+FileChecksum: SHA256: 12521a52b7ff2006b2c4c794d0d68bb65c86a4ebc295c1b6ff6ad02bc0a099c9
+FileChecksum: MD5: 68ba5f657d3f0adcf8595c2c345c6934
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/common/DataSrcRestError.java
+SPDXID: SPDXRef-item1172549
+FileChecksum: SHA1: 61c843907c04f7e4ec689bd13a9aad854501da3a
+FileChecksum: SHA256: b978d9e702ff1fe30dd0b98f70c2be032a90579bdc23a8bbd44776e9e57d4ea4
+FileChecksum: MD5: 448b84cd051641f588357feed7274aed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/common/CmlpApplicationEnum.java
+SPDXID: SPDXRef-item1172551
+FileChecksum: SHA1: f3b4144b5e82fb57ec6b8882465ea14572cf8b08
+FileChecksum: SHA256: c9e141082e68ac879e501868e7d8a541d6b2c7112e66a85461be1f0a6bfd64f1
+FileChecksum: MD5: d83ac139a56dd1c993655a80c991abc3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/common/FilterResults.java
+SPDXID: SPDXRef-item1172550
+FileChecksum: SHA1: ef10638f9a793e052cf66934f9b0ec1c1c03ea7b
+FileChecksum: SHA256: c30082c34a6ac19bfa52d4d2a9575c111e98a07ef9660e068cf7567d8ea1c531
+FileChecksum: MD5: 9299041bf8e991045d39b9c36f8c5bf3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/enums/ApiVersionTypeEnum.java
+SPDXID: SPDXRef-item1172554
+FileChecksum: SHA1: 38083ba602b874773bca5fa20bc0717620e86bc6
+FileChecksum: SHA256: b5b7ad19af60bc1605c5cd4e40390a0a8221bd31443fd7772bb6703e1f5bda4e
+FileChecksum: MD5: 40670df060f49ed21c86c2ada95a9756
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/enums/CategoryTypeEnum.java
+SPDXID: SPDXRef-item1172555
+FileChecksum: SHA1: e5b70363ca8a87f32cf628d37c487c0218743ac3
+FileChecksum: SHA256: 09f2b2374f77cd5139ee2381ef6ffa5952afc5db303c631c9219a6d7189eba83
+FileChecksum: MD5: 39d088b9ba6b7a8b3bb55eb43cb4fe11
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/enums/ReadWriteTypeEnum.java
+SPDXID: SPDXRef-item1172556
+FileChecksum: SHA1: 9b72c7d2a937cc8d0f645c8c13c4ce183ea6a174
+FileChecksum: SHA256: 0e96da3c3d6818d3a5d4e586d4cc10786eafa667e3af94fc0833ec0111a81747
+FileChecksum: MD5: a7f34fcc7ced41f425bd372a228b0f85
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/DatasourceApplication.java
+SPDXID: SPDXRef-item1172562
+FileChecksum: SHA1: 15f44ef06eee102b578b52a41043540a640c8a23
+FileChecksum: SHA256: 617bc2068a7f484d6abf6bd94879c4b7b4c745c92894f60628addeef8a8c1a34
+FileChecksum: MD5: 92a5d7fbe09cc3a0f70e11af68f8fd2b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/controller/DatasourceController.java
+SPDXID: SPDXRef-item1172559
+FileChecksum: SHA1: a0cbbff755d86aa05f3a2ad95715a07de9281d46
+FileChecksum: SHA256: 7d9551840439d0d61970e034f40a3b8847101adb456da9ff6f690ece4a40afc7
+FileChecksum: MD5: 73a21a7cc47a8f51a2b706e2c7af4686
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/connection/DbUtilitiesV2.java
+SPDXID: SPDXRef-item1172561
+FileChecksum: SHA1: 15fbd557f0781e7e46ad8d048e8300c74e435033
+FileChecksum: SHA256: e0f18e367fcf2283e25d99ac2882f375b3819c62c9f443c5e6b74a5d16efdfd3
+FileChecksum: MD5: f691e1c4217c7a84a0963c8e00d2fc07
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/model/MongoDbConnectionModel.java
+SPDXID: SPDXRef-item1172564
+FileChecksum: SHA1: 255dce90dcfccd3dcda274b17b11fff3959a7f2f
+FileChecksum: SHA256: 32b2a4ea335be49dbefc279cced426e4f8b89f6a66e18becacf3a4a04d7a1157
+FileChecksum: MD5: 8008a97dd848a00c85c8cde345ddf5c0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/model/ConnectionMessage.java
+SPDXID: SPDXRef-item1172565
+FileChecksum: SHA1: cbdbc9f8338d763f544e4e3383dd2270bf522b8b
+FileChecksum: SHA256: f82a646031c856afb3c05574926dfc3f1c9338136ec04defc124af00be2d4fb6
+FileChecksum: MD5: 277adea9bac7ff1c2a52cbfec9bc8c76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/model/SparkYarnTestModel.java
+SPDXID: SPDXRef-item1172567
+FileChecksum: SHA1: 3cac6efaaf9d0f9052ec4cdaa41aa500745ef62c
+FileChecksum: SHA256: 3bb5b112822bc5b0d72a7d442675fd61885570c4aeb2f5cb7376e849d5bf1b4e
+FileChecksum: MD5: ac9c54b63aa1b42574e8dcb1f72e9b65
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/model/ContentResponseModel.java
+SPDXID: SPDXRef-item1172568
+FileChecksum: SHA1: 55650163e28bdd10df58dd4db8bca4a87cf686a2
+FileChecksum: SHA256: cbee613236b56bfe98e82a93051c3b24f0d927eecb273717bf2a5ec2a88ca092
+FileChecksum: MD5: 4ba9dee0dd609b672821c96b080a8815
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/model/JobSubmissionYarn.java
+SPDXID: SPDXRef-item1172566
+FileChecksum: SHA1: 07e70ae570b466fd347ba7c4246a469ac4369569
+FileChecksum: SHA256: 0398739fa3209b038262ba6368080a7f7de6b273b3ab736f54024e434fd8c37c
+FileChecksum: MD5: 42aec0c21aae0fd57921c9745891827d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/model/MysqlConnectorModel.java
+SPDXID: SPDXRef-item1172569
+FileChecksum: SHA1: 9d17ba6b0b24d7e18a57828cc4a1de08925c4780
+FileChecksum: SHA256: cf91e33c4b76efef3fb63bdfb7c400bdd61064f0d4e97acc2cb5172328f24518
+FileChecksum: MD5: 78404ba703ade842f4904884b49bace5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/model/JdbcConnectionModel.java
+SPDXID: SPDXRef-item1172570
+FileChecksum: SHA1: c9d35cce9cb3509f3800b9bad6d881325dcbf21d
+FileChecksum: SHA256: e2af05edd356bb4d61bb56cbec4da1c2445f4c878f5fe3745b1f949d1ac6c5a3
+FileChecksum: MD5: d5b7379d1557f9a5c30254d9ff72a2e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/model/SparkSAModel.java
+SPDXID: SPDXRef-item1172571
+FileChecksum: SHA1: 2def3f4ba063fbde687815231c48fa199e2641b6
+FileChecksum: SHA256: 26d02d47a7addafb781f72292ea77b3ab469e2b6372703cd64b23e9a60a734be
+FileChecksum: MD5: af5bcb3666643358febc81c1e5889626
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/model/ResponseStub.java
+SPDXID: SPDXRef-item1172572
+FileChecksum: SHA1: bdb7abb8f850b534f513270fbf0f1b5f2ada2584
+FileChecksum: SHA256: 4fc7af10cd3b972a8b7f5f300a13b22c8602c28f9f58ef752eaaef8e08709a8e
+FileChecksum: MD5: edd2671a7f005e30233ae4af47b85bb6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/model/FileConnectionModel.java
+SPDXID: SPDXRef-item1172574
+FileChecksum: SHA1: 54e9ccbc67aaf384cd08fa8a64cac90bbe3a2a96
+FileChecksum: SHA256: a0be5cd83e938433c5223484c260496a9a0bf7ed71ac7ae776b713ff6c6e6d43
+FileChecksum: MD5: caf33a8a70894874de9d552ac5add2c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/model/CassandraConnectionModel.java
+SPDXID: SPDXRef-item1172575
+FileChecksum: SHA1: 2e859c6a11c837527a958f725e9da84e6eddee60
+FileChecksum: SHA256: 0f22d2e31debc5bcab4bbf4c59037833aa6319d972e9b02ab9262e584cf6df85
+FileChecksum: MD5: ac951213e2bf64454820396a60e13ed3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/model/KerberosLogin.java
+SPDXID: SPDXRef-item1172573
+FileChecksum: SHA1: 00bde85758136abf0ab01d25bb83c5faef19162b
+FileChecksum: SHA256: 1ad87553cd6ac07bbf50d099be563b09777a7aff9df8898e7edf5ab2b76cb6cf
+FileChecksum: MD5: b539ed2a45ddaed1f7c51242b7f0d11c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/model/ErrorModel.java
+SPDXID: SPDXRef-item1172576
+FileChecksum: SHA1: d1d9b00c5f43f8f5e574345f998d488a2a78a075
+FileChecksum: SHA256: fa66663d9f31442e94e76a80f9258059445daccf654cc5f574390f2311db3d68
+FileChecksum: MD5: 4c979f9312fdffbf2ecf0ffab631888a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/exception/DataSrcException.java
+SPDXID: SPDXRef-item1172578
+FileChecksum: SHA1: f9d27d8e83b01ecdcd08136b1cec251825a37185
+FileChecksum: SHA256: 25585a2b6a4ef91ce6ffd68972d7c24a144a7872bf8793930b213cb74c317013
+FileChecksum: MD5: 7d435a9c31617b5c282789b6151e0403
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/schema/DataSourceModel.java
+SPDXID: SPDXRef-item1172580
+FileChecksum: SHA1: c4575d65308cd0027fd889d1c9acda429a355864
+FileChecksum: SHA256: e00a36e846c46de936f27914e879f1b40705bd8bdcbe0b719afa2799ca0ab41d
+FileChecksum: MD5: e991f722d5a16f862aa588c36ba0828d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/schema/HdfsHiveDetailsInfo.java
+SPDXID: SPDXRef-item1172581
+FileChecksum: SHA1: 198fbecf55e1361cbda04bd7ee1c4e49b58b2e8d
+FileChecksum: SHA256: c405c3913b8e48fc613bc7770e4213ee295060a3f6d08a90d08a62ebf1c0db8d
+FileChecksum: MD5: 3a647157ac9e04fe2d69ebbb973cc8b1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/schema/ColumnMetadataInfo.java
+SPDXID: SPDXRef-item1172583
+FileChecksum: SHA1: cb366cd4ec7259910fbfa57aff310e4b56772772
+FileChecksum: SHA256: acf25d9357a8b27aaee79d645233d4fbb7f2b26962f9a6b42c512d2a153c9663
+FileChecksum: MD5: 6205c991a7496b565be46168e81b4d41
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/schema/DataSourceModelPut.java
+SPDXID: SPDXRef-item1172582
+FileChecksum: SHA1: 88ec4f3d3cb5e530b74dfb15438e2a30a9c71366
+FileChecksum: SHA256: 897af0cd7f3eabeabe0666e1cf096b49faf6967ba8b17d5e0bdf14a781da8ed5
+FileChecksum: MD5: c364c33db1e3442e22d03a0a563a0d0a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/schema/DataSourceMetadata.java
+SPDXID: SPDXRef-item1172584
+FileChecksum: SHA1: 4bd23e3bf39b8476ba8b9bf5fed671fc03eda256
+FileChecksum: SHA256: 8d2d9420889ddfbeddd497f720fbe4225aa969e25a26a78a823f26b176aa905a
+FileChecksum: MD5: bdd14b4f40e2a06cc6f4a5b83c661e1b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/schema/NameValue.java
+SPDXID: SPDXRef-item1172585
+FileChecksum: SHA1: cae2ac074a28db9412323c2beb1ce903c0a15297
+FileChecksum: SHA256: 84c31b5d485ab6bb428dfe8b16001a8ff6153c1ddd82a7b54ef3b13624476209
+FileChecksum: MD5: 62544e1cb1557256aecfa80ba827d701
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/schema/FileDetailsInfo.java
+SPDXID: SPDXRef-item1172586
+FileChecksum: SHA1: 342ac5cf1221482eb2c30363ee5fd06840c77bea
+FileChecksum: SHA256: c0e60a954a7c6ffc4b403aedd796a1edfc66d495f269fc433022f459176ef441
+FileChecksum: MD5: 0c4e567be52ec1a40e77fa12b2b1144f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/schema/CommonDetailsInfo.java
+SPDXID: SPDXRef-item1172588
+FileChecksum: SHA1: 82b09551fc46366de48a6dc7bf82e577acdb508b
+FileChecksum: SHA256: 3d3b8f0aed4e548ae42f551f66a3f5dfd04063255036ac664460b879d3c600f1
+FileChecksum: MD5: f9b7a71e8d96925abbdf85c0489e56f7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/schema/DBDetailsInfo.java
+SPDXID: SPDXRef-item1172587
+FileChecksum: SHA1: 7d91b95a90c68b260961df263ccd85f464bca3df
+FileChecksum: SHA256: 1a39396f63396e16668fde4d89314840ca964c66876b67b3b864f37bac5cd7b6
+FileChecksum: MD5: 91b471f2dc41fcc70927aa6ca128990e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/schema/DataSourceModelPost.java
+SPDXID: SPDXRef-item1172589
+FileChecksum: SHA1: bfd885a53a68a4d8a7fc06b798d55cabb188e1d0
+FileChecksum: SHA256: c2f45cd66d4a356a97eb1765cde936ce69e284ac03c0248326fff1090fabb147
+FileChecksum: MD5: 100474427777007693a176e664a267c9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/schema/DataSourceModelGet.java
+SPDXID: SPDXRef-item1172590
+FileChecksum: SHA1: 739adf05541eab68feff6ded7efc2090fdb2a29b
+FileChecksum: SHA256: 322f5048615ac205b42444abb9e4bf4c40c1b359954fd7221c5c74b9a0ded448
+FileChecksum: MD5: da1731bd653e13e4c8966e56019225c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/config/CustomBasicAuthenticationEntryPoint.java
+SPDXID: SPDXRef-item1172592
+FileChecksum: SHA1: bf879b2bd4a1eee0028608343ad22076bd10e0ba
+FileChecksum: SHA256: 8f112d46db871bf3be7ba44f736b16a0c16c00a1e9fabb5bb7bcca29ec1e6fc1
+FileChecksum: MD5: 7977e0f3099058660ca71324488c3c5e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/config/WebConfig.java
+SPDXID: SPDXRef-item1172593
+FileChecksum: SHA1: f7a23c97393764815b09bfe49d5c430525691225
+FileChecksum: SHA256: ebd5c5946b15d9b21c968aa62caf261bcb1a943c1e02df7ac58593a99eb89440
+FileChecksum: MD5: 1ad7fb2d3f65367a8ce64faac6d46e7c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/config/CustomWebSecurityConfigurerAdapter.java
+SPDXID: SPDXRef-item1172594
+FileChecksum: SHA1: 77c778d6b86bf8b3c711df36191d7d9ea67c4800
+FileChecksum: SHA256: 227137369dbf7b21bd2051e7525053a4620e3273f446c1c25ea4da352949f13c
+FileChecksum: MD5: f9452ed314804aef12f8b241d45fc5a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/HdpDataSourceSvcImpl.java
+SPDXID: SPDXRef-item1172596
+FileChecksum: SHA1: e615c6dab1a9bf634b935c299787d4333260f4e3
+FileChecksum: SHA256: d19297468085e74bbeaa073e3cce117f89df317faac27f9db05d3826ef08aa9a
+FileChecksum: MD5: 2e0e6ba19fc5c4afb6590ba481e5a27a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/JdbcDataSourceSvcImpl.java
+SPDXID: SPDXRef-item1172598
+FileChecksum: SHA1: 1bcdb8bc9cc3680e27ba1aeab7d08731ad6459da
+FileChecksum: SHA256: 3615f9994736ea777c25bbcaeed683f376e4eef74117b3a29ea065c66a4d7932
+FileChecksum: MD5: 7062fd133300031c491a05ba9c798567
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/FileDataSourceSvc.java
+SPDXID: SPDXRef-item1172599
+FileChecksum: SHA1: 29485a456bf91f92f4f9bda5a827dfdd23ba3dca
+FileChecksum: SHA256: c9b6c37282ef481c8352f2b1a7cbe01a429ab9fa96dcbd4ad44190b642fe45a7
+FileChecksum: MD5: b0a5ce887fbfa56cf96b027ce6a2df4c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/CassandraDataSourceSvc.java
+SPDXID: SPDXRef-item1172597
+FileChecksum: SHA1: 552d6229fa7838e03f22de83d31625c60b7893ee
+FileChecksum: SHA256: c9e90ecd3499113c21868eaa177bc2be75ce5671434a87bab02f0d622091f7fc
+FileChecksum: MD5: 64a4260309be83e523702176c36b3616
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/HiveDataSourceSvcImpl.java
+SPDXID: SPDXRef-item1172600
+FileChecksum: SHA1: 29966ea9f5153fa2bac9da6f5ea658be5cf32e4a
+FileChecksum: SHA256: 041a8e2ae8424555619d7fbc27e4d2f28ea2c2c13e8e3d345992b9c2e2ab0277
+FileChecksum: MD5: f74468c659ea7e4073ffd1d1880bbe1f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/HdpBatchDataSourceSvc.java
+SPDXID: SPDXRef-item1172601
+FileChecksum: SHA1: f40f6c0a53083fa6559fa7b1390cb88e7b7b87b7
+FileChecksum: SHA256: 45fb8706711e2c055e219515914a3011a26d2d7f4664f818281c8d4140463307
+FileChecksum: MD5: 23405c996a48d16b2df11dcd02066902
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/MySqlDataSourceSvc.java
+SPDXID: SPDXRef-item1172603
+FileChecksum: SHA1: b144255db16f3ea634325acf0f0c10be88e15916
+FileChecksum: SHA256: fd50a4411810a7413d3c9afd0d3c1877294ed9f8fb2c2f78817dde548f1985bf
+FileChecksum: MD5: e5bb78e33bb4a4bda57afe77c66ab90b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/CassandraDataSourceSvcImpl.java
+SPDXID: SPDXRef-item1172602
+FileChecksum: SHA1: b49fc964d2ae931f0c7c52dad6c1f4cd6fc35c6e
+FileChecksum: SHA256: e75bf793e9605398adb6008793e24a2c2282009c2e4ba8e445830048dbd80803
+FileChecksum: MD5: a3f9c1f906415b2912ce5b624bc81ce4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/MongoDataSourceSvc.java
+SPDXID: SPDXRef-item1172605
+FileChecksum: SHA1: 757ed73481c7b54f53e4975282beae09009dbfd7
+FileChecksum: SHA256: 7e8fbc2878394eac825be16fefac5894a353592f3798884a0f37989f3fa788ae
+FileChecksum: MD5: e559a90eae3a0f9db522a45663fbc3ea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/SparkStandaloneSvcImpl.java
+SPDXID: SPDXRef-item1172604
+FileChecksum: SHA1: c801302b2de7e69e2a3848fbc0c041ba4c82b63c
+FileChecksum: SHA256: 6f2181a4970dece88af22a0825d98791749b33c4d13919e5690c694093773ef0
+FileChecksum: MD5: 2325e8cc157f519310ce3fe1b309cd37
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/SparkYarnSvcImpl.java
+SPDXID: SPDXRef-item1172607
+FileChecksum: SHA1: 236fc3a51124aa67b89520ef34b383dc7887b7f5
+FileChecksum: SHA256: 30ff6594aa2d353577badb47449320adfdd795ea661fa18bb96d8fb8fb730e98
+FileChecksum: MD5: ea90142d235929fbcc28c1c9d716b2c0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/DataSourceServiceV2Impl.java
+SPDXID: SPDXRef-item1172606
+FileChecksum: SHA1: d8dc85fbc71c04d519fa4537f93657ec1c20ad2a
+FileChecksum: SHA256: bffd310c5fbdd7c4b31846ae80e02c395f9fdc8af356f8afae724990708689b6
+FileChecksum: MD5: dc10576b1142a54aa25879f077f968c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/HdpDataSourceSvc.java
+SPDXID: SPDXRef-item1172608
+FileChecksum: SHA1: 677ba372290069e4a495bfca2c1b72a8f6114add
+FileChecksum: SHA256: 7ace5db7254feeed300d1ae547599081b5870b59faea7234a5163ee18df0e626
+FileChecksum: MD5: 63322bc8547bdcfe2578554dfc1272c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/HiveBatchDataSourceSvc.java
+SPDXID: SPDXRef-item1172609
+FileChecksum: SHA1: 0f5aa87c1b97ce581bccec2e2c11716ba3605e19
+FileChecksum: SHA256: 42798545a2c2dd5703e9ef850eae0d02accabdd5241a8e7cc998adfd136b8036
+FileChecksum: MD5: 1919629181c46ceeb763c12d1116a631
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/SparkStandaloneSvc.java
+SPDXID: SPDXRef-item1172611
+FileChecksum: SHA1: 5e840e755a82c0d9a1f6185d5bec1d045bcbdbba
+FileChecksum: SHA256: ea6ae506d07b3692981a3095808c011733ea330756e33bc4948f97f228fa534d
+FileChecksum: MD5: 2588d2c5858454fee7ffa1724c0e9382
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/HdpBatchDataSourceSvcImpl.java
+SPDXID: SPDXRef-item1172610
+FileChecksum: SHA1: 105d3bf68e6b0a5867b6d0c2838ba5d72bb71b32
+FileChecksum: SHA256: f8ddcd9c4557b93a326f910f42c09ef351e29ef2ed8e894df9479404868b73b7
+FileChecksum: MD5: b92983620117bec5f09b0fca3e036d4c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/SparkYarnSvc.java
+SPDXID: SPDXRef-item1172612
+FileChecksum: SHA1: cb90d60cbc9ccc2139e038e332f129e1993c8f64
+FileChecksum: SHA256: 341fb463c9ddc605a0dab8b0fab99211bfdb766c80b4ba6d4116428cacdbe62b
+FileChecksum: MD5: 0a2a57165db35bd03b61c38cdd63ba39
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/JdbcDataSourceSvc.java
+SPDXID: SPDXRef-item1172614
+FileChecksum: SHA1: 71aedb3301e7273806f4fe607a3f32762d623d08
+FileChecksum: SHA256: 756a5223848e5866abfb43113b288cc11d03f22eb36bdabf48467564f03d13c0
+FileChecksum: MD5: f157cb2fea2751ca03c1822e948d5457
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/DataSourceServiceV2.java
+SPDXID: SPDXRef-item1172613
+FileChecksum: SHA1: 31f5acc818942580bb755ca3b48c9b4c10d0ee51
+FileChecksum: SHA256: a33bed791a165f74326e5f106d7e7f2fd3653d9eed766b07f1798cdcdd61a17e
+FileChecksum: MD5: 189ddba2ed92ffcef2482ec6b4dd974e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/HiveDataSourceSvc.java
+SPDXID: SPDXRef-item1172616
+FileChecksum: SHA1: 0609d6ea57bb7e0a4ef9310bbd2bceb885ed0ace
+FileChecksum: SHA256: 094cd6795057f3e20cc89e5cc05d39e255e029324a0929051c9743c1fc2cf3b4
+FileChecksum: MD5: 50e877fe3b7713e6ea2c358ea1aeb5b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/HiveBatchDataSourceSvcImpl.java
+SPDXID: SPDXRef-item1172615
+FileChecksum: SHA1: 037e1ceccd77bd6161d46c3e5db919a946bbca0c
+FileChecksum: SHA256: a6d0d11933a971a50a8aff5bad4c78efe80b14b66938f8dfcfa271532fb3a878
+FileChecksum: MD5: 628837b6ae390a7489b6c745f8089712
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/MySqlDataSourceSvcImpl.java
+SPDXID: SPDXRef-item1172617
+FileChecksum: SHA1: 88ce8abaf4bd4cbd73b58a8b0a92f60f9abb3f11
+FileChecksum: SHA256: f140d80fd7dd385ba7911604a67b7a92ef44fd2fe969cb8fdc2ef3e261496092
+FileChecksum: MD5: 440c08d975deff6177446fc452ea8712
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/FileDataSourceSvcImpl.java
+SPDXID: SPDXRef-item1172618
+FileChecksum: SHA1: 9a86aec6a955d04b0b56e87333cbb77bc780fb22
+FileChecksum: SHA256: ad0997f684be7dc52deffff4c655c24112e7458eebf566aa4c359cc0a79e6493
+FileChecksum: MD5: 4cb84e99e3491554afc0f773e4746d8d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/config/SwaggerConfiguration.java
+SPDXID: SPDXRef-item1172621
+FileChecksum: SHA1: 7e827b86401315f06110f5946c80c168a553da46
+FileChecksum: SHA256: 5f1e453602d3983d64a722740a1cc3854b593f18cdaf703f54997aad033d087d
+FileChecksum: MD5: 35c6f94d91f4aff5722efe00c3600fd7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/service/MongoDataSourceSvcImpl.java
+SPDXID: SPDXRef-item1172619
+FileChecksum: SHA1: 58151eca2ca8777f520b6915daf39162644511f8
+FileChecksum: SHA256: e67f08f8cce4036193d06b6387c783e34c0d60ceda1893238d068ce96ec7b716
+FileChecksum: MD5: b93a5ed8cea08047f347793b969ec292
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/test/java/org/acumos/datasource/test/controller/DatasourceControllerTest.java
+SPDXID: SPDXRef-item1172629
+FileChecksum: SHA1: ac415507533a24720897ea68648bb1e8cf9b820f
+FileChecksum: SHA256: e49aee6267b741d0dd8d1e86dc1386ab607344637e2660bc2ec6d7be2ff21d33
+FileChecksum: MD5: 8002c9625c352f86a4e2fcced9dce258
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/test/java/org/acumos/datasource/test/controller/DatasourceFileControllerTest.java
+SPDXID: SPDXRef-item1172630
+FileChecksum: SHA1: 9e9a2ac3b6b257f052a6a54c8a3488a9992035a6
+FileChecksum: SHA256: 6639fe8e041072d54d23aa8632436d1831ce53ce91b0429d1257f42159b0613a
+FileChecksum: MD5: c632dbbdd12bbd8fb046626f282591de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/pom.xml
+SPDXID: SPDXRef-item1172633
+FileChecksum: SHA1: 2bca51f20f0e491f53ac41f5934cb54b2b20b456
+FileChecksum: SHA256: c6770e93356b32a18ca53e6c4bb21009d7ea25499f0fe23e9be027dec02f4f53
+FileChecksum: MD5: 50a6cc4b9f82850b1abf96f85add8cfe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. =================================================================================== This Acumos software file is distributed by AT&T under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. ===============LICENSE_END========================================================= --> modelVersion>4.0.0</modelVersion> groupId>org.acumos.databroker</groupId> artifactId>datasource-service</artifactId> This version number is used to tag the Docker image. --> version>1.0.0-SNAPSHOT</version> name>Acumos Datasource Service Server</name>
+Copyright>true</canUpdateCopyright> canUpdateDescription>true</canUpdateDescription> canUpdateLicense>true</canUpdateLicense> emptyLineAfterHeader>true</emptyLineAfterHeader> includes> include>**/*.java</include> include>**/*.js</include> --> include>**/*.ts</include> --> includes> configuration> plugin> Generate javadoc jar; see profile for Java 8 --> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-javadoc-plugin</artifactId> spring chooses the <version>x</version> --> configuration> additionalparam>-Xdoclint:none</additionalparam> configuration> executions> execution> id>attach-javadocs</id> goals> goal>jar</goal> goals> execution> executions> plugin> </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/resources/logback.xml
+SPDXID: SPDXRef-item1172640
+FileChecksum: SHA1: f517a8e4006c5abeb295b9b5a61424fd77236df3
+FileChecksum: SHA256: d65bd1cf6a43f0f45821b1a540603e4978c356ae0b90ba3d9ce260620219e523
+FileChecksum: MD5: da7fc85879679eebb91679fe57fa6b2c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/resources/application.properties.template
+SPDXID: SPDXRef-item1172639
+FileChecksum: SHA1: 45daa1cd66fa1c9c2e9d6c9004151da9c9374c5a
+FileChecksum: SHA256: a3218f93e659799c8bdb86010eafded5b5135b150129d530911dd16d6c9293bf
+FileChecksum: MD5: b07122fb963f8eb60147bc59342b5936
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/utils/ApplicationUtilities.java
+SPDXID: SPDXRef-item1172646
+FileChecksum: SHA1: b1adcd1702014cd36d82f143f56ab79cf2cb3703
+FileChecksum: SHA256: 61d60d014537ee7cafda8c88220c368bc65bc9c994e0b2c197b6c1b9f6bb1737
+FileChecksum: MD5: 3dca3950a7c1b41a15c5e9a695f880eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/common/ErrorListEnum.java
+SPDXID: SPDXRef-item1172649
+FileChecksum: SHA1: 193c4c0afff0cdc16dfe2ed9d6e423193710d41b
+FileChecksum: SHA256: 4dbc080388789c4f0ad6ae2d547fd27a160c7e896bed5189ccc6b51a6a5e99ae
+FileChecksum: MD5: 72de78c214f4732b1d2bedead8f93fe9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/common/DataSetRestError.java
+SPDXID: SPDXRef-item1172650
+FileChecksum: SHA1: 8ff5e8d1cdd4c1e02fe6298bb8c69d53aa3a6ad7
+FileChecksum: SHA256: bad07945fb76fe4fbcc593df9ff64ea055d32348c1a8b7da8af07c625b763078
+FileChecksum: MD5: 8214d53bef2efde78af346b24b6fdc51
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/common/DataSetErrorList.java
+SPDXID: SPDXRef-item1172651
+FileChecksum: SHA1: 161f0181d6608beedc7f5f76a797eab6f1211bcd
+FileChecksum: SHA256: 4a7634fa08f58a301c6d09297688c4e0e0ca7ae7adfb42ed263802fcd61ab3c0
+FileChecksum: MD5: 2fb1158e71d8f990bf5e9f8e07dfe402
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/common/HelperTool.java
+SPDXID: SPDXRef-item1172652
+FileChecksum: SHA1: b346d26261371ac5e669eaf74ccfdef5ff66b6d2
+FileChecksum: SHA256: b1841844122ac9b79d4cbf5d6fb22f88086e35792a124064fdb70dfb2d216eb1
+FileChecksum: MD5: 26e8a750fe60e16ec6ec675a1928f1fe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/common/DataSetSearchBuilder.java
+SPDXID: SPDXRef-item1172653
+FileChecksum: SHA1: 2ac30db3f4f849f8d320b7c48d5c4c0a8e8498c4
+FileChecksum: SHA256: 129cbd018d7931e49212d0a49e1304dd34779b83382312a828e5e3f671be2471
+FileChecksum: MD5: f733e11d271b471b884137583e5cceae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/common/FilterResults.java
+SPDXID: SPDXRef-item1172654
+FileChecksum: SHA1: 0e5ffaacc00184e75c6a51e17583e338bb334a41
+FileChecksum: SHA256: b11fe8238db6bb416577dbd8f42aad15bd1e639f756ed9e1065707d97eca8c17
+FileChecksum: MD5: 4f84cbd582a9c394c8bcb85684441ddf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/common/CmlpApplicationEnum.java
+SPDXID: SPDXRef-item1172655
+FileChecksum: SHA1: ac69e8f9f2f0e0cde6ba8478af6456216edfd451
+FileChecksum: SHA256: 38e9cbcc5e8d8257818200c9b7c53b99faf4be546af54f9b89207dfbc83f6258
+FileChecksum: MD5: 792c8f3c304ea5d0fd3e3a0e93ef27d0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/enums/DataSetTypeEnum.java
+SPDXID: SPDXRef-item1172658
+FileChecksum: SHA1: 45e9a57d6fbb97529c80d68dbf2d423bfae4b8eb
+FileChecksum: SHA256: fcb60c08c0c01bac4d15d98643403d8f591b94ade2d854ee12789793fb4d7e5d
+FileChecksum: MD5: 9bb9c6e199d8f30b7e730bada95c42cf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/controller/RestDatasetSvcV2.java
+SPDXID: SPDXRef-item1172661
+FileChecksum: SHA1: 0cd53d2324a0855d52ac88ce1b4cbc6d86b60f53
+FileChecksum: SHA256: 0ca799e488ddb2828db3987c946cc9e245aeda59b3381db0de7500ce80848b13
+FileChecksum: MD5: 97f4703bc4224e3510e5deca39e60fb4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/controller/RestDatasetSvcImplV2.java
+SPDXID: SPDXRef-item1172660
+FileChecksum: SHA1: b6ae56109c79f761ca7b86a04a91b5e5559f8d1f
+FileChecksum: SHA256: 2c051af70836d808a5a3261b46c3195cf1d7edcadcfd89d38a652f16ab8de277
+FileChecksum: MD5: 8ce6994a6032eea8cc359e17fbd6c093
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/controller/DatasetController.java
+SPDXID: SPDXRef-item1172662
+FileChecksum: SHA1: bb103aa8aae5cf82fc84ef029788c4fd1b3f50c8
+FileChecksum: SHA256: ebc576183125b415a27bf7046fe02f1ec893c75755064c5b792daff04da56f3e
+FileChecksum: MD5: 457f7e10dcf21843eb0e54308f0a01b6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/connection/DbUtilities_v2.java
+SPDXID: SPDXRef-item1172664
+FileChecksum: SHA1: ce480bad3cdff3e62bee5007ff3888debd9175a5
+FileChecksum: SHA256: d00d2a83e37cf9251b3123f2b746660f5c8137054a12ad6df143c25387d7cd7c
+FileChecksum: MD5: 277fa2fd501f596e49544a85db2f58b6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/DatasetApplication.java
+SPDXID: SPDXRef-item1172667
+FileChecksum: SHA1: a70f1678480395eabfa78ac0c3429d203a8beb9d
+FileChecksum: SHA256: c83177873a36e68aa0bf6659c25e5f01b7bb18ede9ef6088b338d9c6c3b2bd08
+FileChecksum: MD5: f4108a2a60b2d7f4de9e91b453d8a413
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/exception/DataSetException.java
+SPDXID: SPDXRef-item1172666
+FileChecksum: SHA1: 6042d0c678934007b0ed402327d199aa05f61f69
+FileChecksum: SHA256: 5f0d670486103fc18a505bfe9f3e134629aa47d15888b6ab13acee2b28c16dda
+FileChecksum: MD5: 5fecee4cbbaa345a2ee0ae35f1cdf1ff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/schema/DatasetModelPost.java
+SPDXID: SPDXRef-item1172669
+FileChecksum: SHA1: 2950cd2bdbddb0be76c1283539c81cae7ea7b3a7
+FileChecksum: SHA256: b61c7cc0a0515a11dc03d7d0157f0775988b380fc19736d64e03810bf2a7e301
+FileChecksum: MD5: c7e560942848c95344169b24d078f379
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/schema/GoalVariableKV.java
+SPDXID: SPDXRef-item1172670
+FileChecksum: SHA1: b58d12d0a753d5961714c9a9754688dbb065153e
+FileChecksum: SHA256: 47d721c349b637701ca07525e8a11c648682be118079032f27be47e265ac3b9d
+FileChecksum: MD5: 5f901ccab81b796cd0d8a2be0f165bbd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/schema/DataSetTableInfo.java
+SPDXID: SPDXRef-item1172672
+FileChecksum: SHA1: 1cc2a44e6efbb9f8954b129f147563d88c9ee232
+FileChecksum: SHA256: f1001412b281bef2b285400d07cccb583786b45ba985ddc4f945af5ff9032269
+FileChecksum: MD5: b06c5db8b6ecfdbda4ad50ab2f88ac9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/schema/DataSetSearchKeys.java
+SPDXID: SPDXRef-item1172671
+FileChecksum: SHA1: bad830b26f95cd9e4b4054575c456371c89b0d5c
+FileChecksum: SHA256: ba77fba16c923003874caff65c75d782d1fc14271875d841d97f0e0a9af2b77f
+FileChecksum: MD5: eac8db55c13bb888caf8246c94ad8142
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/schema/SharedUser.java
+SPDXID: SPDXRef-item1172673
+FileChecksum: SHA1: 1b899a4421835fbee22391db65a2a1b8adb1212d
+FileChecksum: SHA256: 405e65c7b20cb4f5514619defc7307d17d3ced8b7e77b3595597548f71206829
+FileChecksum: MD5: 3ef8e0bc93250191b7d6fd922204df8e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/schema/DatasetAttributeMetaData.java
+SPDXID: SPDXRef-item1172674
+FileChecksum: SHA1: e32d0c2502dadacea812efb7ff8b998ddaddedf5
+FileChecksum: SHA256: 79d8f37c883c2ab35cf7008d6d7c4e425cbaca160a32b8fb7945de7b28900848
+FileChecksum: MD5: a7cc1176e6fe2f5b015a54ff2d0f8929
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/schema/DatasetModel.java
+SPDXID: SPDXRef-item1172675
+FileChecksum: SHA1: a3aa237681b0a244610573c4ace1c7c5942e8162
+FileChecksum: SHA256: bbbdd191ef4f7a3a698630b4a5acce1819e2fa881cb91bfb5eb31df7f3fdf52e
+FileChecksum: MD5: c98493dc0637432f249c9e4b82c4ed74
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/schema/DatasetAttributeInfo.java
+SPDXID: SPDXRef-item1172676
+FileChecksum: SHA1: 001d254c870b77c4a43e035b8889101ac0d4a8cc
+FileChecksum: SHA256: cbf653d0f14c648f63ff7136f3f7a793c9df2ca3ffd33168eb7336b98ad831fe
+FileChecksum: MD5: c124cb18632b8131a7241b347bba09bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/schema/DatasetModelGet.java
+SPDXID: SPDXRef-item1172677
+FileChecksum: SHA1: 9b47e2498a8ce4273056006751fc0ca1eeb1830c
+FileChecksum: SHA256: 07762bf7e4de2262da3df09adf22faf60529376c75e0c14c559253fdf5dbabd5
+FileChecksum: MD5: 6d2b9d838333552712815d60c640e132
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/schema/DataSetKVPair.java
+SPDXID: SPDXRef-item1172678
+FileChecksum: SHA1: 21b67559007765b9a6e17978374d82de6feabdf5
+FileChecksum: SHA256: 472db81d891c51ac17012ba7a2423e116943bb5236265de4a818793a0889e9c0
+FileChecksum: MD5: 8be56f6e8c1d2315401b16bd48527f31
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/schema/DataMetaDataInfo.java
+SPDXID: SPDXRef-item1172680
+FileChecksum: SHA1: 267beba9b6670f4c068a16e9f20baa31c3660fcd
+FileChecksum: SHA256: c65e04972da7743ab1f8125284e7dfd1d8163295aaee5acfad342c30c1a45a97
+FileChecksum: MD5: e053de850cfbed2a959138349e2f6214
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/schema/DatasetDatasourceInfo.java
+SPDXID: SPDXRef-item1172679
+FileChecksum: SHA1: 7eb1c0e2fa18b00b8df7a29912ad622c5aeba2e9
+FileChecksum: SHA256: 741ce43bae76d1f7a388445b570bc195a8470aea4eac78c76d66b7fba2d8c91f
+FileChecksum: MD5: b785393205673c0cf9a2900bfb386a59
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/schema/DatasetModelPut.java
+SPDXID: SPDXRef-item1172682
+FileChecksum: SHA1: 773cbca1c66ea265124f77e187bf75bcf3788728
+FileChecksum: SHA256: 8e79466968f5ba6e6161272b6a56a65046844b26e6a84413709abe03bcb37d81
+FileChecksum: MD5: 01d7f2fae2f506413b3c752d7a6d5a89
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/schema/DatasetTransformationInfo.java
+SPDXID: SPDXRef-item1172681
+FileChecksum: SHA1: 53003b6ef50f9b24507e773ee6ebef0f27a700f0
+FileChecksum: SHA256: 2e9c80f3b57f92cc3c3cb78ce3de456492b7b2e40ba43b44e396f1f7e25472c1
+FileChecksum: MD5: 1e9df04b0dc4a66612a060cbadb1e634
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/config/CustomBasicAuthenticationEntryPoint.java
+SPDXID: SPDXRef-item1172685
+FileChecksum: SHA1: 252845bfe84560401ee7cb80d59f13d8000859e6
+FileChecksum: SHA256: c3ae85b20a468b0c0e2111432840ab01fa16f01df39d22db6f2dfcde2bfdad28
+FileChecksum: MD5: 3d24dfd132fdc011ec20dcd2b27dae6b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/schema/AdminMetaDataModel.java
+SPDXID: SPDXRef-item1172683
+FileChecksum: SHA1: 103649c5d82104b6a8d2defbed44cffdc09dcb83
+FileChecksum: SHA256: 684a889fb9140cdcc96fb367b2e45269fecc3c0d8db4f60c2dd4c0c09641160d
+FileChecksum: MD5: 0c531b8895ec798ab0da1321061fbe3b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/config/CustomWebSecurityConfigurerAdapter.java
+SPDXID: SPDXRef-item1172687
+FileChecksum: SHA1: c62ec040dd68e5cec0f7d47c7d8bf233d3f2470b
+FileChecksum: SHA256: 6f934a52f8824e3a810f95e8de1ddc470ec1d7917e428a70bb09f1114af50649
+FileChecksum: MD5: 8c89e889a7773fb2c4a6dda007f3b23c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/config/WebConfig.java
+SPDXID: SPDXRef-item1172686
+FileChecksum: SHA1: 3498a0b693e09ef148cceeacb1b8e56196dd83ae
+FileChecksum: SHA256: 94268954139d09b4228557ad0b26a306d28fb174fd55906ba1d336d2e3e4c752
+FileChecksum: MD5: 9ffce8a889bf343ee3b652e7d182954d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/service/DataSetServiceV2.java
+SPDXID: SPDXRef-item1172690
+FileChecksum: SHA1: 90edb0c7c4d3a8a5ce7196ded319fb0dcbfe13dc
+FileChecksum: SHA256: abe055da0dd43367bb1f296abe19080a9be45de31230870fd14d1d9ccf25f717
+FileChecksum: MD5: 60a291b0adef1626769f12dfce23bef1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/service/DataSetServiceImplV2.java
+SPDXID: SPDXRef-item1172689
+FileChecksum: SHA1: ae635434d435073c905db00ea48fbd346573f7ce
+FileChecksum: SHA256: c26e4f78e9c52578daf974640c953e060b66205c2c3ae52504460ae8485dfe42
+FileChecksum: MD5: 4aa977d1e49edcea81057a51c074d836
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/pom.xml
+SPDXID: SPDXRef-item1172703
+FileChecksum: SHA1: 9b76c2322ea2e2be422fbb11ec2e50b891183886
+FileChecksum: SHA256: c296a37dde9d4e1c8e4c9c719cda26c294b8d80ce7b56c1c6bc986f01c29ee51
+FileChecksum: MD5: 44811d92b75fc3c9ca2bb6324afbb299
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. =================================================================================== This Acumos software file is distributed by AT&T under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. ===============LICENSE_END========================================================= --> modelVersion>4.0.0</modelVersion> groupId>org.acumos.databroker</groupId> artifactId>dataset-service</artifactId> This version number is used to tag the Docker image. --> version>1.0.0-SNAPSHOT</version> name>Acumos Dataset Service Server</name> descri
+Copyright>true</canUpdateCopyright> canUpdateDescription>true</canUpdateDescription> canUpdateLicense>true</canUpdateLicense> emptyLineAfterHeader>true</emptyLineAfterHeader> includes> include>**/*.java</include> include>**/*.js</include> --> include>**/*.ts</include> --> includes> configuration> plugin> Generate javadoc jar; see profile for Java 8 --> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-javadoc-plugin</artifactId> spring chooses the <version>x</version> --> configuration> additionalparam>-Xdoclint:none</additionalparam> configuration> executions> execution> id>attach-javadocs</id> goals> goal>jar</goal> goals> execution> executions> plugin> Generate source jar --> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-source- </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/config/SwaggerConfiguration.java
+SPDXID: SPDXRef-item1172692
+FileChecksum: SHA1: 9761d668863fe36d3f7e347150a4e2c3198b364a
+FileChecksum: SHA256: 6f7490b59bbb7f02c346b90ba23555262ad9a8d206a7030fdf28c9046c0d0b9f
+FileChecksum: MD5: 811f48998c45c813ae4dda5e3171023e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/pom.xml
+SPDXID: SPDXRef-item1172708
+FileChecksum: SHA1: f7ed838ffc4212bb1e43b33e605e9c75f5eba4c0
+FileChecksum: SHA256: 6a7de1698aa63cf4b210b12173a734a42d11b0cc2f64c129f64b736ab568bc3e
+FileChecksum: MD5: 5ae6d931dd18b0c0f0444fe803278428
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/LICENSE.txt
+SPDXID: SPDXRef-item1172718
+FileChecksum: SHA1: 14a09dfbaf4d175f0399c4db07cc9897aa0e1114
+FileChecksum: SHA256: 6b38350ec04072dbe6816ba82334cb93afe1b70a1a7aa3a5b9d0cf4dd4fc69c4
+FileChecksum: MD5: 6dbc473aee31d40c4347872ce856beab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/commons/src/license/acumos/header.txt
+SPDXID: SPDXRef-item1172771
+FileChecksum: SHA1: df09ece0d24c1d95a278905bff78c4a1c686ccec
+FileChecksum: SHA256: 644341f2388f1c9d5551786882cb41c15aff64adc90bae400d94240b4055266e
+FileChecksum: MD5: fd976600fafe010d9febbabd6d6c9749
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/controller/DatasourceFileController.java
+SPDXID: SPDXRef-item1172558
+FileChecksum: SHA1: 0437d0f41e594f4e581d5151b6258bef8eb72a58
+FileChecksum: SHA256: ce0012f034c48d231f55a4adcc832563062e86fd2174ff36d8f05351f3435752
+FileChecksum: MD5: a6ac6b45dbcb38a2b705dafb1b4b4359
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/zipbroker/src/main/java/org/acumos/databroker/zipbroker/util/JsonProcessor.java
+SPDXID: SPDXRef-item1172732
+FileChecksum: SHA1: cb5bb29eb4dcc1d843eee41f02a7daa9d2393d57
+FileChecksum: SHA256: 56eb664f6301c9a4c7e4f3df1bc6ac093453c44a3e0d40b3aa9e1fb8bb41f12f
+FileChecksum: MD5: 47b62a695ff6ccc2112516c15cfc5b74
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/zipbroker/src/main/java/org/acumos/databroker/zipbroker/model/JsonRequestScript.java
+SPDXID: SPDXRef-item1172736
+FileChecksum: SHA1: dba4fb8c5b7bff33b1c82a7fe5ebd4a04ae33711
+FileChecksum: SHA256: 5009bbee73db0f834c4fef22f46faf52859d8656513b977ba370f2b370cc8786
+FileChecksum: MD5: 889b86b4cebe07b51cae119b02c1c408
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/zipbroker/src/main/java/org/acumos/databroker/zipbroker/util/EELFLoggerDelegate.java
+SPDXID: SPDXRef-item1172731
+FileChecksum: SHA1: 0ccaedc4539f7c244f4f95a149ee94faf6601f87
+FileChecksum: SHA256: 36f927872253f5e2edf00029674356b2aa4a4bb54b3866a905a18f37cf10b9a5
+FileChecksum: MD5: 44fdeb2622c43307daaf6d05424e5714
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/zipbroker/src/main/java/org/acumos/databroker/zipbroker/controller/ZipBrokerController.java
+SPDXID: SPDXRef-item1172734
+FileChecksum: SHA1: 7db9e2c88f304fefa17476115cc750e5f131eaeb
+FileChecksum: SHA256: 7ef6ae534c7bfb3d94e084594daa37363aa13c59359edb2198a189531fd7ac73
+FileChecksum: MD5: a52c456cdbc4d5088293070805dd9a5a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/zipbroker/src/main/java/org/acumos/databroker/zipbroker/model/JsonRequestMapper.java
+SPDXID: SPDXRef-item1172737
+FileChecksum: SHA1: 304c1ff74f21e2ae1f82e8441c170b8c718d330a
+FileChecksum: SHA256: b3d1d940ea715a14d10bdbe38b54ed1eb42298b73c06a1fbf947a53d8996699f
+FileChecksum: MD5: 9c95d4fc92c91a40d6e65b94cf13cb81
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/zipbroker/src/main/java/org/acumos/databroker/zipbroker/model/JsonRequestPosition.java
+SPDXID: SPDXRef-item1172738
+FileChecksum: SHA1: 16ae91dd1db14955935f833496c6bfdcffaf328b
+FileChecksum: SHA256: 6832637b21c997727c7f83e1161a08eb352a865360d3d6078428b381c59a6758
+FileChecksum: MD5: 5fb2113328ca440fffe9e2dfaf908167
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/zipbroker/src/main/java/org/acumos/databroker/zipbroker/model/ZipReaderResult.java
+SPDXID: SPDXRef-item1172739
+FileChecksum: SHA1: 195bd6bac6d82c143f4ac594655caeb0b1ba56b9
+FileChecksum: SHA256: b7003efeefe37ce0ff5dcc9d73c8bffe50575dced870807fa199e9e83e180029
+FileChecksum: MD5: 536adc35e51d0bd9031476dffc6fb3eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/zipbroker/src/main/java/org/acumos/databroker/zipbroker/model/ZipBrokerConfigDB.java
+SPDXID: SPDXRef-item1172740
+FileChecksum: SHA1: 251f223b4f3ff902e7c09e071d3cbcdd79bd5d7a
+FileChecksum: SHA256: b4cfe128aab6c0ec6662ecbc3e31da5076b733f27497cbc25bf01423bca0f622
+FileChecksum: MD5: 23a8d601103e3e861dc9e497ef95ec8c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/zipbroker/src/main/java/org/acumos/databroker/zipbroker/model/JsonRequestMapping.java
+SPDXID: SPDXRef-item1172741
+FileChecksum: SHA1: b5760dfd76e296b413180e8f7c5e84eca09e1973
+FileChecksum: SHA256: 849fa121378f1e49f5d14e6e81bb75e98f1ed22852d7b77aa9f96142ef7d7a63
+FileChecksum: MD5: bb5dbb89c64ea2c9eca9ad8198c14595
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/zipbroker/src/main/java/org/acumos/databroker/zipbroker/ZipBrokerStartUp.java
+SPDXID: SPDXRef-item1172742
+FileChecksum: SHA1: 462b8de07dff2a218bdd60e81756331770c15055
+FileChecksum: SHA256: 673c7655d58da9be100e4c1e8f92c16510a05f9d8bed7c58282e85c0c6a10bc7
+FileChecksum: MD5: cc1f204614287f530223634ca072ed33
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/zipbroker/src/main/java/org/acumos/databroker/zipbroker/service/ZipBrokerFileService.java
+SPDXID: SPDXRef-item1172744
+FileChecksum: SHA1: 41c0dd18691ca78468a4da5cb4d3d4a1940922f2
+FileChecksum: SHA256: e1ad23419ebca0ad9b0c76091e3a4eb53acbc2a1c03f12bbbfcb0c67b64652b6
+FileChecksum: MD5: 3c3c704e20f80f34fad1ee71ccea5f57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/zipbroker/src/test/java/org/acumos/databroker/zipbroker/test/controller/ZipBrokerFileControllerTest.java
+SPDXID: SPDXRef-item1172755
+FileChecksum: SHA1: 1ab2e5ab216e2dc8651f4aa25b88809240de3ac0
+FileChecksum: SHA256: 6009b479dc0bf1b4012c69d64d5f34d886e2220d2e91a3b0cc24a5aeb4a4967a
+FileChecksum: MD5: e13e16cb8bb80d9be5aa996a90895791
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/zipbroker/src/test/java/org/acumos/databroker/zipbroker/test/service/impl/ZipBrokerServiceImplTest.java
+SPDXID: SPDXRef-item1172758
+FileChecksum: SHA1: 28d6d9d52f776a641fe18fba4469b119da9606ae
+FileChecksum: SHA256: f91663d4485c859ac607d1d891eeb1c950a65f4156afb9ec3ac67c5d0f914bfc
+FileChecksum: MD5: 72f03c2be9c5c5b9cba89b5fb9880ea4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/zipbroker/src/main/java/org/acumos/databroker/zipbroker/service/impl/ZipBrokerFileServiceImpl.java
+SPDXID: SPDXRef-item1172746
+FileChecksum: SHA1: ef24df5f4f00683b0f69540f461dc7097b8e6de6
+FileChecksum: SHA256: aca9e8d1a331403d93984ff3d7d88b729ba488dcfc7a096ef7eab753768ba81f
+FileChecksum: MD5: 7081bf8078e8df0be45f2944647899fc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/commons/src/main/resources/logback.xml
+SPDXID: SPDXRef-item1172774
+FileChecksum: SHA1: 39215e64cb556cd9675321042f68b4debb57f84f
+FileChecksum: SHA256: 24f6da4b1fb0fa1571cf62e6b973bda0b9ce8e2a482ddce1a83adb280cbb2708
+FileChecksum: MD5: 24a59c9183ab6089293e00770d7a86bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/commons/src/main/java/org/acumos/databroker/commons/ProtoRecordGenerator.java
+SPDXID: SPDXRef-item1172780
+FileChecksum: SHA1: 34d70ae5181d91775b27a30ccf90b4a4d3dfe3ba
+FileChecksum: SHA256: 8320515b3b34f2525876bea6198c1093764dd5f65feb0ff13c3c39a8d4636395
+FileChecksum: MD5: 3a2658d2c1c04f1cb35cf7751f89ea88
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/commons/src/main/java/org/acumos/databroker/commons/JsonProcessor.java
+SPDXID: SPDXRef-item1172781
+FileChecksum: SHA1: 6cdecc69692a76c4999e34ea5e1974dfc6f04e1c
+FileChecksum: SHA256: e9af035f5712274640c2527e32f8b7bab0b55ba396da6e5ebf23d8498f9539bf
+FileChecksum: MD5: c0cbc98c73bd62f35644ba1b3d46352d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/commons/src/main/java/org/acumos/databroker/commons/DynamicProtobufMessage.java
+SPDXID: SPDXRef-item1172782
+FileChecksum: SHA1: 5310ff480821824ea3f6c27c86f60eeec65c0c0c
+FileChecksum: SHA256: 518fc27c6a66229abcc15e59af5e857291e29e26cf1d6a9008f13043344df8b7
+FileChecksum: MD5: 2a35338e23e24d5f7aee95a705ac9a58
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/commons/src/main/java/org/acumos/databroker/commons/ResultRows.java
+SPDXID: SPDXRef-item1172783
+FileChecksum: SHA1: 86f8d0dff2bacf9099b1603efdc3a8e4a3b6c2f0
+FileChecksum: SHA256: f36155462bce060559fcd32baf101ed8fcecdc707939544d8f0ed8dcff7c949a
+FileChecksum: MD5: f46066851c23fc3884dc880533c2f109
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/commons/src/main/java/org/acumos/databroker/commons/Column.java
+SPDXID: SPDXRef-item1172784
+FileChecksum: SHA1: 10ece90bf143eb7e72c86e8758d55afa630ae5e1
+FileChecksum: SHA256: 6b01437cb54ae248afcff0ccbe82e7d1053a268e3922c8e1cca7004ef5801814
+FileChecksum: MD5: 59a901d17dcd7ec6923b40ac273eb5fd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/commons/src/main/java/org/acumos/databroker/commons/DataBrokerConstants.java
+SPDXID: SPDXRef-item1172785
+FileChecksum: SHA1: a5c2b971d67e0113ac3c1714eb20e347a0580dd7
+FileChecksum: SHA256: e721c40747ccf7762d18625c00b45e67a74094065494a6286e6f940f0458e140
+FileChecksum: MD5: cacf108d97193b762119928e60b18f1a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/commons/src/test/java/org/acumos/databroker/commons/test/DynamicProtobufMessageTest.java
+SPDXID: SPDXRef-item1172793
+FileChecksum: SHA1: 803cd2e1f0dd1f8e4ebaf79ed321c44539ed82b5
+FileChecksum: SHA256: ee24b7a3d5194f6d226fb2a140d23f3b732174b58da8ad572e5dffdc324439b3
+FileChecksum: MD5: 5333a0bb22e5d320ed2a470c927f27bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/commons/src/test/java/org/acumos/databroker/commons/test/ProtoRecordGeneratorTest.java
+SPDXID: SPDXRef-item1172794
+FileChecksum: SHA1: 3234de5922218f13b84c0cd7e786d08d4640e325
+FileChecksum: SHA256: 0e91fe3036065894c3bbcdde7e6620918a3bd341cb80375d894f283c643cfb68
+FileChecksum: MD5: 1ca0321cce71bb067a5fffa41984206d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/commons/src/license/acumos/license.txt
+SPDXID: SPDXRef-item1172770
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/README.md
+SPDXID: SPDXRef-item1172709
+FileChecksum: SHA1: 7a3b090bc1fb73d82ec8b2ada0946ee2c9237cec
+FileChecksum: SHA256: 22f14d23c5f8f81b9248010cc22d9584af42695ded8ae831c823d885b0fe13c4
+FileChecksum: MD5: 97835a3e5edf44f1a4120d94922ac116
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. Acumos is distributed by AT&T under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/docs/database_install.rst
+SPDXID: SPDXRef-item1172389
+FileChecksum: SHA1: e04c321a62a7e0c3295327d60355f503d684f71f
+FileChecksum: SHA256: 39a4f03faa98cc11d31493bbfce19d2c00a3087c6c5588129f05cf6ad5cf4539
+FileChecksum: MD5: 2fc5174a72e7621b700f830625787eeb
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/docs/index.rst
+SPDXID: SPDXRef-item1172386
+FileChecksum: SHA1: 09b408be0a5feaf76a761fdee89b6eb622945859
+FileChecksum: SHA256: 17128c6e904d4579bf62e8b48e9f2d9596cbedd14e1247d162a767a1df0c3099
+FileChecksum: MD5: 2df1ed6ad984da36fbff9c7c10b0e71d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/docs/overview.rst
+SPDXID: SPDXRef-item1172387
+FileChecksum: SHA1: ffda8a8e8b4c1ea9b3bcd883e79b1132707d3b7d
+FileChecksum: SHA256: 89e113eb5acde80fd537347b7d0169458bdce9f2827c510de7fca3292f954878
+FileChecksum: MD5: bd10a6bd8841f39b6527f2e13bb17cd3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/docs/release-notes.rst
+SPDXID: SPDXRef-item1172390
+FileChecksum: SHA1: 7769b05c7f3f81322078ffbb7fb04d61b3514176
+FileChecksum: SHA256: b8c3ff7852c124186eb967586a67db473c0610e2af6ac018859c9ae0a5ce9dce
+FileChecksum: MD5: e81d6c58d383bca0419ad8e7fa72d6e0
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/docs/streamer-catalog-service.rst
+SPDXID: SPDXRef-item1172391
+FileChecksum: SHA1: 6688d034f0d69f290ff8cc8d06c7f0a3c41e39b4
+FileChecksum: SHA256: e5f28abf8681f07cdef7a3d5d418aa9a5ae57b253a9b0d2541e1d7c7cc0added
+FileChecksum: MD5: 1165343c38656db2b575ed1613e26d05
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/docs/streamer-restproxy-service.rst
+SPDXID: SPDXRef-item1172385
+FileChecksum: SHA1: 6d2a6023fd7aecb2982600a6415fae21101ee33a
+FileChecksum: SHA256: ebaca6dcf35c7aecd58b467d2575476638f533697b834d5e64261950a2037ffb
+FileChecksum: MD5: e3716f31368dacc0b7ab6e7e46fc49b5
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/docs/streamer-service.rst
+SPDXID: SPDXRef-item1172388
+FileChecksum: SHA1: 19bc271999e51557afcf4d150d11a2c4c734f273
+FileChecksum: SHA256: 012884b195d88aa8332d23486b45bb1e84ae6902c8c3e67813ee2c306d7a97ac
+FileChecksum: MD5: 5c4784a7b88baf02a09c8e5421466bb6
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/README.md
+SPDXID: SPDXRef-item1172485
+FileChecksum: SHA1: f2939acf6e60ae89de34f9c758609f47b51b9537
+FileChecksum: SHA256: a5759c22b606293894b0e4608027997d0f04e84e681304295ea5bdba34c4f965
+FileChecksum: MD5: 3faead20c8cdf31322722829d72d0eee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. Acumos is distributed by AT&T under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-restproxy-service/README.md
+SPDXID: SPDXRef-item1172521
+FileChecksum: SHA1: 7878af0b31375ffbfb5ea5dad444ca8e8238a433
+FileChecksum: SHA256: c4c7676c323eed12f6bb98bd1c414696cf4dc72190c13feac0132c3c11deea8d
+FileChecksum: MD5: 529078a5bc37612247aac24896acb049
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. Acumos is distributed by AT&T under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/README.md
+SPDXID: SPDXRef-item1172438
+FileChecksum: SHA1: 7bade25b671de078f6d552751b8fb9c4513391a8
+FileChecksum: SHA256: 628709854c9dddf8118885ff2dfd96715521941b2f974053f7f94fd8fc0f0600
+FileChecksum: MD5: a633f0195de9c9ea90a132b2dc301aa0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. Acumos is distributed by AT&T under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/README.md
+SPDXID: SPDXRef-item1172487
+FileChecksum: SHA1: c4ba53d7c2e23a196bd80be90a29423c505522f7
+FileChecksum: SHA256: 7508e52682952b61896efe91647cee583da13bd2543fa8472fd3866fa147b4ed
+FileChecksum: MD5: 8b88eac9a92e737bb0611b1e8a409b81
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. Acumos is distributed by AT&T under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/README.md
+SPDXID: SPDXRef-item1172704
+FileChecksum: SHA1: d1e7fce3cd880cab33a03ecfc97274d446a6db9b
+FileChecksum: SHA256: 910dd4447031800e9b6604612f8de39ce9a8d7614bb83386661b20aacff6a35b
+FileChecksum: MD5: c099f7daa5dc4608662c1b4472a32cd3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. Acumos is distributed by AT&T under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/README.md
+SPDXID: SPDXRef-item1172634
+FileChecksum: SHA1: 59d72bfc97802f451a5933a06f4e6d9666884d83
+FileChecksum: SHA256: 69e0f4f6cb5a606d17ab887728f9b40d3ab2216064a8bdc22a6366adac5f2eff
+FileChecksum: MD5: 30396340ce2559a07b0e7ec9ad6d242d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. Acumos is distributed by AT&T under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/docs/database_install.rst
+SPDXID: SPDXRef-item1172526
+FileChecksum: SHA1: 8aef941f8599b5101ad40805a91907b685bee319
+FileChecksum: SHA256: 5dae081636f4a26cfbc521a4438f0660ee19c01336395037c4100def5ff95ea2
+FileChecksum: MD5: d404c03ce793bd7859fec6579eec017d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/docs/index.rst
+SPDXID: SPDXRef-item1172524
+FileChecksum: SHA1: 9ea29dd57c1860440e2f2a11920353fc31eb826a
+FileChecksum: SHA256: eb45182439f5579a2bf7ee52430820e85bf1a4b7d2ec5340bae640434d01497a
+FileChecksum: MD5: 4406870742b4cc4c51a7820c7e645660
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/docs/overview.rst
+SPDXID: SPDXRef-item1172525
+FileChecksum: SHA1: 25fa3923204aaf64fce4e442f03b57fd2f02ecab
+FileChecksum: SHA256: a427833bf898e45c8e1034d89ba1e513f58c1d047971d6790667d9a8d2bb89c8
+FileChecksum: MD5: da0ef7e84ac83f3c329d90774694bab5
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/docs/release-notes.rst
+SPDXID: SPDXRef-item1172527
+FileChecksum: SHA1: fd306529bdcf7db7854db40763d37756ec5b1153
+FileChecksum: SHA256: 6c8f4f47b3b90a0ae3254abd6d85a32e70f8c4fa01b3145d2d5b95cecd9d0f03
+FileChecksum: MD5: e601b733d48cfca2d21476a379fc686a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/src/main/java/org/acumos/streamer/common/JsonResponse.java
+SPDXID: SPDXRef-item1172411
+FileChecksum: SHA1: 049684aaf5abf0bd1879cde561c8c9135233fb08
+FileChecksum: SHA256: 02b90013bbe2e774c88ee41ae700956b554af30d1a1ce641d3a23866e8cbcea1
+FileChecksum: MD5: fc145268106c804618f9a1c8b56cc4eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-service/.gitignore
+SPDXID: SPDXRef-item1172436
+FileChecksum: SHA1: f797c233a4c6af702b832691ae93a6c0aeb735bc
+FileChecksum: SHA256: dfe82ee40afc265122f6acf640ad09be08b95c91f539f188414f83fa6d09784e
+FileChecksum: MD5: 4d16ebb885499fb1506813ff2681aa34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/.gitignore
+SPDXID: SPDXRef-item1172439
+FileChecksum: SHA1: 765d3b772286fb0de12b3d730bdc29a67e1a67b7
+FileChecksum: SHA256: 072b444b0b1b886e26342352e4f995d308efd7a8ceacc5ffd4fe4365e4add116
+FileChecksum: MD5: 6857aa9e647bd1f6a1d12a2fb6183c95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-catalog-service/.gitignore
+SPDXID: SPDXRef-item1172483
+FileChecksum: SHA1: f8e865403e3e529a955b4a9a7e119f159c568cbb
+FileChecksum: SHA256: e7c268288a388165dfa0e5a9d156067d1d1e2ecd0a6523477be7fa29b794dd3a
+FileChecksum: MD5: fc4a0cbea68f6f4fe017733725f27f4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/.gitreview
+SPDXID: SPDXRef-item1172488
+FileChecksum: SHA1: b15ac2fff6867692dc36e0599e291a4f9bf8ebf2
+FileChecksum: SHA256: 05b2cc6603057775c3a7b0b1f4d57a9d1df4bd78e8dfae109ac1d93339bb3dc7
+FileChecksum: MD5: b6d04ca324ba740dcd3e768488f75309
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-data-streamer/streamer-restproxy-service/.gitignore
+SPDXID: SPDXRef-item1172519
+FileChecksum: SHA1: 1055fccfb5ec366d4e5eca80629f74e011685a8a
+FileChecksum: SHA256: d93745429eabe01516488fd51efad81e74a75dd3b112500e4e16a1d5951d35a8
+FileChecksum: MD5: aa2066ccd59e72309e87a834ad0d3c6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/utils/GlobalKeys.java
+SPDXID: SPDXRef-item1172540
+FileChecksum: SHA1: 06f7e47ecf0603d9edbbb3a2a42872b2f7140a32
+FileChecksum: SHA256: cb1162d364a345c9fa5b405a939ef5912bd94aee55bee903c9b97b98c20774b8
+FileChecksum: MD5: 90e07d0ea6e7d2ed13bd0fe79bda0a2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/src/main/java/org/acumos/datasource/common/JsonResponse.java
+SPDXID: SPDXRef-item1172552
+FileChecksum: SHA1: 48364a445949fb6a48fe407501b99e8a7adc77aa
+FileChecksum: SHA256: 607954d6ee88c34f0fcd498752bceda1dbded051a3771d7495613b1d3afe29cd
+FileChecksum: MD5: c3393cb6d94adaa463446f12806cd352
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/config.properties.template
+SPDXID: SPDXRef-item1172631
+FileChecksum: SHA1: 5193f674adabb89cd077e04103ad1ee84b0c036e
+FileChecksum: SHA256: 0912bda434389ae18d167e02035f800f52acec099b83f61ac47d33f0e5443507
+FileChecksum: MD5: 3f10d279ac2d05c40696013016c5c052
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/datasource-service/.gitignore
+SPDXID: SPDXRef-item1172632
+FileChecksum: SHA1: 7c90965f8cdca024ea97d86b3017b016bb7ef298
+FileChecksum: SHA256: 43c56e24d51bece55c57148e9039cfbf60f8238f5c2987ad816bfd1b2ab7e3bf
+FileChecksum: MD5: 2f2f56ab76fcf9d74b64ced6faaa358a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/utils/GlobalKeys.java
+SPDXID: SPDXRef-item1172647
+FileChecksum: SHA1: 4e08309446e7f17aa62f806310a87e25adf59a51
+FileChecksum: SHA256: 052a14096572b2d76c67084d50abd636253a18ca0ec1597d7062b49215950882
+FileChecksum: MD5: c22c651f1856d55612addbbf75fd9ca3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/main/java/org/acumos/dataset/common/JsonResponse.java
+SPDXID: SPDXRef-item1172656
+FileChecksum: SHA1: c65a77cc56ca04b4e98e6c183510d5834acb503c
+FileChecksum: SHA256: 1ef597cdfc8ec888270d7915eecf2aa5f49d2dd2a28649238535edcc7e38b943
+FileChecksum: MD5: 21ce2071d6ada0e0c5d6c209e69d8df7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/src/test/java/org/acumos/dataset/test/controller/DatasetControllerTest.java
+SPDXID: SPDXRef-item1172700
+FileChecksum: SHA1: 1eddce136c3267c60af5646d6307caae393b91b2
+FileChecksum: SHA256: 4bba79bc9095d871055003c92a9bedbcf57c1944564bb75e33128ab0bb81786c
+FileChecksum: MD5: 16af9359e590c86ba520edf0bc8cd332
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/config.properties.template
+SPDXID: SPDXRef-item1172701
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/dataset-service/.gitignore
+SPDXID: SPDXRef-item1172702
+FileChecksum: SHA1: 7c90965f8cdca024ea97d86b3017b016bb7ef298
+FileChecksum: SHA256: 43c56e24d51bece55c57148e9039cfbf60f8238f5c2987ad816bfd1b2ab7e3bf
+FileChecksum: MD5: 2f2f56ab76fcf9d74b64ced6faaa358a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/INFO.yaml
+SPDXID: SPDXRef-item1172705
+FileChecksum: SHA1: 3b473f007cf4d088b9d13e09e83ce9cc4e66fd9d
+FileChecksum: SHA256: 1f7182929401afbd7445427c7dce8a024db51fe2a3438d8d4a99f4b6e754af64
+FileChecksum: MD5: 1dc3b2515913ad8fd5f9a860858615d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/.gitignore
+SPDXID: SPDXRef-item1172706
+FileChecksum: SHA1: d4ea54d156f55c0126f4e06f9970284917626a8c
+FileChecksum: SHA256: 30ce2d6de906262b28c30cc8c1833df062096387570567b1e1f698b3f53c1afa
+FileChecksum: MD5: 0ea0914fc69f86841e9a1455c3cea268
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker-dataset/.gitreview
+SPDXID: SPDXRef-item1172710
+FileChecksum: SHA1: bf7666c2bf188fff67260f31898843afe698e35d
+FileChecksum: SHA256: 59e2c2c132b81fcf62cbe129c30563f067b88a30a812b67f5975f3f4d13bcf01
+FileChecksum: MD5: 0dc80899f778b241f1ca0bdab6e82de5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/INFO.yaml
+SPDXID: SPDXRef-item1172716
+FileChecksum: SHA1: e431cc7cbccbba6eb5004e651c62883ba9d1a970
+FileChecksum: SHA256: 25a0cfdcc2ee28e1885ebfa1f5c943baef65f258ac02dde1c7c7c112f07f32bd
+FileChecksum: MD5: 41e5ea86ab0c498e2895309220dc0bc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/.gitignore
+SPDXID: SPDXRef-item1172717
+FileChecksum: SHA1: 7f332ca23d5a2499825861d447ae14dbb41a7ce9
+FileChecksum: SHA256: a7ff803c4256918f5799302b377c2e4f9bf92d4abd9018f27dfc461398e0e247
+FileChecksum: MD5: 8f07e7081282c5990e26826229ecdc61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/zipbroker/application.properties.template
+SPDXID: SPDXRef-item1172720
+FileChecksum: SHA1: be0c48f1e4bbeffd200e1d22210cbc349a155f7e
+FileChecksum: SHA256: 32e03bea09707a5bbbbaa227adc09216b6e2fc3067ee7d804115124b692af7f9
+FileChecksum: MD5: be13f0be9d61b0e3db771f86a63feb08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/zipbroker/src/main/resources/logback.xml
+SPDXID: SPDXRef-item1172724
+FileChecksum: SHA1: 9429e0edd1ccfea2e643aa7ae124594d753954e4
+FileChecksum: SHA256: d27897d6449da9df388f093bab5bc55e0f9f19746b9146593f25d70e5d5b3a96
+FileChecksum: MD5: 6adccf247380ec8b9923f38d3e73ae74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/zipbroker/application.properties
+SPDXID: SPDXRef-item1172759
+FileChecksum: SHA1: b23e29547a0327766e4f07966822c991493bf5c5
+FileChecksum: SHA256: 1b10087a4083b977f8437bc50f58a958392e47f71e9388693e2586303d1e2eec
+FileChecksum: MD5: a1ef03a8c1c53b87e873166f9a649a15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/zipbroker/.gitignore
+SPDXID: SPDXRef-item1172760
+FileChecksum: SHA1: 1707c0c92b7294595e6d2fefd7a28698caf6bd2e
+FileChecksum: SHA256: df7710b5a85403be4a2c4cae9f052c721a29014500374122dc3522dac5e4313c
+FileChecksum: MD5: ea0c5d8bb8c2333df56fe1039f2804fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/zipbroker/pom.xml
+SPDXID: SPDXRef-item1172761
+FileChecksum: SHA1: 4a968d9cfa3fb1a26d2504d9c6d8a1da833e50e2
+FileChecksum: SHA256: ef879a6388712585fdacbb64a48157f599b9e3e13a616f1234aad9905cf796a7
+FileChecksum: MD5: fae8e656956b726cfa8575a019a9c3fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright>true</canUpdateCopyright> canUpdateDescription>true</canUpdateDescription> canUpdateLicense>true</canUpdateLicense> emptyLineAfterHeader>true</emptyLineAfterHeader> configuration> plugin> Require Java 1.8 --> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-compiler-plugin</artifactId> version>3.0</version> configuration> source>1.8</source> target>1.8</target> configuration> plugin> add build information to manifest --> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-jar-plugin</artifactId> version>2.5</version> configuration> archive> manifest> addDefaultImplementationEntries>true</addDefaultImplementationEntries> manifest> manifestEntries> Build-Number>${project.version}.${build.number}</Build-Number> Build-Time>${maven.build.timestamp}</Build-Time> manife </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/.gitattributes
+SPDXID: SPDXRef-item1172762
+FileChecksum: SHA1: 1fead8ae4a123d4c2526ba03777b256cb10f7a5a
+FileChecksum: SHA256: adf76173edd92955ec74e01d961f1c406175429500924f6c303bf19a456d3b1b
+FileChecksum: MD5: 635578d7546b35d97c384e8708b86a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/pom.xml
+SPDXID: SPDXRef-item1172763
+FileChecksum: SHA1: a0b02f72b1ed5f7fa1a691dbe9a589c22ff30472
+FileChecksum: SHA256: 7c6d488232347b624dbf0a3a56147d5a339af9566604aab374765a74aa29827d
+FileChecksum: MD5: 7b7c29ee3bbbd5fbed207cf2675a6ccf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/README.md
+SPDXID: SPDXRef-item1172764
+FileChecksum: SHA1: 18f1755ffc795b90ddc244fecd74264ce891d627
+FileChecksum: SHA256: 44162e4818c01c1324ac2a7ebaac4ee801d0e02ff3d6059aab07f72ca2a4fd27
+FileChecksum: MD5: 6b8b3460a4a7d9511360c0a8ccaea175
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/commons/src/license/licenses.properties
+SPDXID: SPDXRef-item1172768
+FileChecksum: SHA1: ce04d3322fb98483e0de5cc5eb07ced49024ff96
+FileChecksum: SHA256: 167f89826bb7649e3a3804c8715cd7fefa12df4b3122eac8c82dea293b2db22f
+FileChecksum: MD5: 3efa2eafdab26c44a89044f9b0024a07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/commons/.gitignore
+SPDXID: SPDXRef-item1172795
+FileChecksum: SHA1: 6f267e89c9b20c04cd39ad2a5df6ae2017bb8907
+FileChecksum: SHA256: 2eb452a0c1c0623e88788c9a3d70d855fca1f13e38989c2b626189a09f513d73
+FileChecksum: MD5: 51fbd06bc2464ffa09acc85b9bc8159f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/commons/pom.xml
+SPDXID: SPDXRef-item1172796
+FileChecksum: SHA1: 37b546ddeaff4ec3de17e15554aed5a26b56c0ee
+FileChecksum: SHA256: aed65d769be06ebfbe1183c30114730253cc999724b81e3e95b110880970cd57
+FileChecksum: MD5: 32ea84daefb36df93d611638309fe17f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright>true</canUpdateCopyright> canUpdateDescription>true</canUpdateDescription> canUpdateLicense>true</canUpdateLicense> emptyLineAfterHeader>true</emptyLineAfterHeader> configuration> plugin> Require Java 1.8 --> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-compiler-plugin</artifactId> version>3.0</version> configuration> source>1.8</source> target>1.8</target> configuration> plugin> add build information to manifest --> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-jar-plugin</artifactId> version>2.5</version> configuration> archive> manifest> addDefaultImplementationEntries>true</addDefaultImplementationEntries> manifest> manifestEntries> Build-Number>${project.version}.${build.number}</Build-Number> Build-Time>${maven.build.timestamp}</Build-Time> manifestEn </text>
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/commons/README.md
+SPDXID: SPDXRef-item1172797
+FileChecksum: SHA1: 9685b97c889c0deded00fe4a1cd4cddb00df43d2
+FileChecksum: SHA256: 305112f0d795853be6d6bcae233475bce406c43d9fa80353858686848d4fd152
+FileChecksum: MD5: 257ea5e6fa26622fe344474aa75013ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: databroker-2022-02-01.zip/databroker/.gitreview
+SPDXID: SPDXRef-item1172798
+FileChecksum: SHA1: 1578e0f2aac2020c24c53e2d6f38c1119f23d903
+FileChecksum: SHA256: 5b67f6d773286f0e49a31441b75eaa2d0597dd838039a29e6495ea0a01af9998
+FileChecksum: MD5: 7d40be84d109113bacc5d6677c0fbc9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
