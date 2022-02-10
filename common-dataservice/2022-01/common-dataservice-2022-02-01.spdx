@@ -1,0 +1,4131 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_common-dataservice-2022-02-01.zip_1644480545.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-02-10T08:09:06Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: common-dataservice-2022-02-01.zip
+PackageFileName: common-dataservice-2022-02-01.zip
+SPDXID: SPDXRef-upload297
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 74ab5b304f13e1fa232979b224ae6d972db74981
+PackageChecksum: SHA1: 464944e4b55fbfe5c5ca46a99133eb5e03c02c06
+PackageChecksum: SHA256: 67f8594dcf268b1b790ce9ca53cc77b4c442081c8e0ab6080e4eec24cfb00a57
+PackageChecksum: MD5: 3001e027a0000d50239e902e7fbe20fa
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload297
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/docs/server-api.rst
+SPDXID: SPDXRef-item1171968
+FileChecksum: SHA1: 1ce850406fd8c59f3962df0c5416659d0f362992
+FileChecksum: SHA256: 3b39fb184b7ef10db712e46f86b484a1314f06d450473bd0d24a2ec09a57dab8
+FileChecksum: MD5: 1d1325ee59b3afd740bde11f0c0baf3d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/docs/index.rst
+SPDXID: SPDXRef-item1171969
+FileChecksum: SHA1: 49b4d432498507d0a6212c24c6f636ea8c985ffe
+FileChecksum: SHA256: fe1be859481e71c537361bf9dbf24a5e93562fa785237555b8179e5ef1f5e881
+FileChecksum: MD5: d18a35d1b476803341525a35452598a9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/docs/overview.rst
+SPDXID: SPDXRef-item1171970
+FileChecksum: SHA1: f61f475506e292d81e0c845767d6be1a2068a9e4
+FileChecksum: SHA256: b5fa12971f185c7d8e5a75e73ba3c3b148a7db7f5f2e9b3216dd357f278aeb66
+FileChecksum: MD5: 7d092066213622356a1c7f2caa4ecbc7
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/docs/client.rst
+SPDXID: SPDXRef-item1171971
+FileChecksum: SHA1: 644a5131f01ae42d047e1278eafa4e8ffefcea08
+FileChecksum: SHA256: fcbe3271687da6d4e4cb2d978bcfde31c8595d0d8482145e93ddc4b6fe3aed49
+FileChecksum: MD5: a095ac90d1c64b5e479dc0249652ae5f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/docs/upgrade.rst
+SPDXID: SPDXRef-item1171973
+FileChecksum: SHA1: 66b701ce6d2e7cb6be2d7dc0845400baec4edf57
+FileChecksum: SHA256: 2e723b37ef88c97eb0ac6ea697aba4a0c68dc17da27b5b3042ea2fc0a34f9607
+FileChecksum: MD5: 8858e405d0a28ec043a29348a54a4777
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/docs/release-notes.rst
+SPDXID: SPDXRef-item1171975
+FileChecksum: SHA1: 3bfcc32398144c89146a61142c93bd7b23cf6cd7
+FileChecksum: SHA256: 08a3422263e371d5a6ae69a5719ee3508186fdb6669e785f5bb4caa388b23a01
+FileChecksum: MD5: ff18295e465f98649006231bb6d9b887
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/docs/server.rst
+SPDXID: SPDXRef-item1171974
+FileChecksum: SHA1: 1d3dd08b4c5a7f209c72b398a8afec4661120be9
+FileChecksum: SHA256: ac13259a78997a659f078348e87a0ab84da65b2f4641a3ae07cbb531749be3e7
+FileChecksum: MD5: 427c069554e403363ed54bff7a0fe1e9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/docs/requirements.rst
+SPDXID: SPDXRef-item1171981
+FileChecksum: SHA1: 826bc516533a32c5c3eaacea012c79fcd4f9f339
+FileChecksum: SHA256: fbf1b78ad7ffb3d5be2a781eb50baf2b5f338f5843fa1cbc91f75f7c2f74aacb
+FileChecksum: MD5: 7b1421f09310876882b62aadce4b057b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/README.rst
+SPDXID: SPDXRef-item1172148
+FileChecksum: SHA1: 3be7fe409bb70708d1d53333b7dfe7317a1bb858
+FileChecksum: SHA256: 93351f115b01888035643bc00d4c733bc14a8e23396141ff1a8463caba6328c3
+FileChecksum: MD5: 01d0c3a1d793e2611d7d62fcdb725ce3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/microservice_flask.py
+SPDXID: SPDXRef-item1172342
+FileChecksum: SHA1: 46b93cb2341dc99aa37ae7c882a7f7cc16227a5d
+FileChecksum: SHA256: 5236b0081c4c39662e6f1dddd72bd5ce94ba7799d6d7b996b2b99c9a468f1cd5
+FileChecksum: MD5: 2fa28f8befeec94b2c0ba9918a7ccceb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/setup.py
+SPDXID: SPDXRef-item1172344
+FileChecksum: SHA1: 24f77156b54e370ca88f88352bd6b667926c2ad3
+FileChecksum: SHA256: eeeb852d469b7889d54200c3e43f5d46070172062b141a874fcbebde928f05cf
+FileChecksum: MD5: ddd536505da6a31a71bb8d5a81194783
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/LICENSE.txt
+SPDXID: SPDXRef-item1172348
+FileChecksum: SHA1: b523c4d27faa5170bd3d2f01fbad3ecfbe4b8ef1
+FileChecksum: SHA256: 0f9063c1bf9cb528e915ca2d8d8f054925d8853769638e40426f7a1a349645af
+FileChecksum: MD5: 780f56a0baa4b15d9ca552327f88f933
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/acumosintegrationservice/_version.py
+SPDXID: SPDXRef-item1172355
+FileChecksum: SHA1: aef1d465ae8528ebf0a7f1ffba694077e5805e22
+FileChecksum: SHA256: fdc13943197f4220df8ca7b6d4453960d9266a4b1968b64c992d2ab36d5f9e56
+FileChecksum: MD5: fe4be80fec17cf91632caa0c73dc0f1e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/acumosintegrationservice/app.py
+SPDXID: SPDXRef-item1172356
+FileChecksum: SHA1: 521f17701fd54a828fc7f10043632605c33a482c
+FileChecksum: SHA256: 5c628e1d1fa56b74161684a8428a2b8e888ba0a4dacd20ca39d8287654fb6a07
+FileChecksum: MD5: a86950b0c6f0711ee2278d282f2da48a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/test/unit_test/test_flask_pytest.py
+SPDXID: SPDXRef-item1172351
+FileChecksum: SHA1: b8abc30785d5868bbd2db78d395aa7314b0780fa
+FileChecksum: SHA256: ca72e917d78a3f54331a78d4805c5d5cbbe6daf0b89d0145621cde3cee0be85a
+FileChecksum: MD5: d368de321e0dd4e6999e391c04c980f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/acumosintegrationservice/__init__.py
+SPDXID: SPDXRef-item1172357
+FileChecksum: SHA1: 3effec32f668c4a61af53c0937c83261dfd90ddf
+FileChecksum: SHA256: ed7fcb5ef7bc1da9951312cb713dc6a1d7b2fecea20792ab10f301e6d97a0b6c
+FileChecksum: MD5: 9c4e4706d4e52d925743cbe7fca97cc6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/acumosintegrationservice/api/v2/parser.py
+SPDXID: SPDXRef-item1172362
+FileChecksum: SHA1: 3c7f61d7a66d6d672d759da4e819c73dfc573de7
+FileChecksum: SHA256: efb01fd27681f4a24aef03467c03f5e2e142ed622480da4aaf022ba8afc36709
+FileChecksum: MD5: f8624a543f836de3f6ff8b85b8d9b982
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/acumosintegrationservice/api/responses.py
+SPDXID: SPDXRef-item1172363
+FileChecksum: SHA1: 28b15b3554bc634223c747ac17f123f53fcd837d
+FileChecksum: SHA256: 9a926adda4a67047a4aad9bb542a339989ce0ace2f2326061f74a8f36a39ed2c
+FileChecksum: MD5: bf11d28197413e003b38f2cdc99d3078
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/acumosintegrationservice/api/v2/endpoints.py
+SPDXID: SPDXRef-item1172361
+FileChecksum: SHA1: 6c0b92b5cc0777bed5cc1a30f14fa42154c144f0
+FileChecksum: SHA256: 860eeac8cf2780211a1100de1548b32ddf22ce92bb29e6827bb2b01a70e8a488
+FileChecksum: MD5: 80d0dd973579321b2bd454f621c7de35
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/acumosintegrationservice/api/restplus.py
+SPDXID: SPDXRef-item1172365
+FileChecksum: SHA1: bf03db68c52e45e445616441739a21dfd45796af
+FileChecksum: SHA256: fa0a260d826469de2d665ad014cd1ca70ae9766dc1db8562631ab11229cfb433
+FileChecksum: MD5: 0566d994a1292f1803c33b1ef2ada951
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/acumosintegrationservice/api/config_util.py
+SPDXID: SPDXRef-item1172364
+FileChecksum: SHA1: 6846eed00e7d4490c0caf8bcd9e5053688f23fd2
+FileChecksum: SHA256: de4017d7f05b9b97597d21c8cde27fbdb9c95ddc9e0240512c6a3cd3b1e4dbf2
+FileChecksum: MD5: e71cc450728b9d17d0bbb56ab54d5ef5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/acumosintegrationservice/api/serializers.py
+SPDXID: SPDXRef-item1172367
+FileChecksum: SHA1: 3c983874ac7fc580748eb2c4036b0aee8e51caed
+FileChecksum: SHA256: d69502cb0c0f6f687040e351cbda404373ed76f2198a0ae5dd077bb480275b17
+FileChecksum: MD5: 6e0a4ece5a9ef33d8dcbb0ca4127d851
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/acumosintegrationservice/api/acumos_e5_api.py
+SPDXID: SPDXRef-item1172366
+FileChecksum: SHA1: 816355fb547de9aa67250a737cc05df05faad9b3
+FileChecksum: SHA256: 6267bdb06d054d63ab95fd7d50b75fff3dfce9a07fe58a16cf761c25af0a36bc
+FileChecksum: MD5: 1dd34724bbc0dae6a1ce0239d7d330b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/acumosintegrationservice/api/namespaces.py
+SPDXID: SPDXRef-item1172369
+FileChecksum: SHA1: 1e957601c92e523ead3494e2ed9137c88a9e9f0f
+FileChecksum: SHA256: 4d213632a42a3757039808f88a3e687127370ba12dfaac0857de4980ac9b497c
+FileChecksum: MD5: f4194a3ed98e3587ea72fc1cdeceae1e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/acumosintegrationservice/api/business.py
+SPDXID: SPDXRef-item1172370
+FileChecksum: SHA1: 9c568665f9a15d023d98209acf75da6d06fb0dd3
+FileChecksum: SHA256: 917951a579896a8faee7ada302c09f76c5bfd46c8c64974ca1d40eecbfb93b08
+FileChecksum: MD5: 379ef8a956c14331a6676930ac792c26
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/acumosintegrationservice/api/__init__.py
+SPDXID: SPDXRef-item1172368
+FileChecksum: SHA1: 521cf4df95848f51f5be1d14a2d67b0c64138994
+FileChecksum: SHA256: fff7ef2eee42bfa557265f809dc4aa178515fd204bbb0dd5b09be933c8a171a3
+FileChecksum: MD5: 6055b31aecf90b68b3004cfcb4142638
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/Dockerfile
+SPDXID: SPDXRef-item1172372
+FileChecksum: SHA1: 8553f296b6f07a990200036c3a0811f2febe6e03
+FileChecksum: SHA256: 5e1825bb4b4e95c6be4d162da024669b505dea862d1ebb10e64d6354b5b4a826
+FileChecksum: MD5: 4be4ce916ed664ee0c16c5d531c9ef55
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/start-server.sh
+SPDXID: SPDXRef-item1172373
+FileChecksum: SHA1: bf4ffba679a989267aa160262adf7ec8855cf0d5
+FileChecksum: SHA256: a580808c540fd711d92c9611030e274069f08b6e6735c2e547c0791c460965b7
+FileChecksum: MD5: 97bb3f82bc80ecf66f8e64fc652199e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/wsgi.py
+SPDXID: SPDXRef-item1172378
+FileChecksum: SHA1: 7bb33d15597897a8035f68b1910429e83198b0eb
+FileChecksum: SHA256: bff1308b86c83144025ff277ad541e24b738cfb059e61128a6c1577fbaa0ddd3
+FileChecksum: MD5: 4e7f63db15983e1684a684c38c751cd2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/LICENSE.txt
+SPDXID: SPDXRef-item1172317
+FileChecksum: SHA1: 14a09dfbaf4d175f0399c4db07cc9897aa0e1114
+FileChecksum: SHA256: 6b38350ec04072dbe6816ba82334cb93afe1b70a1a7aa3a5b9d0cf4dd4fc69c4
+FileChecksum: MD5: 6dbc473aee31d40c4347872ce856beab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/license/acumos/header.txt
+SPDXID: SPDXRef-item1172178
+FileChecksum: SHA1: df09ece0d24c1d95a278905bff78c4a1c686ccec
+FileChecksum: SHA256: 644341f2388f1c9d5551786882cb41c15aff64adc90bae400d94240b4055266e
+FileChecksum: MD5: fd976600fafe010d9febbabd6d6c9749
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/license/acumos/header.txt
+SPDXID: SPDXRef-item1171989
+FileChecksum: SHA1: df09ece0d24c1d95a278905bff78c4a1c686ccec
+FileChecksum: SHA256: 644341f2388f1c9d5551786882cb41c15aff64adc90bae400d94240b4055266e
+FileChecksum: MD5: fd976600fafe010d9febbabd6d6c9749
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/resources/logback.xml
+SPDXID: SPDXRef-item1171993
+FileChecksum: SHA1: 994aa2d94b7753fe4cf2c927b4099b4eeab6f4d3
+FileChecksum: SHA256: 76a1241d25cee21ceb0516ab38c66ef0e6e02b609b4d7316aad537b5cd9b17a6
+FileChecksum: MD5: 353a18ab0ac2c865c6311c3d570a0397
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/license/licenses.properties
+SPDXID: SPDXRef-item1171986
+FileChecksum: SHA1: 663b13c54a1b01e11f87a03a5459cffc458be606
+FileChecksum: SHA256: c1a9c312cad7894ea7b50c6fb33d72b60fbddef1cc4b8742e8160c13a13786f7
+FileChecksum: MD5: 22c3d85fd7ea0b89a579025af98d3c8d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/transport/SolutionRatingStats.java
+SPDXID: SPDXRef-item1171999
+FileChecksum: SHA1: b219d06fbd63d94b7696660578b5a47008ff7854
+FileChecksum: SHA256: d2e71853cc3ef49268c2ff48d0b381f99456de95ecc057e52342902ddc836907
+FileChecksum: MD5: 766e30f5da80d0f3dfd422b0537fc39f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/SolutionRevisionRepository.java
+SPDXID: SPDXRef-item1172002
+FileChecksum: SHA1: 478d08bb0f48bf0c8e16b03b24935693ee5b34fd
+FileChecksum: SHA256: 2903cfe5ad8f5121b93734f7b04d9750a309047dd1d312c86d49052fba2c3fe3
+FileChecksum: MD5: 7c78417ae8daca033b5e84184094930c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/resources/application.properties
+SPDXID: SPDXRef-item1171992
+FileChecksum: SHA1: 9e5501426c3a1551e0a343d3a159e95ca085f2ea
+FileChecksum: SHA256: 8578672e931b64967251d1b2fd4b75e8a2a59021eef766ba92a394a497f793ad
+FileChecksum: MD5: 0a30aabc187a05aad3ec7452c1164c32
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/SolutionRatingRepository.java
+SPDXID: SPDXRef-item1172003
+FileChecksum: SHA1: 94a8f1aa6c82d239f39b4bf098968b24550c389d
+FileChecksum: SHA256: 1bc1281fbdf0eda0ea865c3ff68ff4d29213bff9634a8ef2c8f8d41a08f55802
+FileChecksum: MD5: 5e661a3123d2d4aa86310e455605137f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/ThreadRepository.java
+SPDXID: SPDXRef-item1172001
+FileChecksum: SHA1: b4bfc9958901bfb8a684447e9f09ac96045a9665
+FileChecksum: SHA256: a9e1a3fbeaf17633533076682802a412db18160384ed581661c8f88a78bf63ae
+FileChecksum: MD5: d944edbfb74e22ed10a0d776f98d52bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/NotifUserMapRepository.java
+SPDXID: SPDXRef-item1172004
+FileChecksum: SHA1: 5351403bbd5fc3fc029dff33ae5b78136a557fe5
+FileChecksum: SHA256: 16f6cedf28ffac352a1a80ff94d58ebad44d39939cc7d18ee7cc11681aa73268
+FileChecksum: MD5: bad860157ff9ff965d10463a6207f469
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/UserCatFavMapRepository.java
+SPDXID: SPDXRef-item1172005
+FileChecksum: SHA1: a1581088964a42e9bb8511fab99cc426c2ff7625
+FileChecksum: SHA256: 6bc00a73787f50c7f3ef60ce6fe2729d9735bc82bfaaf4c2ec61ccc1d2a25626
+FileChecksum: MD5: 5543551dd8b5b761dec05b7a3a27be25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/PeerSubscriptionRepository.java
+SPDXID: SPDXRef-item1172006
+FileChecksum: SHA1: 567dacd4e91ccadae2403c0cce4264cd8eead3fb
+FileChecksum: SHA256: 38bd40e09c580a7c20f7f35b6a5b786fc94737ba7fd0efcf495cf0419038a535
+FileChecksum: MD5: 1ec75b86aa01c4443073f53b4b481a4d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/PublishRequestRepository.java
+SPDXID: SPDXRef-item1172007
+FileChecksum: SHA1: f1cf1c47718ec2410837107911ff461f66c60376
+FileChecksum: SHA256: 5ca6dfcd92c227ccd00df09db7822cf1e7d784b4cb7a8db8d150c1fcf02062ba
+FileChecksum: MD5: 0b30bb85b7994e0cbcf6d9dbfd3e5978
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/ArtifactRepository.java
+SPDXID: SPDXRef-item1172009
+FileChecksum: SHA1: 7126704a584dc639232e8f8a3c1eba819bd421ad
+FileChecksum: SHA256: 87fbbfaa86de77cf07c55ee5f87c1ba1808f08875d4cd2b432bc99394152ede7
+FileChecksum: MD5: dff82e072607328bde123436a01ac8f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/SolRevArtMapRepository.java
+SPDXID: SPDXRef-item1172010
+FileChecksum: SHA1: 5e988ac39d4a200960f3254408e975ad54d82fbd
+FileChecksum: SHA256: 8ed3487fb8b8ce96fc6866c9d365cc9a16a17bc6292965259a0cd7fed342655d
+FileChecksum: MD5: bd8b68481ad1fddbaf15257e329af007
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/ProjNotebookMapRepository.java
+SPDXID: SPDXRef-item1172008
+FileChecksum: SHA1: 95aea97657d9ff92b1f41b6a717e522524f261e8
+FileChecksum: SHA256: 46002ed964dccae49a38730857df80fc730fb3d9f771eef24e8035b4edd43680
+FileChecksum: MD5: 3bb00f3966c938117ccd06e42b34458c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/SolutionDownloadRepository.java
+SPDXID: SPDXRef-item1172011
+FileChecksum: SHA1: 72ceb7e801b61a4ac788bcdec30cb0683fbb0f10
+FileChecksum: SHA256: 567e76c22904cef5502287a69a8dd3d0d2f5471b316a308713cc77ab4250a654
+FileChecksum: MD5: 700518f227ad657d7da9bdcc5b9790a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/SolUserAccMapRepository.java
+SPDXID: SPDXRef-item1172012
+FileChecksum: SHA1: 91c470443df3d96e715ca542aad2e3031845ba59
+FileChecksum: SHA256: e49f7dd639450f8329214442402cc4c14a0f38820c4101988d869bdd506a2a50
+FileChecksum: MD5: 6bd2485fa1ea41067ee1a518ba134a68
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/CatSolMapRepository.java
+SPDXID: SPDXRef-item1172013
+FileChecksum: SHA1: 0a34f781491e30288bfdb70fdd89a86c63f6cbf8
+FileChecksum: SHA256: 06c6021d883160e46e51cb0c733e4a37537dcd37e09442e59481f632cd5f0a06
+FileChecksum: MD5: 93d93c21087c6c95f2bc2b603fe86f49
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/DocumentRepository.java
+SPDXID: SPDXRef-item1172015
+FileChecksum: SHA1: e4575750b4a8d6df3833edb35e0ce0e7c26f3b80
+FileChecksum: SHA256: 9eef8131bb09dbda07aef93a3bd2371212b7a2c162318ac95e818dc3432f92a5
+FileChecksum: MD5: 829db6844e67248600caf5c147594ab3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/CatRoleMapRepository.java
+SPDXID: SPDXRef-item1172014
+FileChecksum: SHA1: abbb5ae45f350b7bd482d54e9b916fdc1fb0b962
+FileChecksum: SHA256: 47b85b61d68c50938417b5d625fbee01ccac878a39a26edfbb553dc5305cff36
+FileChecksum: MD5: 3320a861fcc62402131b04e3af6df760
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/CatalogRepository.java
+SPDXID: SPDXRef-item1172016
+FileChecksum: SHA1: fbafe95b05418f0f9c8e6f95942bfe0ab16d0fda
+FileChecksum: SHA256: 43d9932029527895acc8f413cda85f6f1f5ebe5b78645902e50575beb6306f90
+FileChecksum: MD5: 72a1158b2c5e7f9ed5d7ee177d398187
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/SiteContentRepository.java
+SPDXID: SPDXRef-item1172019
+FileChecksum: SHA1: d8fee828994f8914db5bf1b0ef2b86ab412d4a5e
+FileChecksum: SHA256: 5e5e33446d3c94d7fd453f1aa594fbc112f9b0474a5642f05d09d63512ea5da4
+FileChecksum: MD5: 3f112a244d7ca09fd5fef9ec8b7eea87
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/SolutionFavoriteRepository.java
+SPDXID: SPDXRef-item1172017
+FileChecksum: SHA1: ee5d239aae003c3e5090c60dfb63d96f99a418c3
+FileChecksum: SHA256: f8d99f9dccb670a5d0fd79a6933e92a54d9d7004450501e88b3d6966830b3a06
+FileChecksum: MD5: 611117733fd3ff8630a8cd186de2c521
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/CommentRepository.java
+SPDXID: SPDXRef-item1172018
+FileChecksum: SHA1: 8a00fd468e22e852732c692888603ae5d12c9106
+FileChecksum: SHA256: 8c9dbe6d81dbbaf798797d5b720fdef900ec5821347c365c906747b9c2be557e
+FileChecksum: MD5: 48ea0b37583f6f97c181d294a147ca71
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/ProjPipelineMapRepository.java
+SPDXID: SPDXRef-item1172020
+FileChecksum: SHA1: c23a9424f03235ed326e48c8860f0578e947b7cf
+FileChecksum: SHA256: af796df9f3e8bd5319b5802dc2b43cb824322d57eccd986d7ce5a274c836a51d
+FileChecksum: MD5: 3d15b379aeb2cb6a06cac44b2d32c050
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/TagRepository.java
+SPDXID: SPDXRef-item1172021
+FileChecksum: SHA1: 5851a436f969c88602806b01b7f453ca08b39667
+FileChecksum: SHA256: c0293417ee6253faf4281bc9bbcdb4a67e2d32f30b6c49285d531d3e798b0c69
+FileChecksum: MD5: da753e938b4122ef92d6159eb4b082da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/NotificationRepository.java
+SPDXID: SPDXRef-item1172022
+FileChecksum: SHA1: 34bab5e6e17540c929db6f63be34d163d9b3fd76
+FileChecksum: SHA256: 1a3c4c5f77be2caf350cac3dfa2fc65113a9f6097602ecbfcd8d1e4de1333183
+FileChecksum: MD5: 0cfb4949814c7cf3b9be70c0ee1cc0c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/SolutionPictureRepository.java
+SPDXID: SPDXRef-item1172026
+FileChecksum: SHA1: 5038c8bf4963b2980330188c683356fe9bad1d68
+FileChecksum: SHA256: 82e29a23d8dd45e303db76202dc6eeff5251aa338067d37e0e37f8c698857f5d
+FileChecksum: MD5: a20657a82b9984c8cfa629daa8656861
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/UserRepository.java
+SPDXID: SPDXRef-item1172025
+FileChecksum: SHA1: 64189d6be1f6e512992fa81242b73a2ab8887be0
+FileChecksum: SHA256: 8ba408f503c6d496a418b0b98314f6614e9f9a84503da9575d05fdd272e9156c
+FileChecksum: MD5: 6aeb3d2dbc9df153fd14aedcf47d945c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/UserRoleMapRepository.java
+SPDXID: SPDXRef-item1172023
+FileChecksum: SHA1: 7ffe58f68bbfe1112602b063ef78a48d759e5570
+FileChecksum: SHA256: 5e3e1b37a025132b4edd1bd93f2dd6afdeb146591a10831682b943a765d7d5a8
+FileChecksum: MD5: 1dad0a2d671fde0aa13720949451130f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/TaskRepository.java
+SPDXID: SPDXRef-item1172024
+FileChecksum: SHA1: 0c4de62f9d97afd534db5ff5068203ea490b9227
+FileChecksum: SHA256: b6abfae31f913ced3863005453b2c22c6554567c4c9b90731503ea46678fb15f
+FileChecksum: MD5: 5b6fe31fdf3eba027e0f882ce502cfa1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/SolutionFOMRepository.java
+SPDXID: SPDXRef-item1172027
+FileChecksum: SHA1: fdc438e5c2664c9a9d2d8029911c1ec93e6487f6
+FileChecksum: SHA256: 93ee3c818005e8b976abd98186b428b5dd565379499198e4472a874beeac7e3f
+FileChecksum: MD5: 6ac6d8a37116999a4957d8e0f5d23a1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/RoleRepository.java
+SPDXID: SPDXRef-item1172029
+FileChecksum: SHA1: fd88ac74c4b37e72058178458ea3f26fc5aa0ad8
+FileChecksum: SHA256: be8e3603e09e701632aecbde006f8e63ca3c38bb93eef8b02a1df3138943678c
+FileChecksum: MD5: caf321c313d5ad6ebf4faadccf2faff8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/ProjectRepository.java
+SPDXID: SPDXRef-item1172028
+FileChecksum: SHA1: cdcaf2817242a1ee5652647f0c75e188bdce75f1
+FileChecksum: SHA256: af414487bd08d94e30282958d0119eff0746ed08a9a8ee040d5a41c75a3187d4
+FileChecksum: MD5: 3bbf95f28326954489a6103571b2d0d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/LicenseProfileTemplateRepository.java
+SPDXID: SPDXRef-item1172030
+FileChecksum: SHA1: 12e2757ed5ab464fa41e7e1e2557c2f7d868436c
+FileChecksum: SHA256: 2157c845f922efbe391e66341531d2316b0aa58cf097787e506d553e9abae4fe
+FileChecksum: MD5: db2d632c0f92063f67e6b5bb304aefcc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/NotebookRepository.java
+SPDXID: SPDXRef-item1172031
+FileChecksum: SHA1: d2809dbf898ebee9fe4d43b543a4c0671432ee52
+FileChecksum: SHA256: f4951d04c0d35711fcb0e7c139bf511da57f4010dff4f817318883de6d3d8cad
+FileChecksum: MD5: d3b21776b3dd2a08facfc1124e87f18c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/PipelineRepository.java
+SPDXID: SPDXRef-item1172033
+FileChecksum: SHA1: a734640d119c8be4be2f38b36a17938012111942
+FileChecksum: SHA256: 9d5bdd3ac541dcff58cc4e8cc69ef530329a63139c0b803b114fb99cf0293c4c
+FileChecksum: MD5: ae9d5934288e3f8b827f9db856836d96
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/UserTagMapRepository.java
+SPDXID: SPDXRef-item1172032
+FileChecksum: SHA1: 9e9bed793cdafc4693a848515975b14d9eedaa5e
+FileChecksum: SHA256: 67619dc97483c87e3ff63d2fb17c85c5dfdb141cc5715df43233b68cb41cabd7
+FileChecksum: MD5: 5a15291729dc3c87dd6f9d65556d043c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/PeerCatAccMapRepository.java
+SPDXID: SPDXRef-item1172034
+FileChecksum: SHA1: cac5ddb1ab769fa46f7d4181ad5d839cb4d74fc0
+FileChecksum: SHA256: 5e27fec560fd1795985b3cb99bc61c899f3caa25ed0b2b5ae2b4cd7214d81917
+FileChecksum: MD5: 68e4ae583e1b58a95478d25e21722ddb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/UserNotificationPreferenceRepository.java
+SPDXID: SPDXRef-item1172035
+FileChecksum: SHA1: d24874a50dc304e7e33f9bc9c991703fec9fd1f0
+FileChecksum: SHA256: 0cd994a53888f11797a2844104b4006f439097b713d7d3a8e32a941cc69a9925
+FileChecksum: MD5: 0c2cdb4197454ed8b1155c1b29ff2f16
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/CompSolMapRepository.java
+SPDXID: SPDXRef-item1172037
+FileChecksum: SHA1: 66731e27d845d2ea753fa1bba217ce7751732867
+FileChecksum: SHA256: 0175b88d163370cb3aba6d99bbdf947bf3d6b274d5683544c6da99a784ac4284
+FileChecksum: MD5: 9504e0e86176a28f866ca2cf13d58954
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/RevCatDocMapRepository.java
+SPDXID: SPDXRef-item1172036
+FileChecksum: SHA1: addc3e8122a646b82e55602f461a9959172e740d
+FileChecksum: SHA256: 7230613cf596d185b95e1bd2f7afafbf33fee311630dd5867d889d019d9db2e7
+FileChecksum: MD5: 1b428444486d382e5a7b5c57b556f6d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/TaskStepResultRepository.java
+SPDXID: SPDXRef-item1172039
+FileChecksum: SHA1: e120d759d88cac6785360ead8b84b65f3840df0b
+FileChecksum: SHA256: 5de67efc9e6220c10c9fc57bf490eaf8ef41bfa2b3b07185ef2eb9637d234644
+FileChecksum: MD5: ca74094491f18aa784d4a65a3fbb99a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/SolutionDeploymentRepository.java
+SPDXID: SPDXRef-item1172038
+FileChecksum: SHA1: e6f993080dc21e979988c2e20d6b6d19171bbd32
+FileChecksum: SHA256: af0d6c48bfca23535116b424e2fa93c617ccdc14336c24921d45f854ada413fe
+FileChecksum: MD5: 69325254638fc25de2fa5f3797eb5866
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/RevCatDescriptionRepository.java
+SPDXID: SPDXRef-item1172040
+FileChecksum: SHA1: 7a20ab3fec1e9badd261521d0b8470534bfc828d
+FileChecksum: SHA256: a040673f962016e8635d9b1008bb114f6d6cdda6f5137289d9006b582b3499ac
+FileChecksum: MD5: 84695177b6efcb3fafd9108bc9198cdd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/SolTagMapRepository.java
+SPDXID: SPDXRef-item1172041
+FileChecksum: SHA1: 461b3bbdc6bff835b955de734d385d8ec972bee9
+FileChecksum: SHA256: 72df1cdfb2140f054aa5b197b7403eeda4311145bcf5cf3c3e7d6f423e29c28b
+FileChecksum: MD5: 6fc5f6411ce41553edb00fe1236d9b54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/SiteConfigRepository.java
+SPDXID: SPDXRef-item1172042
+FileChecksum: SHA1: 9e05290b1d72d3ac44b0d810beb570aed30dc551
+FileChecksum: SHA256: d5a9d1c3a509664d51dbd5100bd1a2fa20ea399ba0c4c6250c5d95e8a33ebc79
+FileChecksum: MD5: 275d2d6b963dbfe7e4ffb927bf283514
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/RoleFunctionRepository.java
+SPDXID: SPDXRef-item1172043
+FileChecksum: SHA1: 6501a0bd0809e7234180b665b063b1e55b00322f
+FileChecksum: SHA256: 4ed308dd4dcbb1faee67f45b07711a72905b5c304b75bbf5a846aeaa1a14412b
+FileChecksum: MD5: c33ee962d6f05d1ef1f1ffbd12b8a837
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/UserLoginProviderRepository.java
+SPDXID: SPDXRef-item1172044
+FileChecksum: SHA1: 56712860542a408513bb177a2d4ad3a4996f7477
+FileChecksum: SHA256: 131d61dd1f8f4c8abcc364776d6b429a606c6913e2bf94b1f8a6f83061983cf8
+FileChecksum: MD5: 480a3ed9b17a7d49afdd4b6fca5d4401
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/PeerRepository.java
+SPDXID: SPDXRef-item1172046
+FileChecksum: SHA1: a996f79cfb1bf72301434ee1984e3408364f6d05
+FileChecksum: SHA256: 0b5558315090f3e4b9787b7966966304721fa800e32f5545f859bd95345a4cae
+FileChecksum: MD5: bbbd1882c8990e0c69b6b317547050da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/repository/SolutionRepository.java
+SPDXID: SPDXRef-item1172045
+FileChecksum: SHA1: c5912b56066d97b0d0ef7df25ed696a28da1e89e
+FileChecksum: SHA256: ce807ae33bde7dddbe95a559673694c5c26a3073132ce943b22636af1e342227
+FileChecksum: MD5: deb6cfac51b3966b46aad56972518c24
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/util/UseExistingOrNewUUIDGenerator.java
+SPDXID: SPDXRef-item1172048
+FileChecksum: SHA1: 329b6ccba39d972986a2ab2609a3ab53d962b33c
+FileChecksum: SHA256: dce17e9ae8cb3d6ccac53c7b997c3ea1f17cca4426ab596afe7a614496450110
+FileChecksum: MD5: 697beaa81f9f6afe479c0eda18970c79
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/util/ApiPageable.java
+SPDXID: SPDXRef-item1172049
+FileChecksum: SHA1: bf37c62a79e931526477cddb55400b82da25e266
+FileChecksum: SHA256: b90f9b0d8ff33db52ddbb95e4575aa31205dc72ecafcabb19769a8a6bb66b1ec
+FileChecksum: MD5: 3b91245affdc8d31630e2783d9aec12f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/CdsApplication.java
+SPDXID: SPDXRef-item1172050
+FileChecksum: SHA1: 88a82929564ffae3ae066bd75c037a327eb7fa3c
+FileChecksum: SHA256: e8fda3345cebb72a4683f162e034b4d4c5d554d3cb0f5f4935f8484781ea91bf
+FileChecksum: MD5: 9cadaece7298a8ebaef2664155b326ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/controller/CodeTableController.java
+SPDXID: SPDXRef-item1172052
+FileChecksum: SHA1: 3847a79ef0283f10d3d47fc7d278eb6587f192af
+FileChecksum: SHA256: 54f5324aea1f0582d72208efbe03e995447e231c4e9586eb08d3fdedd6a9f882
+FileChecksum: MD5: 79aa9cc24eef63bffedd47685b61d4ab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/controller/SolutionController.java
+SPDXID: SPDXRef-item1172053
+FileChecksum: SHA1: 999ee3d97149b64ba2fbd20c9e1fe21433007e88
+FileChecksum: SHA256: ded0c1dc2d3a9f6db4c7b3d1735c0e732a1d91f5e2e86e4e7d51794d0cbe1be6
+FileChecksum: MD5: 82379bba902b67592454dd7079c37b72
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/controller/PeerController.java
+SPDXID: SPDXRef-item1172054
+FileChecksum: SHA1: e8c9ac99fae6df53d27a8cf95338140b7b504f2b
+FileChecksum: SHA256: d398fcf6b63afd1c4a6f1ea396e8edf812e5d6edf86b33cafb4f4e0e95fbe00e
+FileChecksum: MD5: 8dcd0226928d97a96ad902282af5ee0a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/controller/ArtifactController.java
+SPDXID: SPDXRef-item1172055
+FileChecksum: SHA1: 1866a35170c8de9b87508fd7b2e58da1c20b5bd7
+FileChecksum: SHA256: e8ace027f21ed2856e2d039c382f17107874806379852519a8619d6eae85774d
+FileChecksum: MD5: d35a5a283543ae6fdbb44523a64b5bea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/controller/ThreadController.java
+SPDXID: SPDXRef-item1172056
+FileChecksum: SHA1: f2971827496ebba14805152e74034dbf04553775
+FileChecksum: SHA256: 722956712cb3bd6b1aae7ae85ae6b78a9263e2df71a7813253671eb8ceb418fe
+FileChecksum: MD5: 91f5763ceb9b9d1409c64711565fedc2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/controller/SiteController.java
+SPDXID: SPDXRef-item1172058
+FileChecksum: SHA1: f1ba5fdd5a7a87efb2379e539bc99d870a5e3a37
+FileChecksum: SHA256: b45f68c575b770edee0f2227e1de4f462c321cec3e3f03f79a3d1257d3eda0bd
+FileChecksum: MD5: 2b011b465969a04addc2e3381769ee22
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/controller/PublishRequestController.java
+SPDXID: SPDXRef-item1172057
+FileChecksum: SHA1: 24f6906a90d017b93479a62b5d7807b8809f6f15
+FileChecksum: SHA256: 41968e7858ac8ad487333b9fc101f4ce7ae970d29fb1b593de6551409b122d8e
+FileChecksum: MD5: 73f6652fe106a7726febe02168f825c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/controller/DocumentController.java
+SPDXID: SPDXRef-item1172059
+FileChecksum: SHA1: 4e0e897ae20cc51603de7e9799faaab45b0fe304
+FileChecksum: SHA256: 3526ea911055988f9fea620739dbd4c8b51cdf93287280f8a7cae23ffd1e8402
+FileChecksum: MD5: b0a6cc76d4c38f4e26194129f72c952a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/controller/WorkbenchController.java
+SPDXID: SPDXRef-item1172060
+FileChecksum: SHA1: 303511aaca252933e814f6f4c615fdbf230faff7
+FileChecksum: SHA256: 67a5110986421819506cc860b23320ac68285bccab56e7235bb5ec295e91305a
+FileChecksum: MD5: c1eef9d20b7e2081f69d9d38ab42c252
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/controller/CatalogController.java
+SPDXID: SPDXRef-item1172064
+FileChecksum: SHA1: 7df564c3570d8b7f0c68062ffcad49e0565db2ca
+FileChecksum: SHA256: de4780111808426fd0d8a30f2406341e619a03ebc028eee0a09fbac3566b0bd2
+FileChecksum: MD5: 628dc0642cffd7e0443a552deea5eedc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/controller/UserController.java
+SPDXID: SPDXRef-item1172061
+FileChecksum: SHA1: 3e8337f1fc8a9ccd59f9794f64ffbd7b7c56db41
+FileChecksum: SHA256: 0ceeee2ff8c5cec6c00363cec1ebaf257b7242b32ad22baece95caf1759339d6
+FileChecksum: MD5: 8c2e6170435fd48dc212d9cd36e6787e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/controller/NotificationController.java
+SPDXID: SPDXRef-item1172063
+FileChecksum: SHA1: 1f9baf364842d87295178735bb57bbef9cc0cdc7
+FileChecksum: SHA256: 08dd5389492afb1d3c366b45132cfc4c5f838ed1cedfab3192997d5940527dde
+FileChecksum: MD5: 82a6dca2845974321712136c07f9a5fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/controller/LicenseController.java
+SPDXID: SPDXRef-item1172062
+FileChecksum: SHA1: 9eaca0e8cf2ffc59f11d2b083a4d6eeb3c508ad0
+FileChecksum: SHA256: 5778afa71db7b334da742b7a62cf757b577a43462ee398276bad33a75a680ed9
+FileChecksum: MD5: b3241b1865414316b6d66eacadb736b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/controller/HealthcheckController.java
+SPDXID: SPDXRef-item1172066
+FileChecksum: SHA1: daa87a4f13339f811d4e76dbc6c45f4d3f30cbd2
+FileChecksum: SHA256: fffbf575a0626f6d897bc4cd61d0aff9236387e350066f171b6f81b1c22982b8
+FileChecksum: MD5: 33f94097b25e78e4c348881e8b0633fc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/controller/TagController.java
+SPDXID: SPDXRef-item1172065
+FileChecksum: SHA1: aa1110336e966bf48049a6a796e4c49b570d5a1f
+FileChecksum: SHA256: f8253e23ac479b57571c0a557cd0b13ff255a5ddd74d0ff8cff8d2c5b421bc70
+FileChecksum: MD5: 0e1175454548b15d5f6a0510ea67ce73
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/controller/RoleController.java
+SPDXID: SPDXRef-item1172067
+FileChecksum: SHA1: c8c934763195a65eba6f84f5db9ca4a318f0a2bb
+FileChecksum: SHA256: 76f279d62086f92c5142dbf22c81c2841841e840f4d4bee1f07401bb9833c25e
+FileChecksum: MD5: 7c975a6a3b1e710ec154b672299ae05d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/controller/AbstractController.java
+SPDXID: SPDXRef-item1172068
+FileChecksum: SHA1: 53b62a4e9d1a1ff59f726e01df91a524de791f2c
+FileChecksum: SHA256: 07018268ef0214144ce5a2c9a329e1b77e3000e9dd785e100beb8a06ea0307be
+FileChecksum: MD5: 7c928126bf8fe5b623ba5feade67c554
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/controller/SimpleErrorController.java
+SPDXID: SPDXRef-item1172070
+FileChecksum: SHA1: 09e1942150226ee9116571d7a3bdb653e2655529
+FileChecksum: SHA256: dba81ff212278fd66edaae415d8bb649616ba0451ed75988de23a008f05b0ab8
+FileChecksum: MD5: 841ac7a02c640db5884727dbe9c53556
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/controller/AccessController.java
+SPDXID: SPDXRef-item1172069
+FileChecksum: SHA1: c6df86130f98aa655472327c8fe1a95fdd1bba90
+FileChecksum: SHA256: 37f147a56c3b7ab554eead5beeb229931da7cf3effaa226c06fac98ae32bef76
+FileChecksum: MD5: 724ec098993c4f88d862c58378814cee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/controller/RevisionController.java
+SPDXID: SPDXRef-item1172071
+FileChecksum: SHA1: cc20399b0e5062b6b984178ad5c8d818ec9d1790
+FileChecksum: SHA256: adac90f4836a1bd410abc0f8def9bfb2b4bbfdf0ba13d783808201ef5b64088f
+FileChecksum: MD5: 60dd8b3efcc93b8614a10993b92ba489
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/controller/TaskController.java
+SPDXID: SPDXRef-item1172072
+FileChecksum: SHA1: 14a42963302ab1e85a82132b425dfddb20b90185
+FileChecksum: SHA256: 929eabf0fe5b898be57962e09ca11cfc19f36c63ac6f6cb6bb2b24359c96a76e
+FileChecksum: MD5: aa0c0c3a98694125840f76ea2d3dd449
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/domain/MLPArtifactFOM.java
+SPDXID: SPDXRef-item1172074
+FileChecksum: SHA1: cfaa4d7e7cf533cad09271483f86bf43dff48b10
+FileChecksum: SHA256: f4ee48198bbf3df0672b32fd332028b56deacdba68b4e49328faf1a1465f687d
+FileChecksum: MD5: e4a99df7add4a4bfe19f6ab9b920372e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/domain/MLPSolutionFOM.java
+SPDXID: SPDXRef-item1172075
+FileChecksum: SHA1: ac9131af008c4ac787daf1bb1cc5e7298e3e1f99
+FileChecksum: SHA256: fee17b203d1575a105c8466bd5e5f3483a089bc7a6da86918b0a5a649c627b3f
+FileChecksum: MD5: 7441adddac4482919961ddab360683e2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/domain/MLPSolutionRevisionFOM.java
+SPDXID: SPDXRef-item1172076
+FileChecksum: SHA1: 1ae8e2b12ff1ea8053e45f242dab9eb4d00c94db
+FileChecksum: SHA256: 518b1ca23bbb28a1c0c2d8d6027cc3d5cb494437056f850e31fe3c3fea69bdf2
+FileChecksum: MD5: c029d98f77d3884ffae9a0e7838dd22c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/domain/MLPSolutionPicture.java
+SPDXID: SPDXRef-item1172077
+FileChecksum: SHA1: e70c826441a52b62a64f9e3ccfed381c2c14eaa2
+FileChecksum: SHA256: 1c8e403787add9a473e557810ddae68e6814a5c646623a2624989b2edce3b48e
+FileChecksum: MD5: 6fc100073851793c4f688ee45f7d6b08
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/config/CdsDataSource.java
+SPDXID: SPDXRef-item1172079
+FileChecksum: SHA1: b66a8f62d7bde537d6d228986c81d4d4300fcb32
+FileChecksum: SHA256: 92ef15de86590c1c968f570410acf2311c71444f84d293cc9d216841af5edd1a
+FileChecksum: MD5: 2be70d55cca87bf4cb564fc8b8e1c726
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/config/LoggingConfiguration.java
+SPDXID: SPDXRef-item1172080
+FileChecksum: SHA1: 1921dd1af1440f6fbfe63e393fb47608b67564fc
+FileChecksum: SHA256: e67748b9f427f9d7129e87234521ee42e42ee5eead9b0d2f932f1f246a78efee
+FileChecksum: MD5: 7c94d313a5401b755e32672c3b95b2f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/config/SwaggerConfiguration.java
+SPDXID: SPDXRef-item1172081
+FileChecksum: SHA1: 6c23051bfb1c70bd02348653f1aad190994ed1ab
+FileChecksum: SHA256: e5ae5074c48f72dcbaf9e5ef5d640deef98ae8f7cd26f6a2043b33431bde6151
+FileChecksum: MD5: da252e7d86ef3701f4980bb93d11c32f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/config/CodeNameProperties.java
+SPDXID: SPDXRef-item1172082
+FileChecksum: SHA1: 0d428d292188d1fd20770d421a15316ae586530e
+FileChecksum: SHA256: 622ca7d063f7a00eb18e959b75c7f05b54cf28491571ca321ec5215673c40b79
+FileChecksum: MD5: 41a096dd1c3281ae14f8cc2b4ac8e6b1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/config/CustomBasicAuthenticationEntryPoint.java
+SPDXID: SPDXRef-item1172083
+FileChecksum: SHA1: 7c8bbd172b68118c4e80d8419c0398fa9bea89e7
+FileChecksum: SHA256: a6bedfc8ff2e5fceb2f644fc96c708542fa37b747cc0c763fac3cd8dadd80427
+FileChecksum: MD5: fa84552f0dca1bd9db9ad4240d5bb409
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/config/CustomWebSecurityConfigurerAdapter.java
+SPDXID: SPDXRef-item1172084
+FileChecksum: SHA1: 92bc39e8018833d7473f54d51065fa016fe1b2db
+FileChecksum: SHA256: c14ec3aa5ffabc9b901325b59c59103554f5143bdcbe7ccea594dd49d3336e98
+FileChecksum: MD5: 228573ea5013a3bb5517993d3dcb5c8f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/config/LoggingHandlerInterceptor.java
+SPDXID: SPDXRef-item1172085
+FileChecksum: SHA1: 1742548a57bc33d774198365eef1d35c90cf79b4
+FileChecksum: SHA256: c5209162e40e1b6afbbc6338bce8aba112458ba7b9886330130fff0b06efc0bf
+FileChecksum: MD5: 690bf4fedce0573c65ea45a0336ed167
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/CodeNameService.java
+SPDXID: SPDXRef-item1172087
+FileChecksum: SHA1: 4971d00de0b2fbe33ee025edf9ae2881bb415dbe
+FileChecksum: SHA256: ab64381f66c54b4dc9fd32c0ba5112b3f819199f49eec4357f6f361a519b0a9f
+FileChecksum: MD5: 729363676ff63051974b8c2d1fbb76b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/ArtifactSearchService.java
+SPDXID: SPDXRef-item1172089
+FileChecksum: SHA1: 8a9c7616a76869f41a32b4a5c05043d9d70bc6a7
+FileChecksum: SHA256: 79ce1c19c5edfdd30b0e8cfd22bff02f0e5fe7518c8bb17413308f8719fb1377
+FileChecksum: MD5: 032f140c4fd0a9d372aea7d76146f88d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/StepResultSearchServiceImpl.java
+SPDXID: SPDXRef-item1172088
+FileChecksum: SHA1: 667a2b7a9dfd51ee97a0f3002be5e2e28e66ab2f
+FileChecksum: SHA256: 7daa94aa647be5c14be4866906b0988809f1e283c0db427424cea6de19bfb3cf
+FileChecksum: MD5: 38fd22a685354d63e9bbaaa67979c3a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/RoleSearchService.java
+SPDXID: SPDXRef-item1172090
+FileChecksum: SHA1: d8ccc7f4a36fb9dacba741e39289d082566cc927
+FileChecksum: SHA256: 988b9056fb3825e16703d73815802d7bb3ccf53a51ddbcbbef58339513bb022a
+FileChecksum: MD5: 4806da20ec3e4de8d9a74f83713ef565
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/PublishRequestSearchService.java
+SPDXID: SPDXRef-item1172091
+FileChecksum: SHA1: 4534471669b113923e9c0540f39577335db22493
+FileChecksum: SHA256: 31ae51ef76ae9e4653f32732e66742550ebe77e3d1f936a9560c07a0baad9150
+FileChecksum: MD5: b68c55fcbb219fbff3be9c59fed67e99
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/SolutionSearchService.java
+SPDXID: SPDXRef-item1172092
+FileChecksum: SHA1: 99ba95755da81c3748efe018d6d41b7fcffbf775
+FileChecksum: SHA256: 5419f4ed1fb2c455246816c2bbc93e144e0915d3d303b811a1275cec3719833c
+FileChecksum: MD5: f23f4d5fcd61bab7abae9cd0f55e48b6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/TaskSearchServiceImpl.java
+SPDXID: SPDXRef-item1172093
+FileChecksum: SHA1: 620facfa7bb0a9c206c6322ff6f32e8529b65802
+FileChecksum: SHA256: e2512683b4ae8f23b6ccf237952e1660a2b84098e193073586c9e0a544e40634
+FileChecksum: MD5: 4db7aced1d6c56b313efbdb50237f918
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/WorkbenchArtifactSearchServiceImpl.java
+SPDXID: SPDXRef-item1172094
+FileChecksum: SHA1: a522e1e892609a4b3ebf4b7d72c66d85577fe0db
+FileChecksum: SHA256: 3cca93c23763405c5ca9c71d84983f16b7e925e1f399cc7760cb34cd7b35f78a
+FileChecksum: MD5: 3a1ae40e2e251baba9a58060f7cd355a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/ArtifactSearchServiceImpl.java
+SPDXID: SPDXRef-item1172095
+FileChecksum: SHA1: 399dfbe200008a274876f713da36faec05fc3b86
+FileChecksum: SHA256: 7481a61edd7ffd3cbb8aa21821f9b8c5de8de8cf25f94fc64307022854f502e5
+FileChecksum: MD5: c41675158eab460f4f411a163d029899
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/AbstractSearchServiceImpl.java
+SPDXID: SPDXRef-item1172096
+FileChecksum: SHA1: 1ae3c24a22fd462cd1db7001c975e98137d21d08
+FileChecksum: SHA256: 057a50546eca196ec5de618dcc53ef96c5fb26d58c43f20c31f773c2247bc827
+FileChecksum: MD5: fd67d4e26429d7234a36924385b178eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/PeerSearchService.java
+SPDXID: SPDXRef-item1172097
+FileChecksum: SHA1: 6f9adc77b822648335b4e27a2cb7fa9f230782a5
+FileChecksum: SHA256: 219aae65b5b344216a34667a63a6fc81b51b326d3b1519ce489e97fca7d590a3
+FileChecksum: MD5: add6c1d88adf92faea5d4fceffd5c01e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/UserSearchServiceImpl.java
+SPDXID: SPDXRef-item1172098
+FileChecksum: SHA1: b58c2b3a3753758ec49d1e644d15c85b69e082e6
+FileChecksum: SHA256: 9ec489acf5599fd04884a9cd0fb829087a1bda8105bb5923788101e5b3d2c401
+FileChecksum: MD5: 5b8e542f2ea442e9a0766860d539be8f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/SolutionSearchServiceImpl.java
+SPDXID: SPDXRef-item1172099
+FileChecksum: SHA1: 0e254dbf5cd3066fae073bf8560803953ce19986
+FileChecksum: SHA256: 61e9e779b0bb6b4465b5bdea47bb03fff3ad17204553beb22232d8e5a65639a3
+FileChecksum: MD5: 7a7a7b1a3894b3565716f5dfeaed701d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/StepResultSearchService.java
+SPDXID: SPDXRef-item1172101
+FileChecksum: SHA1: 54ec97c4f018b85024f31e9313b910261e5e1b0a
+FileChecksum: SHA256: 85164f34fb4c75c1718f5a691d0fb29351f3d6220e44dc89f90630406c09d896
+FileChecksum: MD5: 2dfc6976dd15187e61f98f44ef2680d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/CodeNameServiceImpl.java
+SPDXID: SPDXRef-item1172100
+FileChecksum: SHA1: 60e53d280cb6eb013ce8f2af52915d2a822f78a7
+FileChecksum: SHA256: 5c51193c42a877b6b065e120405ed21f50efc6ac149908cbb5534096442262d6
+FileChecksum: MD5: 7832f2c9f4ca2be4e6e5486aa5cee4ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/UserSearchService.java
+SPDXID: SPDXRef-item1172102
+FileChecksum: SHA1: 61fbcdcafb65a2d0ee281c920d7e1a3d1971375d
+FileChecksum: SHA256: d80be44089c61d8b97952209202f7e04f4b01bc597e05e6e402d1bddacf399f5
+FileChecksum: MD5: 5ab3f08ab5746974f7d77e84ea25defd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/ArtifactService.java
+SPDXID: SPDXRef-item1172103
+FileChecksum: SHA1: 710d51847a515f740bd5a6c0055086573abae0b3
+FileChecksum: SHA256: f35d2e5de50e00cb585d56dfd628f3c3e506e2f92af9a8eeb0d43deb7707638b
+FileChecksum: MD5: 735eae4e59c9a890e73e13a825b80dd2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/ArtifactServiceImpl.java
+SPDXID: SPDXRef-item1172104
+FileChecksum: SHA1: 88650bedc325e20abcb55708af065dffb6731691
+FileChecksum: SHA256: c20e995efcbab529936b37ec112cb49cb8e6e0b4ce71a4a2ac3a8c0258028f84
+FileChecksum: MD5: 6085a1eed99bf367554f84700310109b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/WorkbenchArtifactSearchService.java
+SPDXID: SPDXRef-item1172105
+FileChecksum: SHA1: 8a5090143e202860f144a4b86d6cd0d69315a2fe
+FileChecksum: SHA256: 7abd7e2df547f49ca27ea765b61671574270e6da273d6ac3588908899a133872
+FileChecksum: MD5: 0437b54c1fbf4eaa13509d2e2806a076
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/PublishRequestSearchServiceImpl.java
+SPDXID: SPDXRef-item1172106
+FileChecksum: SHA1: 7bce56774f8900582cc646f78a2c5ef4e9afc529
+FileChecksum: SHA256: e29c73b11a88be4772ea10223ec19d99b92948420fd449f2e95d22fc6b9c90b2
+FileChecksum: MD5: dfe1b8ad6ad55f170d80f68f1a5ab6ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/TaskSearchService.java
+SPDXID: SPDXRef-item1172108
+FileChecksum: SHA1: 3aa2ace188b6739e41d1bfa67fd752780bf06b17
+FileChecksum: SHA256: d4c25846195ce98a6c7f76d9ec015caa90b96f61b05da743fa254cbb1ae89f9c
+FileChecksum: MD5: 89038f7524ab277f1c5378e4e3590572
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/CatalogSearchServiceImpl.java
+SPDXID: SPDXRef-item1172107
+FileChecksum: SHA1: 2d580eb68fe24b927c0e1144b21f2fadbf7495fe
+FileChecksum: SHA256: faa8e7fb09f8108760210f2edaf2cc7f486a9fe809e76368bf13fd53b847327b
+FileChecksum: MD5: d8de9a88581711c6f242f24123f8207a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/test/resources/logback-test.xml
+SPDXID: SPDXRef-item1172114
+FileChecksum: SHA1: d148a3904b1977544708782cb7dbd19c5e2a3e39
+FileChecksum: SHA256: 1ceaa50ebf17b1818f688fe15d7dd19711ca8ff7e326936474bf19f24f157d15
+FileChecksum: MD5: 938f9563b6697dc0b6c98c281880b0f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/PeerSearchServiceImpl.java
+SPDXID: SPDXRef-item1172109
+FileChecksum: SHA1: 30bda93c931115a7c963404aa345a875bebc315c
+FileChecksum: SHA256: c84a8e3ca42840865701d7b66fcce6af47ffbe1578adacf9355e6720db9da3fa
+FileChecksum: MD5: 1e80b083e5efc8467d0202b9e9471349
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/CatalogSearchService.java
+SPDXID: SPDXRef-item1172110
+FileChecksum: SHA1: a2aaf6b5e591fe8c7045b6ff18a15d662f6f8254
+FileChecksum: SHA256: 6ca013282a7f231a40798b8f2959c42ea61f4df193e5fc5bcda8f72c13795ea4
+FileChecksum: MD5: 85b1189fc56cd6c50da096e8b766ae17
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/main/java/org/acumos/cds/service/RoleSearchServiceImpl.java
+SPDXID: SPDXRef-item1172111
+FileChecksum: SHA1: b54ff4a00e2d36559f480fd6ec51faf7599d39bf
+FileChecksum: SHA256: 39b97e49e5c86155bf0028c31fbe796d11b1ad015b6acb78950274df8d847cdd
+FileChecksum: MD5: eb5050ce908c8baaedc4729551adb190
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/test/java/org/acumos/cds/test/FOMRepositoryTest.java
+SPDXID: SPDXRef-item1172120
+FileChecksum: SHA1: 76b0bd2f78afe0a2305ed6c657e3d12fe28e5d1f
+FileChecksum: SHA256: c74c93213693e184b9a06e955635deacfd3c464fe3a9deb1f12894a918b74024
+FileChecksum: MD5: 3c3e6ab4f049999ce3d74c00ffdd5605
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/test/java/org/acumos/cds/test/FOMAnnotationTest.java
+SPDXID: SPDXRef-item1172121
+FileChecksum: SHA1: 5128bfaa3bca2d718720b08b66e2a69d6be236f9
+FileChecksum: SHA256: ae256eda0b7d400379e3e44d8d3d579f84e9f8e82de9b42bb779ef96b3f429f2
+FileChecksum: MD5: ba7a04e85633cf9fcd82a6e482653736
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/test/java/org/acumos/cds/test/CdsControllerTest.java
+SPDXID: SPDXRef-item1172122
+FileChecksum: SHA1: a6f096ea700d976df304e47eb589f058fbd4f456
+FileChecksum: SHA256: 9de94b708f20317a8fc85ee2104c50022e1df33a364ad796c7fd990e9669d485
+FileChecksum: MD5: 8d2695011bc32970841452054f809653
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/test/java/org/acumos/cds/test/CdsRepositoryServiceTest.java
+SPDXID: SPDXRef-item1172123
+FileChecksum: SHA1: 1ceb813aed40247b833f4f6c7642c3e9df451944
+FileChecksum: SHA256: 4c3d4d8b0e2e57c60764c396431fe476aa68672eb94efead7c255a4893abaac5
+FileChecksum: MD5: 54de74e21f30c30d21980215d62ef540
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/test/java/org/acumos/cds/test/FOMDomainTest.java
+SPDXID: SPDXRef-item1172124
+FileChecksum: SHA1: 7cc4a3662171915968c960a2849e97f1518fcdef
+FileChecksum: SHA256: 95483efd653374195a367e01ee3ef3e4c28b7877dc3581e18d485251bca5c8b3
+FileChecksum: MD5: fb1b18c8e0651a4f2cf3d406b726bb9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/test/java/org/acumos/cds/test/FOMTestService.java
+SPDXID: SPDXRef-item1172125
+FileChecksum: SHA1: d828839c4c80d425ba5d4c9f1184f01f4b06498d
+FileChecksum: SHA256: 6d69850083676daebd52623917d35d670c34a4cc7d06d90431bb68fcb8940c42
+FileChecksum: MD5: 14c30222baff793f570ccfcc6f601119
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/pom.xml
+SPDXID: SPDXRef-item1172166
+FileChecksum: SHA1: 2148de088bd659f3d007cf8fb965967059fae3e6
+FileChecksum: SHA256: 0b0d40d58f23b341358b50aac1fa263c68590e343b4c1f20da61727302b2629b
+FileChecksum: MD5: b208aa6965f97c97bc5f4f50eb77347b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright>true</canUpdateCopyright> canUpdateDescription>true</canUpdateDescription> canUpdateLicense>true</canUpdateLicense> emptyLineAfterHeader>true</emptyLineAfterHeader> configuration> plugin> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-compiler-plugin</artifactId> Spring sets the <version></version> --> configuration> source>${java.version}</source> target>${java.version}</target> compilerArguments> processor>org.hibernate.jpamodelgen.JPAMetaModelEntityProcessor</processor> compilerArguments> configuration> plugin> Add the build number to the jar manifest. Spring-Boot uses a complex packaging process that makes access to the original Manifest.MF very difficult. However, Java provides access to the implementation version for a package, so cram the build number into there. --> plugin> groupId>org.apache.maven.plugins</groupId> </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/config/application.properties.template
+SPDXID: SPDXRef-item1172170
+FileChecksum: SHA1: 1564cea056afe6ce13438b31b2d6847f966a9b88
+FileChecksum: SHA256: c96c7894d59dcc8fb1a61acad659d3adc220f417559465f273473258c29b52b5
+FileChecksum: MD5: b1d8fbd8c687ac61afbb949fc12d8cf8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/config/application-mariadb.properties
+SPDXID: SPDXRef-item1172169
+FileChecksum: SHA1: b8941b64b77ace47c966fb2b6c8316a64e36c37e
+FileChecksum: SHA256: 273ab609216904a324ba98cfa72249ef15344d5a3a907f15653dd4f7badfba5a
+FileChecksum: MD5: 45b40d30354bb415a4c90056bc480ade
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/transport/CountTransport.java
+SPDXID: SPDXRef-item1172185
+FileChecksum: SHA1: 9ce337549d7f6e7817942be3b37ed8304f8def03
+FileChecksum: SHA256: c1cbc837a830e97b364d5990c1529a3fa15cfd995ab9fae408374e995ba5998d
+FileChecksum: MD5: 28ac336ef9499519e675e52f453efd34
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/license/licenses.properties
+SPDXID: SPDXRef-item1172175
+FileChecksum: SHA1: cadafd6791c2455ef4a4aed56117cc96c75008a7
+FileChecksum: SHA256: 842335744a2b1ad7ff75251b54383ef4442f86aa85c8ddb32dd1cf8207110f9e
+FileChecksum: MD5: aa6914201513f84eb3ee610866ec7fea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/transport/BatchIdRoleRequest.java
+SPDXID: SPDXRef-item1172186
+FileChecksum: SHA1: 81ec1edbf0a541ea908e5a8138204ff9e8cb6d21
+FileChecksum: SHA256: 56509b174ebe06857feb77dd579008b18f27d767695f7ce51468f91d351da201
+FileChecksum: MD5: 3cca57748d226c859048d84f851119cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/transport/MLPTransportModel.java
+SPDXID: SPDXRef-item1172189
+FileChecksum: SHA1: 1dde21db7e86c1fef0acdf9296f14eb60527f785
+FileChecksum: SHA256: fdffac64f29f4450e3085556a2b81108cba34f8b89610479db779e28086a2046
+FileChecksum: MD5: dbfb3b56aa55a2fa59f676612e3fc30d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/transport/AuthorTransport.java
+SPDXID: SPDXRef-item1172188
+FileChecksum: SHA1: 3bdea54c89ca258227550187302b15ff2c85de90
+FileChecksum: SHA256: aee71be5942896ad47f5c3f6a9b5863aef733e4b68be1d16204612193fe4a4b2
+FileChecksum: MD5: fe25c2484cb66fa7815be4e6eb516660
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/transport/RestPageRequest.java
+SPDXID: SPDXRef-item1172187
+FileChecksum: SHA1: 419a22ba2c5d8fc89bb66d9bcef03013329202f5
+FileChecksum: SHA256: 12e1ad49936d72e88160705d2505b2c9fd07b0790001211fb08fae375344f3d8
+FileChecksum: MD5: 6e1d29b412a5c7cf558e4828c080d72e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/transport/SuccessTransport.java
+SPDXID: SPDXRef-item1172190
+FileChecksum: SHA1: 650f4ea1db5920a6a6868997fe05918efd2100d4
+FileChecksum: SHA256: 0e2156f9376e264629c55b3404c993a4bb7a6849cc8b959dbdc5e5c188f891db
+FileChecksum: MD5: b0926c5b46b417737a3b75021800cd2e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/transport/LoginTransport.java
+SPDXID: SPDXRef-item1172191
+FileChecksum: SHA1: ea904135b1aed64bbf2d7674bd24a948a4e3280b
+FileChecksum: SHA256: 17a0d72a92e332fb492e40db22fd758283d5a99e9befb81f32ccb38313a7a621
+FileChecksum: MD5: 550ff903edc70c1bf97d5502a20dbe63
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/transport/ErrorTransport.java
+SPDXID: SPDXRef-item1172192
+FileChecksum: SHA1: 0acf97f590946a784ea8f8350ac3ec46b59da1fc
+FileChecksum: SHA256: ea4c52de86111585a9e369cf15b252ebb295e46d92f8f84ba20f90eb7c00492b
+FileChecksum: MD5: ac357d811c462214216ceca758cf8894
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/transport/RestPageResponse.java
+SPDXID: SPDXRef-item1172193
+FileChecksum: SHA1: 465b8cbffedbd1b3437bb978872e2f656bcc5835
+FileChecksum: SHA256: 543e38f6406074764817c60fc0f7e770b47098e6a75a42e4335d9d855b1c12ad
+FileChecksum: MD5: 7496737a24c92597cbecba926a6df0bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/CCDSConstants.java
+SPDXID: SPDXRef-item1172194
+FileChecksum: SHA1: bc1e33e86b10b01c88aa9f43aff0d66bf04015a5
+FileChecksum: SHA256: f39777ad27cf78ac5c65bdb100be492bae3b15413baab60baf6f697f1d188e26
+FileChecksum: MD5: fc20e0f61cf34df37761ec97440191c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/client/HttpComponentsClientHttpRequestFactoryBasicAuth.java
+SPDXID: SPDXRef-item1172196
+FileChecksum: SHA1: 21c345f9a31d84aeb45b3e1f831ad938f4157bec
+FileChecksum: SHA256: d8088125ba378dec63ad79bb2b0c77b8124799594e2cfc5ab0141416ff4bfb1a
+FileChecksum: MD5: fd18f291e0e5ace3a7e6ee5275fb69fc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/client/CommonDataServiceRestClientMockImpl.java
+SPDXID: SPDXRef-item1172197
+FileChecksum: SHA1: 8d3cde4df40b38c16972f785a1e7f3d820947340
+FileChecksum: SHA256: f888b7bd071e25d423e8ce9f58a76ea2f0d3f24edccee501321c4a2c1fb3ac9e
+FileChecksum: MD5: 985515985a75bc475faf2ae3cbd76587
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/client/ICommonDataServiceRestClient.java
+SPDXID: SPDXRef-item1172198
+FileChecksum: SHA1: ff761f9492708a3dac1da1740897eb3394f32d9d
+FileChecksum: SHA256: 92afd679c653fa4f78470d7de085cfb4361521fe9cd038ef1f4200caf775265c
+FileChecksum: MD5: 88d57cc167e487824a479aded2482354
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/logging/AcumosLogConstants.java
+SPDXID: SPDXRef-item1172201
+FileChecksum: SHA1: 86f92f3e688c0c70335232ba3d5b40b067fa4a7e
+FileChecksum: SHA256: 00948e059fbe3e3f708154dcee11a7be4b8e48439baf55ba4497663038183871
+FileChecksum: MD5: d0fb3600dc1f982339cd1229a957f3a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/client/CommonDataServiceRestClientImpl.java
+SPDXID: SPDXRef-item1172199
+FileChecksum: SHA1: 199c0537b2d460475198be7e3ebfdcf9ddaf4f6c
+FileChecksum: SHA256: b5fdbe3139a8a249733370512e917607e8ecf528672a9341038c84f438b749a9
+FileChecksum: MD5: 619f7d298233748f4f82e6984daf11df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPSolTagMap.java
+SPDXID: SPDXRef-item1172203
+FileChecksum: SHA1: 1948bcd74e84d5cfce8d1798ab2ef13f5105586c
+FileChecksum: SHA256: b3e3bf1104d2b364b9877337d25586ab761d263259eae5251aec8440cea91c3c
+FileChecksum: MD5: ec486061db7469b0c8cf352a6c5a26dc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPSolRevArtMap.java
+SPDXID: SPDXRef-item1172204
+FileChecksum: SHA1: 743cc707b201c791b62b9275b14fa9de8732f21b
+FileChecksum: SHA256: 46e7d7508f4a6d86bdea70722ef9b470d8ff9fb1dc8ade09d51d50be9f7766f9
+FileChecksum: MD5: 67bff37d9a90a7d0c58eed49da033d1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPUserNotification.java
+SPDXID: SPDXRef-item1172206
+FileChecksum: SHA1: 6a90ad2353c81d971e08adcff498a05ba55a1a77
+FileChecksum: SHA256: 0dc20ed9eb1126f2617f9d27ef34920cb64f6b1fe8550915f1c779f5523e2135
+FileChecksum: MD5: f4d06771a276cd9b7277040e43f633c9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPRevCatDescription.java
+SPDXID: SPDXRef-item1172205
+FileChecksum: SHA1: 1c3e176f893368ab867b2d0b77cf66feac88fcf0
+FileChecksum: SHA256: bf712b9e2b31d80de5444b7fb267ffd6b41eb8441f9b18566889e8fa6213f6b4
+FileChecksum: MD5: a2d58b6259232efc9db7c54acd8b6579
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPAbstractGroup.java
+SPDXID: SPDXRef-item1172207
+FileChecksum: SHA1: 5d1908cf9068168a940dd83b78dc43e6a446e471
+FileChecksum: SHA256: 505a294d5f32dcacd54f0d8008268a752db172f35cc5777e7d25167f7201a91a
+FileChecksum: MD5: 811bb1fb82dfd02e3855d80fa449ca68
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPTaskStepResult.java
+SPDXID: SPDXRef-item1172208
+FileChecksum: SHA1: 29ca437fccf5bfeed80182577ad641d633db50c5
+FileChecksum: SHA256: 41f714495825410ef6d813c3b7270a441a491d6eddbf42b48bd2bbfae847ad1f
+FileChecksum: MD5: 2040d65380190d2d0ccf60cc49ec8c65
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPDocument.java
+SPDXID: SPDXRef-item1172209
+FileChecksum: SHA1: 88bcfcbfb9cd959cdfcf57ad12ba1730295076ca
+FileChecksum: SHA256: c7040947122b7a13267d8859afe29a1eeb1b1ed1a574003e91b76694bb995a01
+FileChecksum: MD5: e6b043c00e587e1d1bcc16bd26adddaf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPCatSolMap.java
+SPDXID: SPDXRef-item1172210
+FileChecksum: SHA1: b903972e3727b0bd96d640c999571fae43d70d7d
+FileChecksum: SHA256: 8f63acd00b2b48d9bef43402fbb8fd31b7862940b4aae2bab2afb8678144a3ab
+FileChecksum: MD5: cddbb541ac1e1f59097bbd741c3cfc4f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPNotebook.java
+SPDXID: SPDXRef-item1172211
+FileChecksum: SHA1: 92c61ea9b757553c907588826a9649f5c6170e9a
+FileChecksum: SHA256: 2172ee7fcb4bd708189c3b298ef5e8e0182a9546bd04221b85e9e6c3f7034a9e
+FileChecksum: MD5: bf5d92dae2ef7ebf1b2b5321e9bc25e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPSolutionRating.java
+SPDXID: SPDXRef-item1172212
+FileChecksum: SHA1: ae94e599fb0277b370492b6452a242e24e367f82
+FileChecksum: SHA256: 3665005cfcc5e872847fede42545f23c450fba9f962ddf9b39ef267173c1b337
+FileChecksum: MD5: 5b892760c20b7b7a9ded395b16be57c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPUserCatFavMap.java
+SPDXID: SPDXRef-item1172213
+FileChecksum: SHA1: 090e5d07159760680672184cad2b5320e08012c0
+FileChecksum: SHA256: 863ba648702af76e1d86e14e693b0af8d6f975429be1cb2aa9d991d02411da82
+FileChecksum: MD5: 96d3c9db772afbec58b8b5363a311265
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPThread.java
+SPDXID: SPDXRef-item1172214
+FileChecksum: SHA1: 0cff894c8ee152e8dfb9c8651fcd64cdb0c426b0
+FileChecksum: SHA256: 369c3a5cdc84a008a89de2ff4a5b136a162a8e8a681f6614f3709672499727ab
+FileChecksum: MD5: 5a055631cd8a23ba5b02a14bee4864c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPArtifact.java
+SPDXID: SPDXRef-item1172215
+FileChecksum: SHA1: cd31be6e46399b14b8b77372c1950be93985cbfc
+FileChecksum: SHA256: 35e2608547d5e96db00281ba06f9929dc2d98b7cf3cdbf28c4b2ee640634a43f
+FileChecksum: MD5: e6a90b1c791b6221fc69e5e60ce194bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPUserNotifPref.java
+SPDXID: SPDXRef-item1172216
+FileChecksum: SHA1: 5e8cc7941133d9674808e63714a631f898281d4a
+FileChecksum: SHA256: 2ff635e7a57316ea94beb4a64e65782f0642e615150d1485f0d610c2008ecfc4
+FileChecksum: MD5: 8d4e30bfce4aef11b977534e928b2ed3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPPublishRequest.java
+SPDXID: SPDXRef-item1172217
+FileChecksum: SHA1: ed4f0b4a273e0a4a8731da4c49d80728d133e33b
+FileChecksum: SHA256: dc14207ce5a42a73ae8a492df3d32be0b0b7cea829070155716c858da67f12a5
+FileChecksum: MD5: 0b606b0a431dee625fc61ef5787e2995
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPSolution.java
+SPDXID: SPDXRef-item1172218
+FileChecksum: SHA1: e1544c5819e7cd05f70157d802372c8009ebc006
+FileChecksum: SHA256: fc815f8eb6d2642d0123db6fcea3afb784ba47a8aa86d3ae4f4a04d3039baf83
+FileChecksum: MD5: ebd376739f098088b880627ad8ca2543
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPRevCatDocMap.java
+SPDXID: SPDXRef-item1172219
+FileChecksum: SHA1: 600ae00e27e282f98a23c3902f3197ab574ff39a
+FileChecksum: SHA256: a565c9ee363dd573db1fa24590730f40e6f42ce5f40dd262a26bb9a15ecc4973
+FileChecksum: MD5: eb344de61d094e47da8f1da7bc1fb495
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPTimestampedEntity.java
+SPDXID: SPDXRef-item1172221
+FileChecksum: SHA1: 480913f4decd22473ff8b97af29013cbc2e59832
+FileChecksum: SHA256: ccc08277120753be17964ecb5ac11f76fbc3e090abf721aaa48cb18577aea251
+FileChecksum: MD5: 26d0e90d6c0550fd008a8917479473bf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPPeerCatAccMap.java
+SPDXID: SPDXRef-item1172220
+FileChecksum: SHA1: 54559d38cd7a1349f0092cffddc92b335a806c30
+FileChecksum: SHA256: 5a0d015ec064c1e07be1ab26027ab2a5d4e405c285758d1f9e61b776fadae058
+FileChecksum: MD5: e4114529a973ae353877014ef4eac035
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPAbstractSolution.java
+SPDXID: SPDXRef-item1172222
+FileChecksum: SHA1: adcb7126d126cbfb7b41a07643d2e820f6382d57
+FileChecksum: SHA256: 77c99b3e1d612b64c3d6dcd6e84835a6c393ade055d5fc08a01e6e222325ab2c
+FileChecksum: MD5: 93f7d7c842edf5bd63ea13c73e803478
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPNotifUserMap.java
+SPDXID: SPDXRef-item1172223
+FileChecksum: SHA1: 84176a96280de29a9bf665179d169d6e5dda0726
+FileChecksum: SHA256: 83994024dde53750b3fccbb5ad18d3073747dda3d8b4415912994475680a4d93
+FileChecksum: MD5: e0aecc246dcbbcc165b932844a3038f7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPLicenseProfileTemplate.java
+SPDXID: SPDXRef-item1172224
+FileChecksum: SHA1: 92e5252025398e58c1ccbd2aeb6bc0a50ca95651
+FileChecksum: SHA256: 242e8f093de4e296d0cda5d1a137ebf7108c42ecc8564b4d1eb6a89e69924b64
+FileChecksum: MD5: 40ef2d5644bd13dc6220ebc93586d540
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPSiteConfig.java
+SPDXID: SPDXRef-item1172225
+FileChecksum: SHA1: fbc41f30d2b6192c6ac0949e21b53036fb010fd1
+FileChecksum: SHA256: 824fd178f3f8e075608603e1644f683d212e1e51f79a80c8133bc14a348202c8
+FileChecksum: MD5: dab32382631520e87273307c074b938d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPAbstractSolutionRevision.java
+SPDXID: SPDXRef-item1172226
+FileChecksum: SHA1: 8adf7ec2c99ab20ce3d897045e5f1eb6297129a5
+FileChecksum: SHA256: 2589733d3a1f5ee166d157d6a75a35be9405c7c3553830569b7ac4a3e8833846
+FileChecksum: MD5: 596bdd5fbcc4f3de56a483405b0467d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPProjNotebookMap.java
+SPDXID: SPDXRef-item1172227
+FileChecksum: SHA1: b46fce3a3a7ab8a301a8c49169d8442fd2218c60
+FileChecksum: SHA256: 12304a88bf553850b2d6a27c39cded8634d7c88be0e6d6e8411c9aec691bb221
+FileChecksum: MD5: 7ccbe05162f13cb0bfee36eb723d773d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPAbstractArtifact.java
+SPDXID: SPDXRef-item1172228
+FileChecksum: SHA1: 0faf54209cf2272490f641f3d4b85abae21dc224
+FileChecksum: SHA256: 02132a1a7f60c0a3cdde67963f4e38bdc9c1e9d0119beb8efe4df40aedf864fb
+FileChecksum: MD5: 49a78d371b0b224879e242333b4ad2a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPCatalog.java
+SPDXID: SPDXRef-item1172229
+FileChecksum: SHA1: 4519ca6570503ce94af01424b072faa94bc1f3dd
+FileChecksum: SHA256: 82de6fc00d915a40537b0c8999f2da7c5d42a55948f34d982642b27f3dbe52dd
+FileChecksum: MD5: 81a7ea6d3942f93a4b8ba31500c69f14
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPUserTagMap.java
+SPDXID: SPDXRef-item1172230
+FileChecksum: SHA1: c64c7d09d7424608d6a12fcfb01c01ddbeb4b658
+FileChecksum: SHA256: 103407bc943e94ec19420ebbc8b8d72a4e1b2675e4aa53a602435546aea161ba
+FileChecksum: MD5: 0c66caa22f024e8e08a6d97d98e4d5db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPNotification.java
+SPDXID: SPDXRef-item1172231
+FileChecksum: SHA1: d21e7110a0d61d61d9184b3d7971016be8035fd2
+FileChecksum: SHA256: af4f4755e65d2e74f1bbebe3bb38d6938854634917d17af30e2f5473a2073cfb
+FileChecksum: MD5: d26f519f2dde56a49e4a4b5cb8417391
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPDomainModel.java
+SPDXID: SPDXRef-item1172233
+FileChecksum: SHA1: d3da552b535b6cb53c56503abb576278502402cf
+FileChecksum: SHA256: 9d8881a254bd27bf7e98af6f5fc07e35860b6c47f07d76c5216355faf66ccc10
+FileChecksum: MD5: c9f13a8121868e4e806345e14bf3d789
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPAbstractDocument.java
+SPDXID: SPDXRef-item1172232
+FileChecksum: SHA1: df91aab11d34bf92a1a6cf1e0e045f1bfa34c648
+FileChecksum: SHA256: f25d3389c98c828b8eb465ab3102c8330c8fe599545451e5cc49b99bd1dd7a2e
+FileChecksum: MD5: cfdde24fe3019f4d5cf6b89783d46d91
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPProject.java
+SPDXID: SPDXRef-item1172234
+FileChecksum: SHA1: ed6259be1ac41200ac4f65a0f62d58552ec33975
+FileChecksum: SHA256: e696b7d8c4ba62e907af30cb3f9201fdc8a2743051d80516e718440e6eb23748
+FileChecksum: MD5: 43e12ec3dfb9a98534024ceda4b89c7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPRole.java
+SPDXID: SPDXRef-item1172235
+FileChecksum: SHA1: 1f21f29f70b0ba8091f8b994bdf9bc986e2da70b
+FileChecksum: SHA256: 6ea4f51d480a5d67a9bb1366416cf2ccfdf51fa45f7aaf40d130b2fabcc205fc
+FileChecksum: MD5: a2e5718c36371b9e74bf5b0e7380215b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPTask.java
+SPDXID: SPDXRef-item1172236
+FileChecksum: SHA1: b3707013ae20493461319cc407b0f48344d8d939
+FileChecksum: SHA256: d238d14ea815cc6a7c61ccf563cab6cac6fa0f9a8f9e568e94b4160eb8b3b32e
+FileChecksum: MD5: 6498d9347dd72b7e247818c545e01ab9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPTag.java
+SPDXID: SPDXRef-item1172237
+FileChecksum: SHA1: 6a89667354504a6945afbd3a15a3f5357d6dbcfe
+FileChecksum: SHA256: a29fd3d3d227afe6847a29b011cd0c5d9c2d4042337ea2d44f9fb8cf193c665f
+FileChecksum: MD5: c706877672ebe5a6aec2a80b29f96d66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPSolutionDeployment.java
+SPDXID: SPDXRef-item1172238
+FileChecksum: SHA1: 9959a849dfc458d5ad1c43c710e796f8094af0bb
+FileChecksum: SHA256: b72dd6610c65abc22df0a7f4c35fae976dc9a52330c84c11eb920d0b6ba08350
+FileChecksum: MD5: 9b9462b861cfaa16894d52e130e17aec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPUser.java
+SPDXID: SPDXRef-item1172239
+FileChecksum: SHA1: 2c07aae70d4b7bcde0abd1e314e3767757b90cab
+FileChecksum: SHA256: f7e6aac673ca62f48932bc874d9c8b4cec577d7c37bed7fc5be9a9a0e917aaee
+FileChecksum: MD5: 78dd39e10cc2cdf893b9e85f16809143
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPPeerSubscription.java
+SPDXID: SPDXRef-item1172240
+FileChecksum: SHA1: 9d192d1f9adffa21fb561147af0c65d10304a7e4
+FileChecksum: SHA256: 777bbf51ec4ad4c533cec2fab301fcb7b90cdd58b809d3968ead38c1d0457f93
+FileChecksum: MD5: 982ba8942e717fa7c16a277809d42357
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPPeer.java
+SPDXID: SPDXRef-item1172241
+FileChecksum: SHA1: 4215f943051d4deb773036489eb68137626b6337
+FileChecksum: SHA256: 3b23b1df66b9232da990adea85b8baeedeb39feb336f9cc5ab714627f2e16ba2
+FileChecksum: MD5: 84aefd1062a85f4fc394d953b4d68530
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPCatRoleMap.java
+SPDXID: SPDXRef-item1172242
+FileChecksum: SHA1: 4cacd84c02fb03ef11ca78b482e5b88e174f3f18
+FileChecksum: SHA256: b89fd926d11314bc89cfd19ec94b660be4fb39959c12bd052eae221a244f22bb
+FileChecksum: MD5: ce63ca36351b456019a0eb6ec1f9cbc2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPComment.java
+SPDXID: SPDXRef-item1172243
+FileChecksum: SHA1: a96630466d6c4a8d4f9ce139b0f3c2b82b2b992c
+FileChecksum: SHA256: 60c56e9bdabf19aa23ef08cc536301875c1ce1fbc2f19760516be465535cb6e7
+FileChecksum: MD5: aa28c6ffd140786eed0ff9666904277e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPCompSolMap.java
+SPDXID: SPDXRef-item1172244
+FileChecksum: SHA1: 5adb7b10a4aa4b4c4ae18adb82648f42c7387e34
+FileChecksum: SHA256: 4e0a31e6ab86dff29f47d521e01f9cd91e77f712da35df58bca99f2cdff358f1
+FileChecksum: MD5: ccd158f0ff1f87ea77bf080299132d73
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPSolUserAccMap.java
+SPDXID: SPDXRef-item1172245
+FileChecksum: SHA1: 0785b9bc6270df807d8fc02026267f764c5acc5f
+FileChecksum: SHA256: c64225c8d0b831f5f67c874a3582f3f2443ed5ecaa383b94982d24ad7459832f
+FileChecksum: MD5: 6cd5d22e6bae2b2470c97212407260ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPPipeline.java
+SPDXID: SPDXRef-item1172246
+FileChecksum: SHA1: 87b2749fc2b3da37f11537a5daaa5e7feb96444d
+FileChecksum: SHA256: a140ec430f8ec913460c86ca91d3c53b86b87c890c7faaa19803515f653145f9
+FileChecksum: MD5: a2144f4508ee2b82ea67a1d040f92a13
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPSiteContent.java
+SPDXID: SPDXRef-item1172247
+FileChecksum: SHA1: 457d1d2c901dba816a28d0e01a66eee3c67c1db1
+FileChecksum: SHA256: 09d4c07b44202e8225f54fbb57b3411a5c46e2493de037a46fb6d6fc91100673
+FileChecksum: MD5: 8a337eba2e68deb76dd462ac1443bfb9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPPasswordChangeRequest.java
+SPDXID: SPDXRef-item1172249
+FileChecksum: SHA1: fabfccd67fee757c4c215fe98a548579f43fe42a
+FileChecksum: SHA256: 4a75c93e161bee54c0ce364024a4bddd9e0306420e11940ab8648008ecc3dace
+FileChecksum: MD5: 4276e56ec9f531316b30c365919ff56c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPSolutionRevision.java
+SPDXID: SPDXRef-item1172248
+FileChecksum: SHA1: 0e2703721e842341b83ac0d4a5b47de138a3eaee
+FileChecksum: SHA256: 05582484b743e47a7ea9fc1a53b9b05b3fd2a5a0aa15c523db9621009c78a96a
+FileChecksum: MD5: 8a68362df7384052c19ff8ce6584d75f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPUserRoleMap.java
+SPDXID: SPDXRef-item1172250
+FileChecksum: SHA1: 023db2db235cf82161c1b50e17d46fc64915327f
+FileChecksum: SHA256: 8932d0213249cd9bdcec9b12f75e82b4af1adab28daaf1d146a6e65df9ba362d
+FileChecksum: MD5: e0f475aa0a1a895f9da31de80f1efd1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPAbstractWorkbenchArtifact.java
+SPDXID: SPDXRef-item1172251
+FileChecksum: SHA1: 728ba5df43ab800794a0b6b924caec6c9b078d8f
+FileChecksum: SHA256: 913f882b55141c395d5f33fed8d8d8e2ba0f4d09056ac5c0e620cadc76f94478
+FileChecksum: MD5: fd701f0b85f65010f9ac3ff30d9ecab0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPCodeNamePair.java
+SPDXID: SPDXRef-item1172253
+FileChecksum: SHA1: ce94021f1b43998a00f6d8df8d77d0ec93a5828b
+FileChecksum: SHA256: 69726fce445e48625de508fc0ed7ac9cbff32ad22064a3a144cd9f6392422d18
+FileChecksum: MD5: da94da273cfd7e769462565cdcbc7a6a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPProjPipelineMap.java
+SPDXID: SPDXRef-item1172252
+FileChecksum: SHA1: b47245bf0e67f4834543f1c32e78e8a8c7ce2014
+FileChecksum: SHA256: 02743ed66d64d1681eb021c9ff92837e33f2d54e4885f47bb8085f5722a50bb8
+FileChecksum: MD5: 0a350aea3d521761475b36d658128982
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPUserLoginProvider.java
+SPDXID: SPDXRef-item1172254
+FileChecksum: SHA1: aae15fc27946288c5e8999290803fcca933d18f5
+FileChecksum: SHA256: 61789629a0254fb5122b976bba25b490cc081d2596e9d359b027f0f33d9e4c2b
+FileChecksum: MD5: afae71705279d61cb4b5a89402cabfa4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPSolutionFavorite.java
+SPDXID: SPDXRef-item1172255
+FileChecksum: SHA1: f804e955c2d5f9fd4e3833701a71db4c7dcedded
+FileChecksum: SHA256: 7db089c3c67790d3aec3b2b75b7198487252e8cb8c0595cd00346ff184c4405d
+FileChecksum: MD5: 31072ca4ffeeca4ef7e93c5b4b4c3210
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPSolutionDownload.java
+SPDXID: SPDXRef-item1172256
+FileChecksum: SHA1: 6870914a3883f47885126b4957bb09d3e8d51cf1
+FileChecksum: SHA256: bc3b7fe50afb954e99115467b07eddabd14e81496be2ffa9d4f3586b98602c2c
+FileChecksum: MD5: 54ecf46bdd10be963f0a177673e95580
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/domain/MLPRoleFunction.java
+SPDXID: SPDXRef-item1172257
+FileChecksum: SHA1: b46b883a2bb724a0585746a1d342d9556e9ed89b
+FileChecksum: SHA256: 068f1652793ea7daa73680463177afe2d8b6615e7a2f723e322a370fc90bad17
+FileChecksum: MD5: a653d2eb1a21c751fabf973bc4afc620
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/test/resources/logback-test.xml
+SPDXID: SPDXRef-item1172263
+FileChecksum: SHA1: b4c814ffd564431856061fd8aec9f284ad82bda6
+FileChecksum: SHA256: 1eed64f2266951f996d06f99914cfc5d96b40e8a9e6ae1d4aac0c503fa94ab87
+FileChecksum: MD5: f7f1d0351f8236497cc890cd6e62f6e2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/MLPResponse.java
+SPDXID: SPDXRef-item1172258
+FileChecksum: SHA1: 4c859f9beb863fb5050931e2f688c2d1164b1b1a
+FileChecksum: SHA256: 9d9d073b75813efd0d4d3f5a5c78b7e68777aac677f02c361701d03475416c21
+FileChecksum: MD5: c6aab3998eea4cde4cbdb4c27582353b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/PublishRequestStatusCode.java
+SPDXID: SPDXRef-item1172259
+FileChecksum: SHA1: 1b4264bfec3c7f9a85da8cba26d11cafdd9b9ac7
+FileChecksum: SHA256: be40c7f2a63bcd48aba6d76f4b34dfe5e8e417e50ff3d0651a964aa68ec60a18
+FileChecksum: MD5: e4afaa64bacc7a2465ba99fbd2b623db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/main/java/org/acumos/cds/CodeNameType.java
+SPDXID: SPDXRef-item1172260
+FileChecksum: SHA1: e09c34625f04417a10d93dd55af33aaf8bff357c
+FileChecksum: SHA256: d7a3ff875690b7fdf7bf2e20379738342932474ab74f00560a1a1acaf74502c3
+FileChecksum: MD5: 6f324a2a797a450c5b333d0bd6d3ea38
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/test/java/org/acumos/cds/client/test/EnumTest.java
+SPDXID: SPDXRef-item1172270
+FileChecksum: SHA1: 8394becd98aa95fd52d740eee06372113a61b799
+FileChecksum: SHA256: 83b572a4bbc2be2cff7168a22d741189fd761f7ece4c63b47e33d58e73a58cd7
+FileChecksum: MD5: 4b5282a5f349045e5a6e5bcceec5e09e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/test/java/org/acumos/cds/client/test/DomainTest.java
+SPDXID: SPDXRef-item1172271
+FileChecksum: SHA1: e53448d13396a39886d43db41a62728826e9f265
+FileChecksum: SHA256: 4453028d6d9debe6da8905b01954752cf40601225d72cf000f8e9c24b8586380
+FileChecksum: MD5: a46d4ef8dc7538fed55fdc70fd98cb80
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/test/java/org/acumos/cds/client/test/TransportTest.java
+SPDXID: SPDXRef-item1172272
+FileChecksum: SHA1: 1eaa5e62271147a9963fade485632fc906721a2e
+FileChecksum: SHA256: 78e555f147123d606715d9b66b034a4e5c394cbd3c88a2a64ac55e59232d5f73
+FileChecksum: MD5: d0d264499abca1ff2e6bc0e79b599296
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/test/java/org/acumos/cds/client/test/MockClientTest.java
+SPDXID: SPDXRef-item1172274
+FileChecksum: SHA1: edc107c05526d5fd7273afda602fc66f4ed55832
+FileChecksum: SHA256: 9000a22e463e27327306fb7e006b16ab4951e4199e209a61e8106b18f3e8c66f
+FileChecksum: MD5: 1f092134f1a335da6e9e85277c445293
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/test/java/org/acumos/cds/client/test/ClientMethodTest.java
+SPDXID: SPDXRef-item1172273
+FileChecksum: SHA1: 90267ac39509ee0923c9f6ac5f2e65e48efc6d2b
+FileChecksum: SHA256: a593168d9ba1f54242a4ebce4b1f0b34c5ea9d924bf421f6fad9bcbd55eefc2a
+FileChecksum: MD5: bc0ec61645d0e2b1433865b3466b7c1a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/test/java/org/acumos/cds/client/test/AbstractModelTest.java
+SPDXID: SPDXRef-item1172275
+FileChecksum: SHA1: d9ea9eda785f62171af77fe2fe0d81b55a57a13f
+FileChecksum: SHA256: 9aa65162b4bd2173d0a7b0accecefd3dc139e7362d8f2baae94991b4d986929c
+FileChecksum: MD5: 55d939ad496f5902e60678a0ce280cd2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/pom.xml
+SPDXID: SPDXRef-item1172279
+FileChecksum: SHA1: be90c730de846669c5ab6f8b950f1f194355b07a
+FileChecksum: SHA256: 7c059e9cbcebfe7d1cc3e8be7e4532f34a45dbc930ae26648e1612488198465c
+FileChecksum: MD5: bdf6b85522838beaa1bdda6b74bbb96a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright>true</canUpdateCopyright> canUpdateDescription>true</canUpdateDescription> canUpdateLicense>true</canUpdateLicense> emptyLineAfterHeader>true</emptyLineAfterHeader> configuration> plugin> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-compiler-plugin</artifactId> version>3.7.0</version> configuration> source>${java.version}</source> target>${java.version}</target> compilerArguments> processor>org.hibernate.jpamodelgen.JPAMetaModelEntityProcessor</processor> compilerArguments> configuration> plugin> add build information to manifest. Java provides access to the implementation version for a package, so cram the build number into there. --> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-jar-plugin</artifactId> version>2.5</version> configuration> archive> manifest> addDefaultImplement </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/test/java/org/acumos/cds/client/test/DeserializerTest.java
+SPDXID: SPDXRef-item1172276
+FileChecksum: SHA1: d9dabfa57ae0f8cd3ef345a1795014d0e43706a8
+FileChecksum: SHA256: 9c4ac0d66099dab8dfa57771162e352eab2980e777481958cec37e83d35b9cfe
+FileChecksum: MD5: 4519e3099d4ff48850b0c2b504ea0619
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/test/java/org/acumos/cds/client/test/BasicSequenceDemo.java
+SPDXID: SPDXRef-item1172277
+FileChecksum: SHA1: b25325200c92889908caa86c51b991d0fb7eaf47
+FileChecksum: SHA256: f5ad49ce683a2c53b21369bf23228af72e7cab363985bb1cf40ab092a79911b0
+FileChecksum: MD5: 71ff243ab9a7490c990d22f784b2986c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/pom.xml
+SPDXID: SPDXRef-item1172281
+FileChecksum: SHA1: 23166672418c5ff66e8b593e6e1e17f0c79f0371
+FileChecksum: SHA256: 654b0efaa58b21981c1e09271c5446fc9697b044893c85776dba2c37367f62c4
+FileChecksum: MD5: d30c91d4f2299e1498c315ce7b3fff21
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/migrate-cms-to-cds/src/main/resources/logback.xml
+SPDXID: SPDXRef-item1172286
+FileChecksum: SHA1: e77046af1e971f0bc2e250b8ba188152852da693
+FileChecksum: SHA256: cbf51bd1029f6dcc057d11654f9ad1f166a452f54537cf4188948e1bd70cca23
+FileChecksum: MD5: 3267cf8d2d784f66d525b963424fe496
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/migrate-cms-to-cds/src/main/java/org/acumos/cds/migrate/MigrateProperties.java
+SPDXID: SPDXRef-item1172292
+FileChecksum: SHA1: c7322167aabef27434df34dedfa193d628f25608
+FileChecksum: SHA256: 0e5bc5c66ce97e0a103b60d57f17b0eefb7693246f246ee721b4141864564ea5
+FileChecksum: MD5: f52b3634284d0bafab654dd2221a2e3a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/migrate-cms-to-cds/src/main/java/org/acumos/cds/migrate/client/HttpComponentsClientHttpRequestFactoryBasicAuth.java
+SPDXID: SPDXRef-item1172294
+FileChecksum: SHA1: 00e0c323c0af5d7d0dd233d454a20243c2213ed8
+FileChecksum: SHA256: 81bb8629740afb3c01034b7db6c82980ccb1b820ef8f778343be1597ac616523
+FileChecksum: MD5: 9216a8d7d2cab852b4e77bc9d493a368
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/migrate-cms-to-cds/src/main/java/org/acumos/cds/migrate/client/CMSDiscoverAcumos.java
+SPDXID: SPDXRef-item1172295
+FileChecksum: SHA1: 7d1824d7c55e101a0b4b54f800deed52665b739a
+FileChecksum: SHA256: 47072814603f1102bc36fe10118ba1b12ac49ebea753df47d0aac2818cda9ddc
+FileChecksum: MD5: d92c6cd6e70a2e5dc720a5b9b49d7868
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/migrate-cms-to-cds/src/main/java/org/acumos/cds/migrate/client/CMSReaderClient.java
+SPDXID: SPDXRef-item1172296
+FileChecksum: SHA1: 257e140af2b5b2a73d88e9fd52c34cdd87b574be
+FileChecksum: SHA256: 808d2de496fb87d314a093c5f62d06a302684365ca64cb77be9d125a78352f0f
+FileChecksum: MD5: 56979f4a49558d08a11bf9b2f8abc6a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/migrate-cms-to-cds/src/main/java/org/acumos/cds/migrate/domain/CarouselSlide.java
+SPDXID: SPDXRef-item1172300
+FileChecksum: SHA1: 113aa772a423b9193cb6a416f716c89778b1e1f6
+FileChecksum: SHA256: bf7f38014c87450f9c40e32b66f37abf3a3ec45c70d23cfe2e8502b4b03b16a0
+FileChecksum: MD5: f7693ff2ff209aa9573366a831cf510c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/migrate-cms-to-cds/src/main/java/org/acumos/cds/migrate/client/CMSWorkspace.java
+SPDXID: SPDXRef-item1172297
+FileChecksum: SHA1: e2a07061e2f6ce2628d19a48d12a5b2a0314ff72
+FileChecksum: SHA256: c71d47180f0fedb7ddb5b518e7419011ba3c4205af6c4189d4126650a42e4147
+FileChecksum: MD5: 484bf3c255cba9484cc25ff110afdac6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/migrate-cms-to-cds/src/main/java/org/acumos/cds/migrate/MigrateCmsToCdsApp.java
+SPDXID: SPDXRef-item1172298
+FileChecksum: SHA1: fd8990288fc2740e14fded5243e2ede6dcf6ae1f
+FileChecksum: SHA256: e8dc9fee922ff3e06056d4e7db6ebf811e36fb744302893f0db9aec39eaf6c88
+FileChecksum: MD5: 404db664d938ea4dda8fb8df03510890
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/migrate-cms-to-cds/src/main/java/org/acumos/cds/migrate/domain/CMSRevisionDescription.java
+SPDXID: SPDXRef-item1172301
+FileChecksum: SHA1: 455d9b3d643a9303e1dd7d65b0bdb3623641ccc9
+FileChecksum: SHA256: c752caf798c33a6f8b336394f7bbcc25e2d4fe67bc0c90fb8c5bbbbf4de413d1
+FileChecksum: MD5: 0b89d813950166c0b8885f6304fe6c40
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/migrate-cms-to-cds/src/main/java/org/acumos/cds/migrate/domain/CMSDescription.java
+SPDXID: SPDXRef-item1172302
+FileChecksum: SHA1: 68920cc6ed3e74eabb8f9f2b7d47fc2998d73005
+FileChecksum: SHA256: 7e973f50fa431e12d4bfdc0c2f2ce1e48c306a081885e7778b523c9c5124c20a
+FileChecksum: MD5: 03654e798050f6c3dd905e10b7fbbf14
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/migrate-cms-to-cds/src/main/java/org/acumos/cds/migrate/domain/CMSNameList.java
+SPDXID: SPDXRef-item1172303
+FileChecksum: SHA1: 60102c66b68b4ebfe12154e997b7315ac8799bb2
+FileChecksum: SHA256: 778c740fb0a8f65f72a9e5ed8e95ac32ad6c3fd6f359b62d82a05ce007917098
+FileChecksum: MD5: 3e7050390ee089f5575ed6f8f83557a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/migrate-cms-to-cds/pom.xml
+SPDXID: SPDXRef-item1172312
+FileChecksum: SHA1: b4dc5046dedaafa4300dc11a86f3b61a9eef5e0c
+FileChecksum: SHA256: 7bd2ea00e5eef5b0388f91c7f9703d6c67d96e40d985967b6a9064d7acb6c8c9
+FileChecksum: MD5: 061722331122bab06ca74efffef2b9cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright>true</canUpdateCopyright> canUpdateDescription>true</canUpdateDescription> canUpdateLicense>true</canUpdateLicense> emptyLineAfterHeader>true</emptyLineAfterHeader> configuration> plugin> Require Java 1.8 --> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-compiler-plugin</artifactId> version>3.0</version> configuration> source>1.8</source> target>1.8</target> configuration> plugin> plugin> groupId>org.springframework.boot</groupId> artifactId>spring-boot-maven-plugin</artifactId> version>1.5.14.RELEASE</version> executions> execution> goals> goal>repackage</goal> goals> configuration> mainClass>org.acumos.cds.migrate.MigrateCmsToCdsApp</mainClass> configuration> execution> executions> plugin> plugin> groupId>io.fabric8</groupId> artifactId>docker-maven-plugin</arti </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/migrate-cms-to-cds/src/test/java/org/acumos/cds/migrate/CmsDocClientTest.java
+SPDXID: SPDXRef-item1172310
+FileChecksum: SHA1: f870e97b1e9de5c655e2e1812bc2b6e0df5be438
+FileChecksum: SHA256: e2720433e115af43848aa9ee644cd15698e38e0e26a6b9ffece7c61d855e00ad
+FileChecksum: MD5: a835053374c98d029fee3c76f66914a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/migrate-cms-to-cds/migrate.properties.template
+SPDXID: SPDXRef-item1172314
+FileChecksum: SHA1: 492565def5b49025894090bf48ec73c644a31e4c
+FileChecksum: SHA256: 3115dbfcee11512337a0e29364afab43029a1915394df640b20b2cf9812aa7be
+FileChecksum: MD5: 6144ee3b9e8eeef4d22b546dc6cfecdb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/src/license/acumos/license.txt
+SPDXID: SPDXRef-item1172177
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/src/license/acumos/license.txt
+SPDXID: SPDXRef-item1171988
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/README.md
+SPDXID: SPDXRef-item1172167
+FileChecksum: SHA1: f854018d680ba323d0dd92b6486fd8ab8ef899ba
+FileChecksum: SHA256: a05b2cc9caa6c3951c53fd0ebb923200e69b63e829801b775cef1ee3b45d23c5
+FileChecksum: MD5: 1fdf0c88a7138011c0decef2aa2dc837
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. Acumos is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/README.md
+SPDXID: SPDXRef-item1172280
+FileChecksum: SHA1: a5c22b40acef5f214a7987cdc496a81ce183e1d1
+FileChecksum: SHA256: a4bd388dd83b7522bcb789584ad5bbfcf56ea30807c622ea079331c899f55925
+FileChecksum: MD5: c54fac50c859e5c6d9c0c123ee03bcbb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. Acumos is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cds-mysql-copy-user-author-1.18.sql
+SPDXID: SPDXRef-item1172156
+FileChecksum: SHA1: 0c07c55f5ffe428f98094e123104b2e8b78ab551
+FileChecksum: SHA256: e8d29e8318aca5fe9d962b6e05a98c3eb8b9eec7a4f7d4338b16bb141fb512df
+FileChecksum: MD5: de70b96aaf6dd4e60c06611bf36262c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cds-mysql-set-password-expiration.sql
+SPDXID: SPDXRef-item1172141
+FileChecksum: SHA1: c86fea602ee9073273e159522b024559d3f3c486
+FileChecksum: SHA256: d183f24e7cf38905e3ee52db8c453f3890830f69a67a0f693b3e12489005b513
+FileChecksum: MD5: 1d7bf5e8683aa5515e7a2e854455c2a1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cds-mysql-upgrade-1.11-to-1.12.sql
+SPDXID: SPDXRef-item1172133
+FileChecksum: SHA1: 3d697f14708799b46d1f05758c9e2647410851ad
+FileChecksum: SHA256: 06dfb1f07450e4c0daefb8367d03685038198be8fb73986473f7ed7738ed35e1
+FileChecksum: MD5: 2b719d660fa7151fca712b8802d94633
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cds-mysql-upgrade-1.12-to-1.13.sql
+SPDXID: SPDXRef-item1172140
+FileChecksum: SHA1: 636ee50138d035148d1f9a2cb447292fb9afbdd5
+FileChecksum: SHA256: 652047f158ca739234ef0966afd6f4c1c047af74e9ad5dae4421ed9018e53747
+FileChecksum: MD5: 94daba2860ab06d4ce5d7dda4c5fcc9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cds-mysql-upgrade-1.13-to-1.14.sql
+SPDXID: SPDXRef-item1172151
+FileChecksum: SHA1: a466d3a266f1896211a00a166440d85df6df03d5
+FileChecksum: SHA256: bdc72f25cc13988f736db43da9bb3f7a13bc8ee2ad85071fab7d9256c31503f1
+FileChecksum: MD5: 10046841dc7456e7e93dba40a5dd3cbc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cds-mysql-upgrade-1.14-to-1.15.sql
+SPDXID: SPDXRef-item1172157
+FileChecksum: SHA1: f66688be6c0bafdefb37d98ec3c179850a7a9e6a
+FileChecksum: SHA256: aa054edc232cb23f5b7915892801d0463de6a8ef6a5bf36c11cfaae91f3c83a7
+FileChecksum: MD5: 8897364b5d07c7185101aa1e1162bc00
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cds-mysql-upgrade-1.15-to-1.16.sql
+SPDXID: SPDXRef-item1172131
+FileChecksum: SHA1: fc86adeb06c5f3387ab01667dee589f8f7df36ad
+FileChecksum: SHA256: 8f86809647ddd346757a6d6a616a385ae120101f303f7649ce2489e29d3ddfe5
+FileChecksum: MD5: 8403d9e40eb258110d0340209d8c19f0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cds-mysql-upgrade-1.16-to-1.17.sql
+SPDXID: SPDXRef-item1172161
+FileChecksum: SHA1: eed4d04d48ea02ed5a7f2137742fa5b0d4dcc09c
+FileChecksum: SHA256: b6fcca7b6e2eda477f603b2cd04205fff544b035c4d6d2f829c0775c9a947240
+FileChecksum: MD5: 2b4c90215498fcae498d08368ef3bd34
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cds-mysql-upgrade-1.17-to-1.18.sql
+SPDXID: SPDXRef-item1172147
+FileChecksum: SHA1: ed6ec937d5e2bc6348aa48e17ec914eea7e6110e
+FileChecksum: SHA256: bb90c835ed018ad53bfad178e285da65a5e94f862c6dff72ad89adca046ba2e0
+FileChecksum: MD5: 231fa31c214ae7bc91fe5663da996fe6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cds-mysql-upgrade-1.18-to-2.0.sql
+SPDXID: SPDXRef-item1172150
+FileChecksum: SHA1: a4824d5e6b2573c32ad616eb3c3dd147ed691911
+FileChecksum: SHA256: 93834532c66dd4faa9b1df32833e2ded1619966c94ae250b5751133251dbc9e5
+FileChecksum: MD5: e5203b496da37669691b1013567b30c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cds-mysql-upgrade-2.0-to-2.1.sql
+SPDXID: SPDXRef-item1172142
+FileChecksum: SHA1: 9cfb8379ca6007b01bc3dc8de2b19bc99c6af477
+FileChecksum: SHA256: 9261ea2f7c1dc88f39d1275bc0ed401c696e0c6adfae55e17881f9867ec0cfbb
+FileChecksum: MD5: ba88d1633c616f80b489fafa19b1bd16
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cds-mysql-upgrade-2.1-to-2.2-readme.txt
+SPDXID: SPDXRef-item1172128
+FileChecksum: SHA1: 0bd76e8a2cff7f3a1cee575e38866d7742c583f0
+FileChecksum: SHA256: e8b0b55542bec81533223e4a5c124b216bd5ee46b49292570931eafdb1244423
+FileChecksum: MD5: de4d24797fb9e8534f2dc5eacad7c26a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cds-mysql-upgrade-2.1-to-2.2.sql
+SPDXID: SPDXRef-item1172155
+FileChecksum: SHA1: cef22ecb721205c4588bef93d4564c7d968c742b
+FileChecksum: SHA256: e7d0cc790463b3a43a5868e7e4e5fbaf5c71120845a6b788d40574eadf150eb4
+FileChecksum: MD5: d7051f77822c087bb5872ea6b207a0ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-base-mysql.sql
+SPDXID: SPDXRef-item1172143
+FileChecksum: SHA1: 9dab8c557a6fcfd4b0985c9b9e1bf1c01c310374
+FileChecksum: SHA256: 58d8fc24c79322172b73b6dd065d0665b6ed23f811411bd62a2d0c98cfc7ad22
+FileChecksum: MD5: d06c13d4763f4e23ecde73b5cf924f64
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-ddl-dml-3.0-rev1.sql
+SPDXID: SPDXRef-item1172138
+FileChecksum: SHA1: 54c4e30e21aaefa94e01c4d4db8cdfae4f378468
+FileChecksum: SHA256: a7c9d59c536ac516e75a9466eaf078d9d412e919c3244f7ff042641df0d5d5a8
+FileChecksum: MD5: be971de27b1a3973dfb1d9b5252113e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-ddl-dml-3.0-rev2.sql
+SPDXID: SPDXRef-item1172144
+FileChecksum: SHA1: e1f1a9a6894cfcdb59cc125f1c00859c8f95aa79
+FileChecksum: SHA256: 0634136f03d6fd2db4f6afd7585f69a61afadba7a9246be69050642d392fa195
+FileChecksum: MD5: cd15f63fc2b65cd0f3bf9f9d3e5dc992
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+copyright": { "year": 2019, "company": "Company A", "suffix": "All Rights Reserved" }, "softwareType": "Machine Learning Model", "companyName": "Company A", "contact": { "name": "Company A Team Member", "URL": "http://companya.com", "email": "support@companya.com" }}'),
+copyright": { "year": 2019, "company": "Vendor A", "suffix": "All Rights Reserved" }, "softwareType": "Machine Learning Model", "companyName": "Vendor A", "contact": { "name": "Vendor A Team", "URL": "http://Vendor-A.com", "email": "support@Vendor-A.com" }, "additionalInfo": "http://Vendor-A.com/licenses/Vendor-A-OSS"}'),
+copyright": { "year": 2019, "company": "Company B", "suffix": "All Rights Reserved" }, "softwareType": "Machine Learning Model", "companyName": "Company B", "contact": { "name": "Company B Team Member", "URL": "http://Company-B.com", "email": "support@Company-B.com" }, "additionalInfo": "http://Company-B.com/licenses/Company-B-Proprietary"}'); </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-ddl-dml-3.0-rev3.sql
+SPDXID: SPDXRef-item1172163
+FileChecksum: SHA1: b587f2d476b0d82e80952ed32991784224ce1767
+FileChecksum: SHA256: 482f3352e14b33e3086a065dd6ecbf7219caa3e211ce2894f76206efd72c539e
+FileChecksum: MD5: b248f2ad45d0b9a0ff491396cbdf1389
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+copyright": { "year": 2019, "company": "Company A", "suffix": "All Rights Reserved" }, "softwareType": "Machine Learning Model", "companyName": "Company A", "contact": { "name": "Company A Team Member", "URL": "http://companya.com", "email": "support@companya.com" }, "rtuRequired": false}'),
+copyright": { "year": 2019, "company": "Vendor A", "suffix": "All Rights Reserved" }, "softwareType": "Machine Learning Model", "companyName": "Vendor A", "contact": { "name": "Vendor A Team", "URL": "http://Vendor-A.com", "email": "support@Vendor-A.com" }, "additionalInfo": "http://Vendor-A.com/licenses/Vendor-A-OSS", "rtuRequired": true}'),
+copyright": { "year": 2019, "company": "Company B", "suffix": "All Rights Reserved" }, "softwareType": "Machine Learning Model", "companyName": "Company B", "contact": { "name": "Company B Team Member", "URL": "http://Company-B.com", "email": "support@Company-B.com" }, "additionalInfo": "http://Company-B.com/licenses/Company-B-Proprietary", "rtuRequired": true}'); </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-ddl-dml-3.1-rev1.sql
+SPDXID: SPDXRef-item1172154
+FileChecksum: SHA1: 608a9b4ebd04b574b5b93cba80d4eb0d9dc67b3a
+FileChecksum: SHA256: 2233561486d093bff26bb99276f80c6eee56a95757c9bba6063385ed2925bc82
+FileChecksum: MD5: bfe6272938b988a29cb27f3dae22ed66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+copyright": { "year": 2019, "company": "Company A", "suffix": "All Rights Reserved" }, "softwareType": "Machine Learning Model", "companyName": "Company A", "contact": { "name": "Company A Team Member", "URL": "http://companya.com", "email": "support@companya.com" }, "rtuRequired": false}'),
+copyright": { "year": 2019, "company": "Vendor A", "suffix": "All Rights Reserved" }, "softwareType": "Machine Learning Model", "companyName": "Vendor A", "contact": { "name": "Vendor A Team", "URL": "http://Vendor-A.com", "email": "support@Vendor-A.com" }, "additionalInfo": "http://Vendor-A.com/licenses/Vendor-A-OSS", "rtuRequired": true}'),
+copyright": { "year": 2019, "company": "Company B", "suffix": "All Rights Reserved" }, "softwareType": "Machine Learning Model", "companyName": "Company B", "contact": { "name": "Company B Team Member", "URL": "http://Company-B.com", "email": "support@Company-B.com" }, "additionalInfo": "http://Company-B.com/licenses/Company-B-Proprietary", "rtuRequired": true}'); </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-ddl-dml-3.1-rev2.sql
+SPDXID: SPDXRef-item1172127
+FileChecksum: SHA1: 414e99bb82c5ca191681e1e05c1671a457bdffc8
+FileChecksum: SHA256: b46933442d17e6fb7cb4286316e990d9998bd43a4e2e5bf5c557e7180968e6c0
+FileChecksum: MD5: 5bd2f7107f43e79cab99d0fff36a027d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+copyright": { "year": 2019, "company": "Company A", "suffix": "All Rights Reserved" }, "softwareType": "Machine Learning Model", "companyName": "Company A", "contact": { "name": "Company A Team Member", "URL": "http://companya.com", "email": "support@companya.com" }, "rtuRequired": false}'),
+copyright": { "year": 2019, "company": "Vendor A", "suffix": "All Rights Reserved" }, "softwareType": "Machine Learning Model", "companyName": "Vendor A", "contact": { "name": "Vendor A Team", "URL": "http://Vendor-A.com", "email": "support@Vendor-A.com" }, "additionalInfo": "http://Vendor-A.com/licenses/Vendor-A-OSS", "rtuRequired": true}'),
+copyright": { "year": 2019, "company": "Company B", "suffix": "All Rights Reserved" }, "softwareType": "Machine Learning Model", "companyName": "Company B", "contact": { "name": "Company B Team Member", "URL": "http://Company-B.com", "email": "support@Company-B.com" }, "additionalInfo": "http://Company-B.com/licenses/Company-B-Proprietary", "rtuRequired": true}'); </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-ddl-dml-mysql-1.11.sql
+SPDXID: SPDXRef-item1172158
+FileChecksum: SHA1: d970100fcc5190bad024a53913da7a5139e805fb
+FileChecksum: SHA256: 91693a94d0ce6357e68a37e5d80e46d5f3069ecbb4a9058c46b3b268f9098778
+FileChecksum: MD5: 58819e9f9d16fb37fcfdfb355f62dea3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-ddl-dml-mysql-1.12.sql
+SPDXID: SPDXRef-item1172134
+FileChecksum: SHA1: b41a349d28e07ebbad186f76835cbfc87878973e
+FileChecksum: SHA256: f0a8728b51b1e757c4feba39a0ac87a1f27c17d6a625960dfa712534aa4e0d2c
+FileChecksum: MD5: 0b5e04afddfc931c81fab41e6240cb3b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-ddl-dml-mysql-1.13.sql
+SPDXID: SPDXRef-item1172129
+FileChecksum: SHA1: 29f915d7aa571942803000bc70b090fbc35c428a
+FileChecksum: SHA256: e1a54908758bd47320b1d4b19a5c183a25bff731c6db7efd6cb0f4f72f7cdb3d
+FileChecksum: MD5: 09e9f7781cff4980d1a202cbe3f01156
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-ddl-dml-mysql-1.14.sql
+SPDXID: SPDXRef-item1172132
+FileChecksum: SHA1: 515cc93c22d70da7ce0a4152bcb9e1b4ffacbb9c
+FileChecksum: SHA256: 9e31d19a484c745f731e89c35ee09aadc89736338cec4ea6552557670485054a
+FileChecksum: MD5: 7b7a972ad4c5eb13f5360abfb9ae06fc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-ddl-dml-mysql-1.15.sql
+SPDXID: SPDXRef-item1172152
+FileChecksum: SHA1: 9eb079022e74a0a0a621a6bd4a03760200fc55b2
+FileChecksum: SHA256: 82b7e86f53e5f777608ce1a7f8e11bb211c047003ff0f736893800a86f6482b1
+FileChecksum: MD5: 3adf46849351f1ea2426f2dd36031c0d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-ddl-dml-mysql-1.16.sql
+SPDXID: SPDXRef-item1172146
+FileChecksum: SHA1: bd4f412f1c983b4855bfee4d635da48932178972
+FileChecksum: SHA256: 4e50df468df1b99d862c3f9b471eedbb6f959ea21a4fa468a9fc5a815f8566d2
+FileChecksum: MD5: 17e1b43d5da49b9c06c517143c46dac9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-ddl-dml-mysql-1.17.sql
+SPDXID: SPDXRef-item1172160
+FileChecksum: SHA1: 8fa4e0982e3889f1a9990b5605e3d8854582b450
+FileChecksum: SHA256: 094310d564b56d120eaa1d9620f0a611309ee9b78d8d1af6e774b4126ec74280
+FileChecksum: MD5: f218032de20e3a1da661b86788ffaa74
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-ddl-dml-mysql-1.18.sql
+SPDXID: SPDXRef-item1172137
+FileChecksum: SHA1: 2cf088a1046d5d34a13afca2b728301ec4c078a1
+FileChecksum: SHA256: 00a49e84631c45b18b7e00c27fea4d1ec1695d32d371343909e5a2e792266ab9
+FileChecksum: MD5: e1afbfdd1eebfe053e05e03794dad641
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-ddl-dml-mysql-2.0.sql
+SPDXID: SPDXRef-item1172139
+FileChecksum: SHA1: 05fb92816b732481cbf10cae77ffe44e3c6a0b7c
+FileChecksum: SHA256: 993d30d51c6862751ed1b10f9131ff32caec7613d074c921c305877aa180a031
+FileChecksum: MD5: cde7f394e21a36260339bf4f03e4cccc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-ddl-dml-mysql-2.1.sql
+SPDXID: SPDXRef-item1172149
+FileChecksum: SHA1: eb066d693e03a7bad6701b5360873078191d6201
+FileChecksum: SHA256: 34dbe478be744cbccca636ae2d68a14de06955e106a944d1263948c4271f47b7
+FileChecksum: MD5: 36578720b50b1b324c6c8be368b53b37
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-ddl-dml-mysql-2.2.sql
+SPDXID: SPDXRef-item1172159
+FileChecksum: SHA1: 0ced92901f7ca61359850685c35589f53f125e16
+FileChecksum: SHA256: c880233064eeaad1f6ef29b88d966a737ed77f0383ab77e89411a722b8fc003d
+FileChecksum: MD5: 343dcdfa2468728168cc26401055d3fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-dml-opt-3.0-rev1.sql
+SPDXID: SPDXRef-item1172135
+FileChecksum: SHA1: cefe4f71282644eb07513a8458ed93f1bacc89de
+FileChecksum: SHA256: d1c6f68c3c2300199854582ac6f6b18912d6e0ae8b7a03f174201d97c88bc076
+FileChecksum: MD5: 7a74674d735e431b2cd320403bbaa6b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-dml-opt-3.1-rev1.sql
+SPDXID: SPDXRef-item1172130
+FileChecksum: SHA1: 9b75a114d65e8fff631c896f11c84acf3a4dd1a4
+FileChecksum: SHA256: c8776dff73fc382598bf1c0507ed3ea46c21183df07ca802d12dffe163299e4b
+FileChecksum: MD5: 6f9eec1d42eebea079f8760b38ca246f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-upgrade-2.2-to-3.0-rev1.sql
+SPDXID: SPDXRef-item1172145
+FileChecksum: SHA1: 7665c34f39e4c817b2eb0559991365b4300232a1
+FileChecksum: SHA256: 6868cff1ee2f3424efdea58785cd5b1987953411e117392989117170d18503e0
+FileChecksum: MD5: 5ec3cfbde302578562d9f8d8bed387d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-upgrade-2.2-to-3.0-rev2.sql
+SPDXID: SPDXRef-item1172153
+FileChecksum: SHA1: eeadb3565cd3da9693f94b15b290f47a5d644cbc
+FileChecksum: SHA256: 7aa6120b4407bb0fb5f7af0e827af03e9b97253bc78ae5a78c9b925d36034239
+FileChecksum: MD5: 0d39fdf3ada66bcbfe5348dd9a1e1268
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+copyright": { "year": 2019, "company": "Company A", "suffix": "All Rights Reserved" }, "softwareType": "Machine Learning Model", "companyName": "Company A", "contact": { "name": "Company A Team Member", "URL": "http://companya.com", "email": "support@companya.com" }}'),
+copyright": { "year": 2019, "company": "Vendor A", "suffix": "All Rights Reserved" }, "softwareType": "Machine Learning Model", "companyName": "Vendor A", "contact": { "name": "Vendor A Team", "URL": "http://Vendor-A.com", "email": "support@Vendor-A.com" }, "additionalInfo": "http://Vendor-A.com/licenses/Vendor-A-OSS"}'),
+copyright": { "year": 2019, "company": "Company B", "suffix": "All Rights Reserved" }, "softwareType": "Machine Learning Model", "companyName": "Company B", "contact": { "name": "Company B Team Member", "URL": "http://Company-B.com", "email": "support@Company-B.com" }, "additionalInfo": "http://Company-B.com/licenses/Company-B-Proprietary"}'); </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-upgrade-2.2-to-3.0-rev3.sql
+SPDXID: SPDXRef-item1172136
+FileChecksum: SHA1: 6f0bbf680ed2ddaa36338964db28a080d42ccce7
+FileChecksum: SHA256: e9bc5962a2164c2c457611342eca101a1a8133b0b9a9cae98f333991b9191b15
+FileChecksum: MD5: 8acc126a757f79e8227d6361948e62ad
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+copyright": { "year": 2019, "company": "Company A", "suffix": "All Rights Reserved" }, "softwareType": "Machine Learning Model", "companyName": "Company A", "contact": { "name": "Company A Team Member", "URL": "http://companya.com", "email": "support@companya.com" }, "rtuRequired": false}'),
+copyright": { "year": 2019, "company": "Vendor A", "suffix": "All Rights Reserved" }, "softwareType": "Machine Learning Model", "companyName": "Vendor A", "contact": { "name": "Vendor A Team", "URL": "http://Vendor-A.com", "email": "support@Vendor-A.com" }, "additionalInfo": "http://Vendor-A.com/licenses/Vendor-A-OSS", "rtuRequired": true}'),
+copyright": { "year": 2019, "company": "Company B", "suffix": "All Rights Reserved" }, "softwareType": "Machine Learning Model", "companyName": "Company B", "contact": { "name": "Company B Team Member", "URL": "http://Company-B.com", "email": "support@Company-B.com" }, "additionalInfo": "http://Company-B.com/licenses/Company-B-Proprietary", "rtuRequired": true}'); </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-upgrade-3.0-to-3.1-rev1.sql
+SPDXID: SPDXRef-item1172162
+FileChecksum: SHA1: cf38dbdacaa71eaa8edbafe9a52ebb66aefe9692
+FileChecksum: SHA256: cfdae014618c5c38b0a3b8ea9b618a7aa914de778fcbb94eaa8b663ebf9064fa
+FileChecksum: MD5: 83747dc3557ed09c969f30ac55942704
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/db-scripts/cmn-data-svc-upgrade-3.1-rev1-to-3.1-rev2.sql
+SPDXID: SPDXRef-item1172164
+FileChecksum: SHA1: 970a23dd48153b5f2ab9a3fd0fffa0a3b73e47c1
+FileChecksum: SHA256: 267d474d5093fbc544b556628d6c8cc2e113fd1f3ec877e9b9f7cb82d144e740
+FileChecksum: MD5: f58a9413ae26a4457a5d97cc1ec665de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/docs/api/cds-api-docs-1.18.4.json
+SPDXID: SPDXRef-item1171980
+FileChecksum: SHA1: 3b4babaa73c094400ea82b15435382f67ac1aabe
+FileChecksum: SHA256: a342e19cfebf5fb7e66786343f75792e54ea50b048a74d1b9e0931e3a10f0f4a
+FileChecksum: MD5: f13aa43f0d300ce16b06e67cf1730e69
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/docs/api/cds-api-docs-2.2.2.json
+SPDXID: SPDXRef-item1171978
+FileChecksum: SHA1: 9c1459205bc82ae586568811c1ee2493890b0820
+FileChecksum: SHA256: d9e20d485d4c22455e121e9727829a198774301e807ced0d682ebd825fb0b0f3
+FileChecksum: MD5: e414fa6d694c6a9659380eb123ad9ba5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/docs/api/cds-api-docs-3.0.1.json
+SPDXID: SPDXRef-item1171979
+FileChecksum: SHA1: ecbcef365e4da232d6581336d906569847b92bb4
+FileChecksum: SHA256: bc47495d6c3878a7718097673ae9e34645e178ecefebc9a9ce288079f198aeed
+FileChecksum: MD5: ca60359715433dc69a868f59c2f6a824
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/migrate-cms-to-cds/README.MD
+SPDXID: SPDXRef-item1172313
+FileChecksum: SHA1: 5f79da54977231f7ed24df1501f011b3ec453497
+FileChecksum: SHA256: b0609ef04b276e4816f738c9e4c4331d9d30151531e84cafc30d080d90613407
+FileChecksum: MD5: aa3d14cd92701d386ce0ba7762d447cf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. Acumos is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/README.md
+SPDXID: SPDXRef-item1172327
+FileChecksum: SHA1: 347e15b57378a6e88cf4854521c5ef3bfb306938
+FileChecksum: SHA256: 089f6984d98cf42ff0a678c8475680294cff38ed726cdb82cb8168658b76afce
+FileChecksum: MD5: 8b1d02b26e40425c0f720e9f5f97581f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017--2020 AT&T Intellectual Property & Tech Mahindra. All rights reserved. Acumos is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/docs/database-install.rst
+SPDXID: SPDXRef-item1172333
+FileChecksum: SHA1: c5f9c768109ec6a7cf0e03d023299176ba354b89
+FileChecksum: SHA256: 853a5afd68bc4f686c5e8a7285606f0f7a51c2508514ef6a64b7eac65b64d6f5
+FileChecksum: MD5: cd885e05a33680d8b7051bdc41bf805f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/docs/developer-guide.rst
+SPDXID: SPDXRef-item1172336
+FileChecksum: SHA1: 53ebed5407bd61cead784bf007db92a032e592f6
+FileChecksum: SHA256: bb79202450c8f0102472daf0e916892dcd08d384e0838836548e7c5239cefff3
+FileChecksum: MD5: 0fe29a41168cd90e78635feac1d1cc41
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/docs/index.rst
+SPDXID: SPDXRef-item1172332
+FileChecksum: SHA1: ac5084691788413e4d8bc8491b89ddfa29acb047
+FileChecksum: SHA256: 290329a6eb3a319acb82029ab531df2ca57f49f5329c357c216df5a888f74322
+FileChecksum: MD5: 2f0161088424bd42a69e2ae2289248ba
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/docs/overview.rst
+SPDXID: SPDXRef-item1172334
+FileChecksum: SHA1: 1d1f4c91a64cf73194de2bbfd2c4148836bccd2e
+FileChecksum: SHA256: 0376919aad3c96c17ea88bc1ef062d8ba247b16c2e7869cfa6713256fdccd985
+FileChecksum: MD5: 9cd4791246121953bda976aac174aeb1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/docs/release-notes.rst
+SPDXID: SPDXRef-item1172335
+FileChecksum: SHA1: 453325fa322f8eda2567659dd3df21cc1dcc5c38
+FileChecksum: SHA256: f25459900c5515d0ad63309e1bc41d79aa4f85931952dd22d6a455063cb3e280
+FileChecksum: MD5: 24adabaa6dbe13959b9b59434a8ff3a3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/README.md
+SPDXID: SPDXRef-item1172375
+FileChecksum: SHA1: 881475c46ac2939f55de880941e41a57717319d1
+FileChecksum: SHA256: 1e61ea2d1392b69c6636276b6502d65d8b15c7461e0196e89d936d035a94edbe
+FileChecksum: MD5: 7b49a002c4b670567485fb4383967b42
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. Acumos is distributed by AT&T under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/docs/.gitignore
+SPDXID: SPDXRef-item1171972
+FileChecksum: SHA1: 15bdf57d07dcdfa9a73e5af141535d05fc2703da
+FileChecksum: SHA256: 8d58ca1e8c4fb8db1afbd66159a6c2d352343c53387746aabfa65a05162f7521
+FileChecksum: MD5: e4b7009b6448d79f2085b63ee3fd6cf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/docs/cmn-data-svc-arch.png
+SPDXID: SPDXRef-item1171976
+FileChecksum: SHA1: e6c8a72206264d92de8d580699412b5429d53d4f
+FileChecksum: SHA256: b0cb453c959c91522357c9e76a05b08fe8cea3e545eba2e34719e482e3edef2c
+FileChecksum: MD5: 156dc8ca371c38be78c4e1967a3832a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/.gitignore
+SPDXID: SPDXRef-item1172165
+FileChecksum: SHA1: f3dd7ecf872f60a220f20212e1934ef8b2933b2c
+FileChecksum: SHA256: 73aa3564fba85b99c53255229eb895ee929b77739930efec1e9b61344d3c4f0b
+FileChecksum: MD5: dea47cfe88748ec6bc0ba8af0948d92b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-server/config/.gitignore
+SPDXID: SPDXRef-item1172171
+FileChecksum: SHA1: 0d9334300d940078cc55714271a8afae86630c4d
+FileChecksum: SHA256: 3c136ec75353e6a03d840ccc02d97628f4e27fedbfb3f511e359debb5851f8c0
+FileChecksum: MD5: a64f18b8b7d199decf7cf1d5f76ab8ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/cmn-data-svc/cmn-data-svc-client/.gitignore
+SPDXID: SPDXRef-item1172278
+FileChecksum: SHA1: bb92a948d8b652c398ccbacd1467b9f0eab4d145
+FileChecksum: SHA256: 164192fec41d956635992832926de7c028c507679c29a1c44e21dc2f8fb6d1af
+FileChecksum: MD5: 63dad536b98c8c68607da9c063a3b2fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/migrate-cms-to-cds/.gitignore
+SPDXID: SPDXRef-item1172311
+FileChecksum: SHA1: ab41ec74759f9e5ad17832000e6502a1fe55d872
+FileChecksum: SHA256: 209bebdc3c2f9261635a02798800d3db8fb7a3dd55ec02b62c3c6e3d521270e3
+FileChecksum: MD5: 7a2b069e63c9b6952ce6196fdb569807
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/INFO.yaml
+SPDXID: SPDXRef-item1172315
+FileChecksum: SHA1: ce893b1af6d7c706a354164f5d022b5aea153527
+FileChecksum: SHA256: 67c0f64b73ea7f57c1f4b255230bc62c7979b8fc9ee4ba36e602aec5c47d6e74
+FileChecksum: MD5: b322d83b0b4822f45acbc781e112ff5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/.gitignore
+SPDXID: SPDXRef-item1172316
+FileChecksum: SHA1: 4466366d5c2d574b26133f6dab20e291455e0118
+FileChecksum: SHA256: 3dbb2b2349ee89f0ad37de5c272bd2e215e2bb960f81e1efb5078d89c1f4787f
+FileChecksum: MD5: 4060913ac9079a9cedaf14c725527b63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/.gitattributes
+SPDXID: SPDXRef-item1172318
+FileChecksum: SHA1: 1fead8ae4a123d4c2526ba03777b256cb10f7a5a
+FileChecksum: SHA256: adf76173edd92955ec74e01d961f1c406175429500924f6c303bf19a456d3b1b
+FileChecksum: MD5: 635578d7546b35d97c384e8708b86a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/releases/3.1.0-container.yaml
+SPDXID: SPDXRef-item1172320
+FileChecksum: SHA1: edc71e54a45c044fdbd28777f4c570660d088996
+FileChecksum: SHA256: 00aa8dd40b510ae30256aee02ba258692dc6fad8939621cfe01cf650871a3364
+FileChecksum: MD5: 50c37449613b6af5c23c97d81ea6fec3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/releases/3.0.1-maven.yaml
+SPDXID: SPDXRef-item1172321
+FileChecksum: SHA1: a3205ef93a08c56100ed0ccbddbcb31fefd717e0
+FileChecksum: SHA256: 36cec4ad11d4c0852bc2e480e36dddc4f63fd422aa397bd2284d573cf3ab2482
+FileChecksum: MD5: dede5f0f1182fe3bccb841e8d55ab894
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/releases/3.1.0-maven.yaml
+SPDXID: SPDXRef-item1172322
+FileChecksum: SHA1: 014905437d4f4e7f79a021c4bb70658e2406c5e1
+FileChecksum: SHA256: 902af4c4652fac1ca86b4a78bcbcdae09fa71e99f82ac3953131814727873b43
+FileChecksum: MD5: 26ff2e94aeb45a907d8b95dc115023f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/releases/3.0.1-container.yaml
+SPDXID: SPDXRef-item1172323
+FileChecksum: SHA1: b851b411f10dc6700f1400872ae797e1f0470d4d
+FileChecksum: SHA256: d141cb25cb60116e741c2aed821fea664645df023b41335b63ba91f30fc32ee4
+FileChecksum: MD5: f4b6e2d916a128ce4e960fe5405631ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/releases/3.1.1-container.yaml
+SPDXID: SPDXRef-item1172324
+FileChecksum: SHA1: 62905c3994eb931f98ce8e5277c4947510a6a9ed
+FileChecksum: SHA256: 48beaa7f9b8ceb222e2843b6c07c0377e561c89849dc28a2ca783b85ff9df52c
+FileChecksum: MD5: bd43835a8a4c0ab2e3a498822f5a6e06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/releases/3.0.0-maven.yaml
+SPDXID: SPDXRef-item1172325
+FileChecksum: SHA1: c9001557731bf47b1067504f17e4a9a0e234dae5
+FileChecksum: SHA256: fab218614e330949a0284c17f6ab8b132f4b599bd9c6c8e2034cde48e58c1cee
+FileChecksum: MD5: c9cee9210de8e04f4673442dd7cd7a0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/releases/3.1.1-maven.yaml
+SPDXID: SPDXRef-item1172326
+FileChecksum: SHA1: 20bc6cce64fa047f6bc1188bb2c5fc8204fa35bd
+FileChecksum: SHA256: b0346bfd683b82338c6960c84fe85cc58551c4cce5c68745b437db19a589ee72
+FileChecksum: MD5: f2ec178da5b2561076c32426d26d4308
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice/.gitreview
+SPDXID: SPDXRef-item1172328
+FileChecksum: SHA1: 79c835db3785ba2d6061422fb622fa259522692e
+FileChecksum: SHA256: d3fa886ecdbcfb57d8ba1762a2961cf4814dd20a3ba1cc37b56fd8aa49f0e050
+FileChecksum: MD5: ffb5b2b11526ba737cf89317f0016cac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/tox-requirements.txt
+SPDXID: SPDXRef-item1172330
+FileChecksum: SHA1: ced25061cc2ff66ce47be39777fcd7fee7ffe699
+FileChecksum: SHA256: cc8feb9854f8d1f18889e3f9165df435904b4a698bd48c92a3a374ad913e59b8
+FileChecksum: MD5: 87a3d397c4aac4d917aa126a493b8e45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/properties/settings.cfg
+SPDXID: SPDXRef-item1172338
+FileChecksum: SHA1: bffd4456fd9d632e441771b5090e7a22f9ce8cfc
+FileChecksum: SHA256: 39357907150743a6e4b9f7aba5d8b5ca708c67a72c3ca85a6bf37e759956a127
+FileChecksum: MD5: bf8e018f3699fa5589d706e17fc1cb4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/properties/settings.cfg.sample
+SPDXID: SPDXRef-item1172339
+FileChecksum: SHA1: bffd4456fd9d632e441771b5090e7a22f9ce8cfc
+FileChecksum: SHA256: 39357907150743a6e4b9f7aba5d8b5ca708c67a72c3ca85a6bf37e759956a127
+FileChecksum: MD5: bf8e018f3699fa5589d706e17fc1cb4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/properties/logging.json
+SPDXID: SPDXRef-item1172340
+FileChecksum: SHA1: e1f1752c3e04ac6885fd7e9f00e7ba1dad2bb1e4
+FileChecksum: SHA256: 2fa348edeb9f9891a44dd82a3a7d9882facd950855b7f1244816169395d8722f
+FileChecksum: MD5: 53b5f22911c2341c73e9defb3d597a23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/properties/config.ini
+SPDXID: SPDXRef-item1172341
+FileChecksum: SHA1: e4955427f227e2a337aa5519011cac74e22c3070
+FileChecksum: SHA256: b48a4c39f24be91498461cceb9fb4a2d6614db435e1ad12c0891dbaa753fbfa2
+FileChecksum: MD5: b5b2fe7078e4f7703734d873c5f7a5cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/setup.cfg
+SPDXID: SPDXRef-item1172343
+FileChecksum: SHA1: c49e3ee68044f3030956c16ae3abbdae9e0725ef
+FileChecksum: SHA256: 8c32db94a2b57791af35b027e110b43684780e5962ecfd1ce3e1dffb4f8b8a2a
+FileChecksum: MD5: ac24c232af33108ef0b249b46f85247f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/tox.ini
+SPDXID: SPDXRef-item1172345
+FileChecksum: SHA1: 9250b31254a7f1a51c1e29fa5069741bd79fea09
+FileChecksum: SHA256: c607a537889e9757a5cc85f658f34935607bb3029fd65e91111b301ba661d981
+FileChecksum: MD5: cb8b4181db283d29695f17b997a1f1f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/INFO.yaml
+SPDXID: SPDXRef-item1172346
+FileChecksum: SHA1: e8eb6d5ae20314030fac8ac6699e1a95372e9b91
+FileChecksum: SHA256: 79f25e12b42db402a659f7a00de9b6125b8efe17a2e4760aecb2d0b8ccc46892
+FileChecksum: MD5: 1e79fdb56964c26752015e16f4a6ea82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/.gitignore
+SPDXID: SPDXRef-item1172347
+FileChecksum: SHA1: f899beb18f7e3c536f77e1c90f449bfa972f87c9
+FileChecksum: SHA256: 8b7037850e790a2b7e314517c421e7c04a4d484ef700b326bc3d56266e8cc074
+FileChecksum: MD5: dc7c80347b130892f2d8509a688c314c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/test/unit_test/__init__.py
+SPDXID: SPDXRef-item1172352
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/test/__init__.py
+SPDXID: SPDXRef-item1172353
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/acumosintegrationservice/api/global_constants.py
+SPDXID: SPDXRef-item1172359
+FileChecksum: SHA1: 703609d1930158bfefdcb8e849dbb93dd7c29cde
+FileChecksum: SHA256: 41586dbefb88b764b5724d227479c647156278c13189578e28999a273564dc15
+FileChecksum: MD5: e33a95a8c11849c91adb3f6795414c87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/.gitattributes
+SPDXID: SPDXRef-item1172371
+FileChecksum: SHA1: 15b3670b998ba154fd4da00ec5dd62336f46a06c
+FileChecksum: SHA256: 3a5b1bf5b65e111212ac7d05ad0858ce1af3811813a679e7c32b94ec82b7682c
+FileChecksum: MD5: cf6ba74ae0faca4d210f2a9f3786b3ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/pom.xml
+SPDXID: SPDXRef-item1172374
+FileChecksum: SHA1: bb6fefb1a347b46dda2057255af758a0019434cb
+FileChecksum: SHA256: 834d46e25fe5c39dc73aa2968a7e60735c4fcfee886d05c665b0ea335e901aa2
+FileChecksum: MD5: cdd3ca848db337d6c24cb5d1613f89a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/.gitreview
+SPDXID: SPDXRef-item1172376
+FileChecksum: SHA1: d3b7601af78428054edf8fc2ebfe330b2a2799f8
+FileChecksum: SHA256: 2aaca89b1664bf83fc2e57926c3bca1092a9b19238b60ccb52bfe9dbb69267ce
+FileChecksum: MD5: aeefd2672ac1f7bfd114b1075d7c9952
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/certs.key
+SPDXID: SPDXRef-item1172377
+FileChecksum: SHA1: ffd46d9cb3971c37e3a5f50b6b86bd0abbc3b2bb
+FileChecksum: SHA256: 73c326e7b8f9daf0b81e8eca1245cf77e96e43731ce4a28f53de92417565d0d2
+FileChecksum: MD5: e8243010330b14cd913dd52e95be421a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: common-dataservice-2022-02-01.zip/common-dataservice-config-management/cert.cer
+SPDXID: SPDXRef-item1172379
+FileChecksum: SHA1: 1cf5f5a4f0a6983a293907da4bb491cb2995bbc2
+FileChecksum: SHA256: b315308a6a3f8b9d3bdf55dd01aa88859b46b7c1e2037657ae6de7f0345cb6ac
+FileChecksum: MD5: c74e1f2f6e174ecd2168f0ab0df7c0b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
