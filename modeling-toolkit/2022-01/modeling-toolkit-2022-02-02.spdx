@@ -1,0 +1,72 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_modeling-toolkit-2022-02-02.zip_1644480695.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-02-10T08:11:35Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: modeling-toolkit-2022-02-02.zip
+PackageFileName: modeling-toolkit-2022-02-02.zip
+SPDXID: SPDXRef-upload316
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 9f3a209c2bbcfd398a102abc4c39ff95fbdf85a8
+PackageChecksum: SHA1: 71af22855f188308704ef5ca6cc1656ec2a00192
+PackageChecksum: SHA256: 09f480d7ae9b4c197ce7f7e65fe4a9eefebbda0e3d95a81c89e0ac3445f382f9
+PackageChecksum: MD5: 7c4b9763144f4bdc70434d93c850ce97
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload316
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: modeling-toolkit-2022-02-02.zip/modeling-toolkit/.gitreview
+SPDXID: SPDXRef-item1175458
+FileChecksum: SHA1: 4c4362645cae3dd2d968e6ea0d94781ca3fed5cd
+FileChecksum: SHA256: 5058c0c3a520098a2200c3fdc3072848c80ae411df6834a113944ccc847bf005
+FileChecksum: MD5: 5c7b161ed011ab6b7b67f57718c85d5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
