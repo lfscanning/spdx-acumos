@@ -1,0 +1,1210 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_security-verification-2022-02-02.zip_1644480774.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-02-10T08:12:54Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: security-verification-2022-02-02.zip
+PackageFileName: security-verification-2022-02-02.zip
+SPDXID: SPDXRef-upload326
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: df1e065936c0d65cd50ccaf58688c13a6dddf779
+PackageChecksum: SHA1: e7ce79d752681c2f11428092476063d99a28f466
+PackageChecksum: SHA256: f73e64c9b64f19de24b46d55616c2293cf0fb271262c98897bb60d9a36938156
+PackageChecksum: MD5: c70f7f161e9133f38997fbb3cc30a301
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload326
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/docs/server-api.rst
+SPDXID: SPDXRef-item1178153
+FileChecksum: SHA1: 5b5773f9e64044ca439a23665216418ebf04d84b
+FileChecksum: SHA256: 9b70197f154bf34d5a61f966a67d4922940d1deb884594ad85a6c2dd052bbd5a
+FileChecksum: MD5: 6307d8963b3fd3d8db262da8d5dbe143
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/docs/user-guide.rst
+SPDXID: SPDXRef-item1178152
+FileChecksum: SHA1: ccbca530e2a439863e568b72c1abf43b29beee95
+FileChecksum: SHA256: 88cc367784b7b1fe0d0ad6403c80ba9102045834ec405ee4230d34441eafd5d3
+FileChecksum: MD5: a90b7161dc7cd66b367d739841fcc468
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-Public-domain
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/docs/client.rst
+SPDXID: SPDXRef-item1178158
+FileChecksum: SHA1: 3b3c9a42b56b9bca3886ed13387231e950f17949
+FileChecksum: SHA256: 3a24be59187a8dc71b991ef220d9ec11aa613968967b07a6592ef1c648a10133
+FileChecksum: MD5: c1e9eb10c985bdb2db44cfdd87705ee8
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/docs/index.rst
+SPDXID: SPDXRef-item1178157
+FileChecksum: SHA1: d40e2555234a570ddeaf93ed6edd8fe959f7b1a5
+FileChecksum: SHA256: cdd8cfc39df2d80ab03c43fea2bfaf24a0e7f60910e0805992a43b67f17e76b3
+FileChecksum: MD5: 05b8e34ef10803fc7c1b21db6c656d7c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/docs/server.rst
+SPDXID: SPDXRef-item1178159
+FileChecksum: SHA1: 1ed58dd69c67038e793251ef97ef94ee5d242b05
+FileChecksum: SHA256: ac0270fc7b0d03fb9ba98abacca10dde6e0931eaa8c027ebff3de9bfe8268a28
+FileChecksum: MD5: b472d6f5d6afe06abb4419b708b3222d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/docs/release-notes.rst
+SPDXID: SPDXRef-item1178160
+FileChecksum: SHA1: 22afb92a646162cf5f4ffe6f9756c7ecee7b1e58
+FileChecksum: SHA256: 4f4ff3ee6616c60ec79e86273289ed1dfe0208020b7e0f18495968c3c1441697
+FileChecksum: MD5: b76e53cbd75b2b18c7cd75e7f7d05139
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/README.md
+SPDXID: SPDXRef-item1178264
+FileChecksum: SHA1: c4408ad094621145f0e7dcbaa30832f784e52b1b
+FileChecksum: SHA256: c5c406c6803da365154077099d2f1944ca877bbb5275ea45bf6add057edae19d
+FileChecksum: MD5: f7cdf71bde989fc1ecfc63619cc4a8a7
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/LICENSE.txt
+SPDXID: SPDXRef-item1178207
+FileChecksum: SHA1: 14a09dfbaf4d175f0399c4db07cc9897aa0e1114
+FileChecksum: SHA256: 6b38350ec04072dbe6816ba82334cb93afe1b70a1a7aa3a5b9d0cf4dd4fc69c4
+FileChecksum: MD5: 6dbc473aee31d40c4347872ce856beab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/license/licenses.properties
+SPDXID: SPDXRef-item1178215
+FileChecksum: SHA1: fb5c0680791d71fff0a22ed1527c0740c591c0b3
+FileChecksum: SHA256: 4e566b8abd7b47efc6cac75a9ce3b5ef29d4fb272449dc09b8548b1d95e78b8d
+FileChecksum: MD5: 1d81caf0fc6e78f80354c76a22e00dcb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/license/licenses.properties
+SPDXID: SPDXRef-item1178166
+FileChecksum: SHA1: fb5c0680791d71fff0a22ed1527c0740c591c0b3
+FileChecksum: SHA256: 4e566b8abd7b47efc6cac75a9ce3b5ef29d4fb272449dc09b8548b1d95e78b8d
+FileChecksum: MD5: 1d81caf0fc6e78f80354c76a22e00dcb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/license/acumos/header.txt
+SPDXID: SPDXRef-item1178218
+FileChecksum: SHA1: ff8150d30cf88e36830b621e18fe657acd0b34df
+FileChecksum: SHA256: 0d8a5f452d978268f40f6fdca364a26d65d534e55662585c9bb3f4ca30205f1f
+FileChecksum: MD5: b236014cbcb9f7e1ed6861da6cfb2abd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/license/acumos/license.txt
+SPDXID: SPDXRef-item1178217
+FileChecksum: SHA1: ff8150d30cf88e36830b621e18fe657acd0b34df
+FileChecksum: SHA256: 0d8a5f452d978268f40f6fdca364a26d65d534e55662585c9bb3f4ca30205f1f
+FileChecksum: MD5: b236014cbcb9f7e1ed6861da6cfb2abd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/license/acumos/header.txt
+SPDXID: SPDXRef-item1178169
+FileChecksum: SHA1: ff8150d30cf88e36830b621e18fe657acd0b34df
+FileChecksum: SHA256: 0d8a5f452d978268f40f6fdca364a26d65d534e55662585c9bb3f4ca30205f1f
+FileChecksum: MD5: b236014cbcb9f7e1ed6861da6cfb2abd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/license/acumos/license.txt
+SPDXID: SPDXRef-item1178168
+FileChecksum: SHA1: ff8150d30cf88e36830b621e18fe657acd0b34df
+FileChecksum: SHA256: 0d8a5f452d978268f40f6fdca364a26d65d534e55662585c9bb3f4ca30205f1f
+FileChecksum: MD5: b236014cbcb9f7e1ed6861da6cfb2abd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/SecurityVerificationServiceController.java
+SPDXID: SPDXRef-item1178149
+FileChecksum: SHA1: bcf371b2d8ab174c2c76aa5329843a1006760d88
+FileChecksum: SHA256: af1658696c56240afed3105b80cf8236b98c45123ed776d54448cc93ade56eb3
+FileChecksum: MD5: 78506d4b7ea77157c36df1f9e5f990ce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. This Acumos software file is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/main/resources/logback.xml
+SPDXID: SPDXRef-item1178173
+FileChecksum: SHA1: 2e3acbac8a338be6e8c71731039d7f17aa74b2af
+FileChecksum: SHA256: 35d3719f4cc9fb02fa0f9979fe220469e076f701353d9838e3f164278742f541
+FileChecksum: MD5: 9890ef44927414ff092d610e1eff233c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. =================================================================================== This Acumos software file is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. ===============LICENSE_END========================================================= --> configuration scan="true" scanPeriod="3 seconds" debug="false"> </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/main/resources/application.properties
+SPDXID: SPDXRef-item1178172
+FileChecksum: SHA1: a23c88bc76b67123c7e9ee75b57c2c90613a294d
+FileChecksum: SHA256: b0a1cb82412f2f08665f3f6286de9f971971432f58a694ce0e247c22398303ec
+FileChecksum: MD5: e6e96bd60f9b60d049e78a213b8586cf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/main/java/org/acumos/securityverification/transport/SVResponse.java
+SPDXID: SPDXRef-item1178179
+FileChecksum: SHA1: 98487f429538458580d763513f69300480f19069
+FileChecksum: SHA256: 1cf63a5ef009b0d57ef74d52cce3f840d2aafa2a5b4bcda4bfe2ece3c0e86805
+FileChecksum: MD5: 73776b0780965c2d8754d828afce18c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/main/java/org/acumos/securityverification/transport/SVServiceResponse.java
+SPDXID: SPDXRef-item1178180
+FileChecksum: SHA1: f81b69c7454afec9d9b3b8b401f19d0f3d389667
+FileChecksum: SHA256: 07b551995e6f92ade858ad2351f1c8cb0294e6b1ff5ff2f910610916dfdbeb75
+FileChecksum: MD5: 30d8137993ca5843a31e13051fbe6b46
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. This Acumos software file is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/main/java/org/acumos/securityverification/transport/SuccessTransport.java
+SPDXID: SPDXRef-item1178181
+FileChecksum: SHA1: e745f034c87fd8dcb1995a0d072bfe84238af623
+FileChecksum: SHA256: c638e473c127fbe6be7f7ef5752eb241301d259d66591759ee8bb01fb618dc7f
+FileChecksum: MD5: a443605a8e20438e5ffea9309d693d53
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. This Acumos software file is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/main/java/org/acumos/securityverification/transport/ErrorTransport.java
+SPDXID: SPDXRef-item1178182
+FileChecksum: SHA1: a672c3f3cf1a95c176d1ede29be172d9628e79af
+FileChecksum: SHA256: 2c93c7f78a94a2df55e1cb19b0e711a928710f4d28c36d7354b27ffc47c8baca
+FileChecksum: MD5: 9809e1c7ea206300b96ba7f5158067ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. This Acumos software file is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/main/java/org/acumos/securityverification/transport/ScanResult.java
+SPDXID: SPDXRef-item1178184
+FileChecksum: SHA1: 7830e7190ac4044e76129d2700cf85374465fadf
+FileChecksum: SHA256: 164ee60611f4f0d592575c135c4de80ece3e4532a8389a993f160387b008c276
+FileChecksum: MD5: 2415a1cc907677bec3a2cdf9da16317a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. This Acumos software file is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/main/java/org/acumos/securityverification/SwaggerConfiguration.java
+SPDXID: SPDXRef-item1178185
+FileChecksum: SHA1: 894285e11df555b7c65c46b8f6eb0ed9ced1e574
+FileChecksum: SHA256: 1c9ee35e1270e191350b8f8a21764bc42b7511f743cd8fa1f3f65089a42ef773
+FileChecksum: MD5: 039af9dafed5c5e9ded620bcf8bcc8c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. This Acumos software file is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/main/java/org/acumos/securityverification/utils/SecurityVerificationServiceUtils.java
+SPDXID: SPDXRef-item1178187
+FileChecksum: SHA1: bd97e908a1ff66604079a8b5c49eb7900b504111
+FileChecksum: SHA256: b44cf469c37d4febc0aa394b8c6f5563a260f8c0db30b39fafcd99095791ea2a
+FileChecksum: MD5: 7b3f0329d4f149b99ddca5dadb0bb9c9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. This Acumos software file is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/main/java/org/acumos/securityverification/transport/AbstractResponseObject.java
+SPDXID: SPDXRef-item1178183
+FileChecksum: SHA1: 6502ce499d4c7e64efa547df19f44a440e70917b
+FileChecksum: SHA256: f34cc8e81816b4965f04191de31546ebe7a343947070c5930c024ed75264d8b6
+FileChecksum: MD5: cfe26ee5c51a9f61d459eaa7f5552bb1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/main/java/org/acumos/securityverification/utils/SanitizeUtils.java
+SPDXID: SPDXRef-item1178188
+FileChecksum: SHA1: 8960b05b8aa60b3554c7543d762089341baca3c6
+FileChecksum: SHA256: 3de95118bdbfc647a02c8cf2384b6d1c45f909a1b968d93a74cf1d16bee525e7
+FileChecksum: MD5: 630f649a34a967272bf24b438ed6b818
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. This Acumos software file is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/main/java/org/acumos/securityverification/utils/SVServiceConstants.java
+SPDXID: SPDXRef-item1178189
+FileChecksum: SHA1: 8869a1e28db7c1971a59ba097a4cb7530ef9b4e7
+FileChecksum: SHA256: ad422d20e90ceb8fa8372eb99adc7b6418a4bfc15ceb624f41be506d814edf93
+FileChecksum: MD5: 15debf50d62cf6532228e57fdebf897e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. This Acumos software file is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/main/java/org/acumos/securityverification/controller/AbstractController.java
+SPDXID: SPDXRef-item1178192
+FileChecksum: SHA1: a13cf818407cb04ec6d8ab8c8da28fb98056c441
+FileChecksum: SHA256: 40d85686cab4e5337d39a7a52899e0c528ef7e356195f3fd29198cec134da06a
+FileChecksum: MD5: 6cfd5587e3027c622b6e7daf1c057884
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. This Acumos software file is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/main/java/org/acumos/securityverification/controller/SecurityVerificationServiceController.java
+SPDXID: SPDXRef-item1178191
+FileChecksum: SHA1: a64aee5b0d560ea6b290983a673f253c59203a67
+FileChecksum: SHA256: 03cb103c3b53d973a09d68e5ba81f8cec27c05455357e945c6bb7159b7fe3dc0
+FileChecksum: MD5: f946799f707b0308253060736a106f18
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. This Acumos software file is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/main/java/org/acumos/securityverification/controller/SimpleErrorController.java
+SPDXID: SPDXRef-item1178193
+FileChecksum: SHA1: f24fdf2b40ab0dd7a3f76852ff88a21fc4a4b26a
+FileChecksum: SHA256: b892c39daf20fbf1e7d45a3e9f2069d34fdca540337627aad2e973a609397f68
+FileChecksum: MD5: 1674bbbd0a08a2e7c39597f5f9c8226e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. This Acumos software file is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/main/java/org/acumos/securityverification/logging/LogConfig.java
+SPDXID: SPDXRef-item1178231
+FileChecksum: SHA1: 3455365abfed7a2b219c04f7bd2e7e4b7fbc2fb6
+FileChecksum: SHA256: d385db11d634036cd9f4ea39a1bf1863e3dbf4badb09fe375d5ed80618c36a7d
+FileChecksum: MD5: 1c567fc99deb505d05015efa27c0e20b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/main/java/org/acumos/securityverification/logging/LogConfig.java
+SPDXID: SPDXRef-item1178195
+FileChecksum: SHA1: 3455365abfed7a2b219c04f7bd2e7e4b7fbc2fb6
+FileChecksum: SHA256: d385db11d634036cd9f4ea39a1bf1863e3dbf4badb09fe375d5ed80618c36a7d
+FileChecksum: MD5: 1c567fc99deb505d05015efa27c0e20b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/main/java/org/acumos/securityverification/SecurityVerificationApplication.java
+SPDXID: SPDXRef-item1178199
+FileChecksum: SHA1: 5db2d03da6cc7e1a9d61b10f69e15097b566b58a
+FileChecksum: SHA256: 06a3212b9dd0290a5a0c046534d7bab559adf9c2586015118159e99784e3a63a
+FileChecksum: MD5: b879aaaec80262f5b6b351dbd0323161
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. This Acumos software file is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/main/java/org/acumos/securityverification/logging/ACUMOSLogConstants.java
+SPDXID: SPDXRef-item1178232
+FileChecksum: SHA1: 1a6ac729800a28e3ddc9573e408d6dddb559724d
+FileChecksum: SHA256: a0a68dc07031b0394a0c90c2c046a709a0e20310b8c1cb46691044ac2af0ecaa
+FileChecksum: MD5: 2d1997927d02664b5f377ef226ef7f0a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/main/java/org/acumos/securityverification/logging/ACUMOSLogConstants.java
+SPDXID: SPDXRef-item1178196
+FileChecksum: SHA1: 1a6ac729800a28e3ddc9573e408d6dddb559724d
+FileChecksum: SHA256: a0a68dc07031b0394a0c90c2c046a709a0e20310b8c1cb46691044ac2af0ecaa
+FileChecksum: MD5: 2d1997927d02664b5f377ef226ef7f0a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/main/java/org/acumos/securityverification/exception/AcumosServiceException.java
+SPDXID: SPDXRef-item1178198
+FileChecksum: SHA1: bd82b1e7a340608e24ec75cc3e4a5f02546c3e05
+FileChecksum: SHA256: c6ce3c621f49da65cb528747ebf6c91f7805252cf668ad3dedf3d0cd34a167eb
+FileChecksum: MD5: 3efaa664a23819c72e3b4aeb189c15bc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/src/main/java/org/acumos/securityverification/service/UploadArtifactSVOutput.java
+SPDXID: SPDXRef-item1178201
+FileChecksum: SHA1: dff7be621381194e99e7fd14225bacff7db715f4
+FileChecksum: SHA256: d565a84c754335eb3723312e24243a6e5711bdfc3cd9c41e296b4e2e67bfde12
+FileChecksum: MD5: cd702f15f3c89c4292719605ce75f5d4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. This Acumos software file is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/main/java/org/acumos/securityverification/transport/SVResponse.java
+SPDXID: SPDXRef-item1178225
+FileChecksum: SHA1: 361fe7bac4cac0b1bb2576e9572ba1188c4eeaaa
+FileChecksum: SHA256: 0c208dbcbd1c1793087a05f345f128e85d41d0ff1020b6d365b069a44be89e03
+FileChecksum: MD5: dd654b5bc4e3a1e70c975f0ef974f983
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/main/java/org/acumos/securityverification/utils/SVConstants.java
+SPDXID: SPDXRef-item1178228
+FileChecksum: SHA1: a29b70ce6a7cc87311aa68d299386146a0134d7f
+FileChecksum: SHA256: bee582443f991b2089e32041bf7ed214df8dd91e63d10b17a08f8be8f22129a2
+FileChecksum: MD5: 20fd95d074dbef4938f4638efdef42d5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/main/java/org/acumos/securityverification/utils/SanitizeUtils.java
+SPDXID: SPDXRef-item1178229
+FileChecksum: SHA1: b58a994e509a0e993f0fd142baa165c3d3115673
+FileChecksum: SHA256: c417303b4a5aa879c23f56a81595d65f2d9430c461f7cb2deda76d8a06f677bd
+FileChecksum: MD5: 6a5d008f27dca35dff51c095c05ac236
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/main/java/org/acumos/securityverification/exception/AcumosServiceException.java
+SPDXID: SPDXRef-item1178234
+FileChecksum: SHA1: 08c4e55151ae0c4ae22d123008cb190b40e6d318
+FileChecksum: SHA256: e46da717088c723359d547aee822596bef3a0438e506a9522dd1ec8510518f26
+FileChecksum: MD5: 3f192f455bc06bb18430f05200c77eed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/main/java/org/acumos/securityverification/domain/Workflow.java
+SPDXID: SPDXRef-item1178236
+FileChecksum: SHA1: 90faa3005f8b4c77c831f49cf87deaaff2d7cc5e
+FileChecksum: SHA256: 776c751d837410241df50c049a146a3c8a3576096e93430730f532108c976e1f
+FileChecksum: MD5: 90daf2c2529edbc327aeabd1f94887f0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/main/java/org/acumos/securityverification/utils/SecurityVerificationJsonParser.java
+SPDXID: SPDXRef-item1178227
+FileChecksum: SHA1: 1b9114371dd97454f203f6ed23bd1d55f6e445a3
+FileChecksum: SHA256: d4f57957d435752f805217912470c6459306d36f95bfe2ad0e2c73ee4a821f99
+FileChecksum: MD5: 1cd128da31140bb141e402703e79fc2e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/main/java/org/acumos/securityverification/domain/SecurityVerificationCdump.java
+SPDXID: SPDXRef-item1178237
+FileChecksum: SHA1: 64e590842575bb6b5f354f693697091121bb4898
+FileChecksum: SHA256: 19149e606310c0b40734a9f5daa39ca35d3e8f3e1fe07d449e6a59beb8f90c05
+FileChecksum: MD5: 8f84fa0fdaf783df7c5a56704f29076a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/main/java/org/acumos/securityverification/domain/SecurityVerificationCdumpNode.java
+SPDXID: SPDXRef-item1178238
+FileChecksum: SHA1: a7d14b659564de23647bf02fba30b749a3070958
+FileChecksum: SHA256: 3688ec7fb8e6c89d5f1270dfa9450e8d38274d51e30973574a470cb9643a7419
+FileChecksum: MD5: c0780370385d4d73fa430511a5c00cb0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/main/java/org/acumos/securityverification/service/SecurityVerificationClientServiceImpl.java
+SPDXID: SPDXRef-item1178240
+FileChecksum: SHA1: b0acb8703d2e9dd0711835f603d1eed11d0ef961
+FileChecksum: SHA256: e5497ec958fea04f3068ff61afb73118c158005dc8857dbce47cab8048106d8e
+FileChecksum: MD5: 205a0361ec9373c770e26154b30a1765
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/test/resources/logback.xml
+SPDXID: SPDXRef-item1178246
+FileChecksum: SHA1: 6832c3567986f58b1c94959bbeb71c6a9a3c20bf
+FileChecksum: SHA256: e5e7a6fa39334c0cd374c7c6cab32ee88e8fa531c48603245c27f6be16874a52
+FileChecksum: MD5: ffbb7d72b5a433fee4bc821a7b9734a4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. =================================================================================== This Acumos software file is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. ===============LICENSE_END========================================================= --> configuration scan="true" scanPeriod="3 seconds" debug="false"> </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/main/java/org/acumos/securityverification/service/ISecurityVerificationClientService.java
+SPDXID: SPDXRef-item1178241
+FileChecksum: SHA1: 1493687fae4889b107744674d00e1f7f3a21e840
+FileChecksum: SHA256: ded8b56a7c1938233a9abed58d13bc2c8e3f1e9138ba8307373061f9dec1e681
+FileChecksum: MD5: 040f8a5c48fdf490247ac82b916ec84e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/test/java/org/acumos/securityverification/transport/SVResponseTest.java
+SPDXID: SPDXRef-item1178252
+FileChecksum: SHA1: e67b4478416dc0c9d70e69271da54085d074d7fb
+FileChecksum: SHA256: 1e5ec3933815ee57d40bfd3bcc4245602850d026f071095a5ea4b25c8275751d
+FileChecksum: MD5: 0bc594788398260bfe8c3499b934f32a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/test/java/org/acumos/securityverification/exception/AcumosServiceExceptionTest.java
+SPDXID: SPDXRef-item1178256
+FileChecksum: SHA1: 7d03c6d2a9cda9eaff3de9af8d0fe2282f3ce324
+FileChecksum: SHA256: a29edd7063c952bfd7240a6f48d71733d8cf2b18aa1b486673168737d311de68
+FileChecksum: MD5: 0e6fd7a6e819858fefb124633a93c219
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/test/java/org/acumos/securityverification/utils/SecurityVerificationJsonParserTest.java
+SPDXID: SPDXRef-item1178254
+FileChecksum: SHA1: cf68af344875204c4bf7e07c89e21c4264b084a3
+FileChecksum: SHA256: 6c91868e0339c30347d95e9760542cb2f9a99880812d9eef91b986bb797d8f39
+FileChecksum: MD5: 2908c0b5a6ada226215ded3196928386
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/test/java/org/acumos/securityverification/domain/WorkflowTest.java
+SPDXID: SPDXRef-item1178259
+FileChecksum: SHA1: 2b1a5f7ac04f9a154718f97e22aaac79a9cc0a8e
+FileChecksum: SHA256: 62d44865aae099a5af504b1ae704bc13f174968d60ececd6b5cacaaa6d5e7088
+FileChecksum: MD5: 6d47a3a9b265dff27e0f94c60441c879
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/test/java/org/acumos/securityverification/domain/SecurityVerificationCdumpNodeTest.java
+SPDXID: SPDXRef-item1178258
+FileChecksum: SHA1: 633381dac8017615ae39e335ff87353c56da22d5
+FileChecksum: SHA256: 27e9c4ca3d91de38237edf243e0e8203348773b27646c0ff9c92e957d5b71636
+FileChecksum: MD5: e29a31ea07a222b04f61fc3407400fc8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/pom.xml
+SPDXID: SPDXRef-item1178263
+FileChecksum: SHA1: 849cc1eadc18e3ecb101255d8a182f33f1f65fb1
+FileChecksum: SHA256: 449dde619f644be5d4bef249502e0390541981c54373522d856d68473fbc4591
+FileChecksum: MD5: b98d84540bcde029a3069b5c1c51f34a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/test/java/org/acumos/securityverification/domain/SecurityVerificationCdumpTest.java
+SPDXID: SPDXRef-item1178260
+FileChecksum: SHA1: e304efbcac6401709becdbb309c121771f827393
+FileChecksum: SHA256: 013b6de592a5da291b4d4b853a3370835becff591e85780d558498d45422706a
+FileChecksum: MD5: 883e1a2ba48da72654809fcd41583e59
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/jenkins/scan/dump_model.sh
+SPDXID: SPDXRef-item1178287
+FileChecksum: SHA1: 8c88322573e503659c95c09f49bd967440874d41
+FileChecksum: SHA256: 1a46557b97145c67d78a29a9839ca2c65ea2b02dcb24cd174274f666158685c3
+FileChecksum: MD5: ab48cef87c2929072d02997c6e4bd578
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/jenkins/scan/license_scan.sh
+SPDXID: SPDXRef-item1178268
+FileChecksum: SHA1: e60ede910405777041ee22026671bdd35720fdd9
+FileChecksum: SHA256: 6632aa10c4a9a845bc284d15e5d5c0d6e7e4b373d8f9af8dc590b1c86cbf06d5
+FileChecksum: MD5: 0723a02c1d3a5a277cfd89b21144aa48
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property, Inc. All rights reserved.
+copyright \ ignore "cds" --ignore "scancode.json" \ ignore "scanresult.json" --ignore "metadata.json" --ignore "*.h5" \ timeout 60 --processes 10 \ json=$WORK_DIR/$requestId/scancode.json . cd .. if [[ ! -e $requestId/scancode.json ]]; then fail "Unknown failure in scancode utility" else sed -i -- "s~$folder/~~g" $requestId/scancode.json initialize verify_license if [[ "$verifiedLicense" == "true" ]]; then log INFO "License scan result revisionId($revisionId) verifiedLicense($verifiedLicense) rootLicense($root_license)" else log INFO "License scan result revisionId($revisionId) verifiedLicense($verifiedLicense) reason($reason)" fi fi </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/jenkins/security-verification-scan.xml
+SPDXID: SPDXRef-item1178266
+FileChecksum: SHA1: b343f430a1892522c79393e2387e0765ba81c8e0
+FileChecksum: SHA256: e84dc128029d93210811fff89f8c04c35f70c6412a3e680a9e5c6de0d95a1d45
+FileChecksum: MD5: 1d00a707a432fcddcbb1d694ce215547
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property, Inc. All rights reserved. </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/docs/api/SVService-api-docs-0.0.22.json
+SPDXID: SPDXRef-item1178162
+FileChecksum: SHA1: 584370d55d9f5a5955c883fc596997bf94633337
+FileChecksum: SHA256: 74a55f38891fde779c577957e3e95365df3860fefacd98fc8dedd7f023e75f0b
+FileChecksum: MD5: 6b1dfb8d8cf8accb72d98cdaa95829bf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/docs/design.rst
+SPDXID: SPDXRef-item1178163
+FileChecksum: SHA1: bee109707b12f7f1d0eb846984d6415382a005e6
+FileChecksum: SHA256: 46422ea78aacb2181090d2d44f606e6aec0a1dadc12d8f2b2824a1f3d3fa82c0
+FileChecksum: MD5: 9069615fb668f1167908b121f31a0248
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+copyright attribution </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/docs/images/security-verification-arch.xml
+SPDXID: SPDXRef-item1178155
+FileChecksum: SHA1: 4887f40b6ce1d92f20e4a06786f2e78bdc4f6656
+FileChecksum: SHA256: 86e233f5456ba34a80c70c1e123af690b2417035d240acc9dc13909dc17e0b07
+FileChecksum: MD5: 90f1cce37e18d11aca10e56015382eca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/docs/images/security-verification-arch.png
+SPDXID: SPDXRef-item1178156
+FileChecksum: SHA1: 5f76d2f4b9e839769e7e7653a80714b3497c2fe1
+FileChecksum: SHA256: 88e4f9826f4d638afe8a051b5fd99ebdeace0ef319901ac97018418e2c8ead2b
+FileChecksum: MD5: f2b6d8383daec7f324801f9d6a0a348a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/.gitignore
+SPDXID: SPDXRef-item1178202
+FileChecksum: SHA1: 9de2cb1b8d1c32b857335590d40f9da853e85a8a
+FileChecksum: SHA256: c2d01642c288c1c38c5fc14edcb281205cbf0eeb52b2b4f368f2fe34368a5326
+FileChecksum: MD5: 51c6ed82294a850d92cc5f8a925eda9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/.maven-dockerignore
+SPDXID: SPDXRef-item1178203
+FileChecksum: SHA1: 2599676328e9d99979f6f212d9c0970a6ee99103
+FileChecksum: SHA256: e97cc28d3b9a26756f6902bac3cd32b7d8285ff74c22caa3d995289aec2fbee3
+FileChecksum: MD5: 802b61ec97e86a6beb4c513cf6398d91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-service/pom.xml
+SPDXID: SPDXRef-item1178204
+FileChecksum: SHA1: 37fbac6caff33f0ec6d3ed0899c663472c8efc6a
+FileChecksum: SHA256: 65aa7c00dd602703e34e4ec31e2f9aa2426899e993be4d12e21a0c73e78f6619
+FileChecksum: MD5: b1caaf7276a2727bea09e3fe29cd9abf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/INFO.yaml
+SPDXID: SPDXRef-item1178205
+FileChecksum: SHA1: 0a02b8f41e65d871a9006eff04d00464c2af6c0d
+FileChecksum: SHA256: 840e386bbd806b3a28e9a084f9517984ce7989f212da07cda7f6548e7196f007
+FileChecksum: MD5: 6cd161ce90d94fbcf4bc8a8b983e563c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/.gitignore
+SPDXID: SPDXRef-item1178206
+FileChecksum: SHA1: da02c03ffd5e5a0fa5c2214bed16e3a088ee77d9
+FileChecksum: SHA256: faf790b462b47dbffb58f0b916fc5890a81665d76a2a7dc80961588d3e1fe925
+FileChecksum: MD5: 9b6ea96245f3e853ae28207c96d954c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/.gitattributes
+SPDXID: SPDXRef-item1178208
+FileChecksum: SHA1: 1fead8ae4a123d4c2526ba03777b256cb10f7a5a
+FileChecksum: SHA256: adf76173edd92955ec74e01d961f1c406175429500924f6c303bf19a456d3b1b
+FileChecksum: MD5: 635578d7546b35d97c384e8708b86a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/releases/release-sv-service.yaml
+SPDXID: SPDXRef-item1178210
+FileChecksum: SHA1: d73ee240f71de955f2c9b17f6934a5bf3463a1ff
+FileChecksum: SHA256: b47ccf336cbdd4b588473e316b457cbe47f9e0b84c37fa586ab15650d478b399
+FileChecksum: MD5: a6ac6cff8b23674d28a2a0011b90f09f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/releases/release-library-jar.yaml
+SPDXID: SPDXRef-item1178211
+FileChecksum: SHA1: 07e845ef3f46dc07cd7ec9b135c06fee3256e404
+FileChecksum: SHA256: 3ef49e2cad954a07b482426e55b4acf19886ae70bb89d4b02a9d77d9cda6c010
+FileChecksum: MD5: 753188df75b9aae7223d3412e6b502e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/test/resources/siteConfig.json
+SPDXID: SPDXRef-item1178244
+FileChecksum: SHA1: 12cf9260df2e4ad9db2fea82fc8d8b05e35569d6
+FileChecksum: SHA256: 2c5c2e447683a5a678fe563c469b8f69cc70cadf3981bad8d6aab45e9dd754f5
+FileChecksum: MD5: 9e8e9000b6f2d28a0037843809438e2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/src/test/resources/ACUMOS-CDUMP-BF0478BC-0D3F-4433-80B6-D7A0F6DB2DF1-1.json
+SPDXID: SPDXRef-item1178245
+FileChecksum: SHA1: 3b255630e963de0ba0bcd05cd2b06eb3341e1e5e
+FileChecksum: SHA256: 93717f01b72c57b6ccd148360a04b3d3de39b380ea17ec528d94e741d03866c7
+FileChecksum: MD5: 8f05021fea07c95fe86f524efee81f60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/.gitignore
+SPDXID: SPDXRef-item1178261
+FileChecksum: SHA1: 9de2cb1b8d1c32b857335590d40f9da853e85a8a
+FileChecksum: SHA256: c2d01642c288c1c38c5fc14edcb281205cbf0eeb52b2b4f368f2fe34368a5326
+FileChecksum: MD5: 51c6ed82294a850d92cc5f8a925eda9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/security-verification-client-library/pom.xml
+SPDXID: SPDXRef-item1178262
+FileChecksum: SHA1: eae2c54d839f6817f973ea0d1c03c0ee07b719db
+FileChecksum: SHA256: 24373ea42c77b8016460175f6117d78de4a5b1754050af0f4aa24c279f3c3b6b
+FileChecksum: MD5: a89dcf89125b90af4f4403f0d10eac9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright>true</canUpdateCopyright> canUpdateDescription>true</canUpdateDescription> canUpdateLicense>true</canUpdateLicense> emptyLineAfterHeader>true</emptyLineAfterHeader> configuration> plugin> Require Java 1.8 --> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-compiler-plugin</artifactId> version>3.8.0</version> configuration> release>11</release> compilerArguments> processor>org.hibernate.jpamodelgen.JPAMetaModelEntityProcessor</processor> compilerArguments> configuration> plugin> add build information to manifest. Java provides access to the implementation version for a package, so cram the build number into there. --> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-jar-plugin</artifactId> version>2.5</version> configuration> archive> manifest> addDefaultImplementationEntries>true</ad </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/jenkins/scan/rules/Vendor-A-OSS_2.RULE
+SPDXID: SPDXRef-item1178270
+FileChecksum: SHA1: bd5a8d685ccc6975f2b31fbd8aab1224feef51e5
+FileChecksum: SHA256: 48696793d941a64aadc31f461aca0ae418f3aa552ab7e02281e7f4fc7f48ac7d
+FileChecksum: MD5: 709cfd36de80d4eeebd7b277d31b19db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/jenkins/scan/rules/Company-B-Proprietary_1.RULE
+SPDXID: SPDXRef-item1178271
+FileChecksum: SHA1: a804d1ee4809570b40c91b5b4e74249a80b1635a
+FileChecksum: SHA256: 624dbcf0493d644b23e0bd39f796fe4526f6e7e6124f25b7208a3a14aa25a522
+FileChecksum: MD5: cacda0c07161b3ecd7953449f0281548
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/jenkins/scan/rules/Company-B-Proprietary_2.yml
+SPDXID: SPDXRef-item1178272
+FileChecksum: SHA1: a319e67348135845b18aa1e050a1f61d89bdf359
+FileChecksum: SHA256: 13b0244e52bd3c051a5ec81c583d7bfa357de03247c0f739853ca2db25d73092
+FileChecksum: MD5: 4692af89e9bc7358024fd3d97fea94a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/jenkins/scan/rules/Vendor-A-OSS_1.RULE
+SPDXID: SPDXRef-item1178273
+FileChecksum: SHA1: ab9c49808a216844f98d935cbe03765db101a19c
+FileChecksum: SHA256: d62897a70bec8a21f0c1ff61f93f81f6537d57d1937e57182bbf479f255d9878
+FileChecksum: MD5: cde0260b9b023fc681eed6a9640700d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/jenkins/scan/rules/Vendor-A-OSS_3.yml
+SPDXID: SPDXRef-item1178274
+FileChecksum: SHA1: a190a7dadcc0c78a38178739b7076c691ab6611a
+FileChecksum: SHA256: b08452d15a1b06b219b44b98e8a3a2c0ea1eb7c85e758add62943c20c7b5628b
+FileChecksum: MD5: b1aeebe16bd3c773760b3b331cfeb549
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/jenkins/scan/rules/Company-B-Proprietary_3.RULE
+SPDXID: SPDXRef-item1178275
+FileChecksum: SHA1: 155e43df0cfe35f4e46ad6cd723656caf3b8ea0c
+FileChecksum: SHA256: af6facd6d5cd19abb9357452b2c0293b5a86dca22e1640a26235ea9576d13517
+FileChecksum: MD5: 44dcbd01784abe477c18dde449e7f99f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/jenkins/scan/rules/Vendor-A-OSS_1.yml
+SPDXID: SPDXRef-item1178276
+FileChecksum: SHA1: a190a7dadcc0c78a38178739b7076c691ab6611a
+FileChecksum: SHA256: b08452d15a1b06b219b44b98e8a3a2c0ea1eb7c85e758add62943c20c7b5628b
+FileChecksum: MD5: b1aeebe16bd3c773760b3b331cfeb549
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/jenkins/scan/rules/Company-B-Proprietary_3.yml
+SPDXID: SPDXRef-item1178277
+FileChecksum: SHA1: 8796e51e0f34d4c9ed55dc619402d2176b7b5ba9
+FileChecksum: SHA256: 4427b943521d5004a1af4f4dcd480a3e3e72f2b15b78c9e53782dda880c14833
+FileChecksum: MD5: 0f2b5bc27636aebb8ae2de97373864c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/jenkins/scan/rules/Vendor-A-OSS_2.yml
+SPDXID: SPDXRef-item1178278
+FileChecksum: SHA1: 698cef2b6b7593b92cce3febead5049db3460ed2
+FileChecksum: SHA256: 9a02c1f5c5b46ffed9ae789eaa449849b2f500a99c49839c9cd2c5b4c69c050d
+FileChecksum: MD5: 8899bbcfe5fd7511556ffa4f0fd117c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/jenkins/scan/rules/Vendor-A-OSS_3.RULE
+SPDXID: SPDXRef-item1178279
+FileChecksum: SHA1: bba08a9a9dd786d0cdbebc3b2d426efcb7893dde
+FileChecksum: SHA256: 559e562c59134fe8176606acb647724a31f6e98053cd79e8be12e17b802c16ff
+FileChecksum: MD5: b55be2ea602a0f0070c256e09f89576e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/jenkins/scan/rules/Company-B-Proprietary_1.yml
+SPDXID: SPDXRef-item1178280
+FileChecksum: SHA1: 8796e51e0f34d4c9ed55dc619402d2176b7b5ba9
+FileChecksum: SHA256: 4427b943521d5004a1af4f4dcd480a3e3e72f2b15b78c9e53782dda880c14833
+FileChecksum: MD5: 0f2b5bc27636aebb8ae2de97373864c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/jenkins/scan/rules/Company-B-Proprietary_2.RULE
+SPDXID: SPDXRef-item1178281
+FileChecksum: SHA1: fe4e96daf965047f53b11218943ea18a7924ea24
+FileChecksum: SHA256: 466590c73380d044e384770d8eb8725cb440dd7f23deb17f1183aade7e3ee784
+FileChecksum: MD5: 1067e24fd9d7009033e0cc0e0666386e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/jenkins/scan/licenses/Vendor-A-OSS.yml
+SPDXID: SPDXRef-item1178283
+FileChecksum: SHA1: 589b0a119e7daf7fcbe2ca56da7c9c15a547b657
+FileChecksum: SHA256: fc127ab4c66fd6c3313115f54cfda8f359529b806391528685237c9f9432b4a8
+FileChecksum: MD5: 3919c69a368269f45594d2b001ff4b1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/jenkins/scan/licenses/Company-B-Proprietary.yml
+SPDXID: SPDXRef-item1178284
+FileChecksum: SHA1: fdbc288cf56792a40a362d7537ba4b8e65777d6e
+FileChecksum: SHA256: fb0fa847b4871beca98b2c762efd603299ed2532f63c7f21c5e8b7ce846b4bd7
+FileChecksum: MD5: 7ddf3e60acb1c7c293ce621b068ac410
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/jenkins/scan/licenses/Vendor-A-OSS.LICENSE
+SPDXID: SPDXRef-item1178285
+FileChecksum: SHA1: 807c78fad273fae9be28d00ae40003fd2cc68c2a
+FileChecksum: SHA256: 383dcc9af08042a0b8ffbf1c08ddba6be8a1d56fffff6056416f1289c55fb587
+FileChecksum: MD5: 84fc97a5e7c568b07c102df4e2961d29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: <text> Copyright (C) 2019 Vendor A. All rights reserved. This software file is distributed by Vendor A under the Vendor A Open Source Software License (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://VendorA.com/licenses/VendorA-OSS </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/jenkins/scan/licenses/Company-B-Proprietary.LICENSE
+SPDXID: SPDXRef-item1178286
+FileChecksum: SHA1: f3e9cc65f8fce49c6c6393d165086e9121579d32
+FileChecksum: SHA256: f06113404368a41dba3d198defb5524d7a7ec8e1954383de07d3fd1749f8b0f4
+FileChecksum: MD5: a5d7cde8597e21b8ed038cbd9ece30c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: <text> Copyright (C) 2019 Company B. All rights reserved. This software file is distributed by Company B under the Company B Proprietary License (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://CompanyB.com/licenses/CompanyB-Proprietary </text>
+ 
+
+##File
+
+FileName: security-verification-2022-02-02.zip/security-verification/.gitreview
+SPDXID: SPDXRef-item1178288
+FileChecksum: SHA1: 3ff75cd997be25647037c363be03e38873b4b8af
+FileChecksum: SHA256: e56622fda6fc1fa0d87dbeb7a33ab248a00278216f1d85ce23faa7299ebdff21
+FileChecksum: MD5: 78bf025b33e93844cf9011d7696fd3f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
