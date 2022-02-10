@@ -1,0 +1,1760 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_platform-oam-2022-02-02.zip_1644480719.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-02-10T08:11:59Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: platform-oam-2022-02-02.zip
+PackageFileName: platform-oam-2022-02-02.zip
+SPDXID: SPDXRef-upload319
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 8a1bcf56138e2f4cb0c2b996504a1ab62261519d
+PackageChecksum: SHA1: 993e058c4846b6009b7a15cd49e5245cd0f0e4a9
+PackageChecksum: SHA256: fd2cb4744398a68be10de0bd0cf42dc08ecb561e70af149ee3ed69220b39ff46
+PackageChecksum: MD5: 526b6b6ffa28c705df1467b6c383d49d
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload319
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/elkclient-server-api.rst
+SPDXID: SPDXRef-item1175871
+FileChecksum: SHA1: d6e354de23414e64d498784a9c3f8692dfb4fd41
+FileChecksum: SHA256: 8ebed7a7b11c161ecab4727b05787f1da2cb9ce9f3c9040af411c58091e43410
+FileChecksum: MD5: 4790bcc87abe206739b3a0737d9e0477
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/user-guide.rst
+SPDXID: SPDXRef-item1175870
+FileChecksum: SHA1: e5a391627f785052134f7c392453a88c40fc21b8
+FileChecksum: SHA256: 994756df7382caec0598dbd09806867f6ade0cb5c555df5efeb10d4e3f30af94
+FileChecksum: MD5: 2782ce68ac30171b7ae061f0e350bd98
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/index.rst
+SPDXID: SPDXRef-item1175897
+FileChecksum: SHA1: 0d1782e5d8dd7d1f69b242e4cbfa30970affdb0b
+FileChecksum: SHA256: a6ba4e532cdadfc47d5337bd2d379df54ebf5d88e43235aa5fc8ee9b112a697f
+FileChecksum: MD5: 3bcfa702e15da117450a58a689916ec0
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/release-notes.rst
+SPDXID: SPDXRef-item1175898
+FileChecksum: SHA1: 77635d16487eca216d90953103213a0fde42273f
+FileChecksum: SHA256: 55997d70032c98803dbf4900a694b9c626a08d149fbf2360230164f97c993aea
+FileChecksum: MD5: e571c43099fe4badb52556531ef8ca34
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/elkclient-api-developer-guide.rst
+SPDXID: SPDXRef-item1175900
+FileChecksum: SHA1: b2be21bf8dc8ddfcc51089962f4404758de29b7b
+FileChecksum: SHA256: 65a59accb3efecf7b16db03e368143e52a793e997df7fac237bf399d94115eae
+FileChecksum: MD5: 75693e02e2419e1b2e09a454065c6449
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/developer-guide.rst
+SPDXID: SPDXRef-item1175899
+FileChecksum: SHA1: e0a6e31e92a8bb38c9194780b2db28174fe564f3
+FileChecksum: SHA256: 373e62d9b1d186ffea5cfbd4bdaa5acf79a4672810894a2d4f92e92b3a9cf1aa
+FileChecksum: MD5: 6c1dff5b945c4f3ef09f5ba19b570c45
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/README.md
+SPDXID: SPDXRef-item1176059
+FileChecksum: SHA1: 2e90bc96803f0ac6663e4a662745b58ee8b26778
+FileChecksum: SHA256: 8b6b384af435be82dba920318f5af991657c57026bc47d30188c1c4ff5c95164
+FileChecksum: MD5: 7127df87c34b85c3900654e8365d25ed
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/LICENSE.TXT
+SPDXID: SPDXRef-item1175868
+FileChecksum: SHA1: f18bbcc43d8b9219780ebd7706407a5429542757
+FileChecksum: SHA256: 41db9ffdb1cf2ed41baf91447730dce99fa10bd4d8dc80839396b956f03255ee
+FileChecksum: MD5: 63370abda2c19dbc76f28a7879d1046e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/license/acumos/header.txt
+SPDXID: SPDXRef-item1175938
+FileChecksum: SHA1: df09ece0d24c1d95a278905bff78c4a1c686ccec
+FileChecksum: SHA256: 644341f2388f1c9d5551786882cb41c15aff64adc90bae400d94240b4055266e
+FileChecksum: MD5: fd976600fafe010d9febbabd6d6c9749
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-stack/docker-compose-elk.sh
+SPDXID: SPDXRef-item1175904
+FileChecksum: SHA1: 8a6fffed56c7b4d67d4412516e09bf79770a28f9
+FileChecksum: SHA256: 623bd53d1149b635c9767472d025ee91a14bb7bb5675a29a7081da3ca35c9b1d
+FileChecksum: MD5: b3cd0b762361f0d3bbb9a1cc9966d10b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-stack/elasticsearch/pom.xml
+SPDXID: SPDXRef-item1175910
+FileChecksum: SHA1: a42dd4d8080aaab44b2d81aea037d6675fcdb878
+FileChecksum: SHA256: abd1e5e74f02d05372ff929932246d2b69b1c640a1be0acf5b28f47d5b429a79
+FileChecksum: MD5: 6f8a7a0eb79b6a05d7d3afddcf510e99
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-stack/elasticsearch/Dockerfile
+SPDXID: SPDXRef-item1175909
+FileChecksum: SHA1: 362f879ba5abfff92f7b7031e979998ee03b6bd3
+FileChecksum: SHA256: 9fee12b31c72508d717e58ead3278edcae6f1c1ff3cdf5e0b87ae418d4d943e7
+FileChecksum: MD5: 03f0305bc225e649626106257ee61e42
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-stack/acumos-elk-env.sh
+SPDXID: SPDXRef-item1175914
+FileChecksum: SHA1: 1e733145d6ea62ab985cbad6f117fe7313916408
+FileChecksum: SHA256: 97e52ea3d92af942b933d00fffdc065a74d3498a57540cb1dd17225638d71230
+FileChecksum: MD5: 2b6c4c8e5659c4d3e461fd8c9dfaea82
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-stack/elasticsearch/config/elasticsearch.yml
+SPDXID: SPDXRef-item1175913
+FileChecksum: SHA1: 95e673d97af8726d0372869b5487762918771e3d
+FileChecksum: SHA256: 1307c1f10980ab59731c2e9f9ac171c39974b97dbb54beaab34d839d79a4a85f
+FileChecksum: MD5: f01c5d3e3d327996397202cd2d1e7641
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-stack/kibana/pom.xml
+SPDXID: SPDXRef-item1175921
+FileChecksum: SHA1: 25edb3bb990b1badf5d8bb84b2f1b5803fb19ca6
+FileChecksum: SHA256: 1c23ef194193ceae002d1cc0bc3ec948dba643eca995e11e676914ec29571705
+FileChecksum: MD5: 06c94391b277ec11bb27aa09204edcfa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-stack/kibana/config/kibana.yml
+SPDXID: SPDXRef-item1175923
+FileChecksum: SHA1: b4aaa544430ec7883035aea6bf85591e4b5c4db6
+FileChecksum: SHA256: a48118dd1100a649ee8b391429c833f269c413a56ac2e457a969d586f28682c4
+FileChecksum: MD5: 5d74b4eca3e2a8d8963e7d3e17c0f142
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-stack/logstash/pipeline/logstash.conf
+SPDXID: SPDXRef-item1175926
+FileChecksum: SHA1: 14b37b12b286165a20bf90be32eab0205719b897
+FileChecksum: SHA256: 3abd0e3a7482393f286ea811abd6845ba038ee89e715dcaf89861702f00fa156
+FileChecksum: MD5: 0a3b540f366c455ed3ea2b21653dc826
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-stack/logstash/Dockerfile
+SPDXID: SPDXRef-item1175928
+FileChecksum: SHA1: b5dc35472440644ebf6747a94554e1bc8744952b
+FileChecksum: SHA256: f490de50ea6c4011e7175c6579ff09c176b6d93c84430e93eb015d484da9b8a0
+FileChecksum: MD5: f28ed8351e9efa5051d0957ff64a16b1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-stack/kibana/Dockerfile
+SPDXID: SPDXRef-item1175920
+FileChecksum: SHA1: ccb8bb78268e41602a5d5bea5337631c49fb897a
+FileChecksum: SHA256: 86cc99404971f4524b16f224dee0babb5fbbf17028cd318d77d1a6e1d40df7e9
+FileChecksum: MD5: 66307977f1daffa32dd735247f7090bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-stack/logstash/config/logstash.yml
+SPDXID: SPDXRef-item1175930
+FileChecksum: SHA1: 7a4b55776a98821e01e28dc5438b63b6842e0e97
+FileChecksum: SHA256: fb797f1794c8e7f713a25dc97ce8c4f3e774a42efff962fcacce0e402c06f6c5
+FileChecksum: MD5: 7f2388aa5fa62cab57659da439b86c79
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/license/licenses.properties
+SPDXID: SPDXRef-item1175935
+FileChecksum: SHA1: 5d05029495f0280a0464a1e66199831747c11c0c
+FileChecksum: SHA256: 87ac5765144964fb527beeeab9d4cf534eb8e419af9981093ed23e61dd6c3294
+FileChecksum: MD5: 97565fa4d1a10df4f1270948aa77c20b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/resources/application.properties
+SPDXID: SPDXRef-item1175941
+FileChecksum: SHA1: 8035a55f3d8d343ab8e6e0a244a22276aeaf0547
+FileChecksum: SHA256: 98e11d2ae9d13fa78e0a5141b84395290e2f6a2a0c301f5fb530e4c248fda862
+FileChecksum: MD5: 3d6e3a8d7e566d081e84614032df8f7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/resources/logback.xml
+SPDXID: SPDXRef-item1175942
+FileChecksum: SHA1: 61e19b588dbb362e226f260c86cebfe2ccafea93
+FileChecksum: SHA256: 490405fe06fad4a74dfee2f1230f9cc5efbdae486a4a464b922a39d620f57b5d
+FileChecksum: MD5: 301c086b951712c6029f3c4a05e8d6cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. =================================================================================== This Acumos software file is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. ===============LICENSE_END========================================================= --> configuration scan="true" scanPeriod="3 seconds" debug="false"> </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-rest-library/src/main/resources/logback.xml
+SPDXID: SPDXRef-item1176008
+FileChecksum: SHA1: 61e19b588dbb362e226f260c86cebfe2ccafea93
+FileChecksum: SHA256: 490405fe06fad4a74dfee2f1230f9cc5efbdae486a4a464b922a39d620f57b5d
+FileChecksum: MD5: 301c086b951712c6029f3c4a05e8d6cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. =================================================================================== This Acumos software file is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. ===============LICENSE_END========================================================= --> configuration scan="true" scanPeriod="3 seconds" debug="false"> </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-stack/docker-compose.yml
+SPDXID: SPDXRef-item1175931
+FileChecksum: SHA1: c1a8dab05e82206b1c64be061e96d446d9c90abe
+FileChecksum: SHA256: adda62990e038c9c3f670b9d2cb3a4915669561023fe916dff78605e603b85e0
+FileChecksum: MD5: 28fb529a05d9a7e22e90e59bbed17963
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/transport/ElkRestoreSnapshotRequest.java
+SPDXID: SPDXRef-item1175954
+FileChecksum: SHA1: 9c59649bd63418ee7e0a3f83ad211dba35551afc
+FileChecksum: SHA256: 3cd6c11a0a3c42190423804cff6704d94f627913be07ff49f26e9af654fbd956
+FileChecksum: MD5: 985f6884b614505e51a31a0da655836f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/transport/ElkGetRepositoriesResponse.java
+SPDXID: SPDXRef-item1175956
+FileChecksum: SHA1: 399854bc69dafb4735c3eac70cfd0176261727b1
+FileChecksum: SHA256: 6efaae6a96e9eb7387504b69745d929d35fa7cf5c72994076ed38fb4028163f6
+FileChecksum: MD5: 111df8078d71f43bc07c5987e7f9f71b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/transport/ElkGetSnapshotMetaData.java
+SPDXID: SPDXRef-item1175955
+FileChecksum: SHA1: b9cd96a400086351871a4a5e44ae0b84136f76c7
+FileChecksum: SHA256: b533857320e5ec40437978b1a734b4659dc30faf9bc84f54f7c4ca9a69357915
+FileChecksum: MD5: c971bfb22fb29c0023e00b795949c30c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/transport/ElkRepositoriesRequest.java
+SPDXID: SPDXRef-item1175958
+FileChecksum: SHA1: 3dfbe693277599cde4d5dd55d959f9841dbf12bd
+FileChecksum: SHA256: e9865d07e5f9d788c47fc072008132d91d1d194d12aa078f9f468a164b4f0e4d
+FileChecksum: MD5: cf66f9aaf55faebed4ea7ea29c905909
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/transport/ArchiveInfo.java
+SPDXID: SPDXRef-item1175957
+FileChecksum: SHA1: 9a7972ddc794c7fc59d4874de9ebf43e987bb90b
+FileChecksum: SHA256: fdb51988794d9207d67a45e7cf6f3204dbbdba5c3e7f1a5423b6da41053390ec
+FileChecksum: MD5: 995b7897add0138f7629304ee6abf705
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/transport/ElkDeleteSnapshotRequest.java
+SPDXID: SPDXRef-item1175959
+FileChecksum: SHA1: 2b62eafa4571eea26ac865b50d4a3fa08820873a
+FileChecksum: SHA256: 296c34106524dd64ab48f5d7f54d1e8267f768e9bb581f86f91bcd7a3bf186ea
+FileChecksum: MD5: 9a32e32a36689615e5d200cd0f3fce0b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/transport/ElkArchiveResponse.java
+SPDXID: SPDXRef-item1175961
+FileChecksum: SHA1: 8236b4587c4b1bb3d25043caea3ffe195b559b82
+FileChecksum: SHA256: 5bbd72b9eeea2da6533fd40e90fe4f6d0fc18eea94442315283ee9fc5be05676
+FileChecksum: MD5: 55562f0199ef3e98b55d64ff7104c9e6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/transport/ElkArchiveRequest.java
+SPDXID: SPDXRef-item1175962
+FileChecksum: SHA1: 862688671c61469f2509a5a99f721c76681ca950
+FileChecksum: SHA256: e31834d2b51181cc6960457b0b1196343391a1b7916f59b68a5bdb280386a8d6
+FileChecksum: MD5: 058d5dd1fbc390b5db47e7710e5a19b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/transport/CreateSnapshot.java
+SPDXID: SPDXRef-item1175964
+FileChecksum: SHA1: 35d06ba0e6eefec4ba5ac4f0229e6f1b0dba2590
+FileChecksum: SHA256: 5784c357a980194b170263448f768d266bedf42c29f610dbe570013817c51b84
+FileChecksum: MD5: 5a3a2a5384bb58700aa61f927713b52b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/transport/ElasticStackIndiceResponse.java
+SPDXID: SPDXRef-item1175963
+FileChecksum: SHA1: 7c64ff88ed77ce37c227ba8cd6d1a261deac4771
+FileChecksum: SHA256: 1bcaec1c089a168151110637924a5ab1c00137a1b6cf788f2c54763bd8b382d6
+FileChecksum: MD5: 1b7ee52bd2cedf200bc3537ec051290f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/transport/DeleteSnapshot.java
+SPDXID: SPDXRef-item1175960
+FileChecksum: SHA1: 1f6f9c56a8be56655bde9c1151714ae33aeb10b2
+FileChecksum: SHA256: 7a943f22bc55d58d0cf18a6cf11620cb2426ade29ac569d8cd73cae15d7da0e9
+FileChecksum: MD5: 982f831fee4e4335899fb9f870b7752d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/transport/ErrorTransport.java
+SPDXID: SPDXRef-item1175965
+FileChecksum: SHA1: eadadfe45e636a9be0656601562d77c5b64700f8
+FileChecksum: SHA256: 73924f94b013214b570d3a53960e37a9e273a9588b64a472bdfc81f6579a1a33
+FileChecksum: MD5: 43fe53b714fd4803d4488e315645d39f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/transport/ElkSnapshotsResponse.java
+SPDXID: SPDXRef-item1175966
+FileChecksum: SHA1: 1a3530e0b206f9766866e3c17d574f150842ac12
+FileChecksum: SHA256: 5b264e966e9091c942994a2a177ef77586233f57510b8035278b1d4c3f23ab57
+FileChecksum: MD5: aba27cd2e111f5dabe6fb78f1d2b1fc8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/transport/ElkCreateSnapshotRequest.java
+SPDXID: SPDXRef-item1175967
+FileChecksum: SHA1: 3851f9380d4d59fe4df7f480c46a2c1f490ea984
+FileChecksum: SHA256: e4f95e41170e1ac1cba221f5d3f568be0a13ee6af9e1e0343ba312dd954ebcf7
+FileChecksum: MD5: 6e9cf3e9917cb9ae998cff1870b4c62a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/transport/ErrorDetails.java
+SPDXID: SPDXRef-item1175968
+FileChecksum: SHA1: 97377a197f3ac32cf5514d594191e8b146814be2
+FileChecksum: SHA256: d4f7d87391c1f349e0f58eaeb7954ad4b9304512141446975c52a155ca7aef4b
+FileChecksum: MD5: a203dbaf8c85dedb9b55c3e374fad0de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/transport/ELkRepositoryMetaData.java
+SPDXID: SPDXRef-item1175969
+FileChecksum: SHA1: 0e41c970755e8e14f5553623e7cf70589aeeab9f
+FileChecksum: SHA256: 08121109f6d98f284a9f988654a3fd3f464dacac7b7208b6b6b82ce9ac87ac1c
+FileChecksum: MD5: c39cecce0624e21fff7023b2c556b2e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/transport/ElasticStackIndices.java
+SPDXID: SPDXRef-item1175971
+FileChecksum: SHA1: 3bd912c3efa6bbe874f9414961532e89c74a851b
+FileChecksum: SHA256: 52137e815a2d7b316fcc3fec91822fc0c46152348168a67c044708f0dcbcdf0e
+FileChecksum: MD5: 466467d64b24178bda3affa2329b44b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/transport/RestoreSnapshot.java
+SPDXID: SPDXRef-item1175970
+FileChecksum: SHA1: b06112d8c156e39269e28162f369d42a2100cb94
+FileChecksum: SHA256: 29d594bfc0e2537864cfca6fb5537a906cd71621fe0d10f597277520e0d4c854
+FileChecksum: MD5: 1c22c4bf297c59a4d1b97580a790ff04
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/ElkClientServiceApplication.java
+SPDXID: SPDXRef-item1175973
+FileChecksum: SHA1: d0ab2ae983d862c33d01539e7974e3b6ca94393a
+FileChecksum: SHA256: 8862aabd3b6b9d3680809617947d06d12191399dc8cd854a6b8b594dd23a2f2b
+FileChecksum: MD5: dd18bfd629208bf702d53f1ca9018498
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/transport/ElasticsearchSnapshotsResponse.java
+SPDXID: SPDXRef-item1175972
+FileChecksum: SHA1: 4a2b08dd338c67505d566b3d005cf569ba5b5af5
+FileChecksum: SHA256: 8eb4bef44a34dba81940b622cc8ef5558b2ff5c87a21374e795e2f8d610a9ccb
+FileChecksum: MD5: 76d20d121c3afaa6e46fc9c801c8e0d0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/SwaggerConfiguration.java
+SPDXID: SPDXRef-item1175974
+FileChecksum: SHA1: cb93899da185c2bbd707d9dbe39b45f390357263
+FileChecksum: SHA256: 577a253865b7df58a2366be52de594c846c7b99916a204b0c52fcc9c3681f37b
+FileChecksum: MD5: 8d3e35de2c127ee9a3711995a19bb5ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/utils/ElkServiceUtils.java
+SPDXID: SPDXRef-item1175976
+FileChecksum: SHA1: 7187ff7663d639377d598e2553d81066df76285e
+FileChecksum: SHA256: b083380cef0d6d600d27cb6eaf46e11ca5f8ec672cdfa506f8a0852f46960bfd
+FileChecksum: MD5: 45990ac33817c10d6e496afc5fcee5d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/utils/ElkClientConstants.java
+SPDXID: SPDXRef-item1175977
+FileChecksum: SHA1: 5ab35027e9ddf76d1a97d10aec605be182c67b10
+FileChecksum: SHA256: 2dac6e589fad27bb754e4e9f2c970c3dc9167512aefccccd418b9fcd67c55ea6
+FileChecksum: MD5: 997e45f681dc31c09e146377ed8f73a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/controller/ElasticSearchServiceController.java
+SPDXID: SPDXRef-item1175979
+FileChecksum: SHA1: ca11026ffe61b60c2601769970e3fcaf51576d8a
+FileChecksum: SHA256: 46db8a234a7b5e2438f5bb171d830a7a915548823f305763406e2f10a183e34c
+FileChecksum: MD5: b77ca68d1157eaa16770499a0c757e6a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/controller/AbstractController.java
+SPDXID: SPDXRef-item1175980
+FileChecksum: SHA1: 62907804f3b907cad794c964d5dba09572871151
+FileChecksum: SHA256: fe13fad9ef3f267ae22713198ecf4223bb4be89d17ae5642942e7ecfbe3cb83c
+FileChecksum: MD5: b73dc678782c98f3e9580198fa7ad375
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/service/SnapshotRepositoryServiceImpl.java
+SPDXID: SPDXRef-item1175982
+FileChecksum: SHA1: b3fc33001a5fd5a50683b7a42301b003699147c8
+FileChecksum: SHA256: 0132dddf8e130330c800d49dc23adedeb1431419f4eb6d6b77846a2b74204c6b
+FileChecksum: MD5: 8040f5baaf869150cfe00ef339abf3b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/service/AbstractELKClientConnection.java
+SPDXID: SPDXRef-item1175983
+FileChecksum: SHA1: 719f69d6682e70f87d2a7db44b8c69ea247b32d0
+FileChecksum: SHA256: 40ff6b5dbfe403ead338bb29996edb3da8a74e430442f160b7b55666d9e62479
+FileChecksum: MD5: 9a8785384529eaccc6b1525d306787cf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/service/ISnapshotService.java
+SPDXID: SPDXRef-item1175984
+FileChecksum: SHA1: b91c0577b7ec1ac3570302386fcdc9237735343e
+FileChecksum: SHA256: 975a954a0e6b16f78d1d44dfdf2d6bb9986c653a5b6805f1c6068d890f2e7305
+FileChecksum: MD5: e6804d384571a6f0e169f34d22e05a9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/service/ISnapshotRepositoryService.java
+SPDXID: SPDXRef-item1175985
+FileChecksum: SHA1: 654d3644a8fe2f16d1db8e96811766ca40c3110d
+FileChecksum: SHA256: 1887ff442d7824aecd519b1a9963ab1c870ed80e8d6ce8210ba2142d355f2182
+FileChecksum: MD5: 5837a9dbd93a755c9e9b6d989e286baa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/service/SnapshotServiceImpl.java
+SPDXID: SPDXRef-item1175986
+FileChecksum: SHA1: 0f81170a3399ebe60476ccff75b75b4ae27d0589
+FileChecksum: SHA256: 283c6065b2fa8807c7cf745762ce189cee3e5a717901aff45604110e0b1f0691
+FileChecksum: MD5: 4becfdd4f088c81736697b0f80321ccf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/client/ElkLogSnapshotTaskSchedular.java
+SPDXID: SPDXRef-item1175987
+FileChecksum: SHA1: e40cdb5015dfba371ba6265f3ba55a761e921f80
+FileChecksum: SHA256: 52454b8f13bc95e94844951eaec9c9ef44a236ca1a2b250dd678ba3e6604a959
+FileChecksum: MD5: 757b2738195a3856fe349a47066719ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/logging/LogConfig.java
+SPDXID: SPDXRef-item1175989
+FileChecksum: SHA1: 7e0e099451bf66c0c05c553d3b7e98a809c73eae
+FileChecksum: SHA256: 7fe607626e415d22a4a90cde0bf7f65b9922211be10108966e7be24ed13de52a
+FileChecksum: MD5: e856ec52165f6b33ec1e4945399067d0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/org/acumos/elk/logging/ACUMOSLogConstants.java
+SPDXID: SPDXRef-item1175990
+FileChecksum: SHA1: fb7e73b5b3d4777c9bbd159e0fd3596e2cac618c
+FileChecksum: SHA256: b2f5c42d2f437b9bb82a9d2d49c9b8fcba355fc37e4bfeb3979f119c9790acf9
+FileChecksum: MD5: c3096f635cde31ede06b7fe288859ad3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/pom.xml
+SPDXID: SPDXRef-item1175994
+FileChecksum: SHA1: 99ebfffae5cf64d97d9bc9cc902dde4df555fea0
+FileChecksum: SHA256: a04304de79c534171d696f29963b3268128b3113dfe9b830316bc6cc5e7d112c
+FileChecksum: MD5: f27a6aeef0f55878dbdec7e0068c3241
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. =================================================================================== This Acumos software file is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. ===============LICENSE_END========================================================= --> modelVersion>4.0.0</modelVersion> </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-rest-library/src/main/java/com/logging/rest/example/springbootswagger2/controller/JsonRequest.java
+SPDXID: SPDXRef-item1176019
+FileChecksum: SHA1: 39f5b585921840bcb00ae29319f64ae45c01d60c
+FileChecksum: SHA256: c110720933097ca5dc1681f4bb0cfc493021c2d0e85f8c6dd30d57a71d7e1070
+FileChecksum: MD5: df798bb503aceb041dfc33f99575d5ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-rest-library/src/main/java/com/logging/rest/example/springbootswagger2/controller/APINames.java
+SPDXID: SPDXRef-item1176018
+FileChecksum: SHA1: 2e39b060e70ab9bdb605c7b5d0e20235bca7f37b
+FileChecksum: SHA256: 601e59f0a25628c72feebd9149584b7ed6c0a54ab117b275a4f31256b24196c9
+FileChecksum: MD5: add355585b30d689e4b822ed06c8cde7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-rest-library/src/main/java/com/logging/rest/example/springbootswagger2/controller/JSONTags.java
+SPDXID: SPDXRef-item1176020
+FileChecksum: SHA1: b07ca60192b12ce9c513589bb1ba0381d6593f66
+FileChecksum: SHA256: 713264710c8c8122d9cd408ba498aa6732dfd9609f8b95b21b90d2e81ec579ce
+FileChecksum: MD5: 9f3dd038bac906dabdc154ef310c54cf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-rest-library/src/main/java/com/logging/rest/example/springbootswagger2/controller/JsonResponse.java
+SPDXID: SPDXRef-item1176022
+FileChecksum: SHA1: 79a51a64897df69b1992a0c5310ff094048edd91
+FileChecksum: SHA256: 7271eed5945160254498d59cc8cab879da633cf4b8b2612eab28711811baa171
+FileChecksum: MD5: 1c8ddd5fa4900b5eb7275e94898c75ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/metricbeat/pom.xml
+SPDXID: SPDXRef-item1176041
+FileChecksum: SHA1: c33d7185ea820a7d75111e8314cc79538c13971c
+FileChecksum: SHA256: 23200b576bf5a3878eedf206a8e2a1d76ab889c7934138c59daf9194a43d812a
+FileChecksum: MD5: db31e7cf5ece2dd5393951118269bf1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/metricbeat/Dockerfile
+SPDXID: SPDXRef-item1176040
+FileChecksum: SHA1: 8cb8b10a08aba2bb01d09a9a66c643119b83d168
+FileChecksum: SHA256: cc029179aeb7cbfe68a5036c50d22f0e6edc5f1493ae787eab435af55c11fe35
+FileChecksum: MD5: 2f8c88d82f0785f103d48723e54e5f4c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/metricbeat/module.d/docker.yml
+SPDXID: SPDXRef-item1176043
+FileChecksum: SHA1: 35c44ee57c122261d3e7bdd57e43c3e2db89c217
+FileChecksum: SHA256: 791336d9fbd75d995fc8a0af6ce764c0ce19f06e1376fcee387e8b37511c35ae
+FileChecksum: MD5: 9f0a4026389465e018d045070c7fd5b3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/metricbeat/module.d/system.yml
+SPDXID: SPDXRef-item1176044
+FileChecksum: SHA1: ebc2d113249450635318d2b6117e62a863745637
+FileChecksum: SHA256: d1c530292c410b7ddddcbcf209d6ca5b9c343fa81c63b38af04dd71608ba5d63
+FileChecksum: MD5: 9983155552916ddab18fba341d02408f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/filebeat/pom.xml
+SPDXID: SPDXRef-item1176052
+FileChecksum: SHA1: ad9a89c9a3fa098e1bdfbf6b7504c13bc2a1fa35
+FileChecksum: SHA256: 57ffd355ef111c404af231d05d57d0288fc6708e3ced2ee85615f398e95d8859
+FileChecksum: MD5: b6d55ad4fce5237126c5423abc452842
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/metricbeat/config/metricbeat.yml
+SPDXID: SPDXRef-item1176046
+FileChecksum: SHA1: 7cb6b3d637e55283ef9639d502cb2f4e624e38fd
+FileChecksum: SHA256: 7ba8ab5503856d97b169dbab02787d6ed8f6141fcf067e2175cb05422e1e7039
+FileChecksum: MD5: 2f4a443e21432d2a1503eba8bb45476c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/filebeat/Dockerfile
+SPDXID: SPDXRef-item1176051
+FileChecksum: SHA1: 6dd3bd867077d93d0412d0df209b852c9f9a1c5c
+FileChecksum: SHA256: 3147c4c5b0a317ebb6b27ce6e1bd29b8601c9b6755e3ec88fab4cdf8e0805585
+FileChecksum: MD5: 1c5c3c6f448cd9d608fd59acef24b456
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/filebeat/config/filebeat.yml
+SPDXID: SPDXRef-item1176054
+FileChecksum: SHA1: a31ef812deadd439a511911b1428500c0363ebc0
+FileChecksum: SHA256: d98c7f2e85c688b7b718393915772945138bb2af20d02a151a8615753f28a050
+FileChecksum: MD5: 2908f6de5d3c7c677fe01a6f22864d3f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-library/pom.xml
+SPDXID: SPDXRef-item1176072
+FileChecksum: SHA1: fcbe0d074e335c251c13b6850d1ff2ac4a4dc0a9
+FileChecksum: SHA256: 01fe4ad2debce1f0a381fc7f63eed0507e476ee12b8ab1f0ea2aae8e9ec653c8
+FileChecksum: MD5: c19bbdfacf165597ddb16f5d18e32351
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-library/src/main/java/org/acumos/logging/util/LogConfig.java
+SPDXID: SPDXRef-item1176069
+FileChecksum: SHA1: f23bf0fa7978f0b5a34749a2f03c64e878bb9ba4
+FileChecksum: SHA256: e7ab77ca0779a516857b4a17d8c8223167f645a0dcee1b4007394a92fbbcdaea
+FileChecksum: MD5: 2ea89db56f9e4e09727fced6bd6a9760
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-library/src/main/java/org/acumos/logging/util/ACUMOSLogConstants.java
+SPDXID: SPDXRef-item1176070
+FileChecksum: SHA1: daf7d1401b6d703d888faa9649fab012b42c5791
+FileChecksum: SHA256: 20917d43faab17b2ef3b13af68c3ca767d311c961b0aabc7ec3e35fcf5ffa949
+FileChecksum: MD5: 5d882484de56954d62d56c2078bb2820
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/license/acumos/license.txt
+SPDXID: SPDXRef-item1175937
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-library/README.md
+SPDXID: SPDXRef-item1176073
+FileChecksum: SHA1: 12bfe975684e51565dd5e7735320905b0f95257e
+FileChecksum: SHA256: c13e53ecf1798e5a13385704e5e206f6d244ba2b6c2c619b4451e9f827fd8eda
+FileChecksum: MD5: 2e6429144d1f5807ecf1cf3f56483bc7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. Acumos is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/api/elkclient-api-docs-3.0.0.json
+SPDXID: SPDXRef-item1175902
+FileChecksum: SHA1: fa7b6ce540464020cfd3c6343924fc957d6319e3
+FileChecksum: SHA256: c20358b1d5e61db8ee9d215e77002d6d9724c93da692be943b2dad4b08369f6f
+FileChecksum: MD5: 1a4586c25c62664a7621201cdcf6fb3e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/script/archive_script.sh
+SPDXID: SPDXRef-item1175993
+FileChecksum: SHA1: a3ff4ec800778992165cfd857dec1066342d6c40
+FileChecksum: SHA256: 1672aabbede955bd20a8a8aee744cd302869e9c251fbbc0c611711f0c96242d9
+FileChecksum: MD5: 01992aae12cc00728110da735da711c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property, Inc. All rights reserved. </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/kibana_save_dashboard_2.JPG
+SPDXID: SPDXRef-item1175873
+FileChecksum: SHA1: 44ce675cb2268cce650335613de4566047421485
+FileChecksum: SHA256: 34b2584aed7e4a02d14077530916aa1a25f6c9f27042832ea84c4f6bfcfef570
+FileChecksum: MD5: 06e1a58f8e69358ad6c6e3301e952e31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/kibana_dashboard_6.jpg
+SPDXID: SPDXRef-item1175874
+FileChecksum: SHA1: 53402cbe975dbd6f0bf2fabfbafc0af518399030
+FileChecksum: SHA256: 48d1208725c93bcfdab1c133f0f9f815129ddadd37b88ed5968528d6466b0e84
+FileChecksum: MD5: c76ab663cda923df131b8c52939913c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/acumos_Sign_In.JPG
+SPDXID: SPDXRef-item1175875
+FileChecksum: SHA1: 86f0dad3f08b0d9d50b8aa456162a0e2a5b2d818
+FileChecksum: SHA256: fb8ecbe3cb4183cc312429bd872dd110164e561f9768ca90ef45f2ca96f458f9
+FileChecksum: MD5: d1e823ca9d60c6e8d969a31229575a89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/kibana_visualization_1.jpg
+SPDXID: SPDXRef-item1175876
+FileChecksum: SHA1: 1a9151364abab7b6808eddad632c2c6f0913d127
+FileChecksum: SHA256: 62dd98d7fb608b57fa3c8f4e91de8b01fd496dccf9365ceef5c132308e5677ac
+FileChecksum: MD5: 3babc23a90d51b0d2b0e0952951cf219
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/elk_stack.png
+SPDXID: SPDXRef-item1175877
+FileChecksum: SHA1: f86d1afafdbbcfeb34dec1ae76399bf62fd6980d
+FileChecksum: SHA256: 6f01a19de0c1f3630a2bb4167e0f41ff02f10c0afc685804b7eb67ffd23fec90
+FileChecksum: MD5: e2b57e41e443dfb4be01db9cd589f66b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/kibana_dashboard_1.jpg
+SPDXID: SPDXRef-item1175878
+FileChecksum: SHA1: d09cdab70a50be1360c96d0dbc81cc0e476f4eaf
+FileChecksum: SHA256: 881bf9456ca87b822d7ebfe7c1d79992d200e1d79291e6f5172048e1e7aa2f60
+FileChecksum: MD5: b2dca7cd2ad1582fcfdb105c8af4c0ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/kibana_visualization_4.jpg
+SPDXID: SPDXRef-item1175879
+FileChecksum: SHA1: a21e65c2027d9ebeca8d2765fce99054d74dd178
+FileChecksum: SHA256: 10a7cfddcd3bef3e85ba102bc9573abbc97634cbbbeb287aa77f28317d6c409b
+FileChecksum: MD5: 12cbeaf599cd71ee7d9dc781581b00ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/kibana_dashboard_4.jpg
+SPDXID: SPDXRef-item1175880
+FileChecksum: SHA1: 3f368325d02c47e7ca7c171e06c57b0cb9858fc0
+FileChecksum: SHA256: abce231538eeb51f4fc892cfc7c3744b893637b937385863599a2c9299bcaf61
+FileChecksum: MD5: dbcf99a8169667467612e94a93459367
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/acumos_site_admin.jpg
+SPDXID: SPDXRef-item1175881
+FileChecksum: SHA1: d03b612b4a29b23432bf3f6e79d024304b2e53e7
+FileChecksum: SHA256: 6db505925be946c73351acf81fcc31f14b8a5bb9f945f1eedf96c4dc02dff898
+FileChecksum: MD5: 4a563d2edd05485ebe402e3966127a4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/kibana_dashboard_8.jpg
+SPDXID: SPDXRef-item1175882
+FileChecksum: SHA1: 7537dbfaf19aff10be8b6e9d6a9078790702e7e2
+FileChecksum: SHA256: 79f33a071e0f99b6fb92bacf9f02aef38681b553ed9a152ea9e8397e7fb5eba6
+FileChecksum: MD5: adf243f49d86bb26cd4eee6d04514315
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/kibana_dashboard_5.jpg
+SPDXID: SPDXRef-item1175883
+FileChecksum: SHA1: 6fe465ba6471578619c25d1e94bc9776857708fd
+FileChecksum: SHA256: e89f9084333d1299ce9e439712b0baf451e299b19c4e00387b6b574426d43eb3
+FileChecksum: MD5: 25add6eda6460de54d48775dbc5639e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © Ky?9VâÚX?þîQ7=0j-GÅÚu£°iüÿ³´ë?YMל4£nc\Ëíè}+*ÏÂZÏ4× ón¬æ?5ô×eV?%(Ür?@À?½ÍýKFÕ?´µ9t±e,:­ºÃ7ڥd02]À?;Æ?¼ñ2½¿­?̥këýkþFޛr÷M¥ԡCÍ?HÁz?T?άÕm6ÙìôKYJ?ô$( Y«¹ì®?QEH( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?( ?Â×-îMäwL ÂÁ಺0ȭïápÀÆ7qØ?ñKPñ7Ùb]&æ;d&1?Iäb¬Gޘ?!*AùÆ}zе?ª¢¹Ù<Cu </text>
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/kibana_visualization_2.jpg
+SPDXID: SPDXRef-item1175884
+FileChecksum: SHA1: b36167c04063f4f37b7630edeb42020a13375a2b
+FileChecksum: SHA256: c610ad098b1b80dd0aecf272b5502c615934eaabff846c900372f3b036423eb8
+FileChecksum: MD5: dcbbb7f0f4acefff7cc2e02b87986740
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/loadingKibanaCapture.PNG
+SPDXID: SPDXRef-item1175885
+FileChecksum: SHA1: 15a01fca662b5ff9396a6ecdb2720e300c936179
+FileChecksum: SHA256: 3b0a0583898470c7a29615b9acb47a5c2685a0f5ff7560ecde350024e0b77865
+FileChecksum: MD5: e4e737470cf822d13436a1cee76180d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/kibana_visualization_6.jpg
+SPDXID: SPDXRef-item1175886
+FileChecksum: SHA1: effa2e089b1a3ed749395e498df544a82de92fad
+FileChecksum: SHA256: f745defc8a1d8d5e026be4914c35ca03b6b217cc2a99088cfd931fe203d45031
+FileChecksum: MD5: d87b2d63aa99a76e71086f9fe184af37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/kibana_visualization_3.jpg
+SPDXID: SPDXRef-item1175887
+FileChecksum: SHA1: 87ce25d6608341fb467fa2d89a43a52e064d05cd
+FileChecksum: SHA256: da7f172f55ddcf406ebe768f39678bbd14127db33c894563ef538f80bff1b67f
+FileChecksum: MD5: 3bb2ae19df22fa9b3c8ec048701c5add
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/acumos_elk_flow.jpg
+SPDXID: SPDXRef-item1175888
+FileChecksum: SHA1: 3c1fd39de0ca96f05299f6663d6958cc56eb10fc
+FileChecksum: SHA256: fec9fdf28399fc19e23cc83e56ae57443123b597272f65698d3770eaf7b54169
+FileChecksum: MD5: 85e5eee739e3f40fcbcd7ad483d0a267
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/loadingKibana.jpg
+SPDXID: SPDXRef-item1175889
+FileChecksum: SHA1: 64e43deb83e99f4e4555ba876b56d06f3392927b
+FileChecksum: SHA256: 20ced6324d4b14117bbccff83c300d6ccf5b5c008e59a928131dce62f86c1b34
+FileChecksum: MD5: edacc569eb574210f518c51b94e6cf28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/kibana_visualization_5.jpg
+SPDXID: SPDXRef-item1175890
+FileChecksum: SHA1: 5b55b967395c750015368f31e170cab2595bd801
+FileChecksum: SHA256: cc081141567a1fc2b68121e3710068cfff86dd748f2e1ab3f22150da45fe7223
+FileChecksum: MD5: febc8bfe0d2a617331cbf1d388608fd5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/kibana_dashboard_2.jpg
+SPDXID: SPDXRef-item1175891
+FileChecksum: SHA1: bab1803c63d4bde6ddca690412692f8170bf30b4
+FileChecksum: SHA256: 6fc729db5f16d64427f4550d67aacb4016e0bd69b64f2036b087df2fdb98772a
+FileChecksum: MD5: b1a4ed0e8795b31baace786092ae91ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/acumosSiteAdminUntitled.png
+SPDXID: SPDXRef-item1175892
+FileChecksum: SHA1: 334e4995bdddc0b8f48cdd8882a02c2252ffbede
+FileChecksum: SHA256: f0a68ef07b2b33be3e38f6f7c2dcafffd4a02bcffe16a4d3728e069b29a521d6
+FileChecksum: MD5: 1ab12fa1492be3647d806d61c1f8e49d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/acumosSiteAdmin.jpg
+SPDXID: SPDXRef-item1175893
+FileChecksum: SHA1: 334e4995bdddc0b8f48cdd8882a02c2252ffbede
+FileChecksum: SHA256: f0a68ef07b2b33be3e38f6f7c2dcafffd4a02bcffe16a4d3728e069b29a521d6
+FileChecksum: MD5: 1ab12fa1492be3647d806d61c1f8e49d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/kibana_save_dashboard_1.JPG
+SPDXID: SPDXRef-item1175894
+FileChecksum: SHA1: 1a090ee3ad3057dd736e28a6120e64567be2552e
+FileChecksum: SHA256: bf873daefab6ab5cb26064692295b9d5581a68c348dfae9d113c85d30ccae0ac
+FileChecksum: MD5: 3ee813a77c8341feb9221167072be6a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/kibana_dashboard_3.jpg
+SPDXID: SPDXRef-item1175895
+FileChecksum: SHA1: af1538aecef5dde06b8ee3ca846ac80aabd37557
+FileChecksum: SHA256: 17334dafd3a9d8a0b99c7fb9a1412165d721e6343ba38476954c2ac46f8bceda
+FileChecksum: MD5: 93768f75a9e388d8f2ffd9d32bf16541
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/docs/images/kibana_dashboard_7.jpg
+SPDXID: SPDXRef-item1175896
+FileChecksum: SHA1: c68e8bb58c0b7f0dcf35ffe163582f7a9fd155ba
+FileChecksum: SHA256: e15f0b77e460d566ad2614f6c71b173e75d9f033bf7208fe254041a99b6877b6
+FileChecksum: MD5: 74bf031582ca5e284b7d0fd83ceac1a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-stack/elasticsearch/.project
+SPDXID: SPDXRef-item1175906
+FileChecksum: SHA1: e839f0a8e83ea42b3b0b6d45f1f57cded4ed07d2
+FileChecksum: SHA256: 004991550a6559b6d76b4776d13ac9d7ab2d74d26be374dbefe8c9ee08fc2054
+FileChecksum: MD5: a09c2c21a7e82c87428047bfa681c4ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-stack/elasticsearch/.classpath
+SPDXID: SPDXRef-item1175907
+FileChecksum: SHA1: 0625c76a51cbd73f904d0626db84759406fab942
+FileChecksum: SHA256: 6e7386dc2663523473616c00e6acd651928e3130eec9ae26e3cc975991f9eb8b
+FileChecksum: MD5: 6ee6ea69c423fe03770cb89ef8150e3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-stack/elasticsearch/container-tag.yaml
+SPDXID: SPDXRef-item1175908
+FileChecksum: SHA1: 2387f8446a28e0a104cc4adbc72d330755c86cd6
+FileChecksum: SHA256: 8ee77b7978e8570c4e9a21c69cf9d1f502678a5a9af9f96200e72b3a3400c302
+FileChecksum: MD5: d668408895e2cd12a3a009be6618ed82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-stack/elasticsearch/config/jvm.options
+SPDXID: SPDXRef-item1175912
+FileChecksum: SHA1: 5f076a93fc2c4f3d9611a093ad07e02fb1bb82ce
+FileChecksum: SHA256: 968b66d3ef84666cf7c46dfe315f179a83f9c1680215ae1680bb016327bfeaba
+FileChecksum: MD5: 9ae3fef16f6642c293fdf92e4a230ff9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-stack/acumos-dashboard-search-2.0.0.json
+SPDXID: SPDXRef-item1175915
+FileChecksum: SHA1: e44d405b0e3133ef9ef2574be4f81e28db1c1a9f
+FileChecksum: SHA256: 7f57e6a0ed1c914cfd522e63ae2233109c552afd1f4cdacfa2ff0d12ebc03245
+FileChecksum: MD5: 45df55b5f9e3049f2e3273a6d2f49662
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-stack/kibana/.project
+SPDXID: SPDXRef-item1175917
+FileChecksum: SHA1: a74f1ce48f478ad6d8e83e2dcabf1c7c04957260
+FileChecksum: SHA256: ac73521e4112d61a3b14bd37624ae347430c0ba8c773d652f58ab2b31276b8e2
+FileChecksum: MD5: fcf8bc7da771c472b9f0f7edd5b38774
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-stack/kibana/.classpath
+SPDXID: SPDXRef-item1175918
+FileChecksum: SHA1: 0625c76a51cbd73f904d0626db84759406fab942
+FileChecksum: SHA256: 6e7386dc2663523473616c00e6acd651928e3130eec9ae26e3cc975991f9eb8b
+FileChecksum: MD5: 6ee6ea69c423fe03770cb89ef8150e3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-stack/kibana/container-tag.yaml
+SPDXID: SPDXRef-item1175919
+FileChecksum: SHA1: 2387f8446a28e0a104cc4adbc72d330755c86cd6
+FileChecksum: SHA256: 8ee77b7978e8570c4e9a21c69cf9d1f502678a5a9af9f96200e72b3a3400c302
+FileChecksum: MD5: d668408895e2cd12a3a009be6618ed82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-stack/logstash/container-tag.yaml
+SPDXID: SPDXRef-item1175927
+FileChecksum: SHA1: 2387f8446a28e0a104cc4adbc72d330755c86cd6
+FileChecksum: SHA256: 8ee77b7978e8570c4e9a21c69cf9d1f502678a5a9af9f96200e72b3a3400c302
+FileChecksum: MD5: d668408895e2cd12a3a009be6618ed82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/src/main/java/com/acumos/elk/exception/ELKException.java
+SPDXID: SPDXRef-item1175948
+FileChecksum: SHA1: f6810ad624ac09869f75dd5b861755c13d90630d
+FileChecksum: SHA256: d61da291e4a8b34387a28244763033f6d50313c03d1ef513a94042763cf484c9
+FileChecksum: MD5: 9cac72804f3fca2b092d7bba58d6c9ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/elk-client/.gitignore
+SPDXID: SPDXRef-item1175991
+FileChecksum: SHA1: f3dd7ecf872f60a220f20212e1934ef8b2933b2c
+FileChecksum: SHA256: 73aa3564fba85b99c53255229eb895ee929b77739930efec1e9b61344d3c4f0b
+FileChecksum: MD5: dea47cfe88748ec6bc0ba8af0948d92b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/INFO.yaml
+SPDXID: SPDXRef-item1175995
+FileChecksum: SHA1: a4e369e0b5bf083cf56cf3f1a02586227062f492
+FileChecksum: SHA256: 62aea07a9cfebc860e55dab3e1e1fdfc2fd35fe5a00e6d9d8ab7bee44b29bddd
+FileChecksum: MD5: 68e92977f5cf646698fb6ca7ed1a22fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-rest-library/.settings/org.eclipse.jdt.core.prefs
+SPDXID: SPDXRef-item1175998
+FileChecksum: SHA1: 9c3f8ff445f1831b4250f7a54881268b3d518bb2
+FileChecksum: SHA256: 943ce25120c34a300f45666a45cd1345cc1fd5ba0d37c20534b1f4e535d0930e
+FileChecksum: MD5: ec71fcc360715a7d843ec9349713346c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-rest-library/.settings/org.eclipse.wst.common.project.facet.core.xml
+SPDXID: SPDXRef-item1175999
+FileChecksum: SHA1: 632c8b8d948358902f748deceee787111310afde
+FileChecksum: SHA256: befc8a48f2a4af9e7252458443389af0af0726436fa0caabb60aef3856ff14e9
+FileChecksum: MD5: 6034a2b80de79ccad57a0694f7072075
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-rest-library/.settings/org.eclipse.core.resources.prefs
+SPDXID: SPDXRef-item1176000
+FileChecksum: SHA1: 8891a6be6cc06b525c564dd029e47c8a1d6e90f0
+FileChecksum: SHA256: d1c9dfab911f1e0956f444e81d15a47464caf4baf47f9b3795b60bc08e51339f
+FileChecksum: MD5: 1119f10e0d1dd286fe8391519d048c93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-rest-library/.settings/org.eclipse.m2e.core.prefs
+SPDXID: SPDXRef-item1176001
+FileChecksum: SHA1: 0775ef37ef7251fb58b3a4c0ed7f8277e911cc42
+FileChecksum: SHA256: 73e2bc42062725b3acdddce7ca0cdda43ec65574ed30391ea2d6fabdc269e0e4
+FileChecksum: MD5: b662ec9b2a9e308f5ae8e4b034ea7799
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-rest-library/.project
+SPDXID: SPDXRef-item1176002
+FileChecksum: SHA1: 0a36e2767fd9cc78b5b5ba8d7390603e68e71453
+FileChecksum: SHA256: be509fd343d9b13379c947eec9fff2ab30561b0d198d6f977f119ff0a3963c36
+FileChecksum: MD5: 0c18141b1754f42f245d1eb35747cb99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-rest-library/.classpath
+SPDXID: SPDXRef-item1176003
+FileChecksum: SHA1: 211ad7e40dc96f584444e1e3fe84ad0846f37cf7
+FileChecksum: SHA256: 71783e4ec53e4557e7688087352295732a734095eda2618d63dc2ac4bf0185c6
+FileChecksum: MD5: 7d59f607e651f7b249295ae61c44d791
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-rest-library/src/main/resources/application.properties
+SPDXID: SPDXRef-item1176007
+FileChecksum: SHA1: 514b0539c5e3184805945cb8101459628231d102
+FileChecksum: SHA256: 641775ab4edab1136197fa03469740f99be566150973e3adebaaf9ed31ad3535
+FileChecksum: MD5: 5a991778a9fb55221b007a601d0f25ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-rest-library/src/main/java/com/logging/rest/example/springbootswagger2/configuration/Swagger2UiConfiguration.java
+SPDXID: SPDXRef-item1176016
+FileChecksum: SHA1: a100d2d912e5c2d1db0e29a890609dd3527d6f20
+FileChecksum: SHA256: fcdaf75a9e4a04383d38d9b3b580c2e1f9fde8edb2ab847ade72047cfb50659c
+FileChecksum: MD5: 0628401539870d3ccc11c86ed2cb8e6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-rest-library/src/main/java/com/logging/rest/example/springbootswagger2/controller/LoggingController.java
+SPDXID: SPDXRef-item1176021
+FileChecksum: SHA1: b66dd3be24d5f42f6e71d4d4eb6eb07ac6d21a01
+FileChecksum: SHA256: 82df029b312faea83e00da2292b3f8e2bf2ff0db0617d80f62e3687f94a22186
+FileChecksum: MD5: 140a62dc80897d68d236da547f574ef1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-rest-library/src/main/java/com/logging/rest/example/springbootswagger2/SpringBootSwagger2Application.java
+SPDXID: SPDXRef-item1176023
+FileChecksum: SHA1: d467acf261301f034ef4b313d05980a28a149c5e
+FileChecksum: SHA256: d488ae278264c6bfa4e812322a6fa65ae110e06f17174eec96ab7bacf82a8bb8
+FileChecksum: MD5: 72ce42105be651fb382a36a1d33ee964
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-rest-library/src/main/java/README.md
+SPDXID: SPDXRef-item1176024
+FileChecksum: SHA1: 7b342ac3a54212545ff6ff690e8905e1f3f1952e
+FileChecksum: SHA256: d4d2b3ae50450da112e49d379e91747b180f53fa930567f1ccae255903340cba
+FileChecksum: MD5: a4b2701c1d137d409eb997af0768dc3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-rest-library/src/test/java/org/logging/rest/test/controller/LoggingControllerTest.java
+SPDXID: SPDXRef-item1176032
+FileChecksum: SHA1: 283e5c3bf592ab3ba1ace5d52e7cde3b63eb61eb
+FileChecksum: SHA256: de08a3c37f09cc7fd9df21f03f8055dff4b974cd1e7990d6e99768b65d6171db
+FileChecksum: MD5: b4157d5c5be985aa67a409d91251bde7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-rest-library/.gitignore
+SPDXID: SPDXRef-item1176033
+FileChecksum: SHA1: deca8b979c4147a1d8af858e15b32fb47ae0ef8d
+FileChecksum: SHA256: 306fd52e74fca6746e12acc750f232de15e71da917756a1270d74c91f5eb7368
+FileChecksum: MD5: 6c9e1dbc8f0c28c599845c81f6b224f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-rest-library/pom.xml
+SPDXID: SPDXRef-item1176034
+FileChecksum: SHA1: c561c16112835c706882be843cbcaf24d86cff74
+FileChecksum: SHA256: f30acb8f1702d0f26e06602083d8c7ab85c9ac00812a78cddca2132e2150aec7
+FileChecksum: MD5: 90ab9df2b1070827e6ef8f257f7e1daf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-rest-library/.springBeans
+SPDXID: SPDXRef-item1176035
+FileChecksum: SHA1: 26e4562835d582600adab3cad258581b647dc26d
+FileChecksum: SHA256: ae521ee961174bea4c42e05eaf6eb6b34c3676e7ee25364a3f8f31b926806c1a
+FileChecksum: MD5: 5e18a6019aa7c828a2d607556aedcca8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/metricbeat/.project
+SPDXID: SPDXRef-item1176037
+FileChecksum: SHA1: 4282d9de0a59fc0983875f9bc51788b1cfb412aa
+FileChecksum: SHA256: da03b5b8db6fee9ab13f4d527379f2b46af58af91e673e9792568170332bfdf0
+FileChecksum: MD5: 99833eb4d9fcb8b22fd59a01c3ba6616
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/metricbeat/.classpath
+SPDXID: SPDXRef-item1176038
+FileChecksum: SHA1: 0625c76a51cbd73f904d0626db84759406fab942
+FileChecksum: SHA256: 6e7386dc2663523473616c00e6acd651928e3130eec9ae26e3cc975991f9eb8b
+FileChecksum: MD5: 6ee6ea69c423fe03770cb89ef8150e3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/metricbeat/container-tag.yaml
+SPDXID: SPDXRef-item1176039
+FileChecksum: SHA1: 2387f8446a28e0a104cc4adbc72d330755c86cd6
+FileChecksum: SHA256: 8ee77b7978e8570c4e9a21c69cf9d1f502678a5a9af9f96200e72b3a3400c302
+FileChecksum: MD5: d668408895e2cd12a3a009be6618ed82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/filebeat/.project
+SPDXID: SPDXRef-item1176048
+FileChecksum: SHA1: 783d79697245a7faad2549233b7efb07b7762c72
+FileChecksum: SHA256: 2a5e76a310b9ac1fd4a30ddbf9b61bbbc63dd0b371514688d1e588698090ed63
+FileChecksum: MD5: 201c91d2d947087865804d31272f8bd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/filebeat/.classpath
+SPDXID: SPDXRef-item1176049
+FileChecksum: SHA1: 0625c76a51cbd73f904d0626db84759406fab942
+FileChecksum: SHA256: 6e7386dc2663523473616c00e6acd651928e3130eec9ae26e3cc975991f9eb8b
+FileChecksum: MD5: 6ee6ea69c423fe03770cb89ef8150e3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/filebeat/container-tag.yaml
+SPDXID: SPDXRef-item1176050
+FileChecksum: SHA1: 2387f8446a28e0a104cc4adbc72d330755c86cd6
+FileChecksum: SHA256: 8ee77b7978e8570c4e9a21c69cf9d1f502678a5a9af9f96200e72b3a3400c302
+FileChecksum: MD5: d668408895e2cd12a3a009be6618ed82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/.gitattributes
+SPDXID: SPDXRef-item1176055
+FileChecksum: SHA1: 1fead8ae4a123d4c2526ba03777b256cb10f7a5a
+FileChecksum: SHA256: adf76173edd92955ec74e01d961f1c406175429500924f6c303bf19a456d3b1b
+FileChecksum: MD5: 635578d7546b35d97c384e8708b86a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/releases/maven-release.yaml
+SPDXID: SPDXRef-item1176057
+FileChecksum: SHA1: 6e6acae525efa43595a8f5786772ad8d339cf84a
+FileChecksum: SHA256: 6fc6fbe057d72a7f85d5d7390b31a1e2a43851f72d4b7054503ad1e1e83cb054
+FileChecksum: MD5: f567f172763a742d94a64f179cd8f697
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/releases/container-release.yaml
+SPDXID: SPDXRef-item1176058
+FileChecksum: SHA1: 6085bdd6f744912c68ca0f227e65c5d5f8b4c744
+FileChecksum: SHA256: 96728a1d8afd8a3af522377ca93e0b1ef55be6ee1527014da86dabe6ad2466ed
+FileChecksum: MD5: f79df972db21ced76cbfaaba2901e8e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-library/src/main/java/org/acumos/logging/util/LoggingConstant.java
+SPDXID: SPDXRef-item1176068
+FileChecksum: SHA1: 2aecd7a4f8b0e30c67065a85cd4db93fc6c3dd52
+FileChecksum: SHA256: f200c16d08f4def78ed4768dc1765a328e2f96f89f6c75828657304cfde43f09
+FileChecksum: MD5: c818bf54b81bcbc1e65c715a3e161010
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/logging-library/.gitignore
+SPDXID: SPDXRef-item1176071
+FileChecksum: SHA1: 4253903f81ffb1d582886794ae31fc80852d5643
+FileChecksum: SHA256: bb1fce942e6a7b120e93b54ad6768e5acdc8b46b9ec1a5241d15c5183a89b897
+FileChecksum: MD5: 7d69bc178fb6e3b3e1166f398fd0b01b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: platform-oam-2022-02-02.zip/platform-oam/.gitreview
+SPDXID: SPDXRef-item1176074
+FileChecksum: SHA1: 4f6217697a2d80ad7592e5cd8853099fda1ba89d
+FileChecksum: SHA256: 41020803bc69f9a773d029bb88efde1bc48bbd21a3ed7639fc3fe1c778045928
+FileChecksum: MD5: 9c8ae7abb742c2edb09eee40d9a9c978
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
