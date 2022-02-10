@@ -1,0 +1,778 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_proto-viewer-2022-02-02.zip_1644480742.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-02-10T08:12:23Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: proto-viewer-2022-02-02.zip
+PackageFileName: proto-viewer-2022-02-02.zip
+SPDXID: SPDXRef-upload322
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 3f0cebbdc991b733758f8328194e674d99a6ebcf
+PackageChecksum: SHA1: 42d66e6214bde9325781095943632aad96facaf3
+PackageChecksum: SHA256: f2fbabcc9d5b91d94690379024aa1b27f71b05b5d7cd726b981647cab79f2697
+PackageChecksum: MD5: 48c6d375dfcbcf8f0bd19081e670ba60
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload322
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/docs/index.rst
+SPDXID: SPDXRef-item1177801
+FileChecksum: SHA1: 5ef0ef218658386834c725158f1e0c03b083fde1
+FileChecksum: SHA256: 29ee57893edd2cc512abd512276e9a30ff3fa9c664333cccb43ed4451b7ff3da
+FileChecksum: MD5: ad1e28084305931a3e2114110cfd1db2
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/docs/developer-guide.rst
+SPDXID: SPDXRef-item1177805
+FileChecksum: SHA1: 1557f01d79b1a80cf53d788006d89d128c5e2407
+FileChecksum: SHA256: 2652e392b92175a84ab3988a7e56561339d62dcdd79a4ed5db15589e03ed3b6f
+FileChecksum: MD5: b2f40625b80fd2c3254c1246d013f66f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/docs/release-notes.rst
+SPDXID: SPDXRef-item1177804
+FileChecksum: SHA1: 8f7e8410f36872d694e135a26d8a3252faa88586
+FileChecksum: SHA256: 187f7e51ce7ed51efe5abb35e29f7c0935adc0c8b5589c6cfbbdf6b51d8b17af
+FileChecksum: MD5: af9630f82f81e01cc97c2b5fc57533ce
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/templates/embed.html
+SPDXID: SPDXRef-item1177829
+FileChecksum: SHA1: 1a1df51ec8b23871cf75473044ae8b80b0318d87
+FileChecksum: SHA256: cccf90a4eff06a66ca88a6b5bd58fe2ad00e6a193e88ef92983cfd777fd4bd67
+FileChecksum: MD5: bb50659c2f40f8861a9bff224bd59e3e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/templates/acumos-proto-viewer.css
+SPDXID: SPDXRef-item1177830
+FileChecksum: SHA1: a10b15f2fdbab53adcee8da48f84d31f52011caa
+FileChecksum: SHA256: 4a2217bfc33f5d48eead5dfa293dfd4f29add4c0136c9e06c9f3d5976e67ae6f
+FileChecksum: MD5: 6c52ff9c432e583f7f3c11877167697e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/LICENSE.txt
+SPDXID: SPDXRef-item1177813
+FileChecksum: SHA1: 867bb1e3b8b85aace0265b32305974eb7bfe3e2a
+FileChecksum: SHA256: 6cae3465eb3dbc92a5f4d2ad51f0cc02c3b94f88cb9c74240e96cb59410c36df
+FileChecksum: MD5: 1e0b727b49ad850fbac753e04bccbad2
+LicenseConcluded: Apache-2.0 OR CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/README.md
+SPDXID: SPDXRef-item1177826
+FileChecksum: SHA1: d9395f6aa7a41ededa2b2a9da11ae57b88dbd4b6
+FileChecksum: SHA256: 16b92bc3c93c24151d2a0c5678b891a5f151aff9093f8f463406499d5ccd61c9
+FileChecksum: MD5: 5dca0a7081fe0fd67518f4064ae07849
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. Acumos is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/setup.py
+SPDXID: SPDXRef-item1177807
+FileChecksum: SHA1: 3c086d53ed393cf87e3656f0b23448836c3374e0
+FileChecksum: SHA256: b9c3352a407fed6c018213dbb190c7df47f842df8e0b22b4e414c8afc8298c78
+FileChecksum: MD5: c8afc3e9cf83e3b4fc2ba7492f10ff46
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/bin/fake_data.py
+SPDXID: SPDXRef-item1177767
+FileChecksum: SHA1: b6646881ae9d8e5a0aac0f648eaae98317b64459
+FileChecksum: SHA256: cd80f409d7eb692ac0153f0288b6604947d773ae6c741aeca53e33ad8b0c2c29
+FileChecksum: MD5: de424df7ca2e26af4b306b3749a8aa40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/bin/run.py
+SPDXID: SPDXRef-item1177768
+FileChecksum: SHA1: e4d23ecdc70245cc3405d90bc0601370042a0f56
+FileChecksum: SHA256: 2e10affa3fb630151b2787fbd38735f1159d0199bc761840632ff8631853fb3f
+FileChecksum: MD5: cc57200ff34a6625fd7df6578d0d776a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/test_data.py
+SPDXID: SPDXRef-item1177770
+FileChecksum: SHA1: 175da655b07a5be7edcce97caf0ee6fa3a8f2ae6
+FileChecksum: SHA256: 60b56e4971782e37ba752b2321f29e423883353342965757ea3d258b3ee698cd
+FileChecksum: MD5: e94f57a286a51ae03d1b98a2dbdb0a25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/conftest.py
+SPDXID: SPDXRef-item1177771
+FileChecksum: SHA1: 0030d3e9502bd9fa8967080dce6d3b9d9bf880ca
+FileChecksum: SHA256: 0cac0bf8462fe5c9539ef15f72c4087e758a2607bfca7784444a31a4b484116a
+FileChecksum: MD5: d8577d8fca011fe5908787673be5a4bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/test_proto.py
+SPDXID: SPDXRef-item1177772
+FileChecksum: SHA1: a291f54841b26cca97ce65e700d992ad3078eb9b
+FileChecksum: SHA256: 08967804a690e5558f546bee5d4a5c91be325751faf753c1594ce833c374a2da
+FileChecksum: MD5: a5884641b748cb4405b551ce0295362a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/test_run_handlers.py
+SPDXID: SPDXRef-item1177773
+FileChecksum: SHA1: 126d05134d8d3d256648120720676e6806dbf458
+FileChecksum: SHA256: 1e9bd624db55f19b100853ba3a79171913031c055ae1e5788281cf647a16f0c8
+FileChecksum: MD5: b324fc5cb17c2891aec76074cdf8d24d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/3.png
+SPDXID: SPDXRef-item1177775
+FileChecksum: SHA1: a5a504d41c8f4ddc8f1584a43bce803ea3ef0440
+FileChecksum: SHA256: b3b031ae40ffba2bad18f3f2058b56ebe7ee3804b84de23c33555f747f5c8b3d
+FileChecksum: MD5: 88eff3265a8778f11dfbc4f75ff9025b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/6.png
+SPDXID: SPDXRef-item1177776
+FileChecksum: SHA1: 6d4d608ae8b007c93a96fc960b7b9500b55c9e10
+FileChecksum: SHA256: a89a0201c226dc55caadee6a6b2add0c6e4911609eb636a2b13f622e9cb836a9
+FileChecksum: MD5: d14a27cc52167842e3a9dbfc55d9cf1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © c9ÖahBu?Ìç[?5Â&ç:½?Nb´³,9û¶¹,ÛnÌ4u|b9Ü?£ЩS³HýGÓçqf;ÕÃy^8?µý?$gbðƍð]h¯5ۈÊ`£P?î$Ü]?»½ýÇR µ [t!$2¹;±ù»zúèg'J 0¬Ç_t?-f? Ñ/wí?¡î±A'ÒÃ?d Ta¾ÍǠ¶ÏÔjbv/^FNU?_TÌùQúp? </text>
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/9.png
+SPDXID: SPDXRef-item1177777
+FileChecksum: SHA1: ebb592cb6e0419eb0e0bda663e1b1c76ec211bf4
+FileChecksum: SHA256: d96e004a3e817867fbb9c88e4486cbf0ef3518d73a698e14495d89d00e183c4f
+FileChecksum: MD5: 6a9256d972fa3f24bc794b69b6312b3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/4.png
+SPDXID: SPDXRef-item1177778
+FileChecksum: SHA1: ef28d29ec769c4ea34aff1c9ef33a13bce7d79fa
+FileChecksum: SHA256: 967a776e713b85d716dea166ec10fa01e6455551b1a7af3d59c237d71e4e25fe
+FileChecksum: MD5: ed0affedd724ef2023b176df2f10a4dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/probe-testxyz-100.proto
+SPDXID: SPDXRef-item1177779
+FileChecksum: SHA1: ba4ad949e79438a6523263af1974dd8f93c83f16
+FileChecksum: SHA256: 7c5c7f6c6f0daf7bbbf410819d0bcab21d5f09be3e91062964666e641f725219
+FileChecksum: MD5: dafa934db0f09260a3a37177a71015c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/probe_testimage_100_proto_pb2.py
+SPDXID: SPDXRef-item1177780
+FileChecksum: SHA1: f324bd8207f02411fb092af53e64b4770fc5e397
+FileChecksum: SHA256: 9d20be949d2fca8ecd0f92d67259c5d4d70f338210cfeceafc77ef1b77ac6dda
+FileChecksum: MD5: 59010ae0e34dc152ea3ffbafa98a2ccf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/probe-testimage-100.proto
+SPDXID: SPDXRef-item1177781
+FileChecksum: SHA1: 14b155fdffd69bd6dfb508c2a9acf054b6b05bee
+FileChecksum: SHA256: 2c0b2c4dbc0597d50fad7448f673cbdc6f5fd408eca7d1c0ff7897b1389e64a4
+FileChecksum: MD5: 83cbf51dfb7eadfeb4b8c9caeeb52b43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/10.png
+SPDXID: SPDXRef-item1177782
+FileChecksum: SHA1: 3287274df6c0ad0cbcd315be519054d888aaeaec
+FileChecksum: SHA256: 965168a2ec3664a2d8bac4e6ff38d6fbcff467448e65107f75afd903266bd048
+FileChecksum: MD5: 64a30c939a952665f1053c75ead9bf22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/1j.jpg
+SPDXID: SPDXRef-item1177783
+FileChecksum: SHA1: 8efd89229911dcace6aaa8ba4de4de7360761b13
+FileChecksum: SHA256: 6b4b9d0f4e4c022b9743877c43e2cb5ff7f3510cb8c0c199533b2707b661e02b
+FileChecksum: MD5: 540b4425bce7381e16fd4e4e84aa38b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/7.png
+SPDXID: SPDXRef-item1177784
+FileChecksum: SHA1: bbd52fe4fb3eef095824838e4f6fd7cdd4c661e4
+FileChecksum: SHA256: a33cd8c16436b54c70bd801464368fa54e7c95fae7e97607d757f0b0d5344145
+FileChecksum: MD5: 2342dbe6d4655dbb16777f13f0bf7ad5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/5j.jpg
+SPDXID: SPDXRef-item1177785
+FileChecksum: SHA1: 97c88438ccb98f97bf4258f927f4ddb016b5d64e
+FileChecksum: SHA256: badddcb1695d5b1523a3f077b1be748ed6dd8495b27ab6444854570b451b7022
+FileChecksum: MD5: e0c0857d94b7966c95b5560c895028de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/2j.jpg
+SPDXID: SPDXRef-item1177786
+FileChecksum: SHA1: 7a2f11eac35517c131015492a2075b8efc9c5745
+FileChecksum: SHA256: e877144bfdccec6684e1e59fd3a6306a396337cc065f3d9880bacf3176844231
+FileChecksum: MD5: ab31b5a38ef1a24260ea38883f09726f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/5.png
+SPDXID: SPDXRef-item1177787
+FileChecksum: SHA1: 71b7f71a2f8c7b4e65d76f9c8bfc4cb01088e58d
+FileChecksum: SHA256: 593397f0438f3ec39874802c9438fb0d0aea6cd9cb658501f7a8db93136a15d5
+FileChecksum: MD5: 5aebbe5462f1c9d7d31aa7668909d90a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/probe-testnested-100.proto
+SPDXID: SPDXRef-item1177788
+FileChecksum: SHA1: 52c2c7953f37af4d703e79b784c732172d6cc711
+FileChecksum: SHA256: 4203635cf7abad4383da8fc95405f029dfbd51502732237d3ad215334580155a
+FileChecksum: MD5: 7fc8b81391500dcdb51b4bfb2aa82db7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/2.png
+SPDXID: SPDXRef-item1177789
+FileChecksum: SHA1: 15d03fe70d1534f4a4ee7e5cf1317ee5327a5b69
+FileChecksum: SHA256: e0739dce1f46165b130eeec505315b60f89358a244c7f987e08c887dccfb0d40
+FileChecksum: MD5: 9cf4de68544ee4fa6c4de57adb5c515e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/1.png
+SPDXID: SPDXRef-item1177790
+FileChecksum: SHA1: 0d97951a0c91237d9e1b162918eb99f5cfea4e1e
+FileChecksum: SHA256: 0875e1028f59be445ae327089877ed0d3923bd0709c6c1f5129293f35b0566f8
+FileChecksum: MD5: 2d6c2b8442faba4aa82846601a8f85b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/probe_testxyz_100_proto_pb2.py
+SPDXID: SPDXRef-item1177791
+FileChecksum: SHA1: c0df46e44ebf6d7b7e8d006e229e84a57d58730a
+FileChecksum: SHA256: 0740b667f4cabfc7152b10b8324c7260dcb2b308c186777a2709568db3e66be5
+FileChecksum: MD5: a43fa4e909a0efa89fd052e023c34ac3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/image-mood-classification-100.proto
+SPDXID: SPDXRef-item1177792
+FileChecksum: SHA1: 9e0c0bc2e5b1cc8f72e98d3de4cec3f05e51b1e3
+FileChecksum: SHA256: 89753b57a56bc283ad828da4ac59c25584fa2a7a3c137161175d83d2f8f91452
+FileChecksum: MD5: 0fb21b7fb57579b90911e5cff831c3e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/probe_testnested_100_proto_pb2.py
+SPDXID: SPDXRef-item1177793
+FileChecksum: SHA1: 1d54313df55d87899345090c2ad7ebfaef2bdd0d
+FileChecksum: SHA256: 99a9fe4434ca88b806f029c96ea593cd499f4df3d5ef79406f49c0b91e8be629
+FileChecksum: MD5: 87898ce740fcace2f415f87f2416513f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/4j.jpg
+SPDXID: SPDXRef-item1177794
+FileChecksum: SHA1: 94600ca37b006f81756f5e4cc9af19aa23206051
+FileChecksum: SHA256: ca7db82bb2d08493b1978b96d31cb2799740533f21cbdafbf35cd9562471a55c
+FileChecksum: MD5: 112a839ba267224891563e81f9308e32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/6j.jpg
+SPDXID: SPDXRef-item1177795
+FileChecksum: SHA1: 3b51b73802cc643aa3a1e330a364cb6e0ba2c59c
+FileChecksum: SHA256: af9f102fe88d782c37b43d2b7d3abacb88979c4b448582badecb7315098884b3
+FileChecksum: MD5: dc2fc8f5ec57aa271c8d62508f8704b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Companydesc?sRGB IEC61966-2.1?sRGB IEC61966-2.1XYZ óQ ÌXYZ XYZ o¢8õ?XYZ b·?ÚXYZ $ ?¶Ïdesc?IEC http://www.iec.ch?IEC http://www.iec.chdesc.IEC 61966-2.1 Default RGB colour space - sRGB.IEC 61966-2.1 Default RGB colour space - sRGBdesc,Reference Viewing Condition in IEC61966-2.1,Reference Viewing Condition in IEC61966-2.1view?¤þ?_.?Ï íÌ \?XYZ L	VPW?çmeas ?sig CRT curv </text>
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/8.png
+SPDXID: SPDXRef-item1177796
+FileChecksum: SHA1: bae040487aca19a61b759cc4643d0a960f633af1
+FileChecksum: SHA256: a4c3c95a23788a96ee5b09960e5736e03e85f44942bc55acb3eac5fcea45da1b
+FileChecksum: MD5: 692db430dd94a8261bc494cbc5fcbecf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	Uܽw?TCéN?Ûï޽ýVq¡ÍÆ2ÑQÃm ñ¶?:7?0ú¬@.ñ¾¤$´?bǍq?ÄD ;Àۯè4î°mÞeÍÀxïNEëË?4?~»D;?B½#m\·»×Ð?ޔßê¦! ò{wm?ɍ(6?¡]sÝÛÁGTPÁ3w|zwÿFtÆi~ë?7¢rT <xÀA#}÷¾s?Vq?ϙï6ð³?ୟ[<J m?tpخsÜ6ϝm`¢ý;øî.ðëæX0X?¨?ú?ÐGµ?°gy{?Ô â|_ÚÃ:ß=þ»w·a@Û7ÏÄHçþ¼?s?ÍXSeݰÔdqAï¤1yþÚýԆ?¹÷îYÚi03S[ûÂ93ÊW½p¤ÛF¢u^Z§Õ[?yê®Ý[»?§Ï=ok?/fIí?FàèQO3Ú?*ݯ ÍA!«÷Þk=°~ÿ?>ë?½¸nª?ö¦Ն]ðÕ@çl3(]£m?zãâì~0`ò±¶íÝ?l½ómÇ?º{ÆßÖût?2 n?ܳëmÜ?«}q4?úT³vc H4Üq©?ôÿéã+Íàë?ÕÅÓ{TÏ×gvú?ѼËj?j#­OQ[!Êr`pi?¼ìӭí޳ TÞ?×ñM±¡cí°쁥?/X?/ÍXýïo×Ϸ²?v_çÜögº5?´?Ñlpg?q Xµ¥?í뚎»?Íù¸?â?]Cæ×%Ý! ß?a­#â?6¿­±?U¼7L1øº@h?|×Û×?±7e̗?7N û?Jâ-G?«5s͊QM®`ÏÝÞë8´ڟwñÜù õ	ø?A?ÌbôI«Î[L'*-Å çޭ+xó7_f$Vq¶ØËò°ì¼~½ÔÀ@?[ò®-?k¹ȉg7Ö?±?k?²­JæÔ?üób³ݨG¸9CrãÒ:eèã°?´ÊSC8?:\,$àâöü WÉ-?ç{ï?pÓSw&M¬Á!úyúãÜ 5h'}ÇY2ã¬ ¹6É?;?mm </text>
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/image_mood_classification_100_proto_pb2.py
+SPDXID: SPDXRef-item1177797
+FileChecksum: SHA1: a28a756ddb0367dc0e5554d351a6028ffd818c0e
+FileChecksum: SHA256: 666b4b802488436baa83dc8b707303f790b3e63e1522975f660b653b6baf5669
+FileChecksum: MD5: c422d98ab6b7ca832f4de916e66a3681
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tests/fixtures/3j.jpg
+SPDXID: SPDXRef-item1177798
+FileChecksum: SHA1: f8a4f64b2e5d88bfc74df3ea993a0fcf302156f3
+FileChecksum: SHA256: 3b43049e6c4e533f06ad3664abb7b9b1159045406a26572c46679d6ebc1696a1
+FileChecksum: MD5: 45c1a7d8e0db076212a5d876b68ab84e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/docs/probe-plot.png
+SPDXID: SPDXRef-item1177800
+FileChecksum: SHA1: c11b75d2fb724b09af4cef5b071e4ea2f674490d
+FileChecksum: SHA256: 2612f9d072ebf4fb91dd2eccf019e91bd759ee0b3846cc6f8c0da8f84af301a1
+FileChecksum: MD5: ff7a8fee175f233268f17c4da95e9a8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/docs/.gitignore
+SPDXID: SPDXRef-item1177802
+FileChecksum: SHA1: a08af1b380b5b3f4ca934c9315513cbd39e63b09
+FileChecksum: SHA256: a888b9df89402a815bdb15d30c5280b090be11655ab4cc2299ce748d44cd6ed4
+FileChecksum: MD5: b554dc1c444b2efe29bf89e43f753cb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/docs/probe-start.png
+SPDXID: SPDXRef-item1177803
+FileChecksum: SHA1: fca729f0f2c247dddff704517cc22d43623a9639
+FileChecksum: SHA256: f1e6f186bb68def9be7cdb98f8e30f4c166451ff08bd607e2007b10726448478
+FileChecksum: MD5: b6b6efd1a8d855e38dab3651500f031c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/MANIFEST.in
+SPDXID: SPDXRef-item1177806
+FileChecksum: SHA1: 3877188a718675f810c3dc8fd75a994a2faeb481
+FileChecksum: SHA256: 3009344a33c263824532fe2d38408fd256cec6238c23a3582e83ae4d88cc048d
+FileChecksum: MD5: 53a98063acc83400ce06b22ad971981b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tox.ini
+SPDXID: SPDXRef-item1177808
+FileChecksum: SHA1: b0950c41c5f42bfcb168728b402f9d6b989e5ed0
+FileChecksum: SHA256: 5e1dc7b0aade700b2ad864516d495df09b9ad34a0be4326f0642fd51401ea4c2
+FileChecksum: MD5: ea982f3acd3ead9bd1454cdb432dc51d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/INFO.yaml
+SPDXID: SPDXRef-item1177809
+FileChecksum: SHA1: fff93b8796b2e332a6df41f7d8b24f9c9ecf1696
+FileChecksum: SHA256: ac6f8111aa704beffc6efc9cfe70cde04ac52ac870a078ce6eb932c45fe8449d
+FileChecksum: MD5: 4a0a80cbff12bd8b3eb3f7133f1ce07a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/.gitignore
+SPDXID: SPDXRef-item1177810
+FileChecksum: SHA1: f87dfe7cfbce63b749cfc17b51b5851bfd8f6121
+FileChecksum: SHA256: eb62f5aad53a568c699240bb282aa794648d163780678d042a0261bc375cfd19
+FileChecksum: MD5: 59745f14aa13b52c1503703174cca1b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/container-tag.yaml
+SPDXID: SPDXRef-item1177811
+FileChecksum: SHA1: 9a369ac406f00ff4fe68ec307f14492ca3fb12a6
+FileChecksum: SHA256: 2c218f58e3a1c4742062e08a39e553875ce70428426dadf0dab291656aaf4f27
+FileChecksum: MD5: b403b81f97ffbdeb33439314ae05a289
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/swagger.yaml
+SPDXID: SPDXRef-item1177812
+FileChecksum: SHA1: 889037e85879c54798ef5060cff4b59f68b8ccbb
+FileChecksum: SHA256: 546eea82289aaa1c614925cd32719c0ba1303427556b1390e3bb7ca6e89cbc3e
+FileChecksum: MD5: 7e9d04e41c8c3bc00e914b93981cb94a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/requirements.txt
+SPDXID: SPDXRef-item1177814
+FileChecksum: SHA1: 3805c114e5246f8a130e7d054a69b297732aed61
+FileChecksum: SHA256: 64e9ef74011c20ccbff8f16cec5f592d7af6e936348c936eadc5e0e4d0404beb
+FileChecksum: MD5: e56c68af67716be6202aa5d483d807c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/acumos_proto_viewer/server_lifecycle.py
+SPDXID: SPDXRef-item1177816
+FileChecksum: SHA1: f4b2ff7389036a4f10f2f7c69699ca94605d3028
+FileChecksum: SHA256: 505a8ea42f0380c028545d921ce312b71a76c545beb51eae1567a21a00dd31b4
+FileChecksum: MD5: c3fd108a5507544afabb215614dc0c83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/acumos_proto_viewer/__init__.py
+SPDXID: SPDXRef-item1177817
+FileChecksum: SHA1: 3c95ed6e0656ee92f75f93ff24135f3873a42026
+FileChecksum: SHA256: 82a5fde176cd5b5b091a8a9fb5f8217af162880e73599f2a988634df9162e742
+FileChecksum: MD5: d3335dc8693c686a529145d4d03cef65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/acumos_proto_viewer/run_handlers.py
+SPDXID: SPDXRef-item1177818
+FileChecksum: SHA1: acc294a25fe7454f45a312be9fc19f90d0b702b5
+FileChecksum: SHA256: 5a123ed682832cd7d0d3bd1f710547f25f4bedbd40c34120c3fe4344dbdeedae
+FileChecksum: MD5: 902d79ebf2d3a9825ad31de5f7164ed1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/acumos_proto_viewer/exceptions.py
+SPDXID: SPDXRef-item1177819
+FileChecksum: SHA1: 53cbea7ea36467688c6c2be1aa39efabddac4cee
+FileChecksum: SHA256: 5cbefbc364cc291ea3bf32764143e14af8da2c2b51636c177599440f61d2e0ca
+FileChecksum: MD5: 231e4e1901af326fadc80ff5bafdaae0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/acumos_proto_viewer/data.py
+SPDXID: SPDXRef-item1177820
+FileChecksum: SHA1: c3467a7fbd770dbb0c2bfd6696237714aa458bff
+FileChecksum: SHA256: 2aa3030702c58a811cbff6a3010f7e42ed08f4912ec12948b46dab979eacf676
+FileChecksum: MD5: 9e1282699df3c1a939403134779b905d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/acumos_proto_viewer/utils.py
+SPDXID: SPDXRef-item1177821
+FileChecksum: SHA1: 8fb71ad2de7bbff46b5c871c62acc5c719262b72
+FileChecksum: SHA256: 923dd0af0e6e7094a73ce4fcbf140d3be296ecec958ac8b02eb2909dd90a9e69
+FileChecksum: MD5: 02497dfeeec39b0378b0218c34af026a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/Dockerfile
+SPDXID: SPDXRef-item1177822
+FileChecksum: SHA1: e478ae6b03624015d42e363daaace52628e54283
+FileChecksum: SHA256: a49522a858cc1048e119e91acd1fb8004d9cd79335cd09f9687291d3db9fe440
+FileChecksum: MD5: 8162a3c86fcba98429bd845b9de38311
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/tox-local.ini
+SPDXID: SPDXRef-item1177823
+FileChecksum: SHA1: 91421a55e954a33a98792a8d9a72f5d78eada5ec
+FileChecksum: SHA256: d8e874ed71a4d86492027af431f189df87a70bdbbaff0794def260cb8027878c
+FileChecksum: MD5: 62cabd42719d3f31d46406ac62830cef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/pom.xml
+SPDXID: SPDXRef-item1177824
+FileChecksum: SHA1: 4758f5be1e9c1884b34e2e135bf89bd02bd24eed
+FileChecksum: SHA256: 28359e31c2956129b0a7423a94f2b6eeda02e3fe01f6b6c4528a2e151790f1de
+FileChecksum: MD5: fbd5e07eace93ad3b4b03761f4b31667
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/theme.yaml
+SPDXID: SPDXRef-item1177825
+FileChecksum: SHA1: 4b07cdf0183f7023d2dd24069247253d4c77afce
+FileChecksum: SHA256: ff05525b60a6118aa59f5015c4ab8adff19cc64b6b1a6db0050ffb816ec77278
+FileChecksum: MD5: 94f8f3a06bcb430f7acecad3319f4b77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: proto-viewer-2022-02-02.zip/proto-viewer/.gitreview
+SPDXID: SPDXRef-item1177827
+FileChecksum: SHA1: 81b143346e394faffe4d33fb737b2cf3ea5a3383
+FileChecksum: SHA256: 4595ae80287533ab0b0fd5d4e3f5069bcbda169096ceb3af80c8344ab6bb96a9
+FileChecksum: MD5: 3ce8a358593deacf584e236f888b1f86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
