@@ -1,0 +1,1216 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_acumos-azure-client-2022-02-01.zip_1644480496.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-02-10T08:08:16Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: acumos-azure-client-2022-02-01.zip
+PackageFileName: acumos-azure-client-2022-02-01.zip
+SPDXID: SPDXRef-upload291
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: bde034387343a583d29216401c0385af1445904e
+PackageChecksum: SHA1: c54048ca3fd440377850aaab85278525b54c4224
+PackageChecksum: SHA256: 75ff9ae77f25429de5f0ba4a0be68d9bdaa2e58086bc035a03345cc88ef8a3dc
+PackageChecksum: MD5: deb45602c5c4817ab3d22aaff573e8c1
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload291
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/docs/index.rst
+SPDXID: SPDXRef-item1171509
+FileChecksum: SHA1: ebb8a250b0a6172beec341be3ca47856125b7ddf
+FileChecksum: SHA256: 26362cd0acf89c293b7426ab3c473408d749f6c4d94b4e5229aec59b3f7fa1ba
+FileChecksum: MD5: 6caa773f85e7ab64b726491b0395bc8b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/docs/release-notes.rst
+SPDXID: SPDXRef-item1171510
+FileChecksum: SHA1: 62c2548ee361f34b0b70a1bd08bd300a4735b3f5
+FileChecksum: SHA256: eb3e3ddf65a441cd069f32a38fe370d6388170ffeea55a8b14b69a7c8b82d02a
+FileChecksum: MD5: 6c5d6de81de1c3ddda747d68c6970f90
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/docs/developer-guide.rst
+SPDXID: SPDXRef-item1171511
+FileChecksum: SHA1: a8a9057817e19523dc090842d0947ca0ff8bc545
+FileChecksum: SHA256: 0009e0a149f93846f1f1ab54a3d6bc9cd75aa63d42f2a7001c4c84c69dbccecc
+FileChecksum: MD5: b81aba6f5448ca495cdd19fcbad12da8
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/license/licenses.properties
+SPDXID: SPDXRef-item1171514
+FileChecksum: SHA1: aee72dfc91a08ffc24c24d27873075f81b65989d
+FileChecksum: SHA256: 10379135b206426769c0852f696f3d8864e50eb14f14da509a3f20ce03cd75eb
+FileChecksum: MD5: 42cc9c7869b44c8408397bd6d499bbf2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/resources/logback.xml
+SPDXID: SPDXRef-item1171520
+FileChecksum: SHA1: d15f61be0b428529434e4bd839ac3ec8e2c4b5cb
+FileChecksum: SHA256: 7d865bd5a2c15680bfdd60a84a4c7ee52050630fd3dae2e2fd36103ebbc16850
+FileChecksum: MD5: 63b1aa7a71e1e29dce8a8cb36803fe5e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. =================================================================================== This Acumos software file is distributed by AT&T and Tech Mahindra under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. ===============LICENSE_END========================================================= --> configuration scan="true" scanPeriod="3 seconds" debug="false"> </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/license/acumos/header.txt
+SPDXID: SPDXRef-item1171517
+FileChecksum: SHA1: df09ece0d24c1d95a278905bff78c4a1c686ccec
+FileChecksum: SHA256: 644341f2388f1c9d5551786882cb41c15aff64adc90bae400d94240b4055266e
+FileChecksum: MD5: fd976600fafe010d9febbabd6d6c9749
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/transport/ContainerInfo.java
+SPDXID: SPDXRef-item1171528
+FileChecksum: SHA1: 33f61fb891acddcd337e5260f2a1ebabe0113284
+FileChecksum: SHA256: 2adb120ae04fbc0715ba4901f13acfd2f288c4e05e1eb289ecf05da2635eb5d5
+FileChecksum: MD5: f07cea21d433891cba1355b3b73e2fbb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/transport/AzureDeployDataObject.java
+SPDXID: SPDXRef-item1171527
+FileChecksum: SHA1: 73dfc86aa1f0ea385b66facd256346fd20652930
+FileChecksum: SHA256: 72441446378f0f3ca5d0610d1a9ec2d63df64436fd5d091b0a9d0c543ca3170c
+FileChecksum: MD5: 63027fc104cbb963c31c7fc72d752d66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/transport/TransportBean.java
+SPDXID: SPDXRef-item1171531
+FileChecksum: SHA1: e42eef4b514ebb08a089ad436bbe930ae43bca44
+FileChecksum: SHA256: ec6b7645b56d4165f51fe540941c950295f18b4c1541cc365a88b1c16cb749ea
+FileChecksum: MD5: ee57fb132a8649c5bfabd3f87bdb6ff5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/transport/MLNotification.java
+SPDXID: SPDXRef-item1171532
+FileChecksum: SHA1: 838e8faa03602a7b97b80ab40f8c958d0aee38db
+FileChecksum: SHA256: c6d6ba2d877fbb9cd9e108abed97c44afaa848e9fc412408b6e0947074801691
+FileChecksum: MD5: d80e08209df605dea42de2b3d63c6de1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/transport/DeploymentBean.java
+SPDXID: SPDXRef-item1171534
+FileChecksum: SHA1: 5a0db8a1969e55516104f576747f163b641811f3
+FileChecksum: SHA256: ccbe8844a19374eecbe4907becfaa35ec889892bf88fe561288d41029ac14a7c
+FileChecksum: MD5: e8c40c5145d7410e9700d094f97263a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/transport/AzureDeployBean.java
+SPDXID: SPDXRef-item1171535
+FileChecksum: SHA1: 2404f12265a55716d6c42713cd2901f046e98e9e
+FileChecksum: SHA256: 97815c3ee1dc6ce7ebd471a6b14d59204726b71656ca6313e43dfa0f06b59557
+FileChecksum: MD5: d7985daf23fd8a3036ccea4a2474a68e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/SwaggerConfiguration.java
+SPDXID: SPDXRef-item1171538
+FileChecksum: SHA1: d5856e31450f7d8a89465d32b538f5848a586b28
+FileChecksum: SHA256: bc031624a908efd9115a1315cd3377310197e124d8f999849274e924307bedc8
+FileChecksum: MD5: 969c4f087da3d02edf5b4d845d453e04
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/transport/SingletonMapClass.java
+SPDXID: SPDXRef-item1171536
+FileChecksum: SHA1: a2c7cd26c978f4dd7ce9bcd5959783bac632ab7d
+FileChecksum: SHA256: 4dc411919e4fe71aefdce42a80ea412d635ebe9bcc04ea40186bde04fcb6b575
+FileChecksum: MD5: 300b57545db07d7a30b0f68b0adb380c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/transport/AzureContainerBean.java
+SPDXID: SPDXRef-item1171537
+FileChecksum: SHA1: 6a66a8a2c4deeaee83f65a0f9a8145520529bb35
+FileChecksum: SHA256: 6e68c89742a4fb7018f95828b6f6eabb369e2bbd7fb0a23074471b8ec13bc1d6
+FileChecksum: MD5: 0d9fb81037dfa463e1925c65494653fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/InputField.java
+SPDXID: SPDXRef-item1171540
+FileChecksum: SHA1: fccf6c821881d2f3b38206380c5c43cd854e3179
+FileChecksum: SHA256: e48e2c0f8dd603598643ac0f463b74192b48e7bba2de215e3699bcf18b067317
+FileChecksum: MD5: 9f10602523a6c5cc77abd11965cc8861
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/OperationSignatureList.java
+SPDXID: SPDXRef-item1171541
+FileChecksum: SHA1: b64fea89e44ba69b17116164ce2b8538456652c8
+FileChecksum: SHA256: d76c2d6651958a733fabb8cebab137a4e57613e6d1a7829c9c09e0161cc75dc0
+FileChecksum: MD5: 789c215728fdb89ae5c9f5e4615d74f1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/AppProperties.java
+SPDXID: SPDXRef-item1171542
+FileChecksum: SHA1: 1a480d270477c6bce1b48f29af36638daff355de
+FileChecksum: SHA256: 3eed4c9f857c4c25431bbf7437a13ac08b18d29d3c4d79e7d7b8db4f3b539fe9
+FileChecksum: MD5: bf4bd08eed938e4da45f498d15b6201d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/DataBrokerBean.java
+SPDXID: SPDXRef-item1171543
+FileChecksum: SHA1: a872b45e18787b82519084094d1f6df286313933
+FileChecksum: SHA256: 0fc47aabc34aee8bdc1af837cea94efe457713e4badab35c9ad043bd8f31a585
+FileChecksum: MD5: c7a896932930da81bffe56df53bfc294
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/Component.java
+SPDXID: SPDXRef-item1171544
+FileChecksum: SHA1: 14246c57ef097e67c9810943eba739715362f4b0
+FileChecksum: SHA256: c3b54e5af291015c8d62d8e4c437f1952639cfaac6c2519554db7b789968e153
+FileChecksum: MD5: 94e2d2192ae02e21d3afb29cefe58cbc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/DockerUtils.java
+SPDXID: SPDXRef-item1171547
+FileChecksum: SHA1: 22d5b0d8d2f6a2247d9b825f164a061386f1a9ca
+FileChecksum: SHA256: 1ccff6e2adc101f036cf8923d8090eea85e046330c16a40a173a30f5f75971cf
+FileChecksum: MD5: a028d7b13a05526dcdcf64759b66eadb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/ParseJSON.java
+SPDXID: SPDXRef-item1171546
+FileChecksum: SHA1: df4ac0f0431e62e9e061bf9ac87f85d19412acf7
+FileChecksum: SHA256: a9e6c86b7dbb6f761fec16417cd5328d3478c80df0073465c156f7c7cd1826c4
+FileChecksum: MD5: 263e885794b0a69b59a4bb23197f402c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/DockerInfo.java
+SPDXID: SPDXRef-item1171545
+FileChecksum: SHA1: de06f2466c4e716de66b59a47cc7fb04792083a1
+FileChecksum: SHA256: 9ca7a3f3ab062e75cde617ef95815c4153ed2c2c9ea0a6080e5d03b4baf0c342
+FileChecksum: MD5: 0fd5177e45371ae9089edde55f018c33
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/OutputField.java
+SPDXID: SPDXRef-item1171549
+FileChecksum: SHA1: f3c1c6acdda146027c5fe6ea995ce4d5f4a9b0c5
+FileChecksum: SHA256: dd199958154f3c7710db8e0fa2ee757b7b9e66236bd843aae0c3e1124f37c812
+FileChecksum: MD5: 2b0348e69f81a659d65ecd22517c0f52
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/Orchestrator.java
+SPDXID: SPDXRef-item1171551
+FileChecksum: SHA1: c461dcfe37058b00178cd6531efcf901fe5ac9c1
+FileChecksum: SHA256: d132f6d3e919af5a00ea973eaf7729e823e28f3aebfcde18a1421e87c0ee1c97
+FileChecksum: MD5: 2401c03d8ae7faa8366dd5fb6f95bbc5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/SSHShell.java
+SPDXID: SPDXRef-item1171550
+FileChecksum: SHA1: 6cdd774e2fb35a52557cbfe6c0a494dba28cfc82
+FileChecksum: SHA256: 63877ceb03730c8abb747bb8846f058b4cd1e1b359024542ce57d5d8fdbe5021
+FileChecksum: MD5: c1e67fab22efaa0e8b9c600487591735
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/Node.java
+SPDXID: SPDXRef-item1171552
+FileChecksum: SHA1: e4ce09b94fa5a5ecad586a7bfdee864f0b979a3e
+FileChecksum: SHA256: e68eb936dd2d52118def25ccc8f7100d9f06e993847d7671ab2d4cf9b8051dc9
+FileChecksum: MD5: d138d9d165f08f614c4cf8b37543edad
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/OperationSignature.java
+SPDXID: SPDXRef-item1171554
+FileChecksum: SHA1: 5481ad76f2a55838c4231f889a0ead3583cb98a3
+FileChecksum: SHA256: e313fbc7914ad8178b90ac40ac3fa1283c818ac5466dcebad17f66d34350e327
+FileChecksum: MD5: a017cf668d35d1877c9e103e2d745a36
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/TypeAndRoleHierarchyList.java
+SPDXID: SPDXRef-item1171553
+FileChecksum: SHA1: bbf5d2bfbf255cf10229db114ae647c2c3c56539
+FileChecksum: SHA256: 282bc15385ac5f6b2c819b9331ec8b89aae12a0fd19291b606143cba560b9a05
+FileChecksum: MD5: 7daaebeaf6e76ca481e9f16a8b7c9290
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/DockerInfoList.java
+SPDXID: SPDXRef-item1171555
+FileChecksum: SHA1: f5456f6c9f43b8929511c02ae3dc3ee373e11e76
+FileChecksum: SHA256: 406c27ef727b98cb040835a0d9878683e67f0a7471339c531e831193b344985a
+FileChecksum: MD5: 07d831dcc833cae930c6c0810d853f27
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/MapOutputs.java
+SPDXID: SPDXRef-item1171556
+FileChecksum: SHA1: 69cfde80370e50d5f579fed9793d8a10e3f2b627
+FileChecksum: SHA256: 8258128714260c88aae0c5ec3f42e6d92de6052304b87cec80793d0aae8f7ef0
+FileChecksum: MD5: c2498070c4c8dc3652c6a1d362bd5b95
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/ConnectedTo.java
+SPDXID: SPDXRef-item1171557
+FileChecksum: SHA1: 10749a4bc2cee83c46f9d89e3f0e23ec8c265d77
+FileChecksum: SHA256: 1b03d025c8b50ab6f5b998d3a5742d149c0b22339ee17b3c013fbab5e725cad0
+FileChecksum: MD5: 465aab1bd93a017c21752e562fd50433
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/NodeTree.java
+SPDXID: SPDXRef-item1171559
+FileChecksum: SHA1: 3aebb739269aff90f98cfff9488d70c583d4281d
+FileChecksum: SHA256: 0f630900743eeecb53fbe850b68bf898073050b15da56fbc6f249d2ab6e94f76
+FileChecksum: MD5: af66ea94c6a807b01968068af977d1e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/AzureCommonUtil.java
+SPDXID: SPDXRef-item1171558
+FileChecksum: SHA1: 1ae244446e053d97e6d4d670f167cbf87bcf99c2
+FileChecksum: SHA256: 8c36dac078610561c4d4ebea9a646aeb57a19eaf0e9edf6b0fe54d8efa6d561f
+FileChecksum: MD5: ed27bb0351075dc86f77829550ee0193
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/ProbeIndicator.java
+SPDXID: SPDXRef-item1171561
+FileChecksum: SHA1: 1e6d4ad6bf7bc2eed3211d3349a377413bc40919
+FileChecksum: SHA256: e7716e4d6508da6f7bfa7dc68fe52631ad785e8498ea50d6a798535cc649704e
+FileChecksum: MD5: 592cbe40f17c4b54ae55841876e24b0c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/AzureClientConstants.java
+SPDXID: SPDXRef-item1171560
+FileChecksum: SHA1: 034a37be5332ef756bd79bf769a08c41d79e34e2
+FileChecksum: SHA256: 6521608e7a8b7d8d6e9c0c0142ef00a9df6f0e08e9ae48c4466b3d12c48d006b
+FileChecksum: MD5: 80ddf53bf28616b4dfc31f32dd2fcff0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/DataBrokerMap.java
+SPDXID: SPDXRef-item1171563
+FileChecksum: SHA1: 9f273489c7395c991777db1ce712e350d626ab5e
+FileChecksum: SHA256: 37eb6e83660a8053a44910b540f1b447207d664d17f158d44c5c5cb7b52de241
+FileChecksum: MD5: 1cb56f5cbc1fcaa5dcd47be9a3ac281f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/Blueprint.java
+SPDXID: SPDXRef-item1171562
+FileChecksum: SHA1: 229de59e6970094e19901694b02ce2b9c3741932
+FileChecksum: SHA256: 88fd26a99227a2455df2a6991240b075e0878dac597e55eacc02fcce3f5d0232
+FileChecksum: MD5: bdd4eae54a4bfae16ea840460d0be347
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/AzureEncrypt.java
+SPDXID: SPDXRef-item1171564
+FileChecksum: SHA1: 03b0ec078d98e47c2dc11523b625cd4d689479d1
+FileChecksum: SHA256: a43042fc71997e634cfce2f73a76526e09b6b4307fa2117c1dcc201b3feef731
+FileChecksum: MD5: 149ce2ba96733b1fd49099742a113e86
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/AzureBean.java
+SPDXID: SPDXRef-item1171565
+FileChecksum: SHA1: b98c5ac2f786179bb538aedd7a2d8b3e50a82c11
+FileChecksum: SHA256: d62b412cde99c099e777e87cc3f23a9d1e56734ad4387b31fb13adb2234167e9
+FileChecksum: MD5: 08a115822e1667fcca227d9803d82439
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/MapInputs.java
+SPDXID: SPDXRef-item1171566
+FileChecksum: SHA1: 4e316e7d9504c2b19cc90d9f0d52f027020b86b1
+FileChecksum: SHA256: 58e16db86f1356c64ea2424e45961251147e2ee5608af06af364e417c6dee4fc
+FileChecksum: MD5: 98146b6f1d741aad6eeeb4dfc56a57eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/AzureClientServiceApplication.java
+SPDXID: SPDXRef-item1171570
+FileChecksum: SHA1: 94b196b1154bef1aa4021d9895a8aaba8fec34f1
+FileChecksum: SHA256: ce4c9b5ee30ff51227ef0b7ea68dfa06e48e69cc8d9f30d0c1efca031db4d7ac
+FileChecksum: MD5: f6c2d0b16cc0247c0f3e41487139a3cf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/controller/AbstractController.java
+SPDXID: SPDXRef-item1171569
+FileChecksum: SHA1: 6965c1f22214cb9e469b97a36f5054a53e84650d
+FileChecksum: SHA256: 1d2faefa7758a8cda83861a0f8f37cab9d1b38ed1ae4f50242cc0697de58a763
+FileChecksum: MD5: 0718dd8f2a08ad274ff21d447ce85e4e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/controller/AzureServiceController.java
+SPDXID: SPDXRef-item1171568
+FileChecksum: SHA1: ca37ca12b7ebf5407068a18ae4e4b02e3dcfae30
+FileChecksum: SHA256: d8953471ae6c233716fcf2ba711bb5205d2d7cb61d0e7b7b788afa0ef37323cb
+FileChecksum: MD5: b4671289571cc3b7b3b9fdd7dd7451f5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/logging/LogConfig.java
+SPDXID: SPDXRef-item1171572
+FileChecksum: SHA1: 8b104c78f1e02146903409314176f435d5145766
+FileChecksum: SHA256: 24485b79049a7d304cc4889979b93ef6da7bee9101e8ccf27297ab9a678cff39
+FileChecksum: MD5: 7dd190f048088c7055ac10313500abe4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/api/APINames.java
+SPDXID: SPDXRef-item1171575
+FileChecksum: SHA1: d14a3eee342d28bc91c6124a0cc6f01691564668
+FileChecksum: SHA256: db8830385c40e1dc4afa9b4c6260fae370df6f8899161d7146a2e69daab397ce
+FileChecksum: MD5: 76e37919551b3e6124ded4db808af03c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/logging/ACUMOSLogConstants.java
+SPDXID: SPDXRef-item1171573
+FileChecksum: SHA1: 765d50c73fe3dee80237488e4275884e1e773e7a
+FileChecksum: SHA256: e894493247802489d59927c9181653e93d895e5e6cea096a0036a5484e91dcd9
+FileChecksum: MD5: b7a673b410a66fa6db39ff72c22c0fcd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/service/impl/AzureServiceImpl.java
+SPDXID: SPDXRef-item1171578
+FileChecksum: SHA1: 1fcb954591a7f95b0bd6720441893805aa8828cf
+FileChecksum: SHA256: 10f080685b4f61c5cee424592495cbf2ab84ce822571ed7aaad6b742bd14bfe5
+FileChecksum: MD5: 36dc18906759b76f1460fc7b62535c79
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/service/impl/AzureCompositeSolution.java
+SPDXID: SPDXRef-item1171581
+FileChecksum: SHA1: 15ba6b4c34e65e59390ff4662557ada97cb34d80
+FileChecksum: SHA256: 8d804d230857684a5cb6d0246e252138a24495fb71c2792ad48a1890c601d5d8
+FileChecksum: MD5: fa87bfcb014ed14b3562eb3d1e6e604a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/service/AzureService.java
+SPDXID: SPDXRef-item1171583
+FileChecksum: SHA1: 74cc7cac51de10a8f57c25aca81736315d1d22c9
+FileChecksum: SHA256: ef99beabeee7e39679994b6a00911f229662931233343dffeb4288bb288639d8
+FileChecksum: MD5: 4e9f28572986079c201b8f0cc7203582
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/service/impl/AzureSimpleSolution.java
+SPDXID: SPDXRef-item1171582
+FileChecksum: SHA1: a86544341c465288ec09d33027974aaa9c36521b
+FileChecksum: SHA256: c4344f9ec95c23661977657a4b320bf6c03a162fc02d8fe476702239c062ce30
+FileChecksum: MD5: b5a176ab8f40341056ad8e73aefff3df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/test/transport/AzureContainerBeanTest.java
+SPDXID: SPDXRef-item1171592
+FileChecksum: SHA1: 3737361e85185f03424860594648fa5be4a14ecb
+FileChecksum: SHA256: 6ccf57ff78607ce86626a809ba9c067147c32ee0a93ae34b4837f05f5815b184
+FileChecksum: MD5: 21b35d02093b433eae868501af3d7ed5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/test/transport/TransportBeanTest.java
+SPDXID: SPDXRef-item1171593
+FileChecksum: SHA1: 445d0ffd41c35d93f1e3f4cf16e038825e3304cc
+FileChecksum: SHA256: a9d169d7719c2997c6852333308332a4608890ac8209de04019713f90b5b7c61
+FileChecksum: MD5: c13ce7c2e903a291e4bd136168009060
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/test/transport/AzureDeployDataObjectTest.java
+SPDXID: SPDXRef-item1171594
+FileChecksum: SHA1: 855479b52dab4bca7d0727cce648c1587b0f850d
+FileChecksum: SHA256: ff0d1a5761c2eca54a5c2100c60dca2b383f7d3b3af18660cf2ece0ad5785019
+FileChecksum: MD5: 64fbde9a0db1e9454e6b25e2a610ca5c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/test/transport/AzureDeployBeanTest.java
+SPDXID: SPDXRef-item1171595
+FileChecksum: SHA1: dd86d36937b24330e2d801545239540b8be0d428
+FileChecksum: SHA256: 9acc97e342c5d4015495ba787a124c12c442a866f9fcd3dbcd45b0e4a4649b32
+FileChecksum: MD5: 9111fa9de120f78cbc65ff40c212316a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/test/transport/SolutionDeploymentTest.java
+SPDXID: SPDXRef-item1171596
+FileChecksum: SHA1: 551aa4315c4c00d7fdc7367c7c6bd78d4c319420
+FileChecksum: SHA256: 7ea1caa6c8f54ec130d10535f526e6ad444859aa55f746f12b0782a20d9f6138
+FileChecksum: MD5: 3b6cd8761addef9298b82cb83f1ead30
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/test/transport/SingltonMapTest.java
+SPDXID: SPDXRef-item1171598
+FileChecksum: SHA1: b49d94df44d79fcf7f3b2445f82af3ef695e650b
+FileChecksum: SHA256: 0154a3bd7544305e6c065597004993f921b7994d4e5f1e84546f22f064d690b1
+FileChecksum: MD5: f52b55087d1080477831fba8051bba76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/test/transport/AzureKubeTransportBeanTest.java
+SPDXID: SPDXRef-item1171597
+FileChecksum: SHA1: 436ee4c441fff0b84d352580af35963d1fbf0ded
+FileChecksum: SHA256: 8f46a408941a1d4b49a83fe560010c814a560ca88f8817bc5326711b9733e65d
+FileChecksum: MD5: a150025161086af0bfcfcf98a27daa57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/test/util/BluePrintTest.java
+SPDXID: SPDXRef-item1171600
+FileChecksum: SHA1: b56540fde86a8741f6e2acec89e97850640e6b64
+FileChecksum: SHA256: 32d7125ff12230209f31fb2e24cbad34bd2dc8d625d9c601235954e3857bf276
+FileChecksum: MD5: 35671c7b013bd4c90ad85dd49508eb2e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/test/util/ComponentTest.java
+SPDXID: SPDXRef-item1171602
+FileChecksum: SHA1: 0af00738ea940063e365194f15b2ee125ccd743f
+FileChecksum: SHA256: e594376ac8ec46f1ddbd2b8d9a4800f9ebe9052a3fac509dc2dc2c1d24a4170e
+FileChecksum: MD5: 452688ae0d33f42197eea7b9af377236
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/test/util/AzureClientConstantsTest.java
+SPDXID: SPDXRef-item1171601
+FileChecksum: SHA1: 9d9aff04563f67044c5591d4522a2fb741124543
+FileChecksum: SHA256: d4109347733cd73150a2a50297d5cd9d33e8e8dca9601e3ebaaa92ee28ae7e3c
+FileChecksum: MD5: 6d47d28b5d4bdf09c24abd5bfc8a21cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/test/util/AppPropertiesTest.java
+SPDXID: SPDXRef-item1171603
+FileChecksum: SHA1: 0cd5ce2b432ad06d26fb65ac4fab2cc134ce1c8e
+FileChecksum: SHA256: 4ad59ef3f85f893e2a3c90f3efb05800300b4188cc8d85238160e66ff76f156c
+FileChecksum: MD5: bab3fbdf66332b47e0efbbc4bfc00e03
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/test/util/DockerinfoTest.java
+SPDXID: SPDXRef-item1171605
+FileChecksum: SHA1: a6b79e5740be85adb8d6a141df4a6b9f7eb9022f
+FileChecksum: SHA256: 75b2e082528bdfac6f266c38c79a61cb334a16849603350e0639355239fa407f
+FileChecksum: MD5: f45af5122d724e583a4e21bdf95515e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/test/util/LoggerUtilTest.java
+SPDXID: SPDXRef-item1171604
+FileChecksum: SHA1: 7864cab69525581a05062208aa38ca9443247b00
+FileChecksum: SHA256: 4a8dc0a66fdc669a1e8b28d7a7c0f2422d83653649a47ac85caf06c02cffd52b
+FileChecksum: MD5: e8658ccf4a5f5fb4619ea174d86dafa0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/test/util/NodeTest.java
+SPDXID: SPDXRef-item1171607
+FileChecksum: SHA1: 52f1027d4875f9759811b23f5ba611c08080aa75
+FileChecksum: SHA256: 371c628a27f8e499cd8939d8baa1a3f8b21b5f866c41668c54b30ae6b42d1220
+FileChecksum: MD5: df991433d2295e76c5ae96e2df2dff9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/test/util/OrchestratorTest.java
+SPDXID: SPDXRef-item1171608
+FileChecksum: SHA1: 9889bef47c0c9eb20494abcbb64b32f5c92227b7
+FileChecksum: SHA256: da8441aa9b6cefe8befc80073dfa97035ad5d92060932071c79a0f0e54e9c700
+FileChecksum: MD5: 045932062546671a22f49a04ae808a10
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/test/util/AzureClientTestConstants.java
+SPDXID: SPDXRef-item1171609
+FileChecksum: SHA1: 5b2d937cd257e85549c0279fb9e51e145304ea71
+FileChecksum: SHA256: 47aa536c16ecc73d7882287927071865b2993642b19733c9a670d45337116152
+FileChecksum: MD5: c53cbc010609c9939bc3206829fdf899
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/test/util/AzureBeanTest.java
+SPDXID: SPDXRef-item1171611
+FileChecksum: SHA1: 6c463fb487ebabe1455af1b267725dfd3935f1cb
+FileChecksum: SHA256: a304b41ee7cd7bc07f2dee82fc4d620f354f0485ec71b616d4c2e983f26d929f
+FileChecksum: MD5: 639bebac109484632eb79cfff4b219a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/test/util/ParseJsonTest.java
+SPDXID: SPDXRef-item1171610
+FileChecksum: SHA1: ad385f22029c32b4ca2a40a4586fcdea4ea49109
+FileChecksum: SHA256: 3ac06f23c23c279accda74d41eb4490980abede322b9f3841aa5f3fe29a76809
+FileChecksum: MD5: 672c89ae18e3b9f88db9d19593c650cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/test/util/AzureCommonUtilTest.java
+SPDXID: SPDXRef-item1171612
+FileChecksum: SHA1: 5a49584ca4a8d3ddb59f1793827147f75f6d1cf2
+FileChecksum: SHA256: 6fcc8a49b12a67914e6ceb31e03a5ce74816382b05ec50d86242628a7f89faef
+FileChecksum: MD5: 0154fcfeb4bc8989547f3a0025d853da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/tools/setup-docker.sh
+SPDXID: SPDXRef-item1171622
+FileChecksum: SHA1: a387a430167f08ba4f6fd8a354bbe0a0bac984c5
+FileChecksum: SHA256: 85b96fb123010df0f10e6d9d2f66a0aa3ad2bd126bf1984eba328b6b8f82600c
+FileChecksum: MD5: 218a9c760e90618dfd4b178f3fc22f4d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/LICENSE.txt
+SPDXID: SPDXRef-item1171624
+FileChecksum: SHA1: 14a09dfbaf4d175f0399c4db07cc9897aa0e1114
+FileChecksum: SHA256: 6b38350ec04072dbe6816ba82334cb93afe1b70a1a7aa3a5b9d0cf4dd4fc69c4
+FileChecksum: MD5: 6dbc473aee31d40c4347872ce856beab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/application.properties
+SPDXID: SPDXRef-item1171619
+FileChecksum: SHA1: c59b305bd6355177ec5821307ecda2ac9c891f93
+FileChecksum: SHA256: e92a38575e3072b373302639d71c35be8cba2919ea56f0a48f5f1130d05f4092
+FileChecksum: MD5: c82fd63bab7f2b49d8c73b53b99cc30a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/README.md
+SPDXID: SPDXRef-item1171631
+FileChecksum: SHA1: 20b24c959619b0787c4602d140d7c0e0106fbc73
+FileChecksum: SHA256: c26d2ad0fe7b44b34ee48aaf814c5c5ca5c7a579ae5b6f8ed7077fb53eee41d9
+FileChecksum: MD5: bc6d897ecca9f773b72f7be6bf7d73d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/pom.xml
+SPDXID: SPDXRef-item1171630
+FileChecksum: SHA1: b5f00a8334c068ad4c2488c20e59db568f279a6b
+FileChecksum: SHA256: 88740a4437032efcf6abb0a675a0614b76dc69f648fdc3354e4db328833d29b6
+FileChecksum: MD5: 733c05ac8f49a847aa578189424f1c24
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+Copyright>true</canUpdateCopyright> canUpdateDescription>true</canUpdateDescription> canUpdateLicense>true</canUpdateLicense> emptyLineAfterHeader>true</emptyLineAfterHeader> includes> include>**/*.java</include> include>**/*.js</include> --> include>**/*.ts</include> --> includes> configuration> plugin> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-javadoc-plugin</artifactId> spring chooses the <version>x</version> --> executions> execution> id>attach-javadocs</id> goals> goal>jar</goal> goals> execution> executions> plugin> Generate source jar --> plugin> groupId>org.apache.maven.plugins</groupId> artifactId>maven-source-plugin</artifactId> spring chooses the <version>x</version> --> executions> execution> id>attach-sources</id> goals> goal>jar< </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/license/acumos/license.txt
+SPDXID: SPDXRef-item1171516
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/docs/images/azure_client_flowchart.jpg
+SPDXID: SPDXRef-item1171506
+FileChecksum: SHA1: 51f6dc334a6f96a6a8041ae1e161c3d511c2d24f
+FileChecksum: SHA256: 0577552b57219400e8282f5131121fe7c804d482cac73f39d401fae147c47d1d
+FileChecksum: MD5: 0f04d53393e6fe98be7942355086e957
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/docs/images/AzureDetails.jpg
+SPDXID: SPDXRef-item1171507
+FileChecksum: SHA1: 7186f0a735de81573ac5c2bfeea4dfbe96401732
+FileChecksum: SHA256: 8f20b742596953df83817abcc2ed28427877f1486be836cd0c95237c3c9f48df
+FileChecksum: MD5: 1664f7e86f399974526005df22e8c512
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/docs/images/ModelDetails.jpg
+SPDXID: SPDXRef-item1171508
+FileChecksum: SHA1: 265c37bb3ed2587680b41a4b2f77a994d3beff6a
+FileChecksum: SHA256: d299d880076c54a094cfd4663dc2a3d0c5166ae6baba3c19b14ed249dc320029
+FileChecksum: MD5: cef067dddc1620d4a7c208643e9e6db0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/transport/SolutionDeployment.java
+SPDXID: SPDXRef-item1171529
+FileChecksum: SHA1: 1142f26c64c052f7a7ab81742ae8fd47e3a2ec4f
+FileChecksum: SHA256: 780fb6d119fe7ef283f884ef6cb2606c09988614f8ab631f5647c441818064da
+FileChecksum: MD5: 262082d354cec5bbcbf57b85b36d5742
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/transport/AzureKubeTransportBean.java
+SPDXID: SPDXRef-item1171530
+FileChecksum: SHA1: 4bc796a9d487f6a3f38c5fd9c9471128728714d5
+FileChecksum: SHA256: b38a72d5d0d5e96c619dd81e34d23dcb131744801d7d092b8a9ab926f425fb09
+FileChecksum: MD5: fff5514428f73b78311d01e1709f0fc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/transport/AzureKubeBean.java
+SPDXID: SPDXRef-item1171533
+FileChecksum: SHA1: 6cd0c50c9c234a772159672d8c073e3051a0aecc
+FileChecksum: SHA256: 8a03f18c740af6dd19074bcc09cc7194474466df3e13eb77d19105d0a978aad2
+FileChecksum: MD5: e0a17bba45ec784ced8968ba3aad4e56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/utils/LoggerUtil.java
+SPDXID: SPDXRef-item1171548
+FileChecksum: SHA1: 3afbe6d9fadbf42280dc1884c5c2eea00fb77746
+FileChecksum: SHA256: b1322afcebf9f373c25aba54e2630b2ec00e8ffd70e5a4afdb3e402280d0c845
+FileChecksum: MD5: b6622d965854dc7b552dcdd5f0865b5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/service/impl/AzureSolutionDeployment.java
+SPDXID: SPDXRef-item1171579
+FileChecksum: SHA1: d7780020f9e88f8846522075da27cdb55d7752dc
+FileChecksum: SHA256: a8c13f4ddab01a18c383df7b7ebc9b89bca3a6ba8ee8f967230f04c78d0c15ab
+FileChecksum: MD5: bd719e552457efc30bf48a21f055b3ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/main/java/org/acumos/azure/client/service/impl/AzureKubeSolution.java
+SPDXID: SPDXRef-item1171580
+FileChecksum: SHA1: 9a54d3d1815a60212d7d8093e79ddc6ed18c1d7f
+FileChecksum: SHA256: a0fdc145d001c820c7a8fa0bcb7fda09259112cf27e996e3f03c2e2a69dfc053
+FileChecksum: MD5: c5b2b070d407947eaac3516d9a6995f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/test/util/AzureEncryptTest.java
+SPDXID: SPDXRef-item1171606
+FileChecksum: SHA1: d3a8fed58206a23002418f4b42cf537948915c96
+FileChecksum: SHA256: d11d2326f423bb3fe25641bd185cd4a731bcb2c8aeea2e1f2362d3b317441be5
+FileChecksum: MD5: 97425927ddf040d0aafa76986f1c5e8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/test/logging/LogConfigTest.java
+SPDXID: SPDXRef-item1171614
+FileChecksum: SHA1: 40378e765948bfb25821a9a4597c2c819a0c0821
+FileChecksum: SHA256: 93c0987524f0d5b2349d629836b3bfefbcdd9e1ba14a8d2ab3d20d27eccf204a
+FileChecksum: MD5: 36b39f203c76465971f9bb9a5717acb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/src/test/java/org/acumos/azure/client/service/test/impl/AzureServiceImplTest.java
+SPDXID: SPDXRef-item1171618
+FileChecksum: SHA1: 4891d7d154aeb6283f60a370bd597e6f09e3c9ce
+FileChecksum: SHA256: 6804323a651b5f0a1bd689bba3ebcf5040fe4b7a87930972cafa489bc449b905
+FileChecksum: MD5: ce8229cee6867407271f8474b4d6cc73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/INFO.yaml
+SPDXID: SPDXRef-item1171620
+FileChecksum: SHA1: 9d97a50a4e9cef01257f817a9295cb45af393aed
+FileChecksum: SHA256: 0fb010f74cfc62301530b7b8970949f5e8ce572f2f13f39425b6f1730af8275b
+FileChecksum: MD5: 61262e175327a4047c5371707a08f67b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/.gitignore
+SPDXID: SPDXRef-item1171623
+FileChecksum: SHA1: f144f11157bf8ba9a2a3f2b515bd2555066b9376
+FileChecksum: SHA256: 04e765c855be276704dacf5957073d502bfbf117bb662ea6bf8abae100419782
+FileChecksum: MD5: 0cd3b3a0bfe11487fd237f0cc6dbb391
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/.gitattributes
+SPDXID: SPDXRef-item1171625
+FileChecksum: SHA1: 1fead8ae4a123d4c2526ba03777b256cb10f7a5a
+FileChecksum: SHA256: adf76173edd92955ec74e01d961f1c406175429500924f6c303bf19a456d3b1b
+FileChecksum: MD5: 635578d7546b35d97c384e8708b86a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/releases/release-3.0.5-maven-docker.yaml
+SPDXID: SPDXRef-item1171627
+FileChecksum: SHA1: 5d081a3f499b9039788ea17f14bd0ca97807b7b7
+FileChecksum: SHA256: e9060ef41ef3b649a60e26d38f4c09ab28d238b9c26e190356f25d97d91586e7
+FileChecksum: MD5: 3c147e2af93d2253c6810b99e3435ccd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/releases/release-3.0.4-maven-docker.yaml
+SPDXID: SPDXRef-item1171628
+FileChecksum: SHA1: 8eb54c3df2acbd7ce6968052915cd5e8a9131a1a
+FileChecksum: SHA256: 51dad366ee6d41b97ee1b6e5e0760be7447168f330c7de0c3de7e60f0e0700f8
+FileChecksum: MD5: 057fd2998b395299f373d44732b648f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/blueprint.json
+SPDXID: SPDXRef-item1171629
+FileChecksum: SHA1: 887bb3c3126e7d38334c1bbf3603c88aab1932fd
+FileChecksum: SHA256: 27c7e09b3d42199df0c38acac0541a8db3e43803bb8664551eae0f357bde33b1
+FileChecksum: MD5: f2a443b9a8a908d79bd86eb21f57fdbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/blueprint2.json
+SPDXID: SPDXRef-item1171632
+FileChecksum: SHA1: 4523d67028a95b73f2fac300b888447cd8e61ffd
+FileChecksum: SHA256: 71040fda4d1321df289a2ae13e69d973542518af54d2e687936cf018885416c2
+FileChecksum: MD5: f179bf177cd3a4958e7c97db98122163
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-azure-client-2022-02-01.zip/acumos-azure-client/.gitreview
+SPDXID: SPDXRef-item1171633
+FileChecksum: SHA1: 5475c100f5c1f183481ee225fda008e36673ebb8
+FileChecksum: SHA256: ae5a78c9ca4c02363b6a4197d0f041232ca7e3f4461ca35f7ab35fddecddcdf1
+FileChecksum: MD5: 8b51307029ab19b76392c041d4ecb4cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
