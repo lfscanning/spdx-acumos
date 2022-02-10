@@ -1,0 +1,96 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_training-2022-02-02.zip_1644480822.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-02-10T08:13:42Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: training-2022-02-02.zip
+PackageFileName: training-2022-02-02.zip
+SPDXID: SPDXRef-upload332
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 0a2c1fe0201e82d4a1ec6fda2b67320e69a6c372
+PackageChecksum: SHA1: 08dc101f2e3ba0c9f9b2a1866bd7697e6b0560b3
+PackageChecksum: SHA256: d7797839507f41a6efd7bde9cec73350cc39a1c14770531cb8fd2e44b3da384c
+PackageChecksum: MD5: e98ac3a43db0537af78608d2fb6f1331
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload332
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: training-2022-02-02.zip/training/LICENSE.txt
+SPDXID: SPDXRef-item1181046
+FileChecksum: SHA1: 14a09dfbaf4d175f0399c4db07cc9897aa0e1114
+FileChecksum: SHA256: 6b38350ec04072dbe6816ba82334cb93afe1b70a1a7aa3a5b9d0cf4dd4fc69c4
+FileChecksum: MD5: 6dbc473aee31d40c4347872ce856beab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: training-2022-02-02.zip/training/INFO.yaml
+SPDXID: SPDXRef-item1181045
+FileChecksum: SHA1: 17566efb0f5a0a6e2f471275d6c3b6547ba522cb
+FileChecksum: SHA256: ff6ca8801eb1c427731510541849c9d1c5aead56f127e5eafcd44c33cf1b809c
+FileChecksum: MD5: e10804fb0bc386b946f3ba7d0d834cb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: training-2022-02-02.zip/training/.gitreview
+SPDXID: SPDXRef-item1181047
+FileChecksum: SHA1: c5c054061eff1ce5b1526a4bfa76ac6ce3351cec
+FileChecksum: SHA256: 4e4999601901153c5226e0986e000a10c2efa00bb0decb0eaf8673ee46bc4c64
+FileChecksum: MD5: 2f580378a3dfaa687a1a843d694d15d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
