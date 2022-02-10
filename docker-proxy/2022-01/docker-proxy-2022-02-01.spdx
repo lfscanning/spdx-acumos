@@ -1,0 +1,84 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_docker-proxy-2022-02-01.zip_1644480570.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-02-10T08:09:30Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: docker-proxy-2022-02-01.zip
+PackageFileName: docker-proxy-2022-02-01.zip
+SPDXID: SPDXRef-upload300
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 2fc910fbc5f7b810e6573520080eb3c20317f716
+PackageChecksum: SHA1: bc742eef8da395682608ba50c9eb1884943c0ed6
+PackageChecksum: SHA256: 303f8f5e6bcc9ac75830cbc0c7ab9eee97dfea790a949a20ec0b547cad795049
+PackageChecksum: MD5: 3337925a9f7add7fb2343df820a1f0bc
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload300
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: docker-proxy-2022-02-01.zip/docker-proxy/INFO.yaml
+SPDXID: SPDXRef-item1173390
+FileChecksum: SHA1: 82182d54315ab6657d123bcc16711e7ab84cfa80
+FileChecksum: SHA256: c180d3c9a0e85d8812d5471e994cbca3c819bf4f29c974ac204fc74b87b8d11c
+FileChecksum: MD5: 2c504d158165b3ae9746edebf2949c46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: docker-proxy-2022-02-01.zip/docker-proxy/.gitreview
+SPDXID: SPDXRef-item1173391
+FileChecksum: SHA1: 4790795c1dbf2739c9e57b9fd338e7ade6c1e8f8
+FileChecksum: SHA256: d431e1c611f705da59b274a99df07bbc89b6150780fbd70a3c500cb39339d928
+FileChecksum: MD5: 49d320f736ea307e971ce2b7060a27f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
