@@ -1,0 +1,72 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_platform-orchestration-2022-02-02.zip_1644480726.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-02-10T08:12:06Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: platform-orchestration-2022-02-02.zip
+PackageFileName: platform-orchestration-2022-02-02.zip
+SPDXID: SPDXRef-upload320
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: dae3f3cd851ad6553a0a9fa7a64284d7408195fb
+PackageChecksum: SHA1: bd76e1a654c0d7e09ac1fa19293bf05a1490ff9d
+PackageChecksum: SHA256: f942c0e8414a24f2d864995415c2629d71cb3d432f87c34a4b6836047c45e9cb
+PackageChecksum: MD5: 235dd7695749c169db9eb9edd083d655
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload320
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: platform-orchestration-2022-02-02.zip/platform-orchestration/.gitreview
+SPDXID: SPDXRef-item1176079
+FileChecksum: SHA1: 49e7f18d06f2355cd83ba56448d7d1dd66757d05
+FileChecksum: SHA256: c2bb5173586763612b5222a50dd3380d0364b3340b0c960b534d68b01a30cd8c
+FileChecksum: MD5: c4ca8f8984f09b60e9dbeccf2e842651
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
