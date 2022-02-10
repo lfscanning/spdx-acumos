@@ -1,0 +1,2612 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_documentation-2022-02-01.zip_1644480578.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-02-10T08:09:38Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: documentation-2022-02-01.zip
+PackageFileName: documentation-2022-02-01.zip
+SPDXID: SPDXRef-upload301
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: b4807c27bb48e1e134afd252ea1de7bb00ff073d
+PackageChecksum: SHA1: 5364f92fa32a4587ef0a0f801674d4dff4fd491b
+PackageChecksum: SHA256: 4dff4ab9bb7b5fcd34b756bc8e5045e48ce6451a00c874051b0e30bba7e6c8d4
+PackageChecksum: MD5: 93127b5e9d01586c0840e47e38e15efe
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload301
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/review-rst-gerrit.rst
+SPDXID: SPDXRef-item1173398
+FileChecksum: SHA1: 4ff62b080a46ab35546831fe303a55460f9b72a7
+FileChecksum: SHA256: 0e988f938f00042396e3759705851251efad7ad997a6b2caef97bbb736fd11a7
+FileChecksum: MD5: 7f0b2813a27ad6673661bf420e156273
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/index.rst
+SPDXID: SPDXRef-item1173405
+FileChecksum: SHA1: 703b2c21c4ceea3b2d14502400e373b2965d2c65
+FileChecksum: SHA256: 1e325ee393395958f3bbc137fc358092bc3b6053a4ea975d0b0f74c32b9613aa
+FileChecksum: MD5: 91624e45742f45bbd5a6ff763525a0eb
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/component-docs-guide.rst
+SPDXID: SPDXRef-item1173406
+FileChecksum: SHA1: b789c3e8a4149173688e4ae112834d0b55fb81f4
+FileChecksum: SHA256: 9ec8593f97cebf1b1399cf96dcb58854e8d948739b34c2227e064b4f331e80c5
+FileChecksum: MD5: 7d237f51f0f5d25350a95f12b2afb735
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/auto-number/index.rst
+SPDXID: SPDXRef-item1173410
+FileChecksum: SHA1: cf6487849be6f71748eb67d7e61a924da51764fd
+FileChecksum: SHA256: c7da7d6a7bc43f5a34c5fec6c7a963aeaf95068926420b5aa7dca556952705cb
+FileChecksum: MD5: f3e938d0140479035201fa41b7192109
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/rst-dev-tools.rst
+SPDXID: SPDXRef-item1173411
+FileChecksum: SHA1: eacded17449d4fdea7036e16ee43e8a5639a3c15
+FileChecksum: SHA256: 4e73c1e61e37627bd42433d3b409048a296cb4ad7400f58599e0069770031b43
+FileChecksum: MD5: 7ea073e89ffa670339ce7f941d68d651
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/templates/swaggerv2doc-example-output.rst
+SPDXID: SPDXRef-item1173423
+FileChecksum: SHA1: a657d0fd45b56441bb5d2239293b622ccea1e152
+FileChecksum: SHA256: ed9617cba9eda345923be2ee6a66a8c2f03368beb8ebd0deee438a0f2015d874
+FileChecksum: MD5: 1efbca45d7f135ee77365f3408405e96
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/index.rst
+SPDXID: SPDXRef-item1173430
+FileChecksum: SHA1: f76597c8fb830bbdf04ef520895313c123bf0175
+FileChecksum: SHA256: f9f3ec0e1b7bc9f70bb8a43d6e90ad797ad2ffc660b1a554af9f42bbf38e9bb5
+FileChecksum: MD5: 7cf59c2f237199887ebd333426a38149
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/index.rst
+SPDXID: SPDXRef-item1173455
+FileChecksum: SHA1: da5a3d14ad8b9a6db2baec20c9cfc944d364f3dc
+FileChecksum: SHA256: d5b592d75ef977381e035bdee21d86d0bf72a3bbcbeb9fc717640789ce841264
+FileChecksum: MD5: ae89c615813ab095187b107405601be1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/platform_flows.rst
+SPDXID: SPDXRef-item1173456
+FileChecksum: SHA1: eeaabea3cc533c27cd2c55f536ed2aa56f34e94b
+FileChecksum: SHA256: 052b3fecd9b350c5519def2bb0d613a77ae5e79cf9801443e655ed04e408198f
+FileChecksum: MD5: ff9a0cf57b683d9e64d1d94ef3ddf117
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/scope.rst
+SPDXID: SPDXRef-item1173457
+FileChecksum: SHA1: 63356bdcdabdc5b30cb02788a8d94b9edfd59207
+FileChecksum: SHA256: c947bc5bbc683b442a5e828be9259c374e5cd0baf637aafd94469af20373ca61
+FileChecksum: MD5: c569d3b9e1cfc6d27af205deab279cc7
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/intro.rst
+SPDXID: SPDXRef-item1173458
+FileChecksum: SHA1: 1c6bd4fe62943fd9ea2f19c4f6df337f4b3c5746
+FileChecksum: SHA256: 23e464c56b95aab57023d69e3e5146b53a13d9f8f0d300d854dd197c857fb393
+FileChecksum: MD5: 9c3645893302428730f1082ed1ba4c51
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/requirements.rst
+SPDXID: SPDXRef-item1173460
+FileChecksum: SHA1: bf266bbddc7065d448d107a1f696f420b16bcdab
+FileChecksum: SHA256: c2b5a20d6134cb08b7ed8a09ddcdd6834f79910e993d3ef2601cb7f87d7d162c
+FileChecksum: MD5: d6c568af04bda9fc50fb1cace6ecb347
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/AcumosUser/portal-user/portal/onboarding-r-guide.rst
+SPDXID: SPDXRef-item1173464
+FileChecksum: SHA1: f4df1f0d49be4b2426669464e6e54a2c7df19472
+FileChecksum: SHA256: 2ba4f701e160a405200099a805dc69b3cdbbb864503f305d69e742ca801ac5c8
+FileChecksum: MD5: d5b5957b1cd5e73ddf101543c72945bb
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/platform_architecture.rst
+SPDXID: SPDXRef-item1173459
+FileChecksum: SHA1: 0aa66936465fc26cbdf6c1f2de2e63434630a840
+FileChecksum: SHA256: 34b43dbcba26df7d5e84ca0659421661fe58f7729f72d89a6451bedc3ad36677
+FileChecksum: MD5: 691614fa6c82f0950fc496801e36427e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/AcumosUser/portal-user/portal/index.rst
+SPDXID: SPDXRef-item1173465
+FileChecksum: SHA1: a4b889235b1607f6da48c17e194610ab690db943
+FileChecksum: SHA256: 0ee4442cf47fba5f19e3c948fd5944ec28d6f2a132b4dcda3462f1e0441aac47
+FileChecksum: MD5: 8c0d563bf02a7453238f118ad253c892
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/AcumosUser/portal-user/portal/onboarding-java-guide.rst
+SPDXID: SPDXRef-item1173466
+FileChecksum: SHA1: aba86c6b702e5cd247ea345a286746d1fdc9b8ba
+FileChecksum: SHA256: ab00bdb932e6c6d774ba79d5b29d0b9b7f24dc7f18539a61a4c5931c22802b9b
+FileChecksum: MD5: b45a2eb61923a780266c7cd6d3268cac
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/elpis/index.rst
+SPDXID: SPDXRef-item1173608
+FileChecksum: SHA1: a06cf405c7a445c67d4ccbf310574197df95ebee
+FileChecksum: SHA256: 0e6929d3ffe757d45cd848e96daeaef43a9e6bef0e3f210fda6083e93b922c3f
+FileChecksum: MD5: 8ebb5fa79da653a20d65ee5059d1732d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/elpis/manifest-elpis.rst
+SPDXID: SPDXRef-item1173611
+FileChecksum: SHA1: 623b927b1aae90650f02ac8e84a3817dcc75890e
+FileChecksum: SHA256: ea3bebd8f66ccb4f31bc221abfc8a352ded42e08e148f8bf9cf745b66cfd62a1
+FileChecksum: MD5: cee3e9792ef40e678b67cdf298cf6d51
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/elpis/release-elpis.rst
+SPDXID: SPDXRef-item1173610
+FileChecksum: SHA1: c8b5a9520c79f251ea0f8f4a04a0aaf08abea0d1
+FileChecksum: SHA256: e95338364bd14988f16ead20c4b3e22ec33242f11ab490cb2d4a3abe7d357c89
+FileChecksum: MD5: 720ac08c6c8d90e7a316b9a8a5e57d8a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/clio/manifest-clio.rst
+SPDXID: SPDXRef-item1173617
+FileChecksum: SHA1: 61db3acac9a5be3b5bf559c6ddfd2caf3be58f09
+FileChecksum: SHA256: f25d933a82e8a1b5c45773d4dab59462d5beada829f327fc5ee09468a504ade1
+FileChecksum: MD5: 6dfe23f631509ea3c5520efd5674372c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/clio/index.rst
+SPDXID: SPDXRef-item1173616
+FileChecksum: SHA1: 38ca34cb4a290cebfa4d5885f53550ef27e94bb4
+FileChecksum: SHA256: 177cf99d261cdcef2f786ee4f0da1852af8404589330dd0d70d696540a0500df
+FileChecksum: MD5: 9d2371b91e22a23bef9de2485b335068
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/clio/release-clio.rst
+SPDXID: SPDXRef-item1173619
+FileChecksum: SHA1: a9c9d4b7199d235a4177bab4f23a53ee8177c25b
+FileChecksum: SHA256: 02d6a2a557c4f53a016466c47ac13a71ecbbca60d0105958a0ce90850a5c4a7c
+FileChecksum: MD5: b67b2f82071a509dc9040b107589889f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/weekly-builds.rst
+SPDXID: SPDXRef-item1173628
+FileChecksum: SHA1: 7e952e7dad691ac7602ad98e9531fdf87b208027
+FileChecksum: SHA256: ad004af820805ef005419d2aa9bf308b5efdd9970d7bf3c323792e71fb73c401
+FileChecksum: MD5: 525c91aeca0827a39f4cfd4a6dae7f50
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/index.rst
+SPDXID: SPDXRef-item1173627
+FileChecksum: SHA1: cfe225dc1a6287ff0dbecc9a2775c48cef97c03e
+FileChecksum: SHA256: 6f3ad013dcf5d11965e5f31e7583010ee98b259d46a31000edf11dd6ef8102bd
+FileChecksum: MD5: c55dff7aa0fe945dcc279b7098046868
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/athena-maint/index.rst
+SPDXID: SPDXRef-item1173632
+FileChecksum: SHA1: b72440354975f2d835aafab82c407a621e74db89
+FileChecksum: SHA256: 1d50e3d61eac05aea054cdcf4246d820a825f7a7590f1cdec83e95b62999f6cf
+FileChecksum: MD5: 9c77ff2fb1f736e21981242f9802292e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/athena-maint/maint-manifest-athena.rst
+SPDXID: SPDXRef-item1173634
+FileChecksum: SHA1: e25338f63ce7759ffd7ff5f0e09fe72c4ecbd3ce
+FileChecksum: SHA256: af020394bfd0624c48150a9eae0c1ef2738ae4a8ec3baca67af400c1d5e5593c
+FileChecksum: MD5: 79f078f2b4d317b2d72a6824bc137a2e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/athena/index.rst
+SPDXID: SPDXRef-item1173643
+FileChecksum: SHA1: e2a3545949c72c0aedefec3b00d6e4487fb2afe8
+FileChecksum: SHA256: 85fd4f38398e7ccfb6943af274e6c7b1899809869f9488d23cb111155d026818
+FileChecksum: MD5: 09de7bfd02768f216a5bacb32aeb354a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/athena-maint/maint-release-athena.rst
+SPDXID: SPDXRef-item1173639
+FileChecksum: SHA1: 736e08ae8de0cd59a33a9c03f193915e6cbc4f61
+FileChecksum: SHA256: 9091f9ad83856d5c0c205a9d85bbcadc1875ffbae72d42508d2a8725dee64d3e
+FileChecksum: MD5: 49662193d6bc7616fcb68a472754356f
+LicenseConcluded: Apache-2.0 OR CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/athena/manifest-athena.rst
+SPDXID: SPDXRef-item1173644
+FileChecksum: SHA1: bd8996e8e5c330f6a211d2e6bbbdf33c43fb244d
+FileChecksum: SHA256: 887ea688068a139a2090780ce95a673053b2520c307fc7b5ce8a5e242ba76471
+FileChecksum: MD5: 248d2bf42bf9d692bdbb0f04e74f39e9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/athena/release-athena.rst
+SPDXID: SPDXRef-item1173646
+FileChecksum: SHA1: 03eaf4ced53979b7ef267962b45a93189397570d
+FileChecksum: SHA256: 64377e45fb96ff91607f42d729e515788a2f317c5b2e4740fd75e6d8bc5289d7
+FileChecksum: MD5: b47696e6f93537e8b09ecc977e5f9241
+LicenseConcluded: Apache-2.0 OR CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/supported-browsers.rst
+SPDXID: SPDXRef-item1173649
+FileChecksum: SHA1: 21deb3fc743a1911782409c8c5a190316cdf1a2e
+FileChecksum: SHA256: 3b40ed58617f22f7eb7916a1a47d5843bdcdfdbe1df3d5170ef519a836b640be
+FileChecksum: MD5: 564c125cb34647ffa3e495ea7d3315ad
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/demeter/index.rst
+SPDXID: SPDXRef-item1173652
+FileChecksum: SHA1: d26e65f901ecf8d544976c48018438cf46f3f790
+FileChecksum: SHA256: b6f4ff3ed334a82e20dc06f7fe9798eebc65efa9634376e9284694231bdb25f4
+FileChecksum: MD5: 4b40ca408547f9af134c7d43529a36b4
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/demeter/manifest-demeter.rst
+SPDXID: SPDXRef-item1173653
+FileChecksum: SHA1: 6d987f2aee30cbd23542337fd5adf84fa66045c3
+FileChecksum: SHA256: 75ff95249e0e72c968d7817efd98900e87c7759900a4582cc46e1caa7a3b6748
+FileChecksum: MD5: 00e8b27f84933a967736badc5d2f5297
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/demeter/release-demeter.rst
+SPDXID: SPDXRef-item1173654
+FileChecksum: SHA1: 417149b72d0d76911375023a465b58b87bdd3add
+FileChecksum: SHA256: 6a84483c67fcd7c4b77e9813a60c7c410a0196547ebd6831a8b56c3be8263d7e
+FileChecksum: MD5: bc13e1343293a39c1f22469d063dab4b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/component-release-notes.rst
+SPDXID: SPDXRef-item1173658
+FileChecksum: SHA1: 7a75735f0058e3239178d57e10bf5452d3370873
+FileChecksum: SHA256: d8ab90d94c4ae455d37c5932107b0636266272619dfb4324dc1abcb00688a2d8
+FileChecksum: MD5: d09809789f037d5b1d7f3c81d7924a74
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/boreas/release-boreas.rst
+SPDXID: SPDXRef-item1173661
+FileChecksum: SHA1: 2413e8cd1b8a3f1f586ff3b5ef8df6b7b4bc3ef0
+FileChecksum: SHA256: 92dd67a11de9413a1211e29f45943fddd23266834dda7555f5da575b0e51f88c
+FileChecksum: MD5: 92b50b94c3dbeaf10d8eefc7450948a7
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/boreas/index.rst
+SPDXID: SPDXRef-item1173663
+FileChecksum: SHA1: 8b8411d423d32d45f084821e68b942bbf32b49e6
+FileChecksum: SHA256: 92aa3bd27e01c000276defa0ef4ea98b4e2451058e58ae7ced88970192964494
+FileChecksum: MD5: 870feb317331efd98c5e64adc3ce6aea
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/boreas/manifest-boreas.rst
+SPDXID: SPDXRef-item1173664
+FileChecksum: SHA1: 3bce9376d0be767f859d13febf1e5f0e7ba7be80
+FileChecksum: SHA256: 767614190818180f1172f127b912754407b925454ae4b3a71780defd7d526638
+FileChecksum: MD5: 419e24f0b12ed0457ecc5d2fdb2a1ea7
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/AcumosContributor/component-guides.rst
+SPDXID: SPDXRef-item1173670
+FileChecksum: SHA1: 5c09e16b46feb553d7508574b4dc6497396683ab
+FileChecksum: SHA256: b1bc36e30d25868af1c17e4ad03904d5ec1e585ee4a263aed70ea3ebe96c237a
+FileChecksum: MD5: e0234a81f84ee7b351ee77ecfa5e62a9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2019 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/tools/README.rst
+SPDXID: SPDXRef-item1173676
+FileChecksum: SHA1: b589982f9df09a0dcd2f4bffafad20a66832d0e8
+FileChecksum: SHA256: 7ed46fd34ea8d2f1e773c1cf1ea3c71b7006940b4376caa7fdb40a327adaef16
+FileChecksum: MD5: 29b66a4a2870f036349d3e8c01400cfc
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/README.md
+SPDXID: SPDXRef-item1173682
+FileChecksum: SHA1: 9d41ef4fd1cfe0c6cea45e8d1f7caf5c191a1db3
+FileChecksum: SHA256: cd45843a5c303604ac9d31d906e4ac15b4f912c308135d16b9cc57fd04b43ee6
+FileChecksum: MD5: d6c7145edc0692a517688822ac6cc97b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/conf.py
+SPDXID: SPDXRef-item1173668
+FileChecksum: SHA1: 3e78cbf7c43c184f369b90c27dec62062ee5966b
+FileChecksum: SHA256: d451a4a0ad8e6f200f8a344152e4e841dec38e66e8e39b1b57694bba261b3f79
+FileChecksum: MD5: ec83f6895364a4a577b7f8433c992ce2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+copyright = u'2019, The Acumos Project. Licensed under CC BY 4.0.' author = u'The Acumos Project. Licensed under CC BY 4.0.' </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/tools/gen_md_rst.sh
+SPDXID: SPDXRef-item1173674
+FileChecksum: SHA1: 65991b9c5e4017ba4fee29277083a67954dcd48c
+FileChecksum: SHA256: a0060902fadb3854d104462d9f48d6eeb9a53b2610503910293bcd8664b1d9d5
+FileChecksum: MD5: b2a6af1021167d27d276719ae86b6e2f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/tools/gen_word_rst.sh
+SPDXID: SPDXRef-item1173675
+FileChecksum: SHA1: 373730c378ae49cc3a3b7649fdb3de7a2e014aee
+FileChecksum: SHA256: 8466a24e1ca66f0b92f6bb0b690e6d7e8aa7a320aa42c2765a4555f5252d9a51
+FileChecksum: MD5: 6344a5c47bc0169c353187cb452aed78
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/tools/gen_html_rst.sh
+SPDXID: SPDXRef-item1173678
+FileChecksum: SHA1: cd905fc58a551ca63d5346832cf7bf4b2e3b05e6
+FileChecksum: SHA256: edf33d449985a239bef32993bf5108f98ddf51a349830f6cb8214d47838e66cf
+FileChecksum: MD5: 681b21afc969eb20ae2647cfab2b7796
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/tools/gen_pdf_rst.sh
+SPDXID: SPDXRef-item1173677
+FileChecksum: SHA1: 2b96e2a73276127ffeab8189fd4f05560000dac1
+FileChecksum: SHA256: 3311ddbc72abe1f2b84067d52877acc781347e98a59020567871df93bc416701
+FileChecksum: MD5: f5a6e78c419c7b65dbf14aa75adc6a4a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/jquery.js
+SPDXID: SPDXRef-item1173480
+FileChecksum: SHA1: 537bbfbfd297967396b426acdd4c8dbc958ceb6f
+FileChecksum: SHA256: 76d194891850eed42ac6ae7a797397209dec8a64cb3f1869be90a752ff2a4160
+FileChecksum: MD5: 2e2c53c6baeac3e30bc7387946c91bef
+LicenseConcluded: MIT
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: <text> (c) 2005, 2012 jQuery Foundation, Inc. | jquery.org/license sourceMappingURL=jquery.min.map </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/layout.html
+SPDXID: SPDXRef-item1173470
+FileChecksum: SHA1: be62322771b395e4b6ad974e26ed4f0254bff16a
+FileChecksum: SHA256: a694edc5022c6a845beb5f83f62ec8eb0c4b3dfbf6fe64354b16d0f0f506adfa
+FileChecksum: MD5: 8e1f8e897544cf4e3d92c29199a49593
+LicenseConcluded: Apache-2.0 OR OFL-1.1
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> &copy; Copyright {{ copyright }}. Created using <a href="http://sphinx.pocoo.org/">Sphinx</a>. div> endblock %} block ga %} if theme_google_analytics_account %} script type="text/javascript"> var _gaq = _gaq || []; gaq.push(['_setAccount', '{{ theme_google_analytics_account }}']); gaq.push(['_trackPageview']); function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/LICENSE.txt
+SPDXID: SPDXRef-item1173680
+FileChecksum: SHA1: db4c9f706b95cdc37efdc4ba149cd2cf7428c8a2
+FileChecksum: SHA256: e4d5fa73561b4a3323e439e5cd9c36bc82dddb47750b2ccfa83993fc9bc3f55c
+FileChecksum: MD5: c577f460b45fdd553086fd3a9725c5d6
+LicenseConcluded: Apache-2.0 OR CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/auto-number/numbered-content01.rst
+SPDXID: SPDXRef-item1173409
+FileChecksum: SHA1: 3d019f2ecbb2762b5223171cfb1396bb86b7a6e7
+FileChecksum: SHA256: 158c85e9c7b396e471a3af898438fdf9b20beecf303e6231260189282eeb64ae
+FileChecksum: MD5: ee6c0fe577bf2159d929034b6058d5bf
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 <YOUR COMPANY NAME>. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/auto-number/numbered-content02.rst
+SPDXID: SPDXRef-item1173408
+FileChecksum: SHA1: 8329e6cc74509512a6396c020b80ff493b483336
+FileChecksum: SHA256: d7a4f938fb75e96c59caef29e339a2810e5df0f16461637f33113f48275143fb
+FileChecksum: MD5: 5cfbfbdd0332ce2c0ae0f262e7ab7198
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 <YOUR COMPANY NAME>. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/templates/api-docs.rst
+SPDXID: SPDXRef-item1173425
+FileChecksum: SHA1: 6b2fee1b13fc9a3ef80cca0a6ac585160942448a
+FileChecksum: SHA256: 9598b102b8005a77be9c9f77497a38cb91451706eefed44687650b3c743eb1a9
+FileChecksum: MD5: 52b9003e3b6fb8a2b2a16a8751480cab
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 <YOUR COMPANY NAME>. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/templates/developer-guide.rst
+SPDXID: SPDXRef-item1173427
+FileChecksum: SHA1: 92f0183ba3b3ac383d1eb4230b52d8e045bf6e44
+FileChecksum: SHA256: f3431e50d9af1a0a5991eabc23bd2598c5eb09dba0448510bf921f744e404f60
+FileChecksum: MD5: e3d87adcbe4417df4266fdf6b60e48da
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 <YOUR COMPANY NAME>. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/templates/example-swagger.json
+SPDXID: SPDXRef-item1173424
+FileChecksum: SHA1: ab916b8caad1b1e9dc67625baab6a479021301db
+FileChecksum: SHA256: 4d77bb60a07ff18ab5f793c625b8e8f0b60a578cb7274004eff7432c54926bd1
+FileChecksum: MD5: 851f8b98708abe393745182d596d3331
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/templates/index.rst
+SPDXID: SPDXRef-item1173422
+FileChecksum: SHA1: a560cf273113e27d7a45eeb521d3f000e0037061
+FileChecksum: SHA256: f7ef7e96c543a0d2f8575c01f654208f4e9badc224f1ecbde9b5ae1cc2d727de
+FileChecksum: MD5: b58c7c99ef23b2b5999af6c022e12235
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 <YOUR COMPANY NAME>. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/templates/install-guide.rst
+SPDXID: SPDXRef-item1173414
+FileChecksum: SHA1: 330dbd365144ec34faa8a905930f5466b1331c4f
+FileChecksum: SHA256: 723d46a82a6b9b18dc2fdde18429cca6fb450173209882c3f8b3b9d922b21be6
+FileChecksum: MD5: 6a35779793af88a56a9125f0c9015ca5
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 <YOUR COMPANY NAME>. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/templates/release-notes.rst
+SPDXID: SPDXRef-item1173426
+FileChecksum: SHA1: 56a5c45e8972e6c8a685c0f9b06834c6e092b416
+FileChecksum: SHA256: 2e698bfb45d11d67e9049bc532bc4178f218b16d2c67db9a3256871760a96f4e
+FileChecksum: MD5: a66e2f55d0ebd3622964b3073270af25
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 <YOUR COMPANY NAME>. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/templates/user-guide.rst
+SPDXID: SPDXRef-item1173413
+FileChecksum: SHA1: 1385eb306d91c52cca77b875b322800a9ab0a952
+FileChecksum: SHA256: 974ccf0fdc1a7a4770c54c0b19e07538e031033a59198f84bb107e2840657ecd
+FileChecksum: MD5: 51cef7d19d89cf2ecfd9b45d5970956c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 <YOUR COMPANY NAME>. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/section-headers-example.rst
+SPDXID: SPDXRef-item1173428
+FileChecksum: SHA1: f6d540b6d6d83dceab503e4ab5074025cc812fd6
+FileChecksum: SHA256: 6039d3a5542a698b607c0862ce845c378beb745b491b3186fe9c80cb572b0385
+FileChecksum: MD5: 0d3f2bc17aed211cfdd48bbee68d3993
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 <YOUR COMPANY NAME>. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/section-headers-numbered-example.rst
+SPDXID: SPDXRef-item1173399
+FileChecksum: SHA1: a35f06cb99b58ea644323f6ae2308cd34f560b30
+FileChecksum: SHA256: 7a41fcb93e5d5983ae242757f2f8710047c471c43cd89b19e049dad51cf7726e
+FileChecksum: MD5: a95a8751de19f66acabd1cb8db77cf9c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2018 <YOUR COMPANY NAME>. All rights reserved. </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/css/bootstrap-theme.min.css
+SPDXID: SPDXRef-item1173477
+FileChecksum: SHA1: 2277dbf0c6eafd7bc6010bf6b4e8c8c7bfd95136
+FileChecksum: SHA256: 1c5a4ee5b1dd4410087d8324c018db95561ad31490cbfe6861b8504955946a07
+FileChecksum: MD5: 30f2111bb0364bd5c7f32438bc87909a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2011-2014 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE) </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/css/bootstrap.min.css
+SPDXID: SPDXRef-item1173478
+FileChecksum: SHA1: 77bbcecd152721e0460a4675743a5b823bca9fe4
+FileChecksum: SHA256: 83a54c79fbef8b1d93b88aac549d1f9acc26a6a13cbb9ad2f2243d871c6b1e45
+FileChecksum: MD5: aa0adda2ce4566a37bed3e80096cb17a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2011-2014 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+copyright-mark:before{content:"\e194"}.glyphicon-registration-mark:before{content:"\e195"}.glyphicon-cloud-download:before{content:"\e197"}.glyphicon-cloud-upload:before{content:"\e198"}.glyphicon-tree-conifer:before{content:"\e199"}.glyphicon-tree-deciduous:before{content:"\e200"}.caret{display:inline-block;width:0;height:0;margin-left:2px;vertical-align:middle;border-top:4px solid;border-right:4px solid transparent;border-left:4px solid transparent}.dropdown{position:relative}.dropdown-toggle:focus{outline:0}.dropdown-menu{position:absolute;top:100%;left:0;z-index:1000;display:none;float:left;min-width:160px;padding:5px 0;margin:2px 0 0;list-style:none;font-size:14px;background-color:#fff;border:1px solid #ccc;border:1px solid rgba(0,0,0,0.15);border-radius:4px;-webkit-box-shadow:0 6px 12px rgba(0,0,0,0.175);box-shadow:0 6px 12px rgba(0,0,0,0.175);background-clip:padding-box}.dropdown-menu.pull-right{right:0;left:auto}.dropdown-menu .divider{height:1px;margin:9px 0;overflow:hidden; </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/TTF/SourceSerifPro-Black.ttf
+SPDXID: SPDXRef-item1173517
+FileChecksum: SHA1: 05950b00dc3fb70e4177b55ad061a6e55bd5fabb
+FileChecksum: SHA256: b15739c197a3410c70923563ee263416b7b11bd665264d2c6c3a2d84aefbcfc6
+FileChecksum: MD5: e40e00ded56248302b573e404b9a0d1d
+LicenseConcluded: OFL-1.1
+LicenseInfoInFile: OFL-1.1
+LicenseInfoInFile: OFL-1.1-no-RFN
+FileCopyrightText: <text> Copyright 2014 Adobe Systems Incorporated. All Rights Reserved.Source Serif Pro BlackRegular1.017;ADBE;SourceSerifPro-Black;ADOBEVersion 1.017;PS Version 1.0;hotconv 1.0.79;makeotf.lib2.5.61930SourceSerifPro-BlackSource is a trademark of Adobe Systems Incorporated in the United States and/or other countries.Adobe Systems IncorporatedFrank Grie§hammerhttp://www.adobe.com/typeCopyright 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.
+Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
+copyright statement(s).
+Copyright Holder(s).
+copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+Copyright Holder. This restriction only applies to the primary font name as presented to the users.
+Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
+COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.http://www.adobe.com/type/legal.htmlSource Serif ProBlackCopyright 2014 Adobe Systems Incorporated. All Rights Reserved.Source Serif Pro BlackRegular1.017;ADBE;SourceSerifPro-Black;ADOBEVersion 1.017;PS Version 1.0;hotconv 1.0.79;makeotf.lib2.5.61930SourceSerifPro-BlackSource is a trademark of Adobe Systems Incorporated in the United
+(c) 2006 VeriSign, Inc. - For authorized use only1E0C U <VeriSign Class 3 Public Primary Certification Authority - G50 120607000000Z 220606235959Z01?0 U US1?0 U Symantec Corporation1?0 U Symantec Trust Network1=0; U 4Symantec Class 3 Extended Validation Code Signing CA0?"0 *H÷  0? </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/TTF/SourceSerifPro-Bold.ttf
+SPDXID: SPDXRef-item1173519
+FileChecksum: SHA1: ccc767c6e914d59bef710190beb7a13a4663423b
+FileChecksum: SHA256: 555481ddab493b4389ac96a0e7a759bbdee112a8c81cda4b923a81675f901a03
+FileChecksum: MD5: d90d09991b92065ec7f6e613665cbf2b
+LicenseConcluded: OFL-1.1
+LicenseInfoInFile: OFL-1.1
+LicenseInfoInFile: OFL-1.1-no-RFN
+FileCopyrightText: <text> Copyright 2014 Adobe Systems Incorporated. All Rights Reserved.Source Serif ProBold1.017;ADBE;SourceSerifPro-Bold;ADOBESource Serif Pro BoldVersion 1.017;PS Version 1.0;hotconv 1.0.79;makeotf.lib2.5.61930SourceSerifPro-BoldSource is a trademark of Adobe Systems Incorporated in the United States and/or other countries.Adobe Systems IncorporatedFrank Grie§hammerhttp://www.adobe.com/typeCopyright 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.
+Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
+copyright statement(s).
+Copyright Holder(s).
+copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+Copyright Holder. This restriction only applies to the primary font name as presented to the users.
+Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
+COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.http://www.adobe.com/type/legal.htmlCopyright 2014 Adobe Systems Incorporated. All Rights Reserved.Source Serif ProBold1.017;ADBE;SourceSerifPro-Bold;ADOBESource Serif Pro BoldVersion 1.017;PS Version 1.0;hotconv 1.0.79;makeotf.lib2.5.61930SourceSerifPro-BoldSource is a trademark of Adobe Systems Incorporated in the United S
+(c) 2006 VeriSign, Inc. - For authorized use only1E0C U <VeriSign Class 3 Public Primary Certification Authority - G50 120607000000Z 220606235959Z01?0 U US1?0 U Symantec Corporation1?0 U Symantec Trust Network1=0; U 4Symantec Class 3 Extended Validation Code Signing CA0?"0 *H÷  0? </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/TTF/SourceSerifPro-ExtraLight.ttf
+SPDXID: SPDXRef-item1173515
+FileChecksum: SHA1: 14b6a16d8acf8b54edab889864c8ca8736625997
+FileChecksum: SHA256: d9d7ba45f6576630b8f118782527be92a7faae095d3f2114d7b36fc13f6c4991
+FileChecksum: MD5: feccf4d504fbb2afe20d5d07ba83f385
+LicenseConcluded: OFL-1.1
+LicenseInfoInFile: OFL-1.1
+LicenseInfoInFile: OFL-1.1-no-RFN
+FileCopyrightText: <text> Copyright 2014 Adobe Systems Incorporated. All Rights Reserved.Source Serif Pro ExtraLightRegular1.017;ADBE;SourceSerifPro-ExtraLight;ADOBEVersion 1.017;PS Version 001.001;hotconv 1.0.79;makeotf.lib2.5.61930SourceSerifPro-ExtraLightSource is a trademark of Adobe Systems Incorporated in the United States and/or other countries.Adobe Systems IncorporatedFrank Grie§hammerhttp://www.adobe.com/typeCopyright 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.
+Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
+copyright statement(s).
+Copyright Holder(s).
+copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+Copyright Holder. This restriction only applies to the primary font name as presented to the users.
+Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
+COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.http://www.adobe.com/type/legal.htmlSource Serif ProExtraLightCopyright 2014 Adobe Systems Incorporated. All Rights Reserved.Source Serif Pro ExtraLightRegular1.017;ADBE;SourceSerifPro-ExtraLight;ADOBEVersion 1.017;PS Version 001.001;hotconv 1.0.79;makeotf.lib2.5.61930SourceSerifPro-ExtraLightSource is a trademark of Adobe Systems Incorp
+(c) 2006 VeriSign, Inc. - For authorized use only1E0C U <VeriSign Class 3 Public Primary Certification Authority - G50 120607000000Z 220606235959Z01?0 U US1?0 U Symantec Corporation1?0 U Symantec Trust Network1=0; U 4Symantec Class 3 Extended Validation Code Signing CA0?"0 *H÷  0? </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/TTF/SourceSerifPro-Light.ttf
+SPDXID: SPDXRef-item1173514
+FileChecksum: SHA1: 603088c9578c1cb16366871f3e18ff6875496814
+FileChecksum: SHA256: c1e7797b12728d2da4f98abe944286f383c1f3fdf99f4a28ec357c664854156d
+FileChecksum: MD5: 1ba099916271fa6eb11c89cc9a4c7563
+LicenseConcluded: OFL-1.1
+LicenseInfoInFile: OFL-1.1
+LicenseInfoInFile: OFL-1.1-no-RFN
+FileCopyrightText: <text> Copyright 2014 Adobe Systems Incorporated. All Rights Reserved.Source Serif Pro LightRegular1.017;ADBE;SourceSerifPro-Light;ADOBEVersion 1.017;PS Version 001.001;hotconv 1.0.79;makeotf.lib2.5.61930SourceSerifPro-LightSource is a trademark of Adobe Systems Incorporated in the United States and/or other countries.Adobe Systems IncorporatedFrank Grie§hammerhttp://www.adobe.com/typeCopyright 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.
+Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
+copyright statement(s).
+Copyright Holder(s).
+copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+Copyright Holder. This restriction only applies to the primary font name as presented to the users.
+Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
+COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.http://www.adobe.com/type/legal.htmlSource Serif ProLightCopyright 2014 Adobe Systems Incorporated. All Rights Reserved.Source Serif Pro LightRegular1.017;ADBE;SourceSerifPro-Light;ADOBEVersion 1.017;PS Version 001.001;hotconv 1.0.79;makeotf.lib2.5.61930SourceSerifPro-LightSource is a trademark of Adobe Systems Incorporated in the Uni
+(c) 2006 VeriSign, Inc. - For authorized use only1E0C U <VeriSign Class 3 Public Primary Certification Authority - G50 120607000000Z 220606235959Z01?0 U US1?0 U Symantec Corporation1?0 U Symantec Trust Network1=0; U 4Symantec Class 3 Extended Validation Code Signing CA0?"0 *H÷  0? </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/TTF/SourceSerifPro-Regular.ttf
+SPDXID: SPDXRef-item1173516
+FileChecksum: SHA1: 00e7863be3519cb6dd471d2ca74a06470b702b6f
+FileChecksum: SHA256: ccba2bfc5d4346b5a389239d5daaf1b87fe7ff6514c21b0da963152fdcb583f6
+FileChecksum: MD5: 1b742db1defec3d05d66a8713413d4c1
+LicenseConcluded: OFL-1.1
+LicenseInfoInFile: OFL-1.1
+LicenseInfoInFile: OFL-1.1-no-RFN
+FileCopyrightText: <text> Copyright 2014 Adobe Systems Incorporated. All Rights Reserved.Source Serif ProRegular1.017;ADBE;SourceSerifPro-Regular;ADOBEVersion 1.017;PS Version 1.0;hotconv 1.0.79;makeotf.lib2.5.61930SourceSerifPro-RegularSource is a trademark of Adobe Systems Incorporated in the United States and/or other countries.Adobe Systems IncorporatedFrank Grie§hammerhttp://www.adobe.com/typeCopyright 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.
+Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
+copyright statement(s).
+Copyright Holder(s).
+copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+Copyright Holder. This restriction only applies to the primary font name as presented to the users.
+Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
+COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.http://www.adobe.com/type/legal.htmlCopyright 2014 Adobe Systems Incorporated. All Rights Reserved.Source Serif ProRegular1.017;ADBE;SourceSerifPro-Regular;ADOBEVersion 1.017;PS Version 1.0;hotconv 1.0.79;makeotf.lib2.5.61930SourceSerifPro-RegularSource is a trademark of Adobe Systems Incorporated in the United States and/or
+(c) 2006 VeriSign, Inc. - For authorized use only1E0C U <VeriSign Class 3 Public Primary Certification Authority - G50 120607000000Z 220606235959Z01?0 U US1?0 U Symantec Corporation1?0 U Symantec Trust Network1=0; U 4Symantec Class 3 Extended Validation Code Signing CA0?"0 *H÷  0? </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/TTF/SourceSerifPro-Semibold.ttf
+SPDXID: SPDXRef-item1173518
+FileChecksum: SHA1: 34832677bc47c0ae01b500b83cf80754120ca86c
+FileChecksum: SHA256: 29601a1d30ee2cf2d30bd584ca787560094a17ff5f19aa105b6fd3e979f11cf2
+FileChecksum: MD5: 75ceab2f5b3ec677f169ad6d2b484764
+LicenseConcluded: OFL-1.1
+LicenseInfoInFile: OFL-1.1
+LicenseInfoInFile: OFL-1.1-no-RFN
+FileCopyrightText: <text> Copyright 2014 Adobe Systems Incorporated. All Rights Reserved.Source Serif Pro SemiboldRegular1.017;ADBE;SourceSerifPro-Semibold;ADOBEVersion 1.017;PS Version 1.0;hotconv 1.0.79;makeotf.lib2.5.61930SourceSerifPro-SemiboldSource is a trademark of Adobe Systems Incorporated in the United States and/or other countries.Adobe Systems IncorporatedFrank Grie§hammerhttp://www.adobe.com/typeCopyright 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.
+Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
+copyright statement(s).
+Copyright Holder(s).
+copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+Copyright Holder. This restriction only applies to the primary font name as presented to the users.
+Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
+COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.http://www.adobe.com/type/legal.htmlSource Serif ProSemiboldCopyright 2014 Adobe Systems Incorporated. All Rights Reserved.Source Serif Pro SemiboldRegular1.017;ADBE;SourceSerifPro-Semibold;ADOBEVersion 1.017;PS Version 1.0;hotconv 1.0.79;makeotf.lib2.5.61930SourceSerifPro-SemiboldSource is a trademark of Adobe Systems Incorporated in t
+(c) 2006 VeriSign, Inc. - For authorized use only1E0C U <VeriSign Class 3 Public Primary Certification Authority - G50 120607000000Z 220606235959Z01?0 U US1?0 U Symantec Corporation1?0 U Symantec Trust Network1=0; U 4Symantec Class 3 Extended Validation Code Signing CA0?"0 *H÷  0? </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/LICENSE.txt
+SPDXID: SPDXRef-item1173512
+FileChecksum: SHA1: 6856896ff0d4b328cc2795e619ef6d08b852c3d1
+FileChecksum: SHA256: 470101636dd61f2778e24dfd6d360a6be5b6f30bd6f33fd351f3e4bc9d9af7eb
+FileChecksum: MD5: d427c5350b3b5648c02e938a0faaa446
+LicenseConcluded: OFL-1.1
+LicenseInfoInFile: OFL-1.1
+LicenseInfoInFile: OFL-1.1-no-RFN
+FileCopyrightText: <text> Copyright 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.
+Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
+copyright statement(s).
+Copyright Holder(s).
+Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written permission.
+COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/bower.json
+SPDXID: SPDXRef-item1173523
+FileChecksum: SHA1: 378cf74c2054df7d84d085b09154baa4083752ea
+FileChecksum: SHA256: 6ef8706868fe368a3f06cfcaf5f03239c229f1058dc57d2b38b9583ed753cc1d
+FileChecksum: MD5: 41563ccb573138c6e2d1e69dbc4e8e45
+LicenseConcluded: OFL-1.1
+LicenseInfoInFile: OFL-1.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/js/bootstrap.js
+SPDXID: SPDXRef-item1173597
+FileChecksum: SHA1: 6a4ae3b419ee374ba89d28161f5f9ef91b4762f3
+FileChecksum: SHA256: c2d189590dba9cd8e13e28b8a1e9809662b28081a1922dc0d7a6c352f9402ee3
+FileChecksum: MD5: 019198aae1123c3d1470c1db99d26b2c
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2011-2014 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+Copyright 2011-2014 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+Copyright 2011-2014 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+Copyright 2011-2014 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+Copyright 2011-2014 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+Copyright 2011-2014 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+Copyright 2011-2014 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+Copyright 2011-2014 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+Copyright 2011-2014 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+Copyright 2011-2014 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+Copyright 2011-2014 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+Copyright 2011-2014 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+Copyright 2011-2014 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE) </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/js/bootstrap.min.js
+SPDXID: SPDXRef-item1173598
+FileChecksum: SHA1: 537c6a897ccdf18379a8e88617613301f984b3ce
+FileChecksum: SHA256: 20b9eff58cfbb8785316a11b44bc084e9842eb4907a3244d12488270cb79ce30
+FileChecksum: MD5: a537fda11511a82e44d077e73c0909bd
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2011-2014 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE) </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/images/doc-places.png
+SPDXID: SPDXRef-item1173401
+FileChecksum: SHA1: b7cd4513bd6fafff081cc885a5f5381f0efb1f93
+FileChecksum: SHA256: b419ee580d29c74e2fdcf594c864054342862398e00733aec5ebcdca6f155fe1
+FileChecksum: MD5: 6e2cd2dd591ce17f2cfe25bce1469d35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/images/gerrit-htmlfolder.png
+SPDXID: SPDXRef-item1173402
+FileChecksum: SHA1: ab731e999055b004fce177dd771faccc0af34efd
+FileChecksum: SHA256: c533b66d8b6423c13edd52b6d17ea6da51e2a35cae656b71e5d52c08020dd4a5
+FileChecksum: MD5: f452158e46323945c902be0eaf7df806
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/images/gerrit-docsjoblinks.png
+SPDXID: SPDXRef-item1173403
+FileChecksum: SHA1: 8197190f543f304ab186b6ba87677750b4087d1f
+FileChecksum: SHA256: 422a8f22f93751104c86fd44015d8eceba1db0abc97673e013ae726c47b1d530
+FileChecksum: MD5: 60d8e3bfd0d0f2fc8b86212a666fc015
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/images/docs-structure.png
+SPDXID: SPDXRef-item1173404
+FileChecksum: SHA1: 09bb46061d9763e5010b5abc4b7aa0a018eea940
+FileChecksum: SHA256: 7de24beec90238a6864c629a9d96e23620f1319162d00d28f0563f8b19e3922f
+FileChecksum: MD5: e9d5b8df4d6f8c13bda4f8c78494f53c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/templates/diagrams/security-verification-arch.xml
+SPDXID: SPDXRef-item1173416
+FileChecksum: SHA1: c0751085f82548adda431bcc02efc1c7616ca3f2
+FileChecksum: SHA256: 72da681526bdda3f3f6e66d8672e9d9a7005792870525e2e45f76dd5956a623f
+FileChecksum: MD5: 096e7674b2092740414106443cab5b81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/templates/diagrams/ActorInvokesScan.xml
+SPDXID: SPDXRef-item1173417
+FileChecksum: SHA1: aef00864aa7e26710969eea87da3a6e33a1e24c5
+FileChecksum: SHA256: 8580b2a9eb1d73c0ae999ec132c525694690b3aa03806c79b856faeda08f45d0
+FileChecksum: MD5: 29e5b7d774a22baddbe661449a0826a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/templates/images/ActorInvokesScan.png
+SPDXID: SPDXRef-item1173419
+FileChecksum: SHA1: 089036203f63f1f121bc4a867f79dfdcd8a1c3bf
+FileChecksum: SHA256: 5c104fd5bff3f59e97f0ff3cc91cfb35ae7675f4a58a91412f8c2cab4b8784ae
+FileChecksum: MD5: 52a5a9697191fe5fb20e4cabec745ac0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	OÁWnTBã~¯&Ké"[?`H iQÇäÄeþ>R?i¤JDa¯ô{?ʙ?æO%e(õl¾í M¥#à-)/òo </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/templates/images/security-verification-arch.png
+SPDXID: SPDXRef-item1173420
+FileChecksum: SHA1: 4cddff80a6d7df283caae4edf61d76bcaf8b2365
+FileChecksum: SHA256: a74f99404254da7fd264504b4544a7cd9fb701d0ede04029089107121b91579b
+FileChecksum: MD5: b9e76eaf359663cc0e15ca8a15ed85ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/docs-contributor-guide/templates/images/scantool.png
+SPDXID: SPDXRef-item1173421
+FileChecksum: SHA1: d0f2c45ff656c3ced68134e0391d30aea5e894ef
+FileChecksum: SHA256: d47bd85ec61691eacae3255c45d0f4e280af49e84f58204ae52895e907099aa8
+FileChecksum: MD5: ea3a6f10cea1ea7d0b12d6158783128f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/Makefile
+SPDXID: SPDXRef-item1173429
+FileChecksum: SHA1: d559243d06bc239c149bd3329eee55c6ee73ce8d
+FileChecksum: SHA256: beccaedb95843248341b0b5d2426a4121aa4333652ad22ae814db5194eb88ce9
+FileChecksum: MD5: f34330f07eaedb74e65b321921125d22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/images/acumos-architecture-detail.png
+SPDXID: SPDXRef-item1173433
+FileChecksum: SHA1: 4b444038442f75b69fc9ffa4574badcc79a77816
+FileChecksum: SHA256: 88499d50ed95e735f577b77baea3e9c44d6f392e2ca0ffb39bcae97435a05322
+FileChecksum: MD5: fb656fdbce8b9027652daf522f256872
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/images/acumos-architecture-athena.png
+SPDXID: SPDXRef-item1173434
+FileChecksum: SHA1: 85bcf0dd6eb3da82c83bb229e65f25ce714cb43e
+FileChecksum: SHA256: 65507d25ae33987be6a793192401d7870dcf2f4d2d6107c3f8234e34e348b068
+FileChecksum: MD5: 286384163d18fb4073f1bb6f92f3a925
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/images/flows/model-detail.png
+SPDXID: SPDXRef-item1173436
+FileChecksum: SHA1: 6844eb04534a984e372366a86b4413fb33e878be
+FileChecksum: SHA256: 9f49473be6d1a5919ab52fcbe7e07825837a6249c10c4e15156c7ac60b06db35
+FileChecksum: MD5: 69b28d07aa3e6f62fdd74f667b564c2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © t9?ènä©YôÄÝH?PÌ ߴw/é6¼?ia±'Í(¬s?¬µp°ÑqPá¶ßBɀ¾þè¹9o?ð5cl1ësº?RJ?9©­?Ë'?ÐGË<¥D¹?0õàiuǻ?®?{Q¢"Í?¹P~ ¬&]øh,óËÙz©ôJ?Kä ¥ӭMf?fÙ\ø`­E|ö²½Kõ-[>Ý6¾+Ü?M|L§º:^mݍ8zU[?¿Ëw00øÀ£þSҫ 7;tl\7	Xï8éë¸ê?¥céÿ?ÏÙÞÝL°]:ßZ×?àأ©Xà9ýIRå¶Àð­¼À¨ï*¿b²þg¿Ë"¯ºÒ?¥ü#3?%»©ºæ?о1Y_¥òÌt§©2Æ L??÷?RáôL'ÚB ÐÅ? »?¿?л]¼mÑ=ï©?¿q~ OßR+èAE?Ø Öð Vǁµa`}5P^?$} qÈ	w>õ?Ʒ¸-Ú%e*?¼Q?3ýeդY8é ¥&é?0Ã3?påÊ-}¾píQ´×ù9ؓX6¢o:?É`rUZ(??Þ?ÀÉ?'ÍUj¢µ½%Ã\l ?ZªJÇÚÀ_ ðéçÑDæ?%U0ÃZr^#3¥"¹ÈTÍ˔N«؉ô>?:í?Fw#1?"<¢¥{?۹'mV½ïÜ?çþÇ_?(?(?^?°-Àc? ?N?§Âþ?úè;ÿyò¬éºÄ, £Û?ü?ÀwUB½X¦Ç c¾&Ãxx\?éìú@Z2y?q?Òq?ËDòûBڤ$d69þiâ÷NSwu¢¥Oé?9 </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/images/flows/user-sign-up.png
+SPDXID: SPDXRef-item1173437
+FileChecksum: SHA1: 3acba607050d94e92ed16528331df8fee447d536
+FileChecksum: SHA256: 76a5e1dc61924e0617c10d47329dfba2d0da2af2e5bae65ea038d7d6cdc36506
+FileChecksum: MD5: 6564b41b81a1e3459253e9589ec622d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/images/flows/catalog-flow.png
+SPDXID: SPDXRef-item1173438
+FileChecksum: SHA1: 87f460ee64179242b0d2398d5943260f1352d185
+FileChecksum: SHA256: 0ff438ea2a12ed08e0bbeeb34db55de5a64ed62d77c5d05758f25107489ea807
+FileChecksum: MD5: 07deb3830dd0aaeb216c40aa32cdcdbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/images/flows/ds-create-composite-solution.svg
+SPDXID: SPDXRef-item1173439
+FileChecksum: SHA1: a6d9fcd940c045326596ed6acdfbb021629c3518
+FileChecksum: SHA256: 1211f7e4b9ae22feb6b6e23e8f4c4ea713d4ed82c57affe41f8c8b9786639e07
+FileChecksum: MD5: d4e4473ff95571a55cb560f47dc6e1ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/images/flows/acumos-platform-user-flow.png
+SPDXID: SPDXRef-item1173440
+FileChecksum: SHA1: 16a50ccecfc951ccec8ee60431d222be90d28ff4
+FileChecksum: SHA256: 9a3a672d6f07a84b6698e92362533b5e431eefa7f49613af00a9aab939029b3f
+FileChecksum: MD5: 37684411bafa58650d06fb0fc186f52a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/images/flows/federation-subscriber.svg
+SPDXID: SPDXRef-item1173441
+FileChecksum: SHA1: ef49e16217e23798d2f2c74b74e39bfda9e2c002
+FileChecksum: SHA256: 8e2134c137393c04a063676379c59c9780b697bbfed826fa251d9f448595a7be
+FileChecksum: MD5: abbc01a5f44c2737c3a6991e0655efeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/images/flows/user-login.png
+SPDXID: SPDXRef-item1173442
+FileChecksum: SHA1: e46830a2a0e2577fc372a8b1d5f375ced4bfa5ce
+FileChecksum: SHA256: 90bf1ec0f6211c304f6e626af6121f718c14ab34d040064a8087bf4c98b03d4f
+FileChecksum: MD5: 291f73385e77d45fa6d23d83bddc6253
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/images/flows/publish.svg
+SPDXID: SPDXRef-item1173443
+FileChecksum: SHA1: dcc5336eda44087e44b96f27d2f14a5c7a90e75d
+FileChecksum: SHA256: ba33190296d79418c7d178e373c1cc45f8643425aee77da181682b2ee17ec909
+FileChecksum: MD5: 1b9c8f35a9fcd0bcbe9dbe54d3d99fed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/images/flows/onboard-web.svg
+SPDXID: SPDXRef-item1173444
+FileChecksum: SHA1: 9d70371f7737ba674a47b1866ff7c45237544a3a
+FileChecksum: SHA256: fbf4f8631e0e4c77d279a0204bfb18ce664e72d34b07d64a53b5751ed4551533
+FileChecksum: MD5: 9d9446cde8b7395e0f2e50a07ee38635
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/images/flows/onboard-cli.svg
+SPDXID: SPDXRef-item1173445
+FileChecksum: SHA1: e3647471be1f1fb10cad0430e64db42ac9988ae5
+FileChecksum: SHA256: 8cd52f43be98af5f412add5d60bee9e8c4332d89d4cfb95aea8e54d8d539a9d6
+FileChecksum: MD5: f8fbe55edc5e4d817f7142b10550017a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/images/flows/federation-publisher.svg
+SPDXID: SPDXRef-item1173446
+FileChecksum: SHA1: e406d68a33cd78d0e64e52ddbdb876775d3b8b7b
+FileChecksum: SHA256: d0aa0c4e4151b751553908b5cc3858b8c4a0434cf8042ef39ae97d0a1d6549ad
+FileChecksum: MD5: dc0e23891b23e2abb028fe46c821b054
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/images/external-interfaces.png
+SPDXID: SPDXRef-item1173447
+FileChecksum: SHA1: e79d245ee32dfc48a1306bc1a986373a529eab41
+FileChecksum: SHA256: fd8408250ecc99378890f4bdedfb3da21cf1d39d90e02a42489abb486aa7ed85
+FileChecksum: MD5: 4494fc8c3360ddc3343eefe714b372ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © eTrY?¥Je'üBA?0?ދ4èt ×Ʋ$"(-.Bqxñz?Ñv"¢?¶Ìu$LÍBJ?}]JYū$¥-mY?USù~éû¼þÞ?Î<ïzNëÑÃ0QU?¡(Q?Án E ûøª۪bIü"RRS¢턂?	é?µ23m?H   °¤-5þÌô{©{òP?tkJqa!ªӍÏå@*??]G¨*?;$P ??H)PÂ!(jXmÏöªíڱáðR¯N&?AyY	¡$)9 ;¼?Kb:Åå~ 0B!JJ HË$.1²??óô_rÇähBÏc?i´+ËD b? ?äWKg?WÒ?a2$øM%#Ïõ?ݳ?ÿ?"ÏKÀ?Ò~þª|Ñ??!b? ?1büÿå? ᜜ÛÆ_ƉÝNaØÐs9ãÌA|¿å?þâ?î¹ñJ?6jÊW?ï PÀéýºѧß ÄÐ+oàp¹=?&X¦	Àò?_å̳Φoïî´hՒ3Î:Ëo¸²°ѢªjØh oYÑÚ?v®½ýÇgñõêÝèÝö}c.`Λˀ<H? (çí×ß"@$Ç6TUE?"?$ÂyD¦" yյÄL|nۘq8´p±W .þªªJEøZ8w'²­òÄÔ4M$ðå[³¨];EßoÆ-½ôô=´ë܅óM¶ùè«Õ ~fo~Øy8z¼" `÷ ¦=þ?5³j?0õª?ÜõØ?PUPìð=Ã6Ö"¹Qªj×6Ql#?UCQT»ªj{Â!y¦^È5CûÒïÌó9½_O&L~?Gn>:;òã\¤?Ó?¡ê?³'ZBPøᛷiֺç ÎY?1}îǤ×iʛÏÌæ³uÙ ì¼'b?@ 5?ô'?ؓÂ?ÓϿ±ϱãë'b4üÓýøˮç?þ??#F?ãÂ?t8ç WÞv/w\9²²2<>?¯=w?«ö?OYY?iêê?sÞþ?Ͳ?t?N¢B ?èv=ë?q1«?=Ç-,ãóÏæi?§(?e?|õí ´øtztí ¹?v±òǟ¨Y· Û4 !)?¯ËQ¥¿þòRA?0ٵg?ñqðê´îԅ¬´?Ö~½	coÆL­KNÍÉHMb÷æõ¬۲¶»R¿V </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/images/portal-technologies.png
+SPDXID: SPDXRef-item1173448
+FileChecksum: SHA1: 661d4559843f5673617be645fdd45a50c849570b
+FileChecksum: SHA256: 0a8f239ec2a6daf33fa616a7b25c7f376e08186801a6a787e8824c35552838a5
+FileChecksum: MD5: de19244a89092a1961692f2171ceaace
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/images/acumos-overview.png
+SPDXID: SPDXRef-item1173449
+FileChecksum: SHA1: e914202917635907cee9360a9ed6d5098b6c3bcf
+FileChecksum: SHA256: a8bb6dc4a968a4dddf97100ce5f847a245336acfc6e3bfa0b6b0a7cb6db80d53
+FileChecksum: MD5: 1e7e4fb6ba98a41f83463372fc892525
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/images/backend-apis.png
+SPDXID: SPDXRef-item1173450
+FileChecksum: SHA1: d1b1acffb3696c123e801e07f19af6078125768a
+FileChecksum: SHA256: bffcb3de29ab56fb7ccf557df7c2e899875b590fad65207cda7171b9fffdac71
+FileChecksum: MD5: b7c7157be0e5f38cb6748dd1f197da39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/images/acumos-architecture-clio.png
+SPDXID: SPDXRef-item1173451
+FileChecksum: SHA1: 53f5e3426df23c5c902468932c86f9f8d7c96127
+FileChecksum: SHA256: 5f9577c94e7d90f52bd3bc023d10213346b924ef1e7e659bd7097d3aae8d29b0
+FileChecksum: MD5: 50178cd3cae96ee8063936dada1623a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/images/acumos-architecture.png
+SPDXID: SPDXRef-item1173452
+FileChecksum: SHA1: 8e141436ddd7ebe4210d14a989bfa6270198ef1e
+FileChecksum: SHA256: a14f2d48a0de34dab51577ede20fac1e5a645149e638b982b4b0cc61a0fa6f31
+FileChecksum: MD5: a2878c14c16c1ce11af87588a1e304ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © ypç?o:ÚFµm®ø¡?NԨ¸p4¸6y0Ã$ Ç8?»ëک¸Éû?© P?æyÒÜ1?é¾A`@?ÁØÙ?®Ïæ¦Vêl¢®úp£pϜdí ꉸtÎ?$©×É[èÍÍÍUDvmm­Z«[ôL>Ý&|%u±¶1H\v.++#Ôñ´?OW? ÛѾ?ʂL:ºM
+© 56¬eÅ2o/;?ÊSfÁýv»FVzX?P E I?°M6?ò³Û̚}?udV¶±ë&=vӲ±} @:܌ùÑÿ°?äE÷ç7뭄 uÂû¦ý^úà?à ~«ËÇ8$¿©»5.ÿËßîvùn£>üï.§ð?7|Ð}?}ÿ`ã7ê?" ?t JoÀ?]BGÎ?nvfµÈ×pÐ#QtѰWfAxø«¯?B<?ùg	-?´Ù4ö±æL8?3E,FÊP?Â8źa#±|® 'ýÓòÂëaYôØĂdA¨ó<æÊå«óòFtñ4ܤOÏ,J*1ÊTfӊ¨x<?¥?ÊKÊæ$í|Î!°)Sxï κ0&øbÊ#ӰO¤rFx¯#»_G?µ "!L* [÷?,ÝýQI«÷<' Ye?¬åùñ<`4BØòóº¿9?ð½þ͇å?ûڥ?Àé'_¸߾%"ax[è¤dßq3øgë?¥1ßo¢ÀïÊ?%?|#æ»À9gæ¸Qáv?TZWE@?P?Ú?JK	«ä\"»9 </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/images/portal-backend.png
+SPDXID: SPDXRef-item1173453
+FileChecksum: SHA1: 339c7be78d7a66c3aafd4b4bae2b0ceedbc40b74
+FileChecksum: SHA256: b608b8181170b7bcff91e8200ac71474f68e24ffdffc89eb9151b4a6fbd7f1a0
+FileChecksum: MD5: 09b86723588680826b82220e88ce9be3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/architecture/images/acumos-architecture-detail.xml
+SPDXID: SPDXRef-item1173454
+FileChecksum: SHA1: d829f1e53e7b64a330e9ca897af6fa219a1050b3
+FileChecksum: SHA256: ab561cca2f910444db1244c588d9baa9530ae0f7620383e43ceeab3b23109c11
+FileChecksum: MD5: cbf4861e94a9e79cf0be47d59ccf4a55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/searchbox.html
+SPDXID: SPDXRef-item1173468
+FileChecksum: SHA1: f4d470da9a7ab67c2b4335fefcd54a2d5a9c20d4
+FileChecksum: SHA256: dc38107142f7a9e42d0f4c88a3a0be50e5cfd0e87b17a84406f170b54931f08b
+FileChecksum: MD5: f9c009788d273d75c364a99009ab4870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/search.html
+SPDXID: SPDXRef-item1173469
+FileChecksum: SHA1: 1c5ca63a2fc93b1bf09aca3eddc5844e901b0b14
+FileChecksum: SHA256: 382e94febf888c6fbd2faeb15361bb9e25f058159cb3714cd31dd82051b32054
+FileChecksum: MD5: 117b8eb48597f8581ee2c84c1a60ee0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/localtoc.html
+SPDXID: SPDXRef-item1173471
+FileChecksum: SHA1: 01c31625561d82e78cb29ce60b198e56c802b186
+FileChecksum: SHA256: 2bc42c944d38b2e574a4013a82824b23c284d42c2137628121ab638a9b1ccc33
+FileChecksum: MD5: 7855087d8ddeab875b85f2497519dc30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/logo-text.html
+SPDXID: SPDXRef-item1173472
+FileChecksum: SHA1: fa5108f49e60580e9645b52cbc15d8e046f27640
+FileChecksum: SHA256: 77e9570fdddbaa0022592e9ace8b7e15104af9a2cf3e5147c69d5acee5ae11c9
+FileChecksum: MD5: 1b5dc5a9c53afb6e8e457d7768cc4b63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/comments.html
+SPDXID: SPDXRef-item1173473
+FileChecksum: SHA1: ff0ce85c73f59bae4100df113ed6fbd126419e2d
+FileChecksum: SHA256: aa9680e964939d394a5bfcc064aa18ee26f43505520e2c3d001aea5d68ce4ded
+FileChecksum: MD5: cbdabbbf98d602484ff35a08085d6d6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/theme.conf
+SPDXID: SPDXRef-item1173474
+FileChecksum: SHA1: 334592b67e3f61365418c6a74c10ff846081e9d5
+FileChecksum: SHA256: 1c63eda6a5c2d0ad9c3a2a6a3db9f3257da861d1f93f88abbf3d2345a11f3d08
+FileChecksum: MD5: f103f2c0378973df07ea63c10ee2238b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/jquery.min.map
+SPDXID: SPDXRef-item1173479
+FileChecksum: SHA1: 5d459941aacf3d11dcb48a0f85c5a1104f017aa7
+FileChecksum: SHA256: 8fd3e3dd5242aa216cdfbbd8d68a202712945614c61c614df3047effd949cae8
+FileChecksum: MD5: 4efe065202638dd059a1846f0cc2f3e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/OTF/SourceSerifPro-Regular.otf.woff
+SPDXID: SPDXRef-item1173485
+FileChecksum: SHA1: d5b4cc9121fc6e81a9f87b013c1f49d082241090
+FileChecksum: SHA256: c38f24ccd7e42a379375a89020c3f2c70b1665254aea0f151565038c5a312d29
+FileChecksum: MD5: 2ff6913fd741b30c4b4d5dff5546d3fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	S7M=2µhjÅÔú©ÍSۦޙútêOS?Ný<­ߴ?ÓÆO³f3ÍqÚÊi>ӂ§ÅNK¶sZ洃Ӳ¦eOûcú¼é'§×Î?8ãÑwc¿?ýî±e?Ë1',eçLûE3?ÎZ5«x¶|¶óì¢9Ä?¯9Ås®Îùew¬¢¬~·|ÞOó?濵v²n·¾e}Çúõ?֏¬Z?_0uA ?æ-|³h좵eC?ï]»øÎâ÷Mo?c¥6ëlòm®Ûü¾ÄtÉô%Kø-ùÙ6Àö¯¥.Kß/£ÍXÖ`Gح´»moo¿ѾÆþG¾?³?"?8<pxï¨ã¸Êqã^ǣeç?Û ;¾qü{9½Üqyüò;NÓ'c§?NNNNëR2?:pjtºáôÜé¥Óÿ8t¶p^èìçá|ԹÕùó/Ο]H?¥Ë2X4Bf.?»¨]¥®?®ó\׻¦¹æ¹V¸Þv}åúōqëæWÚÈ^k?<º?Ô?Eàwð?£A2®?#àã?4 T`?Táð1C10??pÀµ Cԏ³ iuäß&l¤Xª&¤kHà²¦0Ôoc£©õàx?ØS·?Qo­?P,?(¼H}ý«¬ULý Ýƛ-v}{Ù;4Å~<»ÆØx¹?ì­\.~ڱã©?ÚÕÑ\¦w@èö÷ÞüøØî*?­D¤Dù§¯ܒ½v?*?Ò£¤-?VôD?z +oµ?(½¬L?Ãq韩õì:?P¼?w@¸°'Ç1ú\{ÂLËî?VÙð?(üÕUaù$^÷?[¨¨ûì?ö?M½YÇP÷#?ê:ÇLE?1~7ّúâ­  Åë@Ê </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/OTF/SourceSerifPro-Semibold.otf.woff
+SPDXID: SPDXRef-item1173486
+FileChecksum: SHA1: 48e886deaeb21a9656b9e97607b33ee6f1e5af0e
+FileChecksum: SHA256: 1e6b7d8cbbab2f573f11f788ee19602e85e0c3110ad51605be85e39980d0390f
+FileChecksum: MD5: 2d93d129bfeb07085527ca419c4516b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/OTF/SourceSerifPro-Black.otf.woff
+SPDXID: SPDXRef-item1173487
+FileChecksum: SHA1: ae812d3d406906b719a7a85c26cd5e50ce2640d3
+FileChecksum: SHA256: 4287b08b0d8eb37967f991aba9a5148abda86151a0d85701d6ee90484aed5e2d
+FileChecksum: MD5: d3846da5d7b6d14f15016d23bae76fbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/OTF/SourceSerifPro-Light.otf.woff
+SPDXID: SPDXRef-item1173488
+FileChecksum: SHA1: fa1e733e4da233fe8e4f861693fae4357e6ac9f3
+FileChecksum: SHA256: 617de9f55929301afe1a0694eea1d995367e68aeae0cfb10fcc01fd652d2affe
+FileChecksum: MD5: 883c4f53ab2b2b7aca8c60fa834a8177
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/OTF/SourceSerifPro-ExtraLight.otf.woff
+SPDXID: SPDXRef-item1173489
+FileChecksum: SHA1: 8a6cb38e7df8258a8721dfe4af01071114892907
+FileChecksum: SHA256: b0b9867e13d0ebfd16140d2cfa698f7f4600273a8b6b56ed9ec2ce7301871fec
+FileChecksum: MD5: 6e525a261421be39b4e774927db10b55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/OTF/SourceSerifPro-Bold.otf.woff
+SPDXID: SPDXRef-item1173490
+FileChecksum: SHA1: d4f30e5e11c688ecaf8a5490e526b71024656bd3
+FileChecksum: SHA256: 3e86e20fd89c2955692c89c75b43969bc5d2e99735687d268ccf9f08be059915
+FileChecksum: MD5: 02820b7e6869a0d51b74b9c207a5cc08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/TTF/SourceSerifPro-Semibold.ttf.woff
+SPDXID: SPDXRef-item1173492
+FileChecksum: SHA1: c7d4ec82c5f2ff7ff8156537c8be44109104e4d9
+FileChecksum: SHA256: 53aa899466e0116b4bccba61d5da6a47ba4a36cf39bfcdb677c6a0efbd0a0293
+FileChecksum: MD5: 2e79a16087c1b24b7ca83636c3459a4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/TTF/SourceSerifPro-Bold.ttf.woff
+SPDXID: SPDXRef-item1173493
+FileChecksum: SHA1: ee521382f7cd0e3af99365560891402778551f57
+FileChecksum: SHA256: 8118f3a510fbbf1ec35f01e27ccee3dc8413b326420e4e0e47ef1a552f1db6b3
+FileChecksum: MD5: 0315035febd7b00ebb9746800b8a26bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/TTF/SourceSerifPro-Light.ttf.woff
+SPDXID: SPDXRef-item1173494
+FileChecksum: SHA1: 920f12eb0d452f28d6d1e87c2f050e4c1585d065
+FileChecksum: SHA256: a34789b70026ebc0aaa1858d83baf8f64c3d24b1c68e27db3ff94a37b9a0ee1f
+FileChecksum: MD5: 78e0c8eb7a4bad95bc2e263c3de3b640
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/TTF/SourceSerifPro-Regular.ttf.woff
+SPDXID: SPDXRef-item1173495
+FileChecksum: SHA1: fe6ace796cf65b3ac9f775a11560d3ace9d779c7
+FileChecksum: SHA256: 2f6f0581628e63d466965eb21f0ef47a026232cd9e15c7b4603adffa2bc8e1d4
+FileChecksum: MD5: 7d9c73e359007f39de8ae89865c4a2b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/TTF/SourceSerifPro-Black.ttf.woff
+SPDXID: SPDXRef-item1173496
+FileChecksum: SHA1: 51c1eee296fc0c513bb5684fcb223b3966bfe6d3
+FileChecksum: SHA256: c3c83d5ebac11d0e40632a696323853d60ff8860bce8466812823f524970169c
+FileChecksum: MD5: 97374cc62dd2cb1257aa2ea82017fe8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/WOFF/TTF/SourceSerifPro-ExtraLight.ttf.woff
+SPDXID: SPDXRef-item1173497
+FileChecksum: SHA1: 339870a5d591a19d95b735d57a19e3586e2283b2
+FileChecksum: SHA256: 7a8cd48abc60e570cbcd87eb8cece85ec6b2f466fe39d4aec5ccbe95ec92e639
+FileChecksum: MD5: 765197944d8a71c1ae4cfd454188ae5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/SourceSerifProReadMe.html
+SPDXID: SPDXRef-item1173511
+FileChecksum: SHA1: 99410c80cadbd4848d0b58c1dc9e9422f63aabab
+FileChecksum: SHA256: f71dc6f0718a1be4328207662e38b1ac17bf5b3cfe405c1750f4e54dae5b889a
+FileChecksum: MD5: 87568eaa781ee8724b44846439edc857
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> &copy; 2014 Adobe Systems Incorporated. All rights reserved.<br /><br />created 2014 Sep 24 hFooter> </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/source-serif-pro.css
+SPDXID: SPDXRef-item1173520
+FileChecksum: SHA1: 75de211ba1e57e460af875daedd29eaa0e6f8d78
+FileChecksum: SHA256: 24c08a0272e39a54e1b72d95f94d61b3df1febc9fbaa44a66214a4eeaaa89b96
+FileChecksum: MD5: c1523b0dcfc122e127bb57029f8342e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/README.md
+SPDXID: SPDXRef-item1173521
+FileChecksum: SHA1: d2ca84737755e0ddac96da05ffe6f9eabed7b425
+FileChecksum: SHA256: a9a50ecc14418ffd9e0acd467b24a8ce4c33565ef9f82b3a47bcf98f0fc5f6f9
+FileChecksum: MD5: 32545d0ec0717eea497c100420d90951
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/source-serif-pro/ReadMe.html
+SPDXID: SPDXRef-item1173522
+FileChecksum: SHA1: 4b72116b16459d77df40423c490dd54cca5e7803
+FileChecksum: SHA256: 6341ffe10d57623ce777444b2bda2fb9a8280c90530b0c88313480f67568b66a
+FileChecksum: MD5: e6bbc6b22ab47f522bb1cf8dbf3fa644
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/stylesheet.css
+SPDXID: SPDXRef-item1173538
+FileChecksum: SHA1: 68506820dde903126363a54664134440377f1fbe
+FileChecksum: SHA256: c68c48086c600929e766880a598d7759cb1806a764cf750990bcb7f9e19af2be
+FileChecksum: MD5: de6fdc8c4db94b687178601a68a010cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Bold-webfont.ttf
+SPDXID: SPDXRef-item1173540
+FileChecksum: SHA1: edc8158d8b3047deed8ff55f6ce7edb8302ca8ef
+FileChecksum: SHA256: d6e15df40b5fa9f51e327f937d33656ec2e9729ab6bba7e6f45827b49187afd0
+FileChecksum: MD5: 72018a2356bbf143a4d334abb756efab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-ExtraBold-webfont.ttf
+SPDXID: SPDXRef-item1173541
+FileChecksum: SHA1: d1e914878d32fbc3b7ea8e708c105b3ae2514c47
+FileChecksum: SHA256: 13668bd25f616ff75235f5b36736d9ff17a674e7c4c0644e275d7a17a18d2575
+FileChecksum: MD5: 45e377f263b6e767c5c283c36ffa4542
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Light-webfont.ttf
+SPDXID: SPDXRef-item1173542
+FileChecksum: SHA1: d92b1bee5c22a1647396e951549f9771c6591fb4
+FileChecksum: SHA256: 488440124630f7b1458de92080069597db6a224f2d787c362d7176a5c884cc86
+FileChecksum: MD5: cf4f8f2c1013afed762589bb5ff756af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-BoldItalic-webfont.svg
+SPDXID: SPDXRef-item1173545
+FileChecksum: SHA1: 29ff1192704edc545b21ec41a2eaee001d3b0ebc
+FileChecksum: SHA256: d66bcc791b1bf93f54b2b69717a455960525a6aaca98264183601261395158ef
+FileChecksum: MD5: a73ae8486f71dfc132708a3512285b7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright : Digitized data copyright 20102011 Google Corporation Foundry : Ascender Corporation Foundry URL : httpwwwascendercorpcom metadata> defs> font id="OpenSansBoldItalic" horiz-adv-x="1128" > font-face units-per-em="2048" ascent="1638" descent="-410" /> missing-glyph horiz-adv-x="532" /> glyph unicode=" " horiz-adv-x="532" /> glyph unicode="&#x09;" horiz-adv-x="532" /> glyph unicode="&#xa0;" horiz-adv-x="532" /> glyph unicode="!" horiz-adv-x="586" d="M25 115q0 90 53.5 144t150.5 54q68 0 109 -38t41 -107q0 -87 -55 -141t-144 -54q-73 0 -114 37.5t-41 104.5zM150 485l157 977h340l-256 -977h-241z" /> glyph unicode="&#x22;" horiz-adv-x="928" d="M201 934l71 528h277l-152 -528h-196zM604 934l74 528h276l-151 -528h-199z" /> glyph unicode="#" horiz-adv-x="1323" d="M41 408l18 206h277l70 232h-252l18 209h289l119 407h217l-117 -407h199l116 407h215l-116 -407h239l-18 -209h-279l-69 -232h258l-19 -206h-297l-116 -408h-220l117 408h-194l-115 -408h-215l113 408h-238zM553 614h197l69 232h-19 </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Italic-webfont.woff
+SPDXID: SPDXRef-item1173546
+FileChecksum: SHA1: 0fbc0f22b5d001eaa7f72c90db4f54681ecf2147
+FileChecksum: SHA256: 1617f5a058a7b704f9c4d8f2d3032fd67a71b815adeca1322c56e615a6a817fd
+FileChecksum: MD5: b3705990a3b91f6a7880b212b2884b7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Semibold-webfont.svg
+SPDXID: SPDXRef-item1173549
+FileChecksum: SHA1: 1fd3ff2cadc0b095e9fe47972d45d5b6e8908cef
+FileChecksum: SHA256: e378d6479f295fd9d5a096d1df201ae2db6147c31f9bc4c88ffd8647b4ed5360
+FileChecksum: MD5: 065a703083da1a09e9dce83a5f78f183
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright : Digitized data copyright 2011 Google Corporation Foundry : Ascender Corporation Foundry URL : httpwwwascendercorpcom metadata> defs> font id="OpenSansSemibold" horiz-adv-x="1169" > font-face units-per-em="2048" ascent="1638" descent="-410" /> missing-glyph horiz-adv-x="532" /> glyph unicode=" " horiz-adv-x="532" /> glyph unicode="&#x09;" horiz-adv-x="532" /> glyph unicode="&#xa0;" horiz-adv-x="532" /> glyph unicode="!" horiz-adv-x="565" d="M133 125q0 74 39 112.5t111 38.5q71 0 109 -40t38 -111t-38.5 -112.5t-108.5 -41.5q-71 0 -110.5 40t-39.5 114zM145 1462h277l-51 -1018h-174z" /> glyph unicode="&#x22;" horiz-adv-x="893" d="M133 1462h232l-41 -528h-150zM528 1462h232l-41 -528h-150z" /> glyph unicode="#" horiz-adv-x="1323" d="M47 418v168h283l57 284h-264v168h293l80 422h180l-80 -422h252l80 422h174l-80 -422h252v-168h-285l-55 -284h270v-168h-303l-80 -418h-178l80 418h-248l-80 -418h-174l76 418h-250zM506 586h250l57 284h-250z" /> glyph unicode="$" d="M111 168v211q86 - </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-BoldItalic-webfont.woff
+SPDXID: SPDXRef-item1173552
+FileChecksum: SHA1: 45c304b4871f9aab4b6d342d2fc04144e27b9fed
+FileChecksum: SHA256: e642dbcc8ca9d2c8b7c53fe23979f560908aec5e99fd460cd9ed8bf454c119be
+FileChecksum: MD5: 15c0b021c7ef8e31adcf67a8c40160f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Regular-webfont.ttf
+SPDXID: SPDXRef-item1173553
+FileChecksum: SHA1: 1bda9f65b10d2b75b5b8049cd9107e6109112d7d
+FileChecksum: SHA256: 3098c00be7e6765d5f86bd98ba72dcdccf713d2087b2773e26954de4403bd7d5
+FileChecksum: MD5: 98b25ed8f8a57633895435395edf05d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Regular-webfont.woff
+SPDXID: SPDXRef-item1173554
+FileChecksum: SHA1: 4e9fe179bbb4c898b4658ca4801e82d82c2f71cd
+FileChecksum: SHA256: 7d161ab06fa3d662498d87f84e612acda5b78887d586d030357be22d4ae9afc7
+FileChecksum: MD5: 96f62f549352cef6d2fb7c71ac9133d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-BoldItalic-webfont.ttf
+SPDXID: SPDXRef-item1173555
+FileChecksum: SHA1: ff95dcf394b1eec56cfd4dfc83b93da171e74998
+FileChecksum: SHA256: 4e6c06a407f11995a6cbe88c0cf43520b79468e22fdf67ed14a92824657ea354
+FileChecksum: MD5: 8502d8b3e09785d91feca0a34b53d1e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Regular-webfont.svg
+SPDXID: SPDXRef-item1173556
+FileChecksum: SHA1: 139ddeb637db33a909798d50503f1c08f88446f1
+FileChecksum: SHA256: ade3cacf00c9c967c9f7d3e2fac03e94b312f44b7e9f3319894c5144fb3397d2
+FileChecksum: MD5: ba8bcd8ddb0416b85f656fb34d2dcafd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright : Digitized data copyright 20102011 Google Corporation Foundry : Ascender Corporation Foundry URL : httpwwwascendercorpcom metadata> defs> font id="OpenSansRegular" horiz-adv-x="1171" > font-face units-per-em="2048" ascent="1638" descent="-410" /> missing-glyph horiz-adv-x="532" /> glyph unicode=" " horiz-adv-x="532" /> glyph unicode="&#x09;" horiz-adv-x="532" /> glyph unicode="&#xa0;" horiz-adv-x="532" /> glyph unicode="!" horiz-adv-x="547" d="M152 106q0 136 120 136q58 0 89.5 -35t31.5 -101q0 -64 -32 -99.5t-89 -35.5q-52 0 -86 31.5t-34 103.5zM170 1462h207l-51 -1059h-105z" /> glyph unicode="&#x22;" horiz-adv-x="821" d="M133 1462h186l-40 -528h-105zM502 1462h186l-41 -528h-104z" /> glyph unicode="#" horiz-adv-x="1323" d="M51 430v129h287l68 340h-277v127h299l82 436h139l-82 -436h305l84 436h134l-84 -436h264v-127h-289l-66 -340h283v-129h-307l-84 -430h-137l84 430h-303l-82 -430h-136l80 430h-262zM475 559h303l66 340h-303z" /> glyph unicode="$" d="M131 170v156q83 -37 1 </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Light-webfont.svg
+SPDXID: SPDXRef-item1173557
+FileChecksum: SHA1: 1337ea237ed4ac2f1f5288e09ab1479d00b8e157
+FileChecksum: SHA256: 5df87f2ef15ee1f05e0d4e3a856dbdc6f4585c0b2f5dea73e9525dab9952bd12
+FileChecksum: MD5: 6ddd2204acc440f78d9871c02657792a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright : Digitized data copyright 20102011 Google Corporation Foundry : Ascender Corporation Foundry URL : httpwwwascendercorpcom metadata> defs> font id="OpenSansLight" horiz-adv-x="1169" > font-face units-per-em="2048" ascent="1638" descent="-410" /> missing-glyph horiz-adv-x="532" /> glyph unicode=" " horiz-adv-x="532" /> glyph unicode="&#x09;" horiz-adv-x="532" /> glyph unicode="&#xa0;" horiz-adv-x="532" /> glyph unicode="!" horiz-adv-x="492" d="M164 78q0 98 80 98q82 0 82 -98t-82 -98q-80 0 -80 98zM186 1462h119l-29 -1085h-61z" /> glyph unicode="&#x22;" horiz-adv-x="723" d="M133 1462h127l-33 -528h-61zM463 1462h127l-33 -528h-61z" /> glyph unicode="#" horiz-adv-x="1323" d="M55 451v79h299l76 398h-297v80h311l86 454h91l-89 -454h365l88 454h86l-88 -454h285v-80h-301l-76 -398h303v-79h-320l-86 -451h-90l88 451h-360l-86 -451h-88l86 451h-283zM440 530h363l78 398h-363z" /> glyph unicode="$" d="M164 186v103q75 -36 179.5 -61t193.5 -25v508q-145 44 -215 88t-102 104t-32 146q0 1 </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-ExtraBoldItalic-webfont.svg
+SPDXID: SPDXRef-item1173560
+FileChecksum: SHA1: ac6e167798229c3cf3c825d1480618d04eca58da
+FileChecksum: SHA256: 62f0b3766643af824c61e54a02b97ef4d71bfb9b81255646974aca05261b09bb
+FileChecksum: MD5: 25ae5ef2331cca9b1a1c6ed6046eddbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright : Digitized data copyright 20102011 Google Corporation Foundry : Ascender Corporation Foundry URL : httpwwwascendercorpcom metadata> defs> font id="OpenSansExtraboldItalic" horiz-adv-x="1243" > font-face units-per-em="2048" ascent="1638" descent="-410" /> missing-glyph horiz-adv-x="532" /> glyph unicode=" " horiz-adv-x="532" /> glyph unicode="&#x09;" horiz-adv-x="532" /> glyph unicode="&#xa0;" horiz-adv-x="532" /> glyph unicode="!" horiz-adv-x="623" d="M12 127q0 107 65 170t179 63q87 0 133.5 -40.5t46.5 -114.5q0 -110 -63.5 -170t-173.5 -60q-88 0 -137.5 38.5t-49.5 113.5zM125 516l156 946h426l-254 -946h-328z" /> glyph unicode="&#x22;" horiz-adv-x="930" d="M182 934l72 528h342l-158 -528h-256zM623 934l73 528h342l-157 -528h-258z" /> glyph unicode="#" horiz-adv-x="1323" d="M14 393l21 238h266l57 200h-235l20 242h285l111 389h270l-111 -389h168l111 389h270l-110 -389h221l-21 -242h-270l-57 -200h243l-20 -238h-293l-111 -393h-270l113 393h-168l-113 -393h-270l112 393h-219zM571 </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-LightItalic-webfont.woff
+SPDXID: SPDXRef-item1173561
+FileChecksum: SHA1: 788077c2cb41fc50186a3fb0b3575f63dc730ad6
+FileChecksum: SHA256: 81a029fc9eb9cb2cc70c167a318b4081b4ba436f4ce229418c3c4c356ef9cef7
+FileChecksum: MD5: 7ac70c4f4af53aa69a5015629523a4d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-ExtraBold-webfont.svg
+SPDXID: SPDXRef-item1173564
+FileChecksum: SHA1: 7d382fe6f627c32833ac09bda23174924e0a2836
+FileChecksum: SHA256: a69e4250c1be5d3d37b7f7138bf0e295b2de923c47f8f3db3603aba3078f626e
+FileChecksum: MD5: e9bcb4528769ad034d1841abd8605662
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright : Digitized data copyright 2011 Google Corporation Foundry : Ascender Corporation Foundry URL : httpwwwascendercorpcom metadata> defs> font id="OpenSansExtrabold" horiz-adv-x="1200" > font-face units-per-em="2048" ascent="1638" descent="-410" /> missing-glyph horiz-adv-x="532" /> glyph unicode=" " horiz-adv-x="532" /> glyph unicode="&#x09;" horiz-adv-x="532" /> glyph unicode="&#xa0;" horiz-adv-x="532" /> glyph unicode="!" horiz-adv-x="594" d="M82 1462h432l-51 -946h-330zM86 166q0 91 54 141.5t157 50.5q102 0 154.5 -50.5t52.5 -141.5q0 -90 -54.5 -140.5t-152.5 -50.5q-99 0 -155 50.5t-56 140.5z" /> glyph unicode="&#x22;" horiz-adv-x="1073" d="M121 1462h356l-41 -528h-274zM596 1462h356l-41 -528h-274z" /> glyph unicode="#" horiz-adv-x="1356" d="M37 391v254h274l31 168h-238v260h287l72 389h268l-74 -389h166l72 389h268l-73 -389h229v-260h-277l-30 -168h243v-254h-290l-74 -391h-268l73 391h-168l-71 -391h-267l72 391h-225zM578 645h165l31 168h-166z" /> glyph unicode="$" d="M80 </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Semibold-webfont.woff
+SPDXID: SPDXRef-item1173565
+FileChecksum: SHA1: dc0d11d1b50972a8126f252d61f11c932e2f9521
+FileChecksum: SHA256: 533076c09e051889644171af030b5b2806e4277e311a0f2019f2440c97b70ee3
+FileChecksum: MD5: 2a6e5499275369d9841b9cb0903547e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Italic-webfont.ttf
+SPDXID: SPDXRef-item1173566
+FileChecksum: SHA1: 70ce491bef6b63a8e9a9be4475573e3468f52636
+FileChecksum: SHA256: 6aea384f2a661771f3d08487bedd4eaf4dd6b0bd0787e9f64d6e0357ba200ba9
+FileChecksum: MD5: 491fb0270ebd90d4af0dc20d43695650
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-SemiboldItalic-webfont.woff
+SPDXID: SPDXRef-item1173567
+FileChecksum: SHA1: 52b92ff2e8e331278801b7ef2c1b71c182048892
+FileChecksum: SHA256: 82f3d2d0fb72f270e57f09009d591a7fd6dac6d4790da1759064f6a59d93027b
+FileChecksum: MD5: 7588288bd0671d593af01f0f58f4a749
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-ExtraBold-webfont.woff
+SPDXID: SPDXRef-item1173568
+FileChecksum: SHA1: 0b88f1012a6cf49361e636ae25af33f780f7f573
+FileChecksum: SHA256: 9d6d9afa559775e6cbec5f6d555906d9dcc2e8bfb846506aa75687acee9ed769
+FileChecksum: MD5: bdf02302ed908254d189deeb5e22fee4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-SemiboldItalic-webfont.svg
+SPDXID: SPDXRef-item1173571
+FileChecksum: SHA1: ed3ea71d25af8e4563d4ddca0b9ef8703696646a
+FileChecksum: SHA256: 25092a21d967f1975c0e2329eef2041a4d5d9e1a84e281e57a5e93366a0a4257
+FileChecksum: MD5: b5a6b8f96332ac8b6b922099f82696f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright : Digitized data copyright 20102011 Google Corporation Foundry : Ascender Corporation Foundry URL : httpwwwascendercorpcom metadata> defs> font id="OpenSansSemiboldItalic" horiz-adv-x="1128" > font-face units-per-em="2048" ascent="1638" descent="-410" /> missing-glyph horiz-adv-x="532" /> glyph unicode=" " horiz-adv-x="532" /> glyph unicode="&#x09;" horiz-adv-x="532" /> glyph unicode="&#xa0;" horiz-adv-x="532" /> glyph unicode="!" horiz-adv-x="557" d="M33 96q0 80 45.5 130t130.5 50q57 0 91 -32.5t34 -93.5q0 -79 -47 -128t-123 -49q-62 0 -96.5 33.5t-34.5 89.5zM160 444l168 1018h272l-264 -1018h-176z" /> glyph unicode="&#x22;" horiz-adv-x="858" d="M213 934l72 528h231l-151 -528h-152zM588 934l74 528h231l-152 -528h-153z" /> glyph unicode="#" horiz-adv-x="1323" d="M51 418l17 168h280l84 286h-264l16 168h295l121 422h178l-121 -422h252l121 422h174l-121 -422h252l-14 -168h-285l-84 -286h271l-15 -168h-303l-121 -418h-180l123 418h-248l-121 -418h-174l117 418h-250zM526 586h250l8 </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Light-webfont.woff
+SPDXID: SPDXRef-item1173572
+FileChecksum: SHA1: 2cf63379bcba2127662f7bedb01ed0f7b82dcf0a
+FileChecksum: SHA256: a9304ab4ab6e2e9b1f2d3eaa82e18f631dea6f5f5c1c56a8941d98d0dfb02238
+FileChecksum: MD5: 70fb3d3dc1833a6c5d41ab76e7f7508d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-ExtraBoldItalic-webfont.woff
+SPDXID: SPDXRef-item1173573
+FileChecksum: SHA1: 3d07a60cc14a0042992008140c9421043388a7b2
+FileChecksum: SHA256: b01f7065c73c642902bd53755e673eb1f6f62ec10d665b16737456f3f9fd7c3f
+FileChecksum: MD5: 6c907f41dd44a4d24c1ddf9ae71b81b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Bold-webfont.woff
+SPDXID: SPDXRef-item1173574
+FileChecksum: SHA1: 797951452944f07d793a097e1b1a74a61b4abc10
+FileChecksum: SHA256: 87f7d13b1abfab993c9d5f5e5c0719222db257832f934bb3d9e822098f609224
+FileChecksum: MD5: 53dae00e94f00fffb6415476485173db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Bold-webfont.svg
+SPDXID: SPDXRef-item1173575
+FileChecksum: SHA1: 7be4e03069a97c0ac1c14b927c67ba7d1fe4cf01
+FileChecksum: SHA256: a3f95090e28cacf72eceed8622f51400ccfc7c937243acecf0f54ea2eed409d5
+FileChecksum: MD5: c8743c33e928a7041128864aa0f0a6c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright : Digitized data copyright 20102011 Google Corporation Foundry : Ascender Corporation Foundry URL : httpwwwascendercorpcom metadata> defs> font id="OpenSansBold" horiz-adv-x="1169" > font-face units-per-em="2048" ascent="1638" descent="-410" /> missing-glyph horiz-adv-x="532" /> glyph unicode=" " horiz-adv-x="532" /> glyph unicode="&#x09;" horiz-adv-x="532" /> glyph unicode="&#xa0;" horiz-adv-x="532" /> glyph unicode="!" horiz-adv-x="586" d="M117 143q0 84 45 127t131 43q83 0 128.5 -44t45.5 -126q0 -79 -46 -124.5t-128 -45.5q-84 0 -130 44.5t-46 125.5zM121 1462h346l-51 -977h-244z" /> glyph unicode="&#x22;" horiz-adv-x="967" d="M133 1462h279l-41 -528h-197zM555 1462h279l-41 -528h-197z" /> glyph unicode="#" horiz-adv-x="1323" d="M45 406v206h277l47 232h-252v209h289l77 407h219l-77 -407h198l78 407h215l-78 -407h240v-209h-279l-47 -232h258v-206h-297l-77 -406h-220l78 406h-194l-76 -406h-215l74 406h-238zM539 612h196l47 232h-196z" /> glyph unicode="$" d="M88 1049q0 145 1 </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-LightItalic-webfont.svg
+SPDXID: SPDXRef-item1173580
+FileChecksum: SHA1: f149de6195a565e8828da26895d379910705dd97
+FileChecksum: SHA256: 5c5353a194e544082ca77ff4d7f7ddf69dc7c80025dd172beefc17ebf3720464
+FileChecksum: MD5: 92daaac8c9d2460f8760f81e25308217
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright : Digitized data copyright 20102011 Google Corporation Foundry : Ascender Corporation Foundry URL : httpwwwascendercorpcom metadata> defs> font id="OpenSansLightItalic" horiz-adv-x="1128" > font-face units-per-em="2048" ascent="1638" descent="-410" /> missing-glyph horiz-adv-x="532" /> glyph unicode=" " horiz-adv-x="532" /> glyph unicode="&#x09;" horiz-adv-x="532" /> glyph unicode="&#xa0;" horiz-adv-x="532" /> glyph unicode="!" horiz-adv-x="502" d="M80 57q0 56 25 88.5t69 32.5q66 0 66 -72q0 -53 -25 -87.5t-68 -34.5q-67 0 -67 73zM186 377l203 1085h119l-260 -1085h-62z" /> glyph unicode="&#x22;" horiz-adv-x="721" d="M248 934l80 528h127l-146 -528h-61zM578 934l79 528h127l-145 -528h-61z" /> glyph unicode="#" horiz-adv-x="1323" d="M82 451l8 79h299l119 398h-297l8 80h311l134 454h90l-136 -454h365l135 454h86l-135 -454h285l-8 -80h-302l-118 -398h303l-8 -79h-320l-133 -451h-90l135 451h-360l-134 -451h-88l134 451h-283zM475 530h363l120 398h-362z" /> glyph unicode="$" d="M14 </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-LightItalic-webfont.ttf
+SPDXID: SPDXRef-item1173581
+FileChecksum: SHA1: db01fc7994fd6df4a81e114b4d69bb2b2e5b0c67
+FileChecksum: SHA256: 2727230d370cab814d0cd97a9b0a7caf49bdfb3577472179de7aeaa8e613f90a
+FileChecksum: MD5: f8ac25b9e0bac4fe58f0f00924727dd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-ExtraBoldItalic-webfont.ttf
+SPDXID: SPDXRef-item1173582
+FileChecksum: SHA1: c5b5c9fac3fae7f4a7c5da2a4a80bd62babb1b3c
+FileChecksum: SHA256: df66a59fdd4424fe06dc1f0a7ba7a1ba3cb0e206f5d29784d9c3637e8c0d6d20
+FileChecksum: MD5: 6f1d682fa6766ea77f35078274e65a35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Semibold-webfont.ttf
+SPDXID: SPDXRef-item1173585
+FileChecksum: SHA1: c4dabbc89510afd8b4e06edf9156445619cab02c
+FileChecksum: SHA256: ec259315a6529dee2b4cf519c29393321f3233cfd45a74789524b788b5eb76b0
+FileChecksum: MD5: eb76643072cd558d7d782105c3eef25f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-Italic-webfont.svg
+SPDXID: SPDXRef-item1173586
+FileChecksum: SHA1: d3abbfaa285db614d9cf065b0b651126593b3fb7
+FileChecksum: SHA256: 8e122df119b9842f9d1f9336a3035966f64106fd55a6961abfbb0891a504b397
+FileChecksum: MD5: bb635e1cc26e9b6f6202e5df7626fdc0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright : Digitized data copyright 20102011 Google Corporation Foundry : Ascender Corporation Foundry URL : httpwwwascendercorpcom metadata> defs> font id="OpenSansItalic" horiz-adv-x="1128" > font-face units-per-em="2048" ascent="1638" descent="-410" /> missing-glyph horiz-adv-x="532" /> glyph unicode=" " horiz-adv-x="532" /> glyph unicode="&#x09;" horiz-adv-x="532" /> glyph unicode="&#xa0;" horiz-adv-x="532" /> glyph unicode="!" horiz-adv-x="530" d="M43 78q0 76 39.5 120t107.5 44q45 0 73 -27.5t28 -81.5q0 -68 -39 -115t-105 -47q-49 0 -76.5 28t-27.5 79zM172 403q49 307 176 1059h207l-274 -1059h-109z" /> glyph unicode="&#x22;" horiz-adv-x="791" d="M225 934l72 528h188l-153 -528h-107zM573 934l72 528h189l-154 -528h-107z" /> glyph unicode="#" horiz-adv-x="1323" d="M63 430l13 129h284l101 340h-277l13 127h301l123 436h139l-125 -436h305l127 436h133l-125 -436h264l-12 -127h-291l-98 -340h285l-13 -129h-309l-125 -430h-139l129 430h-303l-127 -430h-133l121 430h-261zM500 559h303l96 34 </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/open-sans/fonts/OpenSans-SemiboldItalic-webfont.ttf
+SPDXID: SPDXRef-item1173589
+FileChecksum: SHA1: 42c1369e2212308e874343d478637ef264a7a5d8
+FileChecksum: SHA256: 4f8d5385a9bc8ace0afc78d1e4c6683c3c50a98dedf0424958016fae53718927
+FileChecksum: MD5: 639c197d1e9f6120cccc98d732e58751
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/glyphicons-halflings-regular.ttf
+SPDXID: SPDXRef-item1173590
+FileChecksum: SHA1: 536d2b1b2f3462fb122df1922f2e232546f1b11d
+FileChecksum: SHA256: e27b969ef04fed3b39000b7b977e602d6e6a2b1c8c0d618bebf6dd875243ea3c
+FileChecksum: MD5: 47da44498fc073d9fff9ab0cdb0bef8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/glyphicons-halflings-regular.svg
+SPDXID: SPDXRef-item1173591
+FileChecksum: SHA1: ecee9033d9183117d8f59df0e7238e2b24002b24
+FileChecksum: SHA256: cef3dffcef386be2c8d1307761717e2eb9f43c151f2da9f1647e9d454abf13a3
+FileChecksum: MD5: 0a5c48c69a25a93e37ed62db813387fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/fonts/glyphicons-halflings-regular.woff
+SPDXID: SPDXRef-item1173592
+FileChecksum: SHA1: c6ea7b1a5bb16b160cc9b8a02f6f6371b5ef7b73
+FileChecksum: SHA256: 63faf0af44a428f182686f0d924bb30e369a9549630c7b98a969394f58431067
+FileChecksum: MD5: 5eae1f7217b606d3580dd70ac840fea1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/static/guzzle.css_t
+SPDXID: SPDXRef-item1173595
+FileChecksum: SHA1: 084b7e9e7366bb0503bf0815006a4ab0cd5c90fa
+FileChecksum: SHA256: 794de93aa55672e14db73948cf1f3ea29a5c9f9d573b3ecc353605b8b617e8ed
+FileChecksum: MD5: 3990ea0093d6d3fd9848423c0a3b0e29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/guzzle_sphinx_theme/globaltoc.html
+SPDXID: SPDXRef-item1173599
+FileChecksum: SHA1: 5de1cf433028de3eb32ff54629a622b2907f7d6b
+FileChecksum: SHA256: b4045df9f9354ad759f4f74ec269bf68dc2e36d8adfd62c0415903a3256612a3
+FileChecksum: MD5: 2912ae7f6da6dd5f04e96130d60b4051
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/_static/images/AcumosArchitecture.png
+SPDXID: SPDXRef-item1173602
+FileChecksum: SHA1: badc168a5d649eee37dfa9a14775690ffeb57cca
+FileChecksum: SHA256: 36b04a58cacfe444d01c67e03256cb25775dfe3a60478ab8c0097d9484633efc
+FileChecksum: MD5: 3e029acee503b77777752acd4ff7eb77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © 0t?hoo?z?¶mۦ:S×pÁ¸?xÿ¤6pw¡;ðÒ3A`"@^?^9X?O¡?h_ìpӈj¸zá0zdm١²mÏaøÓßÞTv:g&ܸ䲒۸}×>øõÏ«v?óÏÀ¬Y³Jn4( E@?ÅÓL۰%"´ á?$"4"?áz!"?gۓP÷Â]?ñ?è¸ôäBI !" bË?xB?vÒAÄ?Ê3zF {6{J@?ô?G`¨þÐ?¬Êä òAÀy`5ԾúÝ|ªZÖ	|+æÜ`Y>Ô?h¡!?D òý?ô+0T @?Øè	B&&(y]}ÖC¡ ëC?ÖØ¤?«W¿	!òÎÓ4I FW;?D·Ô A ?PÏÙè±ÌÞÝ?áÎvØôòߠ7?Ĺ?àt! ="8ìè	Aóà5Ê??½ǐ÷?öĞÄ#ù¨ó{ð?Í#B©?z+#á F¡3Ò?=?ÿۃç@Ï øK,=KÔÊþí¬?º?Ýp,?`V?W\ùP?µÇ?u>»©þDK©1eo ­GY?^GÖz Á JЂ°?Ó[)yíriEVv³,>´?]ð2cëVõr¡`·´#n£?ê}.h¨6Ǔës»lO¿f?§?i?$ù£¾ÏTÇh7·cÌO¯߼Tï?a«xD0?©ÌsPÞ?$DüÆG?æ¸éGôD?+?æZRsó½ðý(Uc,ÇZoêBõb h!ýM:¢¤ѣà?ϮK2íÍvÑýN\@ "TÁç/@?a]ây&I9%r " V똍ÞZxøÒ?Y#E·ʈÂãÏíßèöw¾ý=SáªQ§A³¾ !&¿9¶æ¹BD0ǥ?¹BD(?Ê҆ 0Ä? ?©^z	zê)5éMÝkpGáª)­pZcpõVº# Ã??nøëÎ?Ø?`¾5À¼9áù¸?~d-·£;?ûþò2tvÁëqÃ??y+Tû£^:k_~}<ÿò?ªÁï?ÿûP)r @e# Dâßð%"ü??W#?a6 b$¶â£--T2?î?ÏAýóðÔˠ}ÑO*¹+?i» oØxBC" 0òÈ ´G¥{?ic ¬Gõ?Ëi3ë?¼^J˕sßëP÷ò× jr×i?Ð)?*¨βUÆÿæ(Ô?&pÈ ¨òh1?LT ?,Kÿ </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/_static/images/DesignStudio.png
+SPDXID: SPDXRef-item1173603
+FileChecksum: SHA1: a5d6fb9693b4042e08aa8db79bdbf63dc8287548
+FileChecksum: SHA256: 85dce87c03d10ed9917bbb321a87e053a6fca427ade167e03b5ff6ae7bd52144
+FileChecksum: MD5: da2fb2215c94b4ce901e12b2c0ca52e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © Ht b?éV v!X<ìÃ?¾Ó ð·ïzÜ@?Öt.x¦¦qњÖ?Æ04^ Oÿýä-Ø?vø¥7EÍ?X?óbÛ?Tƺ1ëüv?㵌h@ÔX6Æ?ç®φ`7ÒÀèr0?Êã?Åí2b?Ñ޾Nï?Þf?0Ï5¨!¾î;¥´z©ýø?¦©ññKRmîe?B¸ûõLa0ba@r?àßï+×ýîIj# j ¥Ë&¯øæ?)?Âhî?(?ÐDÍV?Ƿޮ??¯< -5mJUkL;ì [m ÈÕ?Í? </text>
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/_static/images/logo_acumos.png
+SPDXID: SPDXRef-item1173604
+FileChecksum: SHA1: 7d18718464ce15146169c180fb1268017a154a20
+FileChecksum: SHA256: b33e767c2662f10252676bd845f1c83436c3f195dd5432d431bdfcce5d64adee
+FileChecksum: MD5: f2993ae2c7f605d002133728fbd4dc33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/elpis/libraries.csv
+SPDXID: SPDXRef-item1173607
+FileChecksum: SHA1: 238a8da3890bbb0c9dbc997e5c4a68773f77a29d
+FileChecksum: SHA256: 450e5ee35c46c70c5bcce5a9b5fc2fc6c140b790372e81b9d0be6b41dfae6589
+FileChecksum: MD5: 9e45c9d576b5771b247bee4b5aa577eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/elpis/model-execution.csv
+SPDXID: SPDXRef-item1173609
+FileChecksum: SHA1: 04c77c772ab27233cc4bb8647858f3aa97203b4a
+FileChecksum: SHA256: 4d5ff56f6937bfc2da358e6baef28fa366ef99d3c7f120cbba78460f3fa734ef
+FileChecksum: MD5: 9d49edb3803ab074d3f122e041a04227
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/elpis/core-components.csv
+SPDXID: SPDXRef-item1173612
+FileChecksum: SHA1: bb9bcb4087d3480bc902208ac51f66c116cf40d4
+FileChecksum: SHA256: 3d3a4686be6de252b97c3a83da58a7928cfcc8d6aae2b2ca40dcfe01c334fbf2
+FileChecksum: MD5: 33843e160bcca3b25fbb17d57e1c56df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/elpis/clients.csv
+SPDXID: SPDXRef-item1173613
+FileChecksum: SHA1: a979dd301187ee8dab76f3ca8bcad0fbf55e45e7
+FileChecksum: SHA256: e603c644384425121295fc91a54b94b056026d4eacc331f662043596a560b1ff
+FileChecksum: MD5: 7fe54042022308d0992a2f3679b092b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/clio/libraries.csv
+SPDXID: SPDXRef-item1173615
+FileChecksum: SHA1: fe44950d0a198ea6e012c8b3f3bcb93c9446a296
+FileChecksum: SHA256: 3a83162d05d4348559ab9ee84ccfef9fdc31d99d4d8018992eea1c2df2c993df
+FileChecksum: MD5: f2dc5b004724a27b5e6ad0ad3c80bb3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/clio/model-execution.csv
+SPDXID: SPDXRef-item1173618
+FileChecksum: SHA1: fb888c0cf193fdbd19e6283a79dac697fbbe9782
+FileChecksum: SHA256: bbf5178dc8ba9cafb37272512e5a47a5b7d8b4d8ecf2e8219c00f5bacee148e3
+FileChecksum: MD5: b0342247cfedb3dd54a01c3e6c855825
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/clio/core-components.csv
+SPDXID: SPDXRef-item1173620
+FileChecksum: SHA1: c9448f5e871b094c08eeb0adcfc7e78436508a2b
+FileChecksum: SHA256: 53b80eb4c8e5c789f43504365faf83df3567cfd39f4133d1f313885ade1caf69
+FileChecksum: MD5: c856c27e3c2288a3c671f3a30699ca93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/clio/clients.csv
+SPDXID: SPDXRef-item1173621
+FileChecksum: SHA1: e5da1c22701ae4a5bcfdab4cc6bcd5bc1d19cce0
+FileChecksum: SHA256: 53ed9d34e3ed6ed6d0a85d4b6ef6820c74bdc26efaa562e7fd6a2510f1bc5f88
+FileChecksum: MD5: 22d18e07c6446eb68064b63f3da2cf16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/images/microsoft.png
+SPDXID: SPDXRef-item1173623
+FileChecksum: SHA1: 7c13d845be7946b77d180416dbff9b612b458c26
+FileChecksum: SHA256: b526b2d77fe00651a7ae9f2338253c38c92c8fd686e0959de85ce989bd4103c7
+FileChecksum: MD5: 2b1c07c8ca2249d820b426108f6b4450
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/images/chrome.png
+SPDXID: SPDXRef-item1173624
+FileChecksum: SHA1: 909d32c027978157e5bb3aae6de9454b86241086
+FileChecksum: SHA256: 812142dcfb6b628a58ffe04ee2011c1d2079f16800f1c771cb17115eb1f1aaa8
+FileChecksum: MD5: c3c9e241844be40aabd089db918d26d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/images/firefox.png
+SPDXID: SPDXRef-item1173625
+FileChecksum: SHA1: 2e9ea8005d298abc8cc2af86608757960e34419b
+FileChecksum: SHA256: 34708f38ed1b13e2d86b57997e1e5476cead021a1805057a5bf8e295d06fe94e
+FileChecksum: MD5: a5f701bfc72503747997622625becc61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/images/safari.png
+SPDXID: SPDXRef-item1173626
+FileChecksum: SHA1: 5ec9af83f7caab724c82d56dfb190c23052fbd35
+FileChecksum: SHA256: 5561050563b3a3fc52dea01984fec0b11b9591d76591e7e250fe93cc9b6de2e9
+FileChecksum: MD5: 9fdd81e1b48f4d7bb4455a43790668a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/athena-maint/maint-libraries.csv
+SPDXID: SPDXRef-item1173630
+FileChecksum: SHA1: 9c7088bc1f963c7a89e9e0413e36bdec55e4ee9a
+FileChecksum: SHA256: a9764e93453baa5948ff305535c0811d68475648790e2c05d30cf2712956d614
+FileChecksum: MD5: b1a48202eb02c14b3dc44e3c3a93f8f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/athena-maint/maint-model-execution.csv
+SPDXID: SPDXRef-item1173631
+FileChecksum: SHA1: 2968f1619566addb1d4287c367a8005ced6bbfd7
+FileChecksum: SHA256: 7fb244018533c45adc353f26962ff4a034cc8086144c0a9889945781c3709e05
+FileChecksum: MD5: 1f9b9a52a8fcf2c84f7a1ba5638b6e9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/athena-maint/maint-clients.csv
+SPDXID: SPDXRef-item1173633
+FileChecksum: SHA1: f7c8179c9becda3b4b7746b7f9ecc27aa0b7f074
+FileChecksum: SHA256: ba7704150a212af90f813f3bc9587e851eb37ed37f2bfa4e1d3ade70008853fa
+FileChecksum: MD5: cc78b8044b0195493c99524d80e3bbae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/athena-maint/maint-jira-fixed.csv
+SPDXID: SPDXRef-item1173635
+FileChecksum: SHA1: 7468cf527f44af204c8875681b61dd38854621cb
+FileChecksum: SHA256: 22eea35738414660240e7c712cb3bdb8bb8fd66d83503844b308e12c62b54b47
+FileChecksum: MD5: 64c0bffe0bd581fc745d1cc30cdaaa74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/athena-maint/maint-core-components.csv
+SPDXID: SPDXRef-item1173636
+FileChecksum: SHA1: 5a70b48cdbe68a4d76e8f6f1b51a53fa5cb225ca
+FileChecksum: SHA256: 330a7367afa53a649833898fa5a4cd0910d9446cb08c0229b991adaedced58e2
+FileChecksum: MD5: fcc281a6ca5e0feef708d406d836084e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/athena-maint/maint-jira-known-issues.csv
+SPDXID: SPDXRef-item1173637
+FileChecksum: SHA1: 20a4bf6b43ea5ab698537445341a517b974f8657
+FileChecksum: SHA256: d6dd1b403f372270200a4dafc21d9327d536497e439393d2faaccdb6219f8c2f
+FileChecksum: MD5: ed5de2763b70143fc3344276b006aca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/athena-maint/maint-model-runners.csv
+SPDXID: SPDXRef-item1173638
+FileChecksum: SHA1: 072c2370e6796d10b46069366cd447be438c750b
+FileChecksum: SHA256: 52e53b6dbe8ff870ce6c009c95f83e9b5cb4ac33a215943e0d8c19db67f6b476
+FileChecksum: MD5: 5bac3d447d16921a9087b30c0ed4ede0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/athena/model-runners.csv
+SPDXID: SPDXRef-item1173641
+FileChecksum: SHA1: 072c2370e6796d10b46069366cd447be438c750b
+FileChecksum: SHA256: 52e53b6dbe8ff870ce6c009c95f83e9b5cb4ac33a215943e0d8c19db67f6b476
+FileChecksum: MD5: 5bac3d447d16921a9087b30c0ed4ede0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/athena/libraries.csv
+SPDXID: SPDXRef-item1173642
+FileChecksum: SHA1: 9c7088bc1f963c7a89e9e0413e36bdec55e4ee9a
+FileChecksum: SHA256: a9764e93453baa5948ff305535c0811d68475648790e2c05d30cf2712956d614
+FileChecksum: MD5: b1a48202eb02c14b3dc44e3c3a93f8f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/athena/model-execution.csv
+SPDXID: SPDXRef-item1173645
+FileChecksum: SHA1: 3c3453ff4702e3badee6698099219b1bf309cbde
+FileChecksum: SHA256: 69335e246a596187d13b4f4dd17b98303865c986d5f25a4f45fdc17220b9a186
+FileChecksum: MD5: c71f4bb4f3f5c6f968fbf80e4621e753
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/athena/core-components.csv
+SPDXID: SPDXRef-item1173647
+FileChecksum: SHA1: 05066a9216f68a1b2ddc0571e33f542a3c97ffbf
+FileChecksum: SHA256: 6506ef650675d81b5c41c2cd1f76d03dc824105ecc2c4270bb7d690404cc5781
+FileChecksum: MD5: 8b203fbef395d44448b704ce578a8128
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/athena/clients.csv
+SPDXID: SPDXRef-item1173648
+FileChecksum: SHA1: 64fb4bccf336ea2e1c7b735d4ef08afef1cef21d
+FileChecksum: SHA256: 7b73e792c91c57269394aca38ba5abc16991ceb3ed6c1685891c542550d400ee
+FileChecksum: MD5: e3dfadd0e5d20b32665a4b1706ef05d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/demeter/libraries.csv
+SPDXID: SPDXRef-item1173651
+FileChecksum: SHA1: 3c07d41568cec900fc11fbd3c6875a67b54cc87b
+FileChecksum: SHA256: 18913e151ad998a6c87c08a7dbfaeccc7707003094c794121fa8e227eb8e2c3e
+FileChecksum: MD5: aeb51fd36e01f9dc081c40a645e028fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/demeter/model-execution.csv
+SPDXID: SPDXRef-item1173655
+FileChecksum: SHA1: 28dfc6ef0c57c7ef04a292b1c79413012c89b7d5
+FileChecksum: SHA256: e15b2779d493a6f3cf57f4cefca97d220bce6c415399ecdc4210a0fe773d6f40
+FileChecksum: MD5: c05fb3904782b5c9ff6441ffbb6e1e2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/demeter/core-components.csv
+SPDXID: SPDXRef-item1173656
+FileChecksum: SHA1: 748245ea55f73fdd75f4ef7bf65c3e0c20c42dc3
+FileChecksum: SHA256: 5477e06f48b33be78b55d2b8b2e5adb87f271991aa49137cfedbe758f38b7d99
+FileChecksum: MD5: f811580fa9c0d25604ffa5e62e894b03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/demeter/clients.csv
+SPDXID: SPDXRef-item1173657
+FileChecksum: SHA1: aea0d8d63ca99c30ba91ca7bf3aaa08edf44fc09
+FileChecksum: SHA256: fb1e7c3001420aa171207b6f67a3ac9577ce970e87fdf86fff23bfb2c3fecc2f
+FileChecksum: MD5: 770da86ca70f487c109a20ba56916ef7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/boreas/model-runners.csv
+SPDXID: SPDXRef-item1173660
+FileChecksum: SHA1: e04d13273d27c55210711f8e18e881bc8630d3cf
+FileChecksum: SHA256: b530bd3b89bebd74d57cb1753d1b99b3b9c47e176385f64a55b1a4c81141b4a1
+FileChecksum: MD5: c398e0a327261cbf61eb7a9229570fc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/boreas/libraries.csv
+SPDXID: SPDXRef-item1173662
+FileChecksum: SHA1: aa252bf06bed58e07db5a9eccdecfe9fed333cbb
+FileChecksum: SHA256: d92b1df7716e92d268408c10c47151b21b0814a828347245eba5c792fca7aeb9
+FileChecksum: MD5: 22ad5098cc2b95fe7ecfcd9557702466
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/boreas/model-execution.csv
+SPDXID: SPDXRef-item1173665
+FileChecksum: SHA1: 595172e32f867edc7e692cdd7bb62271b1a01a5d
+FileChecksum: SHA256: c407a6a184a39820a03b7dbda67fb0173fd1038ea618766ca6b8387a905f012c
+FileChecksum: MD5: b732c203f9cd2c916724eaa83e0ee32b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/boreas/core-components.csv
+SPDXID: SPDXRef-item1173666
+FileChecksum: SHA1: 24e8b368c28fb5c5307ebdb3386305e7a611847f
+FileChecksum: SHA256: 03df4540446436ee55732bc42e9ef847180cb29b529cead2830c7e3ea1ea6750
+FileChecksum: MD5: 4be40c02dcf8cddeeb680f2e0f5c7c6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/docs/release-notes/boreas/clients.csv
+SPDXID: SPDXRef-item1173667
+FileChecksum: SHA1: 4480c23525ea9c7c00f98ce5ce0508f063a1e7d0
+FileChecksum: SHA256: 98d73f7a6f530628b935632cd13ae43d0c5f5cc447ca47fd18a707bc038a12fe
+FileChecksum: MD5: 689d4bdcf859942348bd76ea0e1a7ab4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/tox.ini
+SPDXID: SPDXRef-item1173671
+FileChecksum: SHA1: b505d0f5eb595009c8bfc6aad2734e070d88aa38
+FileChecksum: SHA256: afcbb7fc69f0af54d9a48ef3e17ac5d4bac2e01e33f6ccbeb9f062074dd5b8d9
+FileChecksum: MD5: 79402a0147df5e603eed48ff7c0435a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/INFO.yaml
+SPDXID: SPDXRef-item1173672
+FileChecksum: SHA1: 6d089a056b07c0971498d8060ece944aa3dfa932
+FileChecksum: SHA256: b9f6e5f06bb774cc053e271d2a39333ceb92062db55587c61de26e3047286287
+FileChecksum: MD5: 6b2ff3341090b20ab0664c0a97fb3684
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/.gitignore
+SPDXID: SPDXRef-item1173679
+FileChecksum: SHA1: c98a59385ba100b3bdd8db0c20957f1a063a04c6
+FileChecksum: SHA256: 24ef176df25d40743495a17eb296ac2a94161d8a454868b75830890723067d0e
+FileChecksum: MD5: 5d6111523f1078c168b46b024c46e624
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/.gitattributes
+SPDXID: SPDXRef-item1173681
+FileChecksum: SHA1: 1fead8ae4a123d4c2526ba03777b256cb10f7a5a
+FileChecksum: SHA256: adf76173edd92955ec74e01d961f1c406175429500924f6c303bf19a456d3b1b
+FileChecksum: MD5: 635578d7546b35d97c384e8708b86a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/.gitmodules
+SPDXID: SPDXRef-item1173683
+FileChecksum: SHA1: 3881b5318f94aa4a017b9952bc8923cf0375d767
+FileChecksum: SHA256: 51707193e33b9bf9be5ee6f8176e4af6afff1026727ec9ec0ce0e4a92b1caf6a
+FileChecksum: MD5: 07ca9cb756f43abc22e9551903d90b6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/.gitreview
+SPDXID: SPDXRef-item1173684
+FileChecksum: SHA1: b603b1f9c39d5ec4d470ec9d427178c57f37e36a
+FileChecksum: SHA256: ef5a2a52adb1aa831b43843a7bc3a347091d044050ff5a98368f73a0edb02884
+FileChecksum: MD5: 67a7c41beab3e0483078cec3968e7e99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-2022-02-01.zip/documentation/etc/requirements.txt
+SPDXID: SPDXRef-item1173686
+FileChecksum: SHA1: af558bc47e1afba03ab4be1b121e458363463714
+FileChecksum: SHA256: 4b9b46929dd8428239b04c709a15e2ecc41c3bfc59be73cd612180f712471a01
+FileChecksum: MD5: c46c21abd1f12f17be36c1c97e38ba53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
