@@ -1,0 +1,961 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_acumos-python-client-2022-02-01.zip_1644480529.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-02-10T08:08:49Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: acumos-python-client-2022-02-01.zip
+PackageFileName: acumos-python-client-2022-02-01.zip
+SPDXID: SPDXRef-upload295
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 0bd4398ef23d09fab160e929ce6d3c9080ddf94e
+PackageChecksum: SHA1: 6631352ffdb1c21a3b4fb4af1d2fae3a2ba227c6
+PackageChecksum: SHA256: b38d20b153d5b77beb7c56796f38632a1e38d03310758e48cad6dee8c9ec34be
+PackageChecksum: MD5: be001a0f1052de2ca04bdd85c271a097
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload295
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/docs/user-guide.rst
+SPDXID: SPDXRef-item1171835
+FileChecksum: SHA1: afcc88f0664381a809cff01e275474440b8336ce
+FileChecksum: SHA256: d82fe27c00740a2c449288c9c4bb70cfa8aa81737112ec85ee126efef311dbb6
+FileChecksum: MD5: b7aca61e0a5cc28fe6a7b6afed861010
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/docs/index.rst
+SPDXID: SPDXRef-item1171838
+FileChecksum: SHA1: 80e7cf89867bcef13c70e22dd096f9c5e3f9d609
+FileChecksum: SHA256: fa81e5fac8e1cf6e59b4d391d9307476958a589113dda1cd4377dbf2e73849f6
+FileChecksum: MD5: 69b1f02ec894e947843aaad3f8d2b70f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/docs/tutorial/index.rst
+SPDXID: SPDXRef-item1171840
+FileChecksum: SHA1: d4de8eb8c5eb7d36c3c625072dc523dc2280687e
+FileChecksum: SHA256: 4de3b39734b07f0cd31e823287990cbd884b60b9d98df9218488926adb9a8144
+FileChecksum: MD5: 7aa41dbf66285394627c38295883eca8
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/docs/release-notes.rst
+SPDXID: SPDXRef-item1171841
+FileChecksum: SHA1: 3b55bf86d2cdb63fb41b0c2819ab344b5075dbaf
+FileChecksum: SHA256: a94f5cc975565a49729ad9fdf3cb3e21e0b073513a54a6c1ab595e48035f07b2
+FileChecksum: MD5: 0a9f2984916dc5527b1669fac8854362
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/docs/developer-guide.rst
+SPDXID: SPDXRef-item1171842
+FileChecksum: SHA1: b25cb92903eb0413d2822823e7ae45d35cb5fbcb
+FileChecksum: SHA256: 273b26bfcf99a2fe3fbc0b46c4d79daf0312b1a1a905367fcc37bb74c4a260e2
+FileChecksum: MD5: 685b784bb52263ac1acfd54a333b9042
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/README.rst
+SPDXID: SPDXRef-item1171846
+FileChecksum: SHA1: 75e22e61236bbb76f630fc74ad70e3b52f2e9e51
+FileChecksum: SHA256: c6c2bdf181870e7c90456a1c8746c18e20aabc74402da8e37ccd81020380a1c5
+FileChecksum: MD5: def2683d7474fa19eb75c74cab864c16
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2017-2020 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/tests/unpickler_helper.py
+SPDXID: SPDXRef-item1171871
+FileChecksum: SHA1: 051de5b1ba17510bf5cb17df83cf41860d155943
+FileChecksum: SHA256: d58ce391f5d94947dfdacdb5e79b17183b082507699ad73e39f463f6c06950d5
+FileChecksum: MD5: 9e1ab7ec53f819b91eaf6cb0401772de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/tests/user_module.py
+SPDXID: SPDXRef-item1171869
+FileChecksum: SHA1: 615afc65b3dc7e35150e67b7c0c9c85d0236ade1
+FileChecksum: SHA256: 71ffa68d1212c8d78fcaaf69fcbf86f2bd931264531e29b2db95f4f632040ad7
+FileChecksum: MD5: b64032ae1fb954e6de83c7e84c5e8cb3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/tests/py36_namedtuple.py
+SPDXID: SPDXRef-item1171876
+FileChecksum: SHA1: 780bae1ae50a52cfa62ea90f0550baaad54f3d04
+FileChecksum: SHA256: 64bddc1ad247ab092228a85ed663bf1de77aea2caa7b7e183e5a2fae336352be
+FileChecksum: MD5: 2370bad9393c489d055d3e214d37483b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/tests/model_loader_helper.py
+SPDXID: SPDXRef-item1171878
+FileChecksum: SHA1: ab86647662e1c75ddde19dd0abe87255c9852f69
+FileChecksum: SHA256: 284eafcd6514817c687db494f1aba83beddc85e7cbf4705ea4456f008b2b54d9
+FileChecksum: MD5: b20feb2a2a77d1f7525c6283df0c19b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/tests/test_metadata.py
+SPDXID: SPDXRef-item1171879
+FileChecksum: SHA1: b80a53d8b5596f5702b0c790401292fd87a73d58
+FileChecksum: SHA256: 35083717d5604fb32801387bfa3398a55d7c474118969f16c12bbb0b693f533d
+FileChecksum: MD5: 5f3c391fc1281dfe02eba5c2c842bedd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/tests/user_package/__init__.py
+SPDXID: SPDXRef-item1171874
+FileChecksum: SHA1: 4df2aec7fd0014e71bf74f67a2a84354c6293c90
+FileChecksum: SHA256: 563baa6e533b93817eb610599de83a79b13740c31e62d8437d741692325f14f7
+FileChecksum: MD5: 777908ad98d1bd1fbb9c53ea24e87436
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/tests/user_package/user_package_module.py
+SPDXID: SPDXRef-item1171873
+FileChecksum: SHA1: 9d9a72fef54ed1ebdda6f6d45caefd593fe1336b
+FileChecksum: SHA256: b6fed3f953f365eab8255e54dd4f67d1d742126795ec2308c3992f5152aeac87
+FileChecksum: MD5: 44c0d61635d3d797ed99505bd527d444
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/tests/test_pickler.py
+SPDXID: SPDXRef-item1171880
+FileChecksum: SHA1: ddf8ddb7e84e9cde01de5ccf1077d6278ec8135f
+FileChecksum: SHA256: b3f2401dea63273d54550dc2f9071f2b386946f925e15f872c4afb74e2369c07
+FileChecksum: MD5: c2e615c0f593b1c59f758ff088de33b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/tests/test_protogen.py
+SPDXID: SPDXRef-item1171881
+FileChecksum: SHA1: e7efab125a326c37467c7bef889f99ca398c1d64
+FileChecksum: SHA256: a7f38152b6e7c09df1ae953fb9e72422bcc02842f4069bf1fd1c6b8f7b18f5c7
+FileChecksum: MD5: e7e06ec535878dd35366bbd382ad242d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/exc.py
+SPDXID: SPDXRef-item1171888
+FileChecksum: SHA1: 988f1ed4a4508fd01d844caad1e19e14cd5e26b7
+FileChecksum: SHA256: c3d9ad5073da41558203216a48bc7a98937901e5240d9bdd18b9aec720bbd7f0
+FileChecksum: MD5: aa11d74e3adabb4d26e51ca2b3df663d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/tests/utils.py
+SPDXID: SPDXRef-item1171883
+FileChecksum: SHA1: 24ef4df25e4c39d7f4703b345d17cc11baaade84
+FileChecksum: SHA256: a473e7c43796ab4d641cf5d0daed4eece4acfca658afd752da2369a293160097
+FileChecksum: MD5: 1c18e7b08843359180f4091b4126390b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/tests/mock_server.py
+SPDXID: SPDXRef-item1171882
+FileChecksum: SHA1: 66454cf9d77facf5c946a0a88e0cd1aa87618d13
+FileChecksum: SHA256: 290313a4190a12e3d0752e29a637b55eba85c45489731281350403b65a484b7c
+FileChecksum: MD5: c20d9f38d1892b7d5c35a6fcc8c52515
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/setup.py
+SPDXID: SPDXRef-item1171850
+FileChecksum: SHA1: 5e7a25e414f37a110c2594e60ce4e54cb27bb671
+FileChecksum: SHA256: c7594ce4264b65498e8dcc31c3363240b5265762fd291fb1a1550953b88fd511
+FileChecksum: MD5: dfdf7c9a100e22fa3ed6abff1f483eae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/examples/keras_example.py
+SPDXID: SPDXRef-item1171853
+FileChecksum: SHA1: 1a79ba70075842411534f86d8e4d3daa9847b163
+FileChecksum: SHA256: 5965bd52af29e661ae79abfbdd6f172ce9418f532a22d5be66a1ebce256ad7d7
+FileChecksum: MD5: 4b55ca4c1f19a58900f9b9ffa51c52fe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/examples/sklearn/face_completion_example.py
+SPDXID: SPDXRef-item1171856
+FileChecksum: SHA1: c24050d34b8921845083e6e5fca5f6a30fab81d1
+FileChecksum: SHA256: 45a4fc462d5e7ffa30a1bde8086e61af972eb9305671683f8e2bbc46f442e4df
+FileChecksum: MD5: 4d3cebd4f5b7477ef5b3d1bc312c1e32
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/examples/sklearn/iris_random_forest_example.py
+SPDXID: SPDXRef-item1171855
+FileChecksum: SHA1: 6b8054abfa93d2197dbad5363fd35b3fb1f0c9ab
+FileChecksum: SHA256: 3316d7a0240758b445eeb9c8220346d43c87ee73a95675be2c032715bc1ff935
+FileChecksum: MD5: 0ffabfb522e1585c6e504514a3790fdd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/examples/tensorflow_example.py
+SPDXID: SPDXRef-item1171857
+FileChecksum: SHA1: 44070d7081a350cb954f10122a59b726efd5c961
+FileChecksum: SHA256: a721b3d6f40ab8b6213cb93687c842b441d7f370f7365ce5e35f43fb2534d177
+FileChecksum: MD5: c099e8bb6ef18f78a3066834ba4cce74
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/examples/image_example.py
+SPDXID: SPDXRef-item1171858
+FileChecksum: SHA1: 5b1685aa2d9d2616f8d07ea4d6e484d527a1f5f0
+FileChecksum: SHA256: 15f8218ba912b2701f4469c8570fa2f46f81d4a19c527cfc0667d502ca75abaf
+FileChecksum: MD5: 04ac204a5a1ca7fb54d5bca1ce050945
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/tests/test_modeling.py
+SPDXID: SPDXRef-item1171867
+FileChecksum: SHA1: d4613baca825d8bdc5fd62bf7a8419c9c10baf9a
+FileChecksum: SHA256: 91f43bbfef4cc2f69a200f7c103f184bb4789e44a1531edbb0bb70e3d8913c36
+FileChecksum: MD5: 16a58e271e86c560337ba0bfa8f6c183
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/wrapped.py
+SPDXID: SPDXRef-item1171863
+FileChecksum: SHA1: 54730c507194969df6fcee45ef221dbf23791055
+FileChecksum: SHA256: a08c7c827960ad4cfe98ed5083f9232e6d8fcae42ee6cf6a9e2e292ff8a5570f
+FileChecksum: MD5: 73e504ddf84d75f42e3c767132d77877
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+(c) # extend path before we unpickle user model </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/tests/connexion_server.py
+SPDXID: SPDXRef-item1171870
+FileChecksum: SHA1: f46d55d7f5f48640a10fe65bb1085fc9c268508f
+FileChecksum: SHA256: 37148161c63c67c72ec849cfe902981b082a5989fe950121d4060cebfa98cbd6
+FileChecksum: MD5: a7887516385c558a6d0929c3f049765a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/tests/test_wrapped.py
+SPDXID: SPDXRef-item1171868
+FileChecksum: SHA1: 3ca96c4e290ed8a85f6096330b942b91b0dbe1ed
+FileChecksum: SHA256: a55a5b6fbab7ae6797f768933cce174abf6801e5aafeb25c7b47c4abdff5f12a
+FileChecksum: MD5: dee2dbf06f5dc8dc1ee7a7cc66f5639f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/_version.py
+SPDXID: SPDXRef-item1171884
+FileChecksum: SHA1: 081784c09236fe0c48fdc102290fe33463b6d374
+FileChecksum: SHA256: 41904c78df5af33751cbc3e28ed303cbf04f866c4d07848a12f722f42ff316fb
+FileChecksum: MD5: c01ee923b6fcd6b46023eedf7ced89a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/pickler.py
+SPDXID: SPDXRef-item1171885
+FileChecksum: SHA1: 586c934c94f680024356b8987a3b0bb3d2b21d50
+FileChecksum: SHA256: df12423aa6aba5ff207f084217d5bedd68d9018695a995b50291483415df83c2
+FileChecksum: MD5: 9e2d53a2035ddd05b4978218efddd5ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/tests/test_session.py
+SPDXID: SPDXRef-item1171877
+FileChecksum: SHA1: c992fec85e9e6248b706dfec16a814d3c556048b
+FileChecksum: SHA256: 4fd274ccac6a19aee6e4225a50eb5228c85894dc0174d22ad1b507b0b3fbc77b
+FileChecksum: MD5: 95f43425d5e25b61b1fcf51f7a4b744c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/session.py
+SPDXID: SPDXRef-item1171886
+FileChecksum: SHA1: e3e65726571c824e604afb1644ba993590a5185c
+FileChecksum: SHA256: cf2838e5dc12f0fe97d29d8ab3c7ced5f3e9114d8baa2d2684e483ac393e7fee
+FileChecksum: MD5: fbe1e4a30f0e640f4640b7f1a4d7aa4f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/__init__.py
+SPDXID: SPDXRef-item1171890
+FileChecksum: SHA1: e74559ca159346edf900f2c045e28b4c1cba318c
+FileChecksum: SHA256: c5dc165a118685ed06e4301b97a078c376dfda235663cf1654e6f2a47a2fd8b3
+FileChecksum: MD5: 2cda90ad3b1cdcb755fe7c89ee830d54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/auth.py
+SPDXID: SPDXRef-item1171891
+FileChecksum: SHA1: 78a93b5c3799557a6a9115f4c765d57e10f1259b
+FileChecksum: SHA256: c5e800fe42e6a0194fea5dcaa5031a388e975ff0d19edf707345ac99e8921417
+FileChecksum: MD5: 25414dd1bdb01adc12bf38240b39d782
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/protogen.py
+SPDXID: SPDXRef-item1171887
+FileChecksum: SHA1: ca2be94a0ddc70a2827a94b8e12c12032dedd3ce
+FileChecksum: SHA256: d450b01d8afee379f23f466f99b67abf0eda09e76b7b22ec02fea9650670ded4
+FileChecksum: MD5: 4f6ef69b5ade2573e46b38064d710654
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/metadata.py
+SPDXID: SPDXRef-item1171889
+FileChecksum: SHA1: f95b31dd9aa173b72e6f915c9aa6715ae659e61e
+FileChecksum: SHA256: f9961e92391f4d3029f50bf321165558dd7174386b712898fc3b1ea8815d7f2a
+FileChecksum: MD5: 028ab269f0890e019d996c819d3d4faf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/modeling.py
+SPDXID: SPDXRef-item1171892
+FileChecksum: SHA1: 85dc0e95d072b62b8eccebcf777c6e9949834ea4
+FileChecksum: SHA256: e73dcba94c8c70d75142fa6304462f48311bdf211f59347b5105f3a82611b8b9
+FileChecksum: MD5: e91c57cf314df27511e42c0729c765a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved.
+(c) and issubclass(c, t) </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/utils.py
+SPDXID: SPDXRef-item1171894
+FileChecksum: SHA1: ddf4a6869975bcfd5cb8a5bab2f8b1bb2e462d51
+FileChecksum: SHA256: 90118cb606e77e28a7eb8e7a2b1ffce29915f1f3dad56db6ad4e0d4d8602fd72
+FileChecksum: MD5: 476a3e7519c3841d6e47b91d94ee9a2a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/logging.py
+SPDXID: SPDXRef-item1171893
+FileChecksum: SHA1: 56b7d5927c408a82e20ff73740567ce3e53b7f79
+FileChecksum: SHA256: d9258bb9d92f6a182664e5df10f6cc9f0f5b9140e2b962c4ff3bde386491eb64
+FileChecksum: MD5: 48051dc0e51d0891f4e3570aa6ae1a55
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/testing/wrap/dump_example_model.py
+SPDXID: SPDXRef-item1171898
+FileChecksum: SHA1: 29ade420544eb169f6cbcc95fd057613a04b26ab
+FileChecksum: SHA256: c6cc7caaee3b8df36cb0b046d7efb01bb92e953325ba970248612896f83c2ef9
+FileChecksum: MD5: a6a53fedcddef0b09b91137fd6297697
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/testing/wrap/talker.py
+SPDXID: SPDXRef-item1171899
+FileChecksum: SHA1: c7affab05360b3171bb6fb4fd67b76ab45371214
+FileChecksum: SHA256: e252b08324d017fcca2e131de2cd15407da531829ba2b382ab8b1694669830e4
+FileChecksum: MD5: 47d36fea186787844345b8f3bcc9f779
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/testing/wrap/runner.py
+SPDXID: SPDXRef-item1171903
+FileChecksum: SHA1: a8fe8ea8f97c7b0d7bde63174c38b7a8e1430b60
+FileChecksum: SHA256: 6b1f545ab437c6d4089d7c8e642610e557cbee22f68834483380209cab7cd0a7
+FileChecksum: MD5: 5acfcff1013d70f9de32b2531c1b3603
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/testing/wrap/listener.py
+SPDXID: SPDXRef-item1171904
+FileChecksum: SHA1: 527abf86768d3ba5a98b98fafc2839b313259a55
+FileChecksum: SHA256: a21777464c8116b8797fd2a4d07c26ceb5b84978958efd68a2a051cde808abea
+FileChecksum: MD5: 889994267a05627a4320151ee335f59c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/testing/wrap/swagger.py
+SPDXID: SPDXRef-item1171900
+FileChecksum: SHA1: 3de9013e655ad5958dbf9d93dd2dc9e1938c9bd8
+FileChecksum: SHA256: f8b9237b83de64448e3d5dec2246cf25cb29ab90005a984c78415f1049b5cf2f
+FileChecksum: MD5: bd213460b099f4604ac2cf67ccbe5872
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2018 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/examples/raw_example.py
+SPDXID: SPDXRef-item1171859
+FileChecksum: SHA1: 3e6d54a0350ccde20382ce9afdb952459a7c9799
+FileChecksum: SHA256: 9e83b0cd2502d5efab89d432497193bda4a0f666a6f1ff77baaac7b2f1214359
+FileChecksum: MD5: f2a13f9648bfbb78ea843eb03e42a9fe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018-2019 Huawei Technologies Co. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/tests/mock-license.json
+SPDXID: SPDXRef-item1171865
+FileChecksum: SHA1: 600646b9e45f219599f71d09ceca072f812ef2ea
+FileChecksum: SHA256: 69a96a35b90737d7a3b9d45ca8bd3ff73b803db00f1632840d6e6619268c48ae
+FileChecksum: MD5: 424638a60813ff2f97a95a75aafa5058
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/LICENSE.txt
+SPDXID: SPDXRef-item1171845
+FileChecksum: SHA1: 828217c4742b9980933855ae5475873ec73abc2d
+FileChecksum: SHA256: e08165224089a6039a5ee7356dd162ad631f3430d5db7618c5cf5849a30f20c8
+FileChecksum: MD5: 2200af8ec096eb82621839882cfc79ee
+LicenseConcluded: Apache-2.0 OR CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property & Tech Mahindra. All rights reserved. </text>
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/docs/images/Acumos_logo_white.png
+SPDXID: SPDXRef-item1171837
+FileChecksum: SHA1: e977805e3c1eb63a214432468dc3c678bd8a165c
+FileChecksum: SHA256: bba4d5457c021a288ba4d7a5f291abe713eec96384751a87219c8697d85edf8c
+FileChecksum: MD5: 1d45095d04e415302115b287f52d8b2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/INFO.yaml
+SPDXID: SPDXRef-item1171843
+FileChecksum: SHA1: d601f44b746c07be6d7e4cc2386a03781cfa4795
+FileChecksum: SHA256: b82fa7ef197a4c4d299e1c266dd87da75bc5232f131ef29c78cb7a2428cf8a6b
+FileChecksum: MD5: bd63abb355a215bb88ef027d9309c36c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/.gitignore
+SPDXID: SPDXRef-item1171844
+FileChecksum: SHA1: ce3b4c4e0f0956f6d058550c9371bfb5b61d7b83
+FileChecksum: SHA256: 79c7329d53b0be9a13f1a0515ddd6d6ea90ed283de76fb7256b0fea057bffec3
+FileChecksum: MD5: 63b021bede7917c5b09411a142df8a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/MANIFEST.in
+SPDXID: SPDXRef-item1171848
+FileChecksum: SHA1: 9f2088490294b4750aeb73511c13bae2620796be
+FileChecksum: SHA256: 4f9329ea77dfeb81be7f1f93fa02b8dcaf71f6644dcf67c20bb88a6642251526
+FileChecksum: MD5: 28cc677828b0c8ab367d73c58b914c17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/setup.cfg
+SPDXID: SPDXRef-item1171849
+FileChecksum: SHA1: c49e3ee68044f3030956c16ae3abbdae9e0725ef
+FileChecksum: SHA256: 8c32db94a2b57791af35b027e110b43684780e5962ecfd1ce3e1dffb4f8b8a2a
+FileChecksum: MD5: ac24c232af33108ef0b249b46f85247f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/tox.ini
+SPDXID: SPDXRef-item1171851
+FileChecksum: SHA1: fc4a0a7bbe2a9a6a3d0e80ac5293e996a9aafa2b
+FileChecksum: SHA256: 0d6ddbb5d601d7ce9cfed3b2f7c2bb89b3c9accd518573ba849e19c54241fb9a
+FileChecksum: MD5: d4b6cad314d66d3f05dc723a176a6ce8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/.gitignore
+SPDXID: SPDXRef-item1171860
+FileChecksum: SHA1: 012639ac8f8eac612f4d47630ef600f2d051cfa8
+FileChecksum: SHA256: 68e752546001e196944f56707789899b077ec704603308cc177a15ade0d85219
+FileChecksum: MD5: 11030e78c66e4b3be8bb91c9bc4890be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/pom.xml
+SPDXID: SPDXRef-item1171861
+FileChecksum: SHA1: 29062bbc68fe99e8cb00802d90f226dee8cf31e8
+FileChecksum: SHA256: ddedd6be7917e8e15b9170ebfdd84a952f435d489f10a6e04002c3ed6c5e076e
+FileChecksum: MD5: fa5089566b62e1e4a8dbdeba5c1d0810
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/tests/att.png
+SPDXID: SPDXRef-item1171866
+FileChecksum: SHA1: 80d9ac9af835f37e82ef68c44582789944af94cf
+FileChecksum: SHA256: 8a9d04fb9f6a39fa48c67f5da5cd7f51fed474261b3fd07fa33ed93f4efffd7e
+FileChecksum: MD5: b9d861f21136ef23829d307d4bf8c6f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/acumos/tests/swagger.yaml
+SPDXID: SPDXRef-item1171875
+FileChecksum: SHA1: 1efb08adb54901f851d063f1fc4610fcf7a06024
+FileChecksum: SHA256: f3a233266723a6205db6e942408047648f69643e9eec1b5aabb8fab39022ae2d
+FileChecksum: MD5: 576f428985779216a630ab59cbf8ec85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/testing/tox-requirements.txt
+SPDXID: SPDXRef-item1171896
+FileChecksum: SHA1: b1b10c1c03356fb3feef576576857eb3bd076ff0
+FileChecksum: SHA256: d996221e851df5307081ddd8c068e7f3d77a6f24b59cbb831ada1149334bcbef
+FileChecksum: MD5: c4515a0453d098fa978d25a7f5fda76d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/testing/wrap/runtime.json
+SPDXID: SPDXRef-item1171901
+FileChecksum: SHA1: 26641e0bd1d5a0d3d1401da6229ac03193369a63
+FileChecksum: SHA256: e0a45055e2c8dd32443d9539ec087f9d0202afad0154a7ab6adb5890504144e4
+FileChecksum: MD5: 1ecdaac1bf873c88331074df78c71c10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/testing/wrap/README.md
+SPDXID: SPDXRef-item1171902
+FileChecksum: SHA1: 06f002c6e2470f66c619fa5b66b34f1e54d5a994
+FileChecksum: SHA256: a4b46c7031927fc38fc7923443ecbb899682c1936462635897e4251bd0be16c4
+FileChecksum: MD5: 32bf59c7ad7a9e3d7566b2ca5d63f24c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/acumos-package/testing/test-requirements.txt
+SPDXID: SPDXRef-item1171905
+FileChecksum: SHA1: 74b5bff53406f47a1deea6cf57e998437f8eb257
+FileChecksum: SHA256: 8fe36196f2c4bb5a63f390c3e2e1152a3ababcd3f41c1295b86f773c9c53c632
+FileChecksum: MD5: ab091b437e5e828d083c430d39fcd23f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/.gitattributes
+SPDXID: SPDXRef-item1171906
+FileChecksum: SHA1: 16c5ba2d09ade2b411c80c1ca24c75f830de133c
+FileChecksum: SHA256: 4d1d54411eebb080cecf4be72ab9d3f26557ebbdc811e0bfdb03e3953e41baf5
+FileChecksum: MD5: 3a36433f6c47b774fbfb3c20a17d8861
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/releases/pypi-0.9.3.yaml
+SPDXID: SPDXRef-item1171908
+FileChecksum: SHA1: 9aca155d327596d6c78d6431e9f300205ea4f96f
+FileChecksum: SHA256: a9dd062d864433763ffde45275397312b7668cd7dfa5ad7468f7b1ee413c1a6f
+FileChecksum: MD5: c012eece00ec689f672f2feb5e37f77c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/releases/pypi-0.9.8.yaml
+SPDXID: SPDXRef-item1171909
+FileChecksum: SHA1: 389a8bae4873d3eee40d233733d0acdd7822484b
+FileChecksum: SHA256: fbf27d90f15ecbfd617c7f6ce77938791afb3a2054d5ff0cef7ac462d929dbeb
+FileChecksum: MD5: b237ede84127c43ba75825818b2c0b70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/releases/pypi-0.9.2.yaml
+SPDXID: SPDXRef-item1171910
+FileChecksum: SHA1: 7e5240ba58381df8d79a0bfa32fab276ff651b04
+FileChecksum: SHA256: 3c7130c7397615d50d2fb2d71943a082249965bbde0d370b655bbb5d1f3df30e
+FileChecksum: MD5: e5167f855094837fc2002dce07a593d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/releases/pypi-0.9.4.yaml
+SPDXID: SPDXRef-item1171911
+FileChecksum: SHA1: 3a371e38c7c4c6a009a8ce0a24e44653cbf91af9
+FileChecksum: SHA256: efe874fafa3b2692275e069c4888623a9197e134eac7ad4f581925ba36aa888d
+FileChecksum: MD5: b6f40618210be7f1a56ade54c2e8c489
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/releases/pypi-0.9.1.yaml
+SPDXID: SPDXRef-item1171912
+FileChecksum: SHA1: ecdff5430e1825169201fa08177663ec8ccd8466
+FileChecksum: SHA256: 07025c389153b14571ede3219ea3cf26ca9377b44d4c50ec1f49ac8b8a5b9a06
+FileChecksum: MD5: cafa10bd8bfb8b4add1c198445c9a255
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/releases/release-0.9.0.yaml
+SPDXID: SPDXRef-item1171913
+FileChecksum: SHA1: 08889b8e2ce5851ec4306c38f19d5b364877f61a
+FileChecksum: SHA256: a2c1cf75ef23729de11cf1c38ec78f6b8edd9361f64d6d6b0e523f8e9ab26220
+FileChecksum: MD5: 2e9cadf02f0b316be345c54c8d171f15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/releases/pypi-1.0.1.yaml
+SPDXID: SPDXRef-item1171914
+FileChecksum: SHA1: 6e2c4ea5f11772a854e78277e2a7e6a319c87c90
+FileChecksum: SHA256: 6ab0f44c3a6db124c3d457ab49c8bd390f315e4cac2c9959c8c55b9c1a4d74ce
+FileChecksum: MD5: 9eb527458e3bace0eb0988742c782e4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/releases/pypi-0.9.9.yaml
+SPDXID: SPDXRef-item1171915
+FileChecksum: SHA1: 716c9e1b0019b73be5cfa72cee108364c277fbc8
+FileChecksum: SHA256: 4122bbe1e55772555855ad22002c8dffa84c44762d982d024c077c9ce1856dc7
+FileChecksum: MD5: eb2126ac509ca4710847d3c5a4c24b7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/releases/pypi-0.9.7.yaml
+SPDXID: SPDXRef-item1171916
+FileChecksum: SHA1: 8e969b97e8db0158eed8cc025747b5af62c72831
+FileChecksum: SHA256: 277dadae4cd5f4bc679271046bf4c65add1e6501dd2277af0799efee668922cb
+FileChecksum: MD5: 05e40aafa9ce6dec1a38bc862a79401e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/releases/pypi-1.0.0.yaml
+SPDXID: SPDXRef-item1171917
+FileChecksum: SHA1: 2e36256c43db02155cee7157e8112b2aa6a36fb3
+FileChecksum: SHA256: 8d5bfec3294819e91ec986e260110cbe77a65b92c807ca9077db43b858cea268
+FileChecksum: MD5: 95574633ba23e093152baa8ff7bde5f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/.gitmodules
+SPDXID: SPDXRef-item1171918
+FileChecksum: SHA1: 9dc16b5dceb64271332f33b8f6b99218dc6116de
+FileChecksum: SHA256: f8b00ab2e0b240db7b56d21df9fe5aff1f6f875ea8eb6c153e1895dcd6e3612f
+FileChecksum: MD5: 605f231243bea2b0218293b587c1584a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: acumos-python-client-2022-02-01.zip/acumos-python-client/.gitreview
+SPDXID: SPDXRef-item1171919
+FileChecksum: SHA1: 6fb1e018397210eac16c6483c839e7c3c961d682
+FileChecksum: SHA256: 81d0f516d5ebca0fda5cfcfae0fa76bd4eef003b5c768fe71aa9c0fa6a58ed4d
+FileChecksum: MD5: 8cfddeda2d98394303e10fd9afe58b77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
